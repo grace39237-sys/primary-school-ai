@@ -1,7 +1,8 @@
 // ai.js — SmolLM2-135M-Instruct, text generation for the Ask teacher and
 // for rephrasing explanations in Practice mode ("Say it simpler").
-// The model is small (q4f16, ~112MB) and runs in the browser with ORT Web
-// WASM. Generation is greedy, max 80 new tokens — the same settings the
+// The model is small (int8, ~129MB) and runs in the browser with ORT Web
+// WASM. (q4f16 was tried first but fails on the WASM backend: its float16
+// outputs mismatch the float32 the runtime expects. int8 is the fix.)
 // Node side-by-side test used (see primary-school-ai-model-test.md).
 //
 // IMPORTANT: the model only ever rephrases text we already retrieved.
@@ -16,7 +17,7 @@ let gen = null;
 
 export async function loadGenerator(onProgress) {
   if (gen) return gen;
-  gen = await pipeline('text-generation', GEN_MODEL, { dtype: 'q4f16', progress_callback: onProgress });
+  gen = await pipeline('text-generation', GEN_MODEL, { dtype: 'q8', progress_callback: onProgress });
   return gen;
 }
 

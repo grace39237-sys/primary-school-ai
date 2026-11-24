@@ -15,14 +15,14 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v1';
+const APP_VERSION = 'v1.1';
 // Refusal threshold on the best retrieval cosine score. If the best chunk
 // scores below this, the question is outside the books: refuse WITHOUT
 // calling the model (the model test showed small models invent answers
 // when they are asked to refuse themselves). Calibrated in Node against
 // the built index — see work/calibrate_threshold.mjs.
 const REFUSAL_THRESHOLD = 0.67;
-const TOTAL_SIZE_BYTES = 140 * 1048576; // MiniLM ~22MB + SmolLM2-135M q4f16 ~112MB
+const TOTAL_SIZE_BYTES = 155 * 1048576; // MiniLM ~22MB + SmolLM2-135M int8 ~129MB
 
 const $ = (id) => document.getElementById(id);
 const els = {
