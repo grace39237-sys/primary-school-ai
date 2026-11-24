@@ -25,14 +25,43 @@ const QUIET_ENERGY = 0.0002; // frames louder than this may hold speech: exclude
 const NOISE_FRAMES_NEEDED = 10; // 10 quiet frames (1s) set the baseline
 const NOISE_WAIT_MAX_FRAMES = 30; // 3s max waiting for quiet frames
 
+// EQ strength (v2.3, ported from the translator app v14, directions fixed
+// in v16): two knobs move in OPPOSITE directions with the noise level.
+// - Low-cut (highpass): stronger when noisier — cuts the low rumble
+//   (fan, car, wind) more. Low noise 80Hz / Medium 120Hz / High 200Hz.
+// - Speech-band boost (2.5kHz presence): stronger when quieter — makes a
+//   small voice clearer. Boosting it in noise amplifies the noise too.
+//   Low noise +6dB / Medium +3dB / High +0dB.
+// The input is the threshold multiplier (3 = most sensitive, 10 = least),
+// so the same value drives both the VAD threshold and the EQ.
+export function eqProfileForSensitivity(sensitivity) {
+  if (sensitivity <= 3) return { hp: 80, peakGain: 6 };
+  if (sensitivity >= 10) return { hp: 200, peakGain: 0 };
+  return { hp: 120, peakGain: 3 };
+}
+
+// Noise-level relabel (v2.3, from the translator app v15): the selector is
+// now by NOISE level, not sensitivity. v2.1 stored sensitivity labels
+// ('high' = most sensitive, x3). A stored 'high' must keep behaving as the
+// most sensitive setting — which is now shown as 'low' noise. 'mid' is
+// unchanged; old 'low' (least sensitive, x10) becomes 'high' noise.
+// Unknown/missing values fall back to 'mid' (x6), the old default.
+export function legacySensitivityToNoiseLevel(raw) {
+  if (raw === 'high') return 'low';
+  if (raw === 'low') return 'high';
+  return 'mid';
+}
+
 export class VoiceCapture {
   constructor({ onUtterance, onLevel, onSpeechStart, onSpeechEnd, sensitivity }) {
     this.onUtterance = onUtterance;
     this.onLevel = onLevel || (() => {});
     this.onSpeechStart = onSpeechStart || (() => {});
     this.onSpeechEnd = onSpeechEnd || (() => {});
-    // Sensitivity: threshold = noise baseline x sensitivity. Smaller hears
-    // quieter speech. High 3 / Medium 6 / Low 10. Default Medium.
+    // Sensitivity (threshold multiplier): threshold = noise baseline x
+    // sensitivity. Smaller hears quieter speech. The multiplier comes
+    // from the NOISE level now (v2.3): Low noise 3 / Medium 6 / High 10.
+    // Default Medium.
     this.sensitivity = sensitivity || 6;
     this.running = false;
   }
@@ -65,20 +94,47 @@ export class VoiceCapture {
     this.ctx = new AudioContext();
     await this.ctx.audioWorklet.addModule('./vad-processor.js');
     const src = this.ctx.createMediaStreamSource(stream);
+    // EQ (v2.3, translator v14): boost the voice before it reaches the
+    // recogniser — cut the low rumble and lift the speech band (2.5kHz).
+    // Strength follows the noise level (see eqProfileForSensitivity).
+    const eq = eqProfileForSensitivity(this.sensitivity);
+    this.hpFilter = this.ctx.createBiquadFilter();
+    this.hpFilter.type = 'highpass';
+    this.hpFilter.frequency.value = eq.hp;
+    this.peakFilter = this.ctx.createBiquadFilter();
+    this.peakFilter.type = 'peaking';
+    this.peakFilter.frequency.value = 2500;
+    this.peakFilter.Q.value = 1;
+    this.peakFilter.gain.value = eq.peakGain;
     this.node = new AudioWorkletNode(this.ctx, 'vad-processor');
-    src.connect(this.node);
+    src.connect(this.hpFilter);
+    this.hpFilter.connect(this.peakFilter);
+    this.peakFilter.connect(this.node);
     this.node.port.onmessage = (e) => this._onChunk(e.data.data);
     this.sampleRate = this.ctx.sampleRate;
     this.resampleStep = this.sampleRate / 16000;
     this._resetState();
   }
 
+  // Change the noise level while listening: the threshold multiplier and
+  // the EQ strength change together, at once.
+  setSensitivity(mult) {
+    this.sensitivity = mult;
+    const eq = eqProfileForSensitivity(mult);
+    if (this.hpFilter) this.hpFilter.frequency.value = eq.hp;
+    if (this.peakFilter) this.peakFilter.gain.value = eq.peakGain;
+  }
+
   stop() {
     this.running = false;
     try { this.node?.disconnect(); } catch (_) {}
+    try { this.hpFilter?.disconnect(); } catch (_) {}
+    try { this.peakFilter?.disconnect(); } catch (_) {}
     try { this.stream?.getTracks().forEach((t) => t.stop()); } catch (_) {}
     if (this.ctx) this.ctx.close().catch(() => {});
     this.node = null;
+    this.hpFilter = null;
+    this.peakFilter = null;
     this.ctx = null;
   }
 

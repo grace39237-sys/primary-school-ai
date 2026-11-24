@@ -1,7 +1,7 @@
 // sw.js — caches the app shell so the app opens offline.
 // Models are downloaded from Hugging Face and stored by transformers.js
 // in its own 'transformers-cache' — the service worker never touches it.
-const CACHE = 'primary-school-ai-v2.2.1';
+const CACHE = 'primary-school-ai-v2.3';
 const SHELL = [
   './',
   './index.html',

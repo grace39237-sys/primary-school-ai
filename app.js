@@ -7,7 +7,7 @@ import { loadWords, lookupWord } from './words.js';
 import { classifyBand, distinctChoices } from './choices.js';
 import { makeBoard } from './board.js';
 import { speak, ttsSupported } from './tts.js';
-import { VoiceCapture } from './vad.js';
+import { VoiceCapture, legacySensitivityToNoiseLevel } from './vad.js';
 import { normAnswer, checkAnswer, stepsOf, nextLevel, simplerBoardSteps } from './practice.js';
 
 // Same ONNX setup as the translator app: absolute wasmPaths (a relative
@@ -21,7 +21,7 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v2.2.1';
+const APP_VERSION = 'v2.3';
 // Two bands on the best retrieval cosine score (v2.2 — Won, 2026-11-24).
 // >= 0.67: clear — answer directly. 0.40–0.67: unclear — show 3 choices
 // from the retrieved chunks and let the student pick one. Below 0.40:
@@ -347,13 +347,28 @@ els.askInput.addEventListener('keydown', (e) => {
 // place names like "Soroti" fail on both tiny and base models. Practice
 // stays tap/type (no ASR for answers).
 //
-// Listening sensitivity: how easily the mic hears speech. High hears
-// quiet speech (threshold = noise x3), Medium is normal (x6), Low
-// ignores noise in loud places (x10). Default Medium, saved on the phone.
-const SENSITIVITY = { high: 3, mid: 6, low: 10 };
+// Noise level (v2.3, from the translator app v15): the selector is by how
+// NOISY the place is, not by sensitivity. Low noise = most sensitive
+// (threshold = baseline x3, low-cut 80Hz, speech band +6dB); Medium = x6
+// (120Hz, +3dB); High noise = least sensitive (x10, 200Hz, +0dB) — in a
+// noisy place the speech-band boost stays off, or the noise gets boosted
+// too. Default Medium, saved on the phone.
+// Migration: v2.1 stored sensitivity labels, where 'high' meant most
+// sensitive. legacySensitivityToNoiseLevel flips them so the BEHAVIOUR is
+// unchanged (old 'high' -> new 'low' noise, old 'low' -> new 'high'
+// noise). Once migrated, 'psa-sensitivity-noise' = '1' marks the stored
+// value as a noise level, so it is read as-is.
+const SENSITIVITY = { low: 3, mid: 6, high: 10 };
 let sensitivity = 'mid';
-try { sensitivity = localStorage.getItem('psa-sensitivity') || 'mid'; } catch (_) {}
-if (!SENSITIVITY[sensitivity]) sensitivity = 'mid';
+try {
+  const raw = localStorage.getItem('psa-sensitivity');
+  const migrated = localStorage.getItem('psa-sensitivity-noise') === '1';
+  sensitivity = migrated
+    ? (SENSITIVITY[raw] ? raw : 'mid')
+    : legacySensitivityToNoiseLevel(raw);
+  localStorage.setItem('psa-sensitivity', sensitivity);
+  localStorage.setItem('psa-sensitivity-noise', '1');
+} catch (_) {}
 function updateSensitivityUI() {
   els.sensHighBtn.setAttribute('aria-pressed', String(sensitivity === 'high'));
   els.sensMidBtn.setAttribute('aria-pressed', String(sensitivity === 'mid'));
@@ -362,10 +377,15 @@ function updateSensitivityUI() {
 function setSensitivity(next) {
   if (!SENSITIVITY[next]) return;
   sensitivity = next;
-  try { localStorage.setItem('psa-sensitivity', next); } catch (_) {}
+  try {
+    localStorage.setItem('psa-sensitivity', next);
+    localStorage.setItem('psa-sensitivity-noise', '1');
+  } catch (_) {}
   updateSensitivityUI();
-  // Applies at once, even while listening.
-  if (capture) capture.sensitivity = SENSITIVITY[next];
+  // Applies at once, even while listening: threshold AND EQ strength
+  // change together (v2.3 — the old code only set capture.sensitivity,
+  // which would have left the EQ on the previous setting).
+  if (capture) capture.setSensitivity(SENSITIVITY[next]);
 }
 els.sensHighBtn.addEventListener('click', () => setSensitivity('high'));
 els.sensMidBtn.addEventListener('click', () => setSensitivity('mid'));
