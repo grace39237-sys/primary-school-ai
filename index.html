@@ -69,6 +69,14 @@
       </div>
       <p class="hint">If it does not hear you, tap High. If noise keeps starting it, tap Low.</p>
     </div>
+    <!-- Unclear question: 3 choices from the books — the student picks one. -->
+    <section id="choiceWrap" class="card" hidden>
+      <p class="choice-title">I am not sure what you mean. Which one did you mean?</p>
+      <div id="choiceList" class="opt-list"></div>
+      <div class="card-actions">
+        <button id="choiceNoneBtn" class="btn" type="button">None of these — ask again</button>
+      </div>
+    </section>
     <section id="answerWrap" class="card answer" hidden>
       <p id="answerText" class="answer-text"></p>
       <div id="sourceWrap" class="source-wrap">
@@ -139,10 +147,6 @@
       <section id="quizResult" class="card result-card" hidden>
         <p id="quizVerdict" class="verdict"></p>
         <p id="quizCorrect" class="quiz-correct"></p>
-        <div id="quizStepsWrap">
-          <p class="steps-title">How to get it:</p>
-          <ol id="quizSteps" class="steps-list"></ol>
-        </div>
         <!-- Chalkboard: the steps, one at a time. Listen reads them aloud. -->
         <section id="practiceBoardWrap" class="board" hidden>
           <div class="board-head">
@@ -156,7 +160,6 @@
           <button id="simplerBtn" class="btn" type="button">Say it simpler</button>
           <button id="nextBtn" class="btn primary" type="button">Next question</button>
         </div>
-        <p id="simplerText" class="simpler-text" hidden></p>
       </section>
     </section>
   </section>

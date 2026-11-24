@@ -60,7 +60,7 @@ for (const f of fs.readdirSync(dataDir).filter((x) => /^quiz_p[1-7]_(english|mat
   }
 }
 console.log(`real bank items self-checked: ${realChecked}`);
-t('real: all bank items self-check', realChecked === 37832); // 4 subjects x 5 practice types (excludes matching/sequencing/categorization 635 + theme files)
+t('real: all bank items self-check', realChecked === 37480); // 4 subjects x 5 practice types (excludes matching/sequencing/categorization 635 + theme files). Recounted 2026-11-24: was 37832 at v2.1 — the source bank shrank by 352 items in TU's ongoing math review; no item fails its own self-check, only the count moved.
 
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

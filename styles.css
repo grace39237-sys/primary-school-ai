@@ -120,10 +120,7 @@ select {
 .verdict.good { color: #2E7D32; }
 .verdict.bad { color: #D93025; }
 .quiz-correct { font-size: 16px; margin: 0 0 10px; }
-.steps-title { font-size: 14px; font-weight: 700; color: #5F6368; margin: 10px 0 4px; }
-.steps-list { margin: 0; padding-left: 22px; font-size: 16px; line-height: 1.55; }
-.steps-list li { margin-bottom: 6px; }
-.simpler-text { font-size: 16px; background: #E8F5E9; border-radius: 10px; padding: 10px 12px; margin: 10px 0 0; line-height: 1.5; }
+.choice-title { font-size: 16px; font-weight: 700; margin: 0 0 10px; }
 
 /* Voice input: mic button + listening row (Ask only) */
 #micBtn.listening { border-color: #D93025; background: #FCE8E6; color: #D93025; }

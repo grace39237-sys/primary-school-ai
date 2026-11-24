@@ -4,6 +4,7 @@ import { loadEmbedder, loadIndex, embedQuery, search } from './rag.js';
 import { loadGenerator, askTeacher, saySimpler } from './ai.js';
 import { loadASR, transcribe, hasLatin, ASR_MODEL_EN } from './asr.js';
 import { loadWords, lookupWord } from './words.js';
+import { classifyBand, distinctChoices } from './choices.js';
 import { makeBoard } from './board.js';
 import { speak, ttsSupported } from './tts.js';
 import { VoiceCapture } from './vad.js';
@@ -20,13 +21,16 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v2.1';
-// Refusal threshold on the best retrieval cosine score. If the best chunk
-// scores below this, the question is outside the books: refuse WITHOUT
-// calling the model (the model test showed small models invent answers
-// when they are asked to refuse themselves). Calibrated in Node against
-// the built index — see work/calibrate_threshold.mjs.
-const REFUSAL_THRESHOLD = 0.67;
+const APP_VERSION = 'v2.2';
+// Two bands on the best retrieval cosine score (v2.2 — Won, 2026-11-24).
+// >= 0.67: clear — answer directly. 0.40–0.67: unclear — show 3 choices
+// from the retrieved chunks and let the student pick one. Below 0.40:
+// outside the books — refuse WITHOUT calling the model (the model test
+// showed small models invent answers when they are asked to refuse
+// themselves). The 3-choice step is the safeguard for the lowered
+// threshold: an off-topic question that lands above 0.40 still has to
+// survive the child's own pick. Calibrated in Node against the built
+// index — see work/calibrate_threshold.mjs and work/band_check_v2_2.mjs.
 // Teacher download size (button/info text, "about 215MB"). Verified sizes
 // (Hugging Face API, 2026-11-24): MiniLM int8 21.9MB + SmolLM2-135M int8
 // 129.4MB + Moonshine base-en int8 ~64MB (encoder 19.6 + decoder 40.5 +
@@ -47,14 +51,15 @@ const els = {
   answerWrap: $('answerWrap'), answerText: $('answerText'),
   sourceWrap: $('sourceWrap'), sourceList: $('sourceList'),
   speakBtn: $('speakBtn'), copyBtn: $('copyBtn'), askHint: $('askHint'),
+  choiceWrap: $('choiceWrap'), choiceList: $('choiceList'), choiceNoneBtn: $('choiceNoneBtn'),
   practiceWrap: $('practiceWrap'), gradeSel: $('gradeSel'), subjectSel: $('subjectSel'),
   startBtn: $('startBtn'), practiceBackBtn: $('practiceBackBtn'),
   quizWrap: $('quizWrap'), quizMeta: $('quizMeta'), quizStars: $('quizStars'),
   quizPassage: $('quizPassage'), quizQuestion: $('quizQuestion'),
   quizAnswerArea: $('quizAnswerArea'), checkBtn: $('checkBtn'),
   quizResult: $('quizResult'), quizVerdict: $('quizVerdict'), quizCorrect: $('quizCorrect'),
-  quizSteps: $('quizSteps'), simplerBtn: $('simplerBtn'), nextBtn: $('nextBtn'),
-  simplerText: $('simplerText'), practiceBoardWrap: $('practiceBoardWrap'),
+  simplerBtn: $('simplerBtn'), nextBtn: $('nextBtn'),
+  practiceBoardWrap: $('practiceBoardWrap'),
   modelLine: $('modelLine'),
 };
 
@@ -177,7 +182,7 @@ function showMode(mode) {
   els.homeWrap.hidden = mode !== 'home';
   els.askWrap.hidden = mode !== 'ask';
   els.practiceWrap.hidden = mode !== 'practice';
-  if (mode !== 'ask') { stopMic(); askBoard.stop(); }
+  if (mode !== 'ask') { stopMic(); askBoard.stop(); hideChoices(); }
   if (mode !== 'practice') practiceBoard.stop();
   if (mode === 'home') window.scrollTo({ top: 0 });
 }
@@ -208,10 +213,77 @@ function showAnswer(text, sources) {
   els.answerWrap.hidden = false;
 }
 
+// ---- "Which one did you mean?" — 3 choices for an unclear question ----
+let pendingChoices = null; // { question, choices } while the choices are shown
+
+function hideChoices() {
+  pendingChoices = null;
+  if (els.choiceWrap) els.choiceWrap.hidden = true;
+  if (els.choiceList) els.choiceList.innerHTML = '';
+}
+
+// Answer from retrieved chunks: the model rephrases the context into 1–2
+// short simple sentences; the source sentence(s) are always shown next
+// to the answer, and the board shows the answer's sentences plus the
+// book's sentences it came from. Nothing invented.
+async function answerWithContext(q, context, displaySources) {
+  const answer = await askTeacher(context, q);
+  const shown = answer || displaySources[0].chunk.source;
+  showAnswer(shown, displaySources);
+  const steps = shown.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
+  for (const s of displaySources) steps.push(`From the book: ${s.chunk.source}`);
+  askBoard.show(steps);
+}
+
+function refuseAnswer() {
+  showAnswer("I don't know that yet — ask your teacher.", null);
+  askBoard.show(["I don't know that yet — ask your teacher."]);
+}
+
+function showChoices(q, hits) {
+  const choices = distinctChoices(hits, 3);
+  if (!choices.length) { refuseAnswer(); return; }
+  pendingChoices = { question: q, choices };
+  els.choiceList.innerHTML = '';
+  for (const c of choices) {
+    const b = document.createElement('button');
+    b.type = 'button'; b.className = 'opt-btn'; b.textContent = c.label;
+    b.addEventListener('click', () => chooseOne(c));
+    els.choiceList.appendChild(b);
+  }
+  els.choiceWrap.hidden = false;
+}
+
+async function chooseOne(c) {
+  if (!pendingChoices) return;
+  const q = pendingChoices.question;
+  hideChoices();
+  setStatus('busy', 'Thinking…');
+  try {
+    await ensureModels();
+    // Answer from the chunk the child picked — its own full text (the
+    // curriculum question + answer), so a thin source line cannot starve
+    // the model. Only that chunk is shown as the source.
+    await answerWithContext(q, c.chunk.text || c.chunk.source, [c]);
+    setStatus('ready', 'Teacher is ready');
+  } catch (e) {
+    console.error(e);
+    showAnswer(`Something went wrong: ${e.message}`, null);
+    setStatus('ready', 'Teacher is ready');
+  }
+}
+els.choiceNoneBtn.addEventListener('click', () => {
+  // None of these: clear the choices and leave the input for a
+  // rephrased question. The input stays visible and editable.
+  hideChoices();
+  els.askInput.focus();
+});
+
 async function doAsk() {
   const q = els.askInput.value.trim();
   if (!q) return;
   stopMic();
+  hideChoices();
   askBoard.clear();
   els.answerWrap.hidden = true;
   // Word lookup first: a single word (or two-word phrase) is answered
@@ -241,23 +313,23 @@ async function doAsk() {
     const qvec = await embedQuery(q);
     const hits = search(qvec, 5);
     const best = hits[0];
-    if (!best || best.score < REFUSAL_THRESHOLD) {
+    const band = classifyBand(best ? best.score : NaN);
+    if (band === 'refuse') {
       // Outside the books: refuse WITHOUT calling the model.
-      showAnswer("I don't know that yet — ask your teacher.", null);
-      askBoard.show(["I don't know that yet — ask your teacher."]);
+      refuseAnswer();
+      setStatus('ready', 'Teacher is ready');
+      return;
+    }
+    if (band === 'choices') {
+      // Unclear question: show 3 choices from the retrieved chunks and
+      // let the student pick one — do not answer directly, do not refuse.
+      showChoices(q, hits);
       setStatus('ready', 'Teacher is ready');
       return;
     }
     const top = hits.slice(0, 3);
     const context = top.map((h) => h.chunk.source).join(' ');
-    const answer = await askTeacher(context, q);
-    const shown = answer || top[0].chunk.source;
-    showAnswer(shown, top);
-    // Chalkboard steps: the answer's own sentences, then the book's
-    // sentences it came from. Nothing invented.
-    const steps = shown.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
-    for (const s of top) steps.push(`From the book: ${s.chunk.source}`);
-    askBoard.show(steps);
+    await answerWithContext(q, context, top);
     setStatus('ready', 'Teacher is ready');
   } catch (e) {
     console.error(e);
@@ -461,8 +533,6 @@ function renderQuestion(item) {
   if (item.passage) els.quizPassage.textContent = item.passage;
   els.quizQuestion.textContent = item.question;
   els.quizResult.hidden = true;
-  els.simplerText.hidden = true;
-  els.simplerText.textContent = '';
   const area = els.quizAnswerArea;
   area.innerHTML = '';
   els.checkBtn.disabled = false;
@@ -548,14 +618,9 @@ function doCheck() {
   els.quizVerdict.className = `verdict ${ok ? 'good' : 'bad'}`;
   els.quizCorrect.textContent = ok ? '' : `The answer is: ${item.answer}`;
   const steps = stepsOf(item);
-  els.quizSteps.innerHTML = '';
-  for (const s of steps) {
-    const li = document.createElement('li');
-    li.textContent = s;
-    els.quizSteps.appendChild(li);
-  }
   els.quizResult.hidden = false;
-  // Chalkboard: the same verified steps, one at a time.
+  // Chalkboard ONLY: the same verified steps, one at a time. (v2.2 — the
+  // static "How to get it" list showed the same steps twice.)
   practiceBoard.show(steps);
 
   // Adaptive: right → streak up, two in a row moves one level up;
@@ -601,14 +666,15 @@ els.nextBtn.addEventListener('click', nextQuestion);
 els.simplerBtn.addEventListener('click', async () => {
   if (!current) return;
   els.simplerBtn.disabled = true;
-  els.simplerText.hidden = false;
-  els.simplerText.textContent = 'Thinking…';
   try {
     await ensureModels();
     const text = await saySimpler(current.item.explanation || `The answer is ${current.item.answer}.`);
-    els.simplerText.textContent = text;
+    // The simpler wording goes on the board (the static steps list is
+    // gone in v2.2) — split into sentences, one step each.
+    const steps = text.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
+    if (steps.length) practiceBoard.show(steps);
   } catch (e) {
-    els.simplerText.textContent = 'First get the teacher using the button at the top, then try again.';
+    alert('First get the teacher using the button at the top, then try again.');
   }
   els.simplerBtn.disabled = false;
 });
