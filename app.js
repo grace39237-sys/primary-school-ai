@@ -8,7 +8,7 @@ import { classifyBand, distinctChoices } from './choices.js';
 import { makeBoard } from './board.js';
 import { speak, ttsSupported } from './tts.js';
 import { VoiceCapture } from './vad.js';
-import { normAnswer, checkAnswer, stepsOf, nextLevel } from './practice.js';
+import { normAnswer, checkAnswer, stepsOf, nextLevel, simplerBoardSteps } from './practice.js';
 
 // Same ONNX setup as the translator app: absolute wasmPaths (a relative
 // path doubles to vendor/ort/vendor/ort/ and 404s), 1 thread — GitHub
@@ -668,11 +668,16 @@ els.simplerBtn.addEventListener('click', async () => {
   els.simplerBtn.disabled = true;
   try {
     await ensureModels();
-    const text = await saySimpler(current.item.explanation || `The answer is ${current.item.answer}.`);
-    // The simpler wording goes on the board (the static steps list is
-    // gone in v2.2) — split into sentences, one step each.
-    const steps = text.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
-    if (steps.length) practiceBoard.show(steps);
+    // The full steps (hint + explanation), not the explanation alone:
+    // a fragment like "smart - smarter - smartest." gives the model
+    // nothing to rephrase — it answered that with a greeting (Bug 1).
+    const steps = stepsOf(current.item);
+    const text = await saySimpler(steps.join(' '));
+    // The model still greets, echoes or invents (see practice.js), so
+    // only a rewording that keeps the steps' own content words goes on
+    // the board; anything else falls back to the original steps.
+    const simple = simplerBoardSteps(text, steps);
+    practiceBoard.show(simple.length ? simple : steps);
   } catch (e) {
     alert('First get the teacher using the button at the top, then try again.');
   }

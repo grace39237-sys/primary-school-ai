@@ -15,7 +15,7 @@
 //
 // The live-browser check (parent) is the real proof for the browser path;
 // mic recording and TTS sound cannot be verified in a cloud browser at all.
-import { classifyBand, choiceLabel, distinctChoices, DIRECT_THRESHOLD, REFUSAL_THRESHOLD } from '../choices.js';
+import { classifyBand, choiceLabel, distinctChoices, dedupKey, DIRECT_THRESHOLD, REFUSAL_THRESHOLD } from '../choices.js';
 import fs from 'node:fs';
 
 let pass = 0, fail = 0;
@@ -72,6 +72,29 @@ const blankA = { kind: 'quiz', id: 'B1', text: 'Q: Study the diagram. Name the s
 const blankB = { kind: 'quiz', id: 'B2', text: 'Q: Study the diagram. Name the state labeled Q: ___. A: gas.', source: 'gas.' };
 t('choices: labels differing only in blanks dedupe to one',
   distinctChoices([{ chunk: blankA, score: 0.5 }, { chunk: blankB, score: 0.49 }, { chunk: wordChunk, score: 0.48 }], 3).length === 2);
+// v2.2 fix (Bug 2): "What falls from the cloud?" and "What falls from
+// clouds?" are the same choice for a child — singular vs plural must
+// collapse so the next distinct chunk fills the slot.
+const cloudA = { kind: 'quiz', id: 'C1', text: 'Q: What falls from the cloud? A: Rain.', source: 'Rain falls from clouds.', unit: 'Weather' };
+const cloudB = { kind: 'quiz', id: 'C2', text: 'Q: What falls from clouds? A: Rain.', source: 'Rain falls from clouds.', unit: 'Weather' };
+t('dedup: cloud vs clouds share one key',
+  dedupKey('What falls from the cloud?') === dedupKey('What falls from clouds?'));
+t('dedup: key is lowercase, punctuation-free, whitespace-collapsed, articles dropped',
+  dedupKey('  What   Falls, From the Cloud? ') === 'whatfallsfromcloud');
+t('dedup: singularize guards keep glass / gas / this intact',
+  dedupKey('glass') === 'glass' && dedupKey('gas') === 'gas' && dedupKey('this') === 'this');
+t('choices: cloud/clouds pair counts once, next distinct fills the slot',
+  (() => {
+    const got = distinctChoices([
+      { chunk: cloudA, score: 0.6 }, { chunk: cloudB, score: 0.59 },
+      { chunk: quizChunk, score: 0.58 }, { chunk: wordChunk, score: 0.55 },
+    ], 3);
+    return got.length === 3 && got[0].label === 'What falls from the cloud?'
+      && got[1].label === "What does 'cloud' mean?" && got[2].label === 'Cloud';
+  })(), JSON.stringify(distinctChoices([
+    { chunk: cloudA, score: 0.6 }, { chunk: cloudB, score: 0.59 },
+    { chunk: quizChunk, score: 0.58 }, { chunk: wordChunk, score: 0.55 },
+  ], 3).map((c) => c.label)));
 
 // ---- (4) static checks ----
 const appSrc = fs.readFileSync('../app.js', 'utf8');
@@ -92,6 +115,12 @@ t('static: choices section present with grounded prompt',
 t('static: practice steps live only on the board',
   appSrc.includes('practiceBoard.show(steps)') && !appSrc.includes("els.quizSteps"));
 t('static: Say it simpler writes to the board', appSrc.includes('practiceBoard.show(steps)') && appSrc.includes('saySimpler'));
+t('static: Say it simpler sends the full steps, guarded, with fallback',
+  appSrc.includes('stepsOf(current.item)') && appSrc.includes('simplerBoardSteps(text, steps)')
+  && appSrc.includes('simple.length ? simple : steps'));
+t('static: simpler prompt forbids greeting, asks for a rewrite',
+  fs.readFileSync('../ai.js', 'utf8').includes('Do not greet the child')
+  && fs.readFileSync('../ai.js', 'utf8').includes('Text to rewrite:'));
 const ids = [...appSrc.matchAll(/\$\('([A-Za-z0-9_]+)'\)/g)].map((m) => m[1]);
 const missing = [...new Set(ids)].filter((id) => !html.includes(`id="${id}"`));
 t('static: all app.js element IDs exist in index.html', missing.length === 0, `missing: ${missing.join(', ')}`);

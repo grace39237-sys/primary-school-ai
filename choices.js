@@ -8,6 +8,7 @@
 // calling the model. The 3-choice step is the safeguard for the lowered
 // threshold: an off-topic question that lands above 0.40 still has to
 // survive the child's own pick.
+import { singularize } from './textutil.js';
 
 export const DIRECT_THRESHOLD = 0.67;
 export const REFUSAL_THRESHOLD = 0.40;
@@ -50,6 +51,21 @@ export function choiceLabel(chunk) {
   return cap(src) || 'From the book';
 }
 
+// Dedup key for a choice label: lowercase, punctuation -> space,
+// whitespace collapsed, articles dropped, trailing "s" singularized
+// on the last word, spaces stripped. Two labels that mean the same
+// thing for a child ("What falls from the cloud?" vs "What falls from
+// clouds?") collapse to one choice so the next distinct chunk fills
+// the slot. The v2.2 key only stripped punctuation, so the cloud/clouds
+// pair slipped through as two of the three choices.
+export function dedupKey(label) {
+  const words = String(label || '').trim().toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim()
+    .split(' ').filter((w) => w && w !== 'the' && w !== 'a' && w !== 'an');
+  if (words.length) words[words.length - 1] = singularize(words[words.length - 1]);
+  return words.join('');
+}
+
 // Pick up to n distinct choices from retrieval hits (score order). Two
 // chunks with the same label (same question/topic) count as one choice;
 // the next distinct hit fills the slot. Returns [{ chunk, label, score }].
@@ -60,9 +76,7 @@ export function distinctChoices(hits, n = 3) {
     if (out.length >= n) break;
     if (!h || !h.chunk) continue;
     const label = choiceLabel(h.chunk);
-    // The dedup key ignores punctuation and blanks: two choices that
-    // differ only in "____." vs "___." are the same choice for a child.
-    const key = normLabel(label).replace(/[^a-z0-9]/g, '');
+    const key = dedupKey(label);
     if (!key || seen.has(key)) continue;
     // Same chunk twice (same id) is the same choice too.
     if (seen.has(`id:${h.chunk.id}`)) continue;

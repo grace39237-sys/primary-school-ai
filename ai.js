@@ -27,7 +27,13 @@ export async function loadGenerator(onProgress) {
 // from text we know is relevant.
 export const SYSTEM_ASK = 'You are a friendly teacher for primary school children in Uganda. Answer in 1 or 2 short, simple English sentences. Use ONLY the information in the lesson text. Do not guess or add facts.';
 
-export const SYSTEM_SIMPLE = 'You are a friendly teacher for primary school children in Uganda. Say the information below again in 1 or 2 short, simple English sentences a young child can understand. Use ONLY the information given. Do not add facts.';
+// System prompt for "Say it simpler" — the rewording must start with
+// the rewritten text and never greet (the old wording let the model
+// answer a fragmentary explanation with "I'm ready to help you with
+// your questions."). Even this wording is not reliable on its own:
+// practice.js simplerBoardSteps checks the output against the steps
+// and falls back to the original steps when the model fails.
+export const SYSTEM_SIMPLE = 'You are a friendly teacher for primary school children in Uganda. Rewrite the text below in 1 or 2 short, simple English sentences a young child can understand. Start with the rewritten text. Do not greet the child. Do not ask a question. Use ONLY the information given. Do not add facts.';
 
 export function extractAnswer(out) {
   if (Array.isArray(out) && out.length && out[0] && Array.isArray(out[0].generated_text)) {
@@ -54,7 +60,7 @@ export async function saySimpler(information) {
   const g = await loadGenerator();
   const out = await g([
     { role: 'system', content: SYSTEM_SIMPLE },
-    { role: 'user', content: `Information: ${information}` },
+    { role: 'user', content: `Text to rewrite: ${information}` },
   ], { max_new_tokens: 80, do_sample: false });
   return extractAnswer(out);
 }

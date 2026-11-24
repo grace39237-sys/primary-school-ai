@@ -27,3 +27,15 @@ export function collapseRepeats(text) {
   }
   return out;
 }
+
+// singularize — strip a trailing "s" from one word, for comparison only
+// ("clouds" -> "cloud"). Used for dedup keys (choices.js) and content
+// matching ("Say it simpler" guard, practice.js). Never for display
+// text. Guards keep "glass", "gas" and "this" intact.
+export function singularize(w) {
+  const s = String(w || '').toLowerCase();
+  if (s.length < 4 || !s.endsWith('s')) return s;
+  if (s.endsWith('ss') || s.endsWith('us') || s.endsWith('is')) return s;
+  if (/(sses|xes|zes|ches|shes)$/.test(s)) return s.slice(0, -2);
+  return s.slice(0, -1);
+}
