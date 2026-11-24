@@ -3,6 +3,7 @@ import * as ort from 'onnxruntime-web';
 import { loadEmbedder, loadIndex, embedQuery, search } from './rag.js';
 import { loadGenerator, askTeacher, saySimpler } from './ai.js';
 import { loadASR, transcribe, hasLatin, ASR_MODEL_EN } from './asr.js';
+import { loadWords, lookupWord } from './words.js';
 import { makeBoard } from './board.js';
 import { speak, ttsSupported } from './tts.js';
 import { VoiceCapture } from './vad.js';
@@ -19,7 +20,7 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v2';
+const APP_VERSION = 'v2.1';
 // Refusal threshold on the best retrieval cosine score. If the best chunk
 // scores below this, the question is outside the books: refuse WITHOUT
 // calling the model (the model test showed small models invent answers
@@ -41,6 +42,7 @@ const els = {
   askWrap: $('askWrap'), askInput: $('askInput'), askBtn: $('askBtn'), askBackBtn: $('askBackBtn'),
   micBtn: $('micBtn'), listeningRow: $('listeningRow'),
   listeningStatus: $('listeningStatus'), sendBtn: $('sendBtn'),
+  sensHighBtn: $('sensHighBtn'), sensMidBtn: $('sensMidBtn'), sensLowBtn: $('sensLowBtn'),
   askBoardWrap: $('askBoardWrap'),
   answerWrap: $('answerWrap'), answerText: $('answerText'),
   sourceWrap: $('sourceWrap'), sourceList: $('sourceList'),
@@ -164,22 +166,11 @@ async function ensureModels() {
 }
 
 // ---- Chalkboards (Ask + Practice) ----
-// One Listen setting for both boards, saved on the phone (default on).
-function getListenPref() {
-  try { return localStorage.getItem('psa-listen') !== 'off'; } catch (_) { return true; }
-}
-function saveListenPref(on) {
-  try { localStorage.setItem('psa-listen', on ? 'on' : 'off'); } catch (_) {}
-}
-const askBoard = makeBoard(els.askBoardWrap, { onListenChange: syncListen });
-const practiceBoard = makeBoard(els.practiceBoardWrap, { onListenChange: syncListen });
-function syncListen(on) {
-  saveListenPref(on);
-  askBoard.setListen(on);
-  practiceBoard.setListen(on);
-}
-askBoard.setListen(getListenPref());
-practiceBoard.setListen(getListenPref());
+// Voice plays ONLY when the child taps a board's Listen button (v2.1).
+// The old 'psa-listen' saved setting is deliberately never read, so a
+// phone that saved 'on' in v2 does not auto-play again.
+const askBoard = makeBoard(els.askBoardWrap);
+const practiceBoard = makeBoard(els.practiceBoardWrap);
 
 // ---- Mode switching ----
 function showMode(mode) {
@@ -222,6 +213,23 @@ async function doAsk() {
   if (!q) return;
   stopMic();
   askBoard.clear();
+  els.answerWrap.hidden = true;
+  // Word lookup first: a single word (or two-word phrase) is answered
+  // straight from the word list — no model, no download needed. A miss
+  // falls through to the normal RAG flow below.
+  try {
+    const dict = await loadWords();
+    const hit = lookupWord(q, dict);
+    if (hit) {
+      const steps = hit.def.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
+      if (hit.ex) steps.push(`Example: ${hit.ex}`);
+      showAnswer(hit.def, hit.ex ? [{ chunk: { source: `Example: ${hit.ex}`, subject: hit.subject, grade: hit.grade, unit: hit.unit || '' } }] : null);
+      askBoard.show(steps);
+      return;
+    }
+  } catch (_) {
+    // Word list unavailable: fall through to RAG.
+  }
   try {
     await ensureModels();
   } catch (_) {
@@ -229,7 +237,6 @@ async function doAsk() {
     return;
   }
   setStatus('busy', 'Thinking…');
-  els.answerWrap.hidden = true;
   try {
     const qvec = await embedQuery(q);
     const hits = search(qvec, 5);
@@ -267,6 +274,32 @@ els.askInput.addEventListener('keydown', (e) => {
 // The transcript goes into the Ask box so the child can fix it first —
 // place names like "Soroti" fail on both tiny and base models. Practice
 // stays tap/type (no ASR for answers).
+//
+// Listening sensitivity: how easily the mic hears speech. High hears
+// quiet speech (threshold = noise x3), Medium is normal (x6), Low
+// ignores noise in loud places (x10). Default Medium, saved on the phone.
+const SENSITIVITY = { high: 3, mid: 6, low: 10 };
+let sensitivity = 'mid';
+try { sensitivity = localStorage.getItem('psa-sensitivity') || 'mid'; } catch (_) {}
+if (!SENSITIVITY[sensitivity]) sensitivity = 'mid';
+function updateSensitivityUI() {
+  els.sensHighBtn.setAttribute('aria-pressed', String(sensitivity === 'high'));
+  els.sensMidBtn.setAttribute('aria-pressed', String(sensitivity === 'mid'));
+  els.sensLowBtn.setAttribute('aria-pressed', String(sensitivity === 'low'));
+}
+function setSensitivity(next) {
+  if (!SENSITIVITY[next]) return;
+  sensitivity = next;
+  try { localStorage.setItem('psa-sensitivity', next); } catch (_) {}
+  updateSensitivityUI();
+  // Applies at once, even while listening.
+  if (capture) capture.sensitivity = SENSITIVITY[next];
+}
+els.sensHighBtn.addEventListener('click', () => setSensitivity('high'));
+els.sensMidBtn.addEventListener('click', () => setSensitivity('mid'));
+els.sensLowBtn.addEventListener('click', () => setSensitivity('low'));
+updateSensitivityUI();
+
 let capture = null;
 let listening = false;
 
@@ -299,6 +332,10 @@ async function startMic() {
   }
   try {
     capture = new VoiceCapture({
+      sensitivity: SENSITIVITY[sensitivity],
+      // Show at once when speech is heard, so the child can see it listened.
+      onSpeechStart: () => setListeningUI(true, 'I hear you…'),
+      onSpeechEnd: () => setListeningUI(true, 'Listening… tap Send to hear it now.'),
       onUtterance: async (audio) => {
         setListeningUI(true, 'Heard you — reading what you said…');
         try {
@@ -518,7 +555,7 @@ function doCheck() {
     els.quizSteps.appendChild(li);
   }
   els.quizResult.hidden = false;
-  // Chalkboard: the same verified steps, one at a time, read aloud.
+  // Chalkboard: the same verified steps, one at a time.
   practiceBoard.show(steps);
 
   // Adaptive: right → streak up, two in a row moves one level up;

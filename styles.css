@@ -130,18 +130,28 @@ select {
 .listening-row { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
 .listening-dot { width: 10px; height: 10px; border-radius: 50%; background: #D93025; flex: none; animation: pulse 1s infinite; }
 .listening-status { font-size: 14px; color: #5F6368; flex: 1; }
+.sens-row { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+.sens-row span { font-size: 14px; color: #5F6368; }
+.sens-row button {
+  border: 1px solid #2E7D32; background: #FFFFFF; color: #2E7D32;
+  padding: 6px 14px; min-height: 36px; font-weight: 500; border-radius: 18px; cursor: pointer;
+}
+.sens-row button[aria-pressed="true"] { background: #2E7D32; color: #FFFFFF; }
 @keyframes pulse { 50% { opacity: .3; } }
 
 /* Chalkboard: dark board, chalk-white text. Steps appear one at a time. */
 .board {
   background: #22352A; color: #F8F8F0; border-radius: 12px;
   padding: 14px; margin-top: 12px;
-  font-family: "Chalkboard SE", "Comic Sans MS", cursive, sans-serif;
+  /* Same clean sans-serif as the rest of the app. The old stack
+     ("Chalkboard SE", "Comic Sans MS", cursive) fell back to Android's
+     thin cursive handwriting font, which was hard to read. */
+  font-family: Roboto, system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 .board-head { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
 .board-title { font-size: 14px; font-weight: 700; color: #D7CCC8; flex: 1; }
 .board .btn { background: transparent; color: #F8F8F0; border-color: #6D7C6E; }
-.board-steps { margin: 0; padding-left: 22px; font-size: 18px; line-height: 1.6; }
+.board-steps { margin: 0; padding-left: 22px; font-size: 20px; font-weight: 600; line-height: 1.5; }
 .board-step { margin-bottom: 8px; animation: board-in .4s ease-out; }
 @keyframes board-in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 

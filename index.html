@@ -61,6 +61,13 @@
         <span id="listeningStatus" class="listening-status">Listening… speak your question in English.</span>
         <button id="sendBtn" class="btn small" type="button">Send</button>
       </div>
+      <div class="sens-row" role="group" aria-label="Listening sensitivity">
+        <span>Listening sensitivity</span>
+        <button id="sensHighBtn" type="button" aria-pressed="false">High</button>
+        <button id="sensMidBtn" type="button" aria-pressed="true">Medium</button>
+        <button id="sensLowBtn" type="button" aria-pressed="false">Low</button>
+      </div>
+      <p class="hint">If it does not hear you, tap High. If noise keeps starting it, tap Low.</p>
     </div>
     <section id="answerWrap" class="card answer" hidden>
       <p id="answerText" class="answer-text"></p>
@@ -73,11 +80,11 @@
         <button id="copyBtn" class="btn" type="button">Copy</button>
       </div>
     </section>
-    <!-- Chalkboard: the answer, step by step, read aloud as it appears. -->
+    <!-- Chalkboard: the answer, step by step. Listen reads it aloud. -->
     <section id="askBoardWrap" class="board" hidden>
       <div class="board-head">
         <span class="board-title">Chalkboard</span>
-        <button class="board-listen btn small" type="button" aria-pressed="true">🔊 Listen: on</button>
+        <button class="board-listen btn small" type="button">🔊 Listen</button>
         <button class="board-stop btn small" type="button">Stop</button>
       </div>
       <ol class="board-steps"></ol>
@@ -136,11 +143,11 @@
           <p class="steps-title">How to get it:</p>
           <ol id="quizSteps" class="steps-list"></ol>
         </div>
-        <!-- Chalkboard: the steps, one at a time, read aloud as they appear. -->
+        <!-- Chalkboard: the steps, one at a time. Listen reads them aloud. -->
         <section id="practiceBoardWrap" class="board" hidden>
           <div class="board-head">
             <span class="board-title">Chalkboard</span>
-            <button class="board-listen btn small" type="button" aria-pressed="true">🔊 Listen: on</button>
+            <button class="board-listen btn small" type="button">🔊 Listen</button>
             <button class="board-stop btn small" type="button">Stop</button>
           </div>
           <ol class="board-steps"></ol>

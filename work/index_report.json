@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-24T09:36:24.634Z",
+  "builtAt": "2026-11-24T11:05:20.142Z",
   "totalChunks": 54186,
   "quiz": 44467,
   "quizNoExplanation": 0,
@@ -7,7 +7,7 @@
   "lessons": 1012,
   "lessonPractice": 7030,
   "limitedRun": false,
-  "seconds": 981.9,
+  "seconds": 819.9,
   "byKind": {
     "quiz": 44467,
     "word": 1677,

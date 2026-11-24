@@ -1,5 +1,4 @@
 // vad.js — energy-based voice activity detection (VAD) + 16kHz PCM capture.
-// Copied from the translator app (unchanged logic).
 //
 // Flow: mic → AudioWorklet (20ms chunks) → resample to 16kHz → 100ms
 // frames, energy measured → adaptive threshold from room noise → speech
@@ -12,16 +11,49 @@
 // makes small ASR models hallucinate or repeat.
 // Noise guard: utterances shorter than 0.4s, or with less than 0.5s of
 // real speech frames, are dropped as noise.
+//
+// Noise calibration (v13 lesson, from the translator app): the baseline
+// is measured from QUIET frames only. The old code averaged the first 1s
+// unconditionally, so speaking right after tapping the mic inflated the
+// baseline to ~6x the voice and the app went deaf. Quiet frames only,
+// up to 3s of waiting, then fall back to the quietest frame seen.
 const FRAME = 1600; // 100ms @ 16kHz
 const SILENCE_FRAMES_TO_END = 9; // 0.9s of silence ends an utterance
 const PRE_ROLL = 8000; // 0.5s pre-roll
 const MAX_UTTERANCE_SEC = 30; // one utterance max 30s
+const QUIET_ENERGY = 0.0002; // frames louder than this may hold speech: excluded
+const NOISE_FRAMES_NEEDED = 10; // 10 quiet frames (1s) set the baseline
+const NOISE_WAIT_MAX_FRAMES = 30; // 3s max waiting for quiet frames
 
 export class VoiceCapture {
-  constructor({ onUtterance, onLevel }) {
+  constructor({ onUtterance, onLevel, onSpeechStart, onSpeechEnd, sensitivity }) {
     this.onUtterance = onUtterance;
     this.onLevel = onLevel || (() => {});
+    this.onSpeechStart = onSpeechStart || (() => {});
+    this.onSpeechEnd = onSpeechEnd || (() => {});
+    // Sensitivity: threshold = noise baseline x sensitivity. Smaller hears
+    // quieter speech. High 3 / Medium 6 / Low 10. Default Medium.
+    this.sensitivity = sensitivity || 6;
     this.running = false;
+  }
+
+  // Per-run state (also used by the Node test, which feeds _onSample
+  // directly without a microphone).
+  _resetState() {
+    this.preRoll = [];
+    this.frames = [];
+    this.noiseFloor = null;
+    this.noiseSum = 0;
+    this.noiseFrames = 0;
+    this.noiseMin = Infinity;
+    this.noiseWait = 0;
+    this.speaking = false;
+    this.silenceFrames = 0;
+    this.speechFrames = 0;
+    this.speechStart = 0;
+    this.speechEnd = 0;
+    this.utterance = [];
+    this.running = true;
   }
 
   async start() {
@@ -38,17 +70,7 @@ export class VoiceCapture {
     this.node.port.onmessage = (e) => this._onChunk(e.data.data);
     this.sampleRate = this.ctx.sampleRate;
     this.resampleStep = this.sampleRate / 16000;
-    this.preRoll = [];
-    this.frames = [];
-    this.noiseFloor = null;
-    this.noiseFrames = 0;
-    this.speaking = false;
-    this.silenceFrames = 0;
-    this.speechFrames = 0;
-    this.speechStart = 0;
-    this.speechEnd = 0;
-    this.utterance = [];
-    this.running = true;
+    this._resetState();
   }
 
   stop() {
@@ -91,13 +113,21 @@ export class VoiceCapture {
     this.onLevel(Math.min(1, Math.sqrt(Math.max(energy, 0)) / 0.08));
 
     if (this.noiseFloor === null) {
-      // First 1s sets the room-noise baseline.
-      this.noiseFrames++;
-      this.noiseFloor = this.noiseFloor === null ? energy : this.noiseFloor + energy;
-      if (this.noiseFrames >= 10) this.noiseFloor /= 10;
+      // Baseline: average QUIET frames only. Loud frames may hold speech
+      // and are excluded. If 10 quiet frames do not arrive within 3s,
+      // use the average of what was collected (or the quietest frame seen).
+      this.noiseWait++;
+      if (energy < QUIET_ENERGY) {
+        this.noiseSum += energy;
+        this.noiseFrames++;
+      }
+      this.noiseMin = Math.min(this.noiseMin, energy);
+      if (this.noiseFrames >= NOISE_FRAMES_NEEDED || this.noiseWait >= NOISE_WAIT_MAX_FRAMES) {
+        this.noiseFloor = this.noiseFrames > 0 ? this.noiseSum / this.noiseFrames : this.noiseMin;
+      }
       return;
     }
-    const threshold = Math.max(this.noiseFloor * 6, 0.0002);
+    const threshold = Math.max(this.noiseFloor * this.sensitivity, 0.0002);
     const isSpeech = energy > threshold;
     if (!isSpeech && !this.speaking) {
       // While quiet, slowly follow the noise floor.
@@ -111,6 +141,7 @@ export class VoiceCapture {
       // Keep only 0.15s before speech starts, so the first syllable is kept.
       this.speechStart = Math.max(0, this.utterance.length - 2400);
       this.speechEnd = this.utterance.length;
+      this.onSpeechStart();
     }
     if (this.speaking) {
       this.utterance.push(...frame);
@@ -127,6 +158,9 @@ export class VoiceCapture {
   }
 
   _emit() {
+    // Speech ended (also when the utterance is dropped as noise — the
+    // screen shows it either way).
+    this.onSpeechEnd();
     // Trim leading/trailing silence; pass only the real speech span.
     const out = new Float32Array(this.utterance.slice(this.speechStart ?? 0, this.speechEnd ?? this.utterance.length));
     const speechFrames = this.speechFrames;

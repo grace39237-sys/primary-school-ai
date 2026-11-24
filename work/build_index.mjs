@@ -78,9 +78,11 @@ let cwN = 0;
 for (const [grade, words] of Object.entries(cw)) {
   if (normGrade(grade) === 'KG') continue; // scope is P1–P7
   for (const w of words) {
-    const word = w.word || w[0];
-    const def = w.definition || w[1] || '';
-    const ex = w.example || w[2] || '';
+    // class_words.json entries use w / def / ex (not word / definition /
+    // example). The old names made every word chunk "undefined: " (v2.1 fix).
+    const word = w.w || w.word || w[0];
+    const def = w.def || w.definition || w[1] || '';
+    const ex = w.ex || w.example || w[2] || '';
     chunks.push({
       kind: 'word', id: `CW-${grade}-${word}`, subject: 'Vocabulary', grade: normGrade(grade),
       unit: '', type: 'definition', difficulty: 'easy',
