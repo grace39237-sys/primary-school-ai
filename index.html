@@ -24,12 +24,12 @@
 <main>
   <!-- First-run model download -->
   <section id="modelBox" class="model-box">
-    <p id="modelInfo">To use the teacher, download the AI first. You need internet only this one time. Size about 155MB.</p>
+    <p id="modelInfo">To use the teacher, download the AI first. You need internet only this one time. Size about 215MB.</p>
     <div id="downloadProgress" class="progress" hidden>
       <div id="downloadBar" class="progress-bar"></div>
     </div>
     <p id="downloadLabel" class="download-label" hidden></p>
-    <button id="downloadBtn" class="btn primary" type="button">Get the teacher (about 155MB)</button>
+    <button id="downloadBtn" class="btn primary" type="button">Get the teacher (about 215MB)</button>
   </section>
 
   <!-- Home: two big mode cards -->
@@ -53,7 +53,13 @@
       <textarea id="askInput" rows="3" placeholder="Example: What is a noun?" aria-label="Ask in English"></textarea>
       <div class="card-actions">
         <button id="askBtn" class="btn primary" type="button">Ask the teacher</button>
+        <button id="micBtn" class="btn" type="button">🎤 Speak</button>
         <button id="askBackBtn" class="btn" type="button">Back</button>
+      </div>
+      <div id="listeningRow" class="listening-row" hidden>
+        <span id="listeningDot" class="listening-dot" aria-hidden="true"></span>
+        <span id="listeningStatus" class="listening-status">Listening… speak your question in English.</span>
+        <button id="sendBtn" class="btn small" type="button">Send</button>
       </div>
     </div>
     <section id="answerWrap" class="card answer" hidden>
@@ -66,6 +72,15 @@
         <button id="speakBtn" class="btn" type="button">Listen</button>
         <button id="copyBtn" class="btn" type="button">Copy</button>
       </div>
+    </section>
+    <!-- Chalkboard: the answer, step by step, read aloud as it appears. -->
+    <section id="askBoardWrap" class="board" hidden>
+      <div class="board-head">
+        <span class="board-title">Chalkboard</span>
+        <button class="board-listen btn small" type="button" aria-pressed="true">🔊 Listen: on</button>
+        <button class="board-stop btn small" type="button">Stop</button>
+      </div>
+      <ol class="board-steps"></ol>
     </section>
     <p id="askHint" class="hint">Try: "What is a noun?" · "Why do plants need sunlight?" · "What is 12 x 8?"</p>
   </section>
@@ -121,6 +136,15 @@
           <p class="steps-title">How to get it:</p>
           <ol id="quizSteps" class="steps-list"></ol>
         </div>
+        <!-- Chalkboard: the steps, one at a time, read aloud as they appear. -->
+        <section id="practiceBoardWrap" class="board" hidden>
+          <div class="board-head">
+            <span class="board-title">Chalkboard</span>
+            <button class="board-listen btn small" type="button" aria-pressed="true">🔊 Listen: on</button>
+            <button class="board-stop btn small" type="button">Stop</button>
+          </div>
+          <ol class="board-steps"></ol>
+        </section>
         <div class="card-actions">
           <button id="simplerBtn" class="btn" type="button">Say it simpler</button>
           <button id="nextBtn" class="btn primary" type="button">Next question</button>

@@ -2,6 +2,10 @@
 import * as ort from 'onnxruntime-web';
 import { loadEmbedder, loadIndex, embedQuery, search } from './rag.js';
 import { loadGenerator, askTeacher, saySimpler } from './ai.js';
+import { loadASR, transcribe, hasLatin, ASR_MODEL_EN } from './asr.js';
+import { makeBoard } from './board.js';
+import { speak, ttsSupported } from './tts.js';
+import { VoiceCapture } from './vad.js';
 import { normAnswer, checkAnswer, stepsOf, nextLevel } from './practice.js';
 
 // Same ONNX setup as the translator app: absolute wasmPaths (a relative
@@ -15,14 +19,17 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v1.1';
+const APP_VERSION = 'v2';
 // Refusal threshold on the best retrieval cosine score. If the best chunk
 // scores below this, the question is outside the books: refuse WITHOUT
 // calling the model (the model test showed small models invent answers
 // when they are asked to refuse themselves). Calibrated in Node against
 // the built index — see work/calibrate_threshold.mjs.
 const REFUSAL_THRESHOLD = 0.67;
-const TOTAL_SIZE_BYTES = 155 * 1048576; // MiniLM ~22MB + SmolLM2-135M int8 ~129MB
+// Verified sizes (Hugging Face API, 2026-11-24): MiniLM int8 21.9MB +
+// SmolLM2-135M int8 129.4MB + Moonshine base-en int8 ~64MB
+// (encoder 19.6 + decoder 40.5 + tokenizer 3.6).
+const TOTAL_SIZE_BYTES = 215 * 1048576;
 
 const $ = (id) => document.getElementById(id);
 const els = {
@@ -32,6 +39,9 @@ const els = {
   downloadBar: $('downloadBar'), downloadLabel: $('downloadLabel'),
   homeWrap: $('homeWrap'), askModeBtn: $('askModeBtn'), practiceModeBtn: $('practiceModeBtn'),
   askWrap: $('askWrap'), askInput: $('askInput'), askBtn: $('askBtn'), askBackBtn: $('askBackBtn'),
+  micBtn: $('micBtn'), listeningRow: $('listeningRow'),
+  listeningStatus: $('listeningStatus'), sendBtn: $('sendBtn'),
+  askBoardWrap: $('askBoardWrap'),
   answerWrap: $('answerWrap'), answerText: $('answerText'),
   sourceWrap: $('sourceWrap'), sourceList: $('sourceList'),
   speakBtn: $('speakBtn'), copyBtn: $('copyBtn'), askHint: $('askHint'),
@@ -42,7 +52,7 @@ const els = {
   quizAnswerArea: $('quizAnswerArea'), checkBtn: $('checkBtn'),
   quizResult: $('quizResult'), quizVerdict: $('quizVerdict'), quizCorrect: $('quizCorrect'),
   quizSteps: $('quizSteps'), simplerBtn: $('simplerBtn'), nextBtn: $('nextBtn'),
-  simplerText: $('simplerText'),
+  simplerText: $('simplerText'), practiceBoardWrap: $('practiceBoardWrap'),
   modelLine: $('modelLine'),
 };
 
@@ -110,7 +120,8 @@ async function ensureModels() {
     progressExpected = TOTAL_SIZE_BYTES;
     els.downloadBtn.disabled = true;
     const fromCache = (await hasCachedModel('Xenova/all-MiniLM-L6-v2'))
-      && (await hasCachedModel('onnx-community/SmolLM2-135M-Instruct-ONNX'));
+      && (await hasCachedModel('onnx-community/SmolLM2-135M-Instruct-ONNX'))
+      && (await hasCachedModel(ASR_MODEL_EN));
     if (fromCache) {
       els.downloadProgress.hidden = true;
       els.downloadLabel.hidden = true;
@@ -125,6 +136,7 @@ async function ensureModels() {
     try {
       await loadEmbedder(onProgress);
       await loadGenerator(onProgress);
+      await loadASR(onProgress);
       setStatus('busy', 'Loading the books…');
       await loadIndex();
       ready = true;
@@ -142,11 +154,31 @@ async function ensureModels() {
   return modelsLoading;
 }
 
+// ---- Chalkboards (Ask + Practice) ----
+// One Listen setting for both boards, saved on the phone (default on).
+function getListenPref() {
+  try { return localStorage.getItem('psa-listen') !== 'off'; } catch (_) { return true; }
+}
+function saveListenPref(on) {
+  try { localStorage.setItem('psa-listen', on ? 'on' : 'off'); } catch (_) {}
+}
+const askBoard = makeBoard(els.askBoardWrap, { onListenChange: syncListen });
+const practiceBoard = makeBoard(els.practiceBoardWrap, { onListenChange: syncListen });
+function syncListen(on) {
+  saveListenPref(on);
+  askBoard.setListen(on);
+  practiceBoard.setListen(on);
+}
+askBoard.setListen(getListenPref());
+practiceBoard.setListen(getListenPref());
+
 // ---- Mode switching ----
 function showMode(mode) {
   els.homeWrap.hidden = mode !== 'home';
   els.askWrap.hidden = mode !== 'ask';
   els.practiceWrap.hidden = mode !== 'practice';
+  if (mode !== 'ask') { stopMic(); askBoard.stop(); }
+  if (mode !== 'practice') practiceBoard.stop();
   if (mode === 'home') window.scrollTo({ top: 0 });
 }
 els.askModeBtn.addEventListener('click', () => showMode('ask'));
@@ -179,6 +211,8 @@ function showAnswer(text, sources) {
 async function doAsk() {
   const q = els.askInput.value.trim();
   if (!q) return;
+  stopMic();
+  askBoard.clear();
   try {
     await ensureModels();
   } catch (_) {
@@ -194,13 +228,20 @@ async function doAsk() {
     if (!best || best.score < REFUSAL_THRESHOLD) {
       // Outside the books: refuse WITHOUT calling the model.
       showAnswer("I don't know that yet — ask your teacher.", null);
+      askBoard.show(["I don't know that yet — ask your teacher."]);
       setStatus('ready', 'Teacher is ready');
       return;
     }
     const top = hits.slice(0, 3);
     const context = top.map((h) => h.chunk.source).join(' ');
     const answer = await askTeacher(context, q);
-    showAnswer(answer || top[0].chunk.source, top);
+    const shown = answer || top[0].chunk.source;
+    showAnswer(shown, top);
+    // Chalkboard steps: the answer's own sentences, then the book's
+    // sentences it came from. Nothing invented.
+    const steps = shown.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
+    for (const s of top) steps.push(`From the book: ${s.chunk.source}`);
+    askBoard.show(steps);
     setStatus('ready', 'Teacher is ready');
   } catch (e) {
     console.error(e);
@@ -213,21 +254,82 @@ els.askInput.addEventListener('keydown', (e) => {
   if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); doAsk(); }
 });
 
-// Phone's own voice for listening to the answer.
-let voices = [];
-function refreshVoices() { voices = speechSynthesis.getVoices(); }
-if ('speechSynthesis' in window) {
-  refreshVoices();
-  speechSynthesis.onvoiceschanged = refreshVoices;
+// ---- Voice input (Ask only): mic → English ASR → editable question ----
+// The transcript goes into the Ask box so the child can fix it first —
+// place names like "Soroti" fail on both tiny and base models. Practice
+// stays tap/type (no ASR for answers).
+let capture = null;
+let listening = false;
+
+function setListeningUI(on, text) {
+  listening = on;
+  els.micBtn.classList.toggle('listening', on);
+  els.micBtn.textContent = on ? '⏹ Stop' : '🎤 Speak';
+  els.listeningRow.hidden = !on;
+  if (text) els.listeningStatus.textContent = text;
 }
+
+function stopMic() {
+  if (!capture && !listening) return;
+  try { capture?.stop(); } catch (_) {}
+  capture = null;
+  setListeningUI(false);
+}
+
+async function startMic() {
+  if (listening) { stopMic(); return; }
+  try {
+    await ensureModels();
+  } catch (_) {
+    showAnswer('First get the teacher using the button at the top.', null);
+    return;
+  }
+  if (!('mediaDevices' in navigator) || !navigator.mediaDevices.getUserMedia) {
+    alert('This phone cannot use the microphone. Type your question instead.');
+    return;
+  }
+  try {
+    capture = new VoiceCapture({
+      onUtterance: async (audio) => {
+        setListeningUI(true, 'Heard you — reading what you said…');
+        try {
+          const text = await transcribe(audio);
+          if (!text || !hasLatin(text)) {
+            els.listeningStatus.textContent = "I didn't hear English — try again.";
+            return;
+          }
+          els.askInput.value = text;
+          els.listeningStatus.textContent = 'Fix the words if they are wrong, then tap Ask the teacher.';
+          stopMic();
+          els.askInput.focus();
+        } catch (e) {
+          console.error(e);
+          els.listeningStatus.textContent = 'Could not hear you — try again.';
+        }
+      },
+    });
+    await capture.start();
+    setListeningUI(true, 'Listening… speak your question in English.');
+  } catch (e) {
+    console.error(e);
+    alert('Microphone is not available. Please allow the microphone, or type your question.');
+    capture = null;
+    setListeningUI(false);
+  }
+}
+els.micBtn.addEventListener('click', startMic);
+els.sendBtn.addEventListener('click', () => {
+  // Send now: transcribe the current utterance without waiting for silence.
+  if (capture) {
+    const had = capture.flush();
+    if (!had) els.listeningStatus.textContent = 'Say something first, then tap Send.';
+  }
+});
+
+// Phone's own voice for listening to the answer.
 els.speakBtn.addEventListener('click', () => {
-  if (!('speechSynthesis' in window)) { alert('This phone cannot read aloud.'); return; }
-  speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(els.answerText.textContent);
-  u.lang = 'en-US';
-  const v = voices.find((x) => x.lang && x.lang.toLowerCase().startsWith('en'));
-  if (v) u.voice = v;
-  speechSynthesis.speak(u);
+  if (!ttsSupported()) { alert('This phone cannot read aloud.'); return; }
+  speak(els.answerText.textContent);
 });
 els.copyBtn.addEventListener('click', async () => {
   const text = els.answerText.textContent;
@@ -305,6 +407,7 @@ function pickQuestion(subject, opts = {}) {
 
 function renderQuestion(item) {
   current = { item, userAnswer: null };
+  practiceBoard.clear();
   const lv = levelFor(els.subjectSel.value);
   els.quizMeta.textContent = `${els.gradeSel.value} · ${els.subjectSel.value} · ${item.difficulty} · Level: ${lv.difficulty}`;
   els.quizStars.textContent = '★'.repeat(Math.min(5, lv.streak)) + '☆'.repeat(Math.max(0, 5 - Math.min(5, lv.streak)));
@@ -406,6 +509,8 @@ function doCheck() {
     els.quizSteps.appendChild(li);
   }
   els.quizResult.hidden = false;
+  // Chalkboard: the same verified steps, one at a time, read aloud.
+  practiceBoard.show(steps);
 
   // Adaptive: right → streak up, two in a row moves one level up;
   // wrong → stay on the same concept (unit), same or one level down.
@@ -466,8 +571,9 @@ els.simplerBtn.addEventListener('click', async () => {
 async function autoLoadSavedModels() {
   const em = await hasCachedModel('Xenova/all-MiniLM-L6-v2');
   const gm = await hasCachedModel('onnx-community/SmolLM2-135M-Instruct-ONNX');
-  console.log('[auto-load]', em, gm);
-  if (!em || !gm) return; // button stays visible
+  const am = await hasCachedModel(ASR_MODEL_EN);
+  console.log('[auto-load]', em, gm, am);
+  if (!em || !gm || !am) return; // button stays visible
   try { await ensureModels(); } catch (_) {}
 }
 
