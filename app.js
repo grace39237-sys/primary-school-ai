@@ -26,10 +26,10 @@ const APP_VERSION = 'v2';
 // when they are asked to refuse themselves). Calibrated in Node against
 // the built index — see work/calibrate_threshold.mjs.
 const REFUSAL_THRESHOLD = 0.67;
-// Verified sizes (Hugging Face API, 2026-11-24): MiniLM int8 21.9MB +
-// SmolLM2-135M int8 129.4MB + Moonshine base-en int8 ~64MB
-// (encoder 19.6 + decoder 40.5 + tokenizer 3.6).
-const TOTAL_SIZE_BYTES = 215 * 1048576;
+// Teacher download size (button/info text, "about 215MB"). Verified sizes
+// (Hugging Face API, 2026-11-24): MiniLM int8 21.9MB + SmolLM2-135M int8
+// 129.4MB + Moonshine base-en int8 ~64MB (encoder 19.6 + decoder 40.5 +
+// tokenizer 3.6; local Node cache measured 64MB).
 
 const $ = (id) => document.getElementById(id);
 const els = {
@@ -117,11 +117,20 @@ async function ensureModels() {
   if (modelsLoading) return modelsLoading;
   modelsLoading = (async () => {
     progressFiles.clear();
-    progressExpected = TOTAL_SIZE_BYTES;
+    // The progress bar counts only the bytes this run actually downloads.
+    // A returning v1.1 user already has MiniLM + 135M cached, so only the
+    // ~64MB ASR model downloads — counting it against the full 215MB
+    // would leave the bar stuck at ~30% when the teacher is ready.
+    const cached = {
+      mini: await hasCachedModel('Xenova/all-MiniLM-L6-v2'),
+      gen: await hasCachedModel('onnx-community/SmolLM2-135M-Instruct-ONNX'),
+      asr: await hasCachedModel(ASR_MODEL_EN),
+    };
+    const fromCache = cached.mini && cached.gen && cached.asr;
+    progressExpected = (cached.mini ? 0 : 22 * 1048576)
+      + (cached.gen ? 0 : 129 * 1048576)
+      + (cached.asr ? 0 : 64 * 1048576);
     els.downloadBtn.disabled = true;
-    const fromCache = (await hasCachedModel('Xenova/all-MiniLM-L6-v2'))
-      && (await hasCachedModel('onnx-community/SmolLM2-135M-Instruct-ONNX'))
-      && (await hasCachedModel(ASR_MODEL_EN));
     if (fromCache) {
       els.downloadProgress.hidden = true;
       els.downloadLabel.hidden = true;
