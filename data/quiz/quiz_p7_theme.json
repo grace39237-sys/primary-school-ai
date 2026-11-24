@@ -1,0 +1,2802 @@
+[
+ {
+  "id": "TH7108000",
+  "question": "We played ___ every evening.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "medium",
+  "answer": "football",
+  "options": [
+   "football",
+   "adventure",
+   "swimming",
+   "experience"
+  ],
+  "explanation": "The word is 'football': We played football every evening.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7108001",
+  "question": "What does 'waste' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "use carelessly",
+  "options": [
+   "use carelessly",
+   "catching fish",
+   "an exciting experience",
+   "something you remember"
+  ],
+  "explanation": "'waste' means use carelessly.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7108002",
+  "question": "What does 'adventure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "an exciting experience",
+  "options": [
+   "an exciting experience",
+   "assisting someone",
+   "activities for fun",
+   "a game played with a ball"
+  ],
+  "explanation": "'adventure' means an exciting experience.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7108003",
+  "question": "What does 'visit' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "to go and see someone",
+  "options": [
+   "to go and see someone",
+   "after the usual time",
+   "a book for personal notes",
+   "a long break from school"
+  ],
+  "explanation": "'visit' means to go and see someone.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH7108004",
+  "question": "Which word means 'use carelessly'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "waste",
+  "options": [
+   "waste",
+   "spend",
+   "relative",
+   "vacation"
+  ],
+  "explanation": "use carelessly — that is 'waste'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7108005",
+  "question": "What does 'excited' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "feeling very happy and eager",
+  "options": [
+   "feeling very happy and eager",
+   "something you live through",
+   "quickly and without warning",
+   "tales told or read"
+  ],
+  "explanation": "'excited' means feeling very happy and eager.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7108006",
+  "question": "What does 'early' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "before the usual time",
+  "options": [
+   "before the usual time",
+   "keep money for later",
+   "a trip from one place to another",
+   "a short journey for a purpose"
+  ],
+  "explanation": "'early' means before the usual time.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7108007",
+  "question": "What does 'spend' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "use money",
+  "options": [
+   "use money",
+   "before the usual time",
+   "small jobs at home",
+   "a short journey for a purpose"
+  ],
+  "explanation": "'spend' means use money.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7108008",
+  "question": "What does 'swimming' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "moving in water",
+  "options": [
+   "moving in water",
+   "a list of things you will do",
+   "keep money for later",
+   "looking at books"
+  ],
+  "explanation": "'swimming' means moving in water.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7108009",
+  "question": "The ___ to Jinja takes three hours.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "medium",
+  "answer": "journey",
+  "options": [
+   "journey",
+   "excited",
+   "stories",
+   "vacation"
+  ],
+  "explanation": "The word is 'journey': The journey to Jinja takes three hours.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH7108010",
+  "question": "What does 'finally' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "at the end",
+  "options": [
+   "at the end",
+   "small jobs at home",
+   "quickly and without warning",
+   "use carelessly"
+  ],
+  "explanation": "'finally' means at the end.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7108011",
+  "question": "What does 'photograph' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "a picture taken with a camera",
+  "options": [
+   "a picture taken with a camera",
+   "at the end",
+   "something you live through",
+   "a short journey for a purpose"
+  ],
+  "explanation": "'photograph' means a picture taken with a camera.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7108012",
+  "question": "He showed a ___ of the lake.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "medium",
+  "answer": "photograph",
+  "options": [
+   "photograph",
+   "diary",
+   "plan",
+   "visit"
+  ],
+  "explanation": "The word is 'photograph': He showed a photograph of the lake.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7108013",
+  "question": "My aunt is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "medium",
+  "answer": "relative",
+  "options": [
+   "relative",
+   "prepare",
+   "excited",
+   "swimming"
+  ],
+  "explanation": "The word is 'relative': My aunt is a relative.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7108014",
+  "question": "I ___ not saving money.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "medium",
+  "answer": "regret",
+  "options": [
+   "regret",
+   "chores",
+   "helping",
+   "prepare"
+  ],
+  "explanation": "The word is 'regret': I regret not saving money.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7108015",
+  "question": "Which word means 'fail to catch or do'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "miss",
+  "options": [
+   "miss",
+   "reading",
+   "save",
+   "fishing"
+  ],
+  "explanation": "fail to catch or do — that is 'miss'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7108016",
+  "question": "Which word means 'before the usual time'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "early",
+  "options": [
+   "early",
+   "waste",
+   "football",
+   "diary"
+  ],
+  "explanation": "before the usual time — that is 'early'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7108017",
+  "question": "He arrived ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "medium",
+  "answer": "late",
+  "options": [
+   "late",
+   "games",
+   "save",
+   "football"
+  ],
+  "explanation": "The word is 'late': He arrived late.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7108018",
+  "question": "What does 'experience' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "easy",
+  "answer": "something you live through",
+  "options": [
+   "something you live through",
+   "a long break from school",
+   "moving in water",
+   "a list of things you will do"
+  ],
+  "explanation": "'experience' means something you live through.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7108019",
+  "question": "She will ___ for the trip.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "School Holidays",
+  "difficulty": "medium",
+  "answer": "save",
+  "options": [
+   "save",
+   "memory",
+   "early",
+   "prepare"
+  ],
+  "explanation": "The word is 'save': She will save for the trip.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7139000",
+  "question": "Which word means 'information about recent events'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "news",
+  "options": [
+   "news",
+   "abbreviation",
+   "qualification",
+   "apply"
+  ],
+  "explanation": "information about recent events — that is 'news'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH7139001",
+  "question": "Which word means 'to bring something to the receiver'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "deliver",
+  "options": [
+   "deliver",
+   "sort",
+   "post office",
+   "collect"
+  ],
+  "explanation": "to bring something to the receiver — that is 'deliver'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7139002",
+  "question": "What does 'address' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "the place where someone lives or works",
+  "options": [
+   "the place where someone lives or works",
+   "a paper cover for a letter",
+   "a skill or certificate that makes you suitable",
+   "to arrange mail by destination"
+  ],
+  "explanation": "'address' means the place where someone lives or works.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7139003",
+  "question": "What does 'friendly' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "kind and warm in manner",
+  "options": [
+   "kind and warm in manner",
+   "a short written communication",
+   "to close an envelope securely",
+   "a paper cover for a letter"
+  ],
+  "explanation": "'friendly' means kind and warm in manner.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7139004",
+  "question": "Which word means 'to pick up something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "collect",
+  "options": [
+   "collect",
+   "sender",
+   "application",
+   "box"
+  ],
+  "explanation": "to pick up something — that is 'collect'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7139005",
+  "question": "What does 'envelope' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "a paper cover for a letter",
+  "options": [
+   "a paper cover for a letter",
+   "the greeting at the start of a letter",
+   "a short written communication",
+   "kind and warm in manner"
+  ],
+  "explanation": "'envelope' means a paper cover for a letter.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7139006",
+  "question": "Kato added his ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "medium",
+  "answer": "signature",
+  "options": [
+   "signature",
+   "apply",
+   "message",
+   "box"
+  ],
+  "explanation": "The word is 'signature': Kato added his signature.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7139007",
+  "question": "What does 'stamp' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "a small sticker that pays for postage",
+  "options": [
+   "a small sticker that pays for postage",
+   "a formal request for a job or place",
+   "a skill or certificate that makes you suitable",
+   "friendly words at the start of a letter"
+  ],
+  "explanation": "'stamp' means a small sticker that pays for postage.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7139008",
+  "question": "Which word means 'a job or position'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "post",
+  "options": [
+   "post",
+   "date",
+   "sort",
+   "greetings"
+  ],
+  "explanation": "a job or position — that is 'post'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7139009",
+  "question": "What does 'abbreviation' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "a shortened form of a word",
+  "options": [
+   "a shortened form of a word",
+   "the place where someone lives or works",
+   "a place where mail is sent and received",
+   "a skill or certificate that makes you suitable"
+  ],
+  "explanation": "'abbreviation' means a shortened form of a word.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7139010",
+  "question": "What does 'informal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "not official; relaxed and personal",
+  "options": [
+   "not official; relaxed and personal",
+   "the greeting at the start of a letter",
+   "a paper cover for a letter",
+   "a formal request for a job or place"
+  ],
+  "explanation": "'informal' means not official; relaxed and personal.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7139011",
+  "question": "What does 'greetings' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "friendly words at the start of a letter",
+  "options": [
+   "friendly words at the start of a letter",
+   "to make a formal request",
+   "letters and parcels sent by post",
+   "asking for something politely"
+  ],
+  "explanation": "'greetings' means friendly words at the start of a letter.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH7139012",
+  "question": "Which word means 'a small sticker that pays for postage'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "stamp",
+  "options": [
+   "stamp",
+   "post office",
+   "postcard",
+   "qualification"
+  ],
+  "explanation": "a small sticker that pays for postage — that is 'stamp'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7139013",
+  "question": "A ___ letter uses polite language.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "medium",
+  "answer": "formal",
+  "options": [
+   "formal",
+   "post office",
+   "stamp",
+   "greetings"
+  ],
+  "explanation": "The word is 'formal': A formal letter uses polite language.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7139014",
+  "question": "What does 'sort' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "to arrange mail by destination",
+  "options": [
+   "to arrange mail by destination",
+   "the person who writes the letter",
+   "the top part with addresses and date",
+   "your signed name at the end of a letter"
+  ],
+  "explanation": "'sort' means to arrange mail by destination.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7139015",
+  "question": "Attach a ___ before posting.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "medium",
+  "answer": "stamp",
+  "options": [
+   "stamp",
+   "post office",
+   "postcard",
+   "qualification"
+  ],
+  "explanation": "The word is 'stamp': Attach a stamp before posting.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7139016",
+  "question": "The ___ is the head teacher.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "medium",
+  "answer": "receiver",
+  "options": [
+   "receiver",
+   "informal",
+   "box",
+   "date"
+  ],
+  "explanation": "The word is 'receiver': The receiver is the head teacher.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7139017",
+  "question": "Use a ___ tone with family.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "medium",
+  "answer": "friendly",
+  "options": [
+   "friendly",
+   "envelope",
+   "receiver",
+   "post"
+  ],
+  "explanation": "The word is 'friendly': Use a friendly tone with family.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7139018",
+  "question": "The ___ requires a degree.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "medium",
+  "answer": "post",
+  "options": [
+   "post",
+   "date",
+   "sort",
+   "greetings"
+  ],
+  "explanation": "The word is 'post': The post requires a degree.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7139019",
+  "question": "Which word means 'a formal request for a job or place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Letter Writing",
+  "difficulty": "easy",
+  "answer": "application",
+  "options": [
+   "application",
+   "signature",
+   "formal",
+   "experience"
+  ],
+  "explanation": "a formal request for a job or place — that is 'application'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7157000",
+  "question": "What does 'failure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "not succeeding",
+  "options": [
+   "not succeeding",
+   "letter showing level",
+   "firm",
+   "attendance list"
+  ],
+  "explanation": "'failure' means not succeeding.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7157001",
+  "question": "Which word means 'wrongdoing in exam'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "malpractice",
+  "options": [
+   "malpractice",
+   "candidate",
+   "results",
+   "strict"
+  ],
+  "explanation": "wrongdoing in exam — that is 'malpractice'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7157002",
+  "question": "What does 'revision' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "studying again",
+  "options": [
+   "studying again",
+   "getting ready",
+   "ranking group",
+   "exam question sheet"
+  ],
+  "explanation": "'revision' means studying again.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7157003",
+  "question": "Which word means 'punishment'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "penalty",
+  "options": [
+   "penalty",
+   "honesty",
+   "answer",
+   "fair"
+  ],
+  "explanation": "punishment — that is 'penalty'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7157004",
+  "question": "What does 'register' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "attendance list",
+  "options": [
+   "attendance list",
+   "exam supervisor",
+   "scores",
+   "person taking exam"
+  ],
+  "explanation": "'register' means attendance list.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7157005",
+  "question": "Which word means 'firm'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "strict",
+  "options": [
+   "strict",
+   "invigilator",
+   "results",
+   "rules"
+  ],
+  "explanation": "firm — that is 'strict'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7157006",
+  "question": "What does 'cheating' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "copying dishonestly",
+  "options": [
+   "copying dishonestly",
+   "quietness",
+   "official document",
+   "studying again"
+  ],
+  "explanation": "'cheating' means copying dishonestly.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7157007",
+  "question": "What does 'answer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "written response",
+  "options": [
+   "written response",
+   "truthfulness",
+   "ranking group",
+   "schedule of study"
+  ],
+  "explanation": "'answer' means written response.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7157008",
+  "question": "What does 'preparation' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "getting ready",
+  "options": [
+   "getting ready",
+   "directions given",
+   "written response",
+   "schedule of study"
+  ],
+  "explanation": "'preparation' means getting ready.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7157009",
+  "question": "Which word means 'written response'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "answer",
+  "options": [
+   "answer",
+   "preparation",
+   "examination",
+   "rules"
+  ],
+  "explanation": "written response — that is 'answer'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7157010",
+  "question": "Her ___ includes a timetable.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "medium",
+  "answer": "plan",
+  "options": [
+   "plan",
+   "timetable",
+   "silence",
+   "failure"
+  ],
+  "explanation": "The word is 'plan': Her plan includes a timetable.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7157011",
+  "question": "Which word means 'official document'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "certificate",
+  "options": [
+   "certificate",
+   "answer",
+   "malpractice",
+   "timetable"
+  ],
+  "explanation": "official document — that is 'certificate'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7157012",
+  "question": "What does 'instructions' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "directions given",
+  "options": [
+   "directions given",
+   "official guidelines",
+   "official document",
+   "short written points"
+  ],
+  "explanation": "'instructions' means directions given.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7157013",
+  "question": "Which word means 'directions given'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "instructions",
+  "options": [
+   "instructions",
+   "penalty",
+   "silence",
+   "strict"
+  ],
+  "explanation": "directions given — that is 'instructions'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7157014",
+  "question": "Which word means 'not succeeding'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "failure",
+  "options": [
+   "failure",
+   "rules",
+   "results",
+   "plan"
+  ],
+  "explanation": "not succeeding — that is 'failure'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7157015",
+  "question": "What does 'certificate' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "official document",
+  "options": [
+   "official document",
+   "scores",
+   "not succeeding",
+   "truthfulness"
+  ],
+  "explanation": "'certificate' means official document.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7157016",
+  "question": "___ is a chance to learn.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "medium",
+  "answer": "failure",
+  "options": [
+   "failure",
+   "rules",
+   "results",
+   "plan"
+  ],
+  "explanation": "The word is 'failure': Failure is a chance to learn.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7157017",
+  "question": "Amina is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "medium",
+  "answer": "candidate",
+  "options": [
+   "candidate",
+   "aggregate",
+   "cheating",
+   "index number"
+  ],
+  "explanation": "The word is 'candidate': Amina is a candidate.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7157018",
+  "question": "What does 'aggregate' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "total marks",
+  "options": [
+   "total marks",
+   "exam question sheet",
+   "formal test",
+   "not succeeding"
+  ],
+  "explanation": "'aggregate' means total marks.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7157019",
+  "question": "Which word means 'studying again'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Examinations",
+  "difficulty": "easy",
+  "answer": "revision",
+  "options": [
+   "revision",
+   "paper",
+   "plan",
+   "examination"
+  ],
+  "explanation": "studying again — that is 'revision'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7267000",
+  "question": "We ___ the programme together.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "medium",
+  "answer": "watch",
+  "options": [
+   "watch",
+   "listen",
+   "article",
+   "prefer"
+  ],
+  "explanation": "The word is 'watch': We watch the programme together.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7267001",
+  "question": "What does 'prefer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "like one thing more than another",
+  "options": [
+   "like one thing more than another",
+   "liked most",
+   "to tell people something officially",
+   "a small phone you carry"
+  ],
+  "explanation": "'prefer' means like one thing more than another.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7267002",
+  "question": "What does 'mobile phone' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "a small phone you carry",
+  "options": [
+   "a small phone you carry",
+   "new information about events",
+   "to send out a programme over the air",
+   "an electronic machine for processing data"
+  ],
+  "explanation": "'mobile phone' means a small phone you carry.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7267003",
+  "question": "The ___ tells us about the rain.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "medium",
+  "answer": "news",
+  "options": [
+   "news",
+   "electronic",
+   "media",
+   "headline"
+  ],
+  "explanation": "The word is 'news': The news tells us about the rain.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH7267004",
+  "question": "What does 'news' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "new information about events",
+  "options": [
+   "new information about events",
+   "a small phone you carry",
+   "a piece of writing in a newspaper or magazine",
+   "a person who hears a radio programme"
+  ],
+  "explanation": "'news' means new information about events.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH7267005",
+  "question": "What does 'report' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "a written or spoken account of an event",
+  "options": [
+   "a written or spoken account of an event",
+   "to hear a radio programme",
+   "facts or details about something",
+   "working with electricity"
+  ],
+  "explanation": "'report' means a written or spoken account of an event.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7267006",
+  "question": "I read an ___ about health.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "medium",
+  "answer": "article",
+  "options": [
+   "article",
+   "information",
+   "listen",
+   "channel"
+  ],
+  "explanation": "The word is 'article': I read an article about health.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7267007",
+  "question": "The drama is a ___ programme.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "medium",
+  "answer": "weekly",
+  "options": [
+   "weekly",
+   "report",
+   "media",
+   "headline"
+  ],
+  "explanation": "The word is 'weekly': The drama is a weekly programme.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7267008",
+  "question": "What does 'weekly' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "happening every week",
+  "options": [
+   "happening every week",
+   "a machine that plays cassettes",
+   "a small plastic box with magnetic tape",
+   "a device that plays sound from the air"
+  ],
+  "explanation": "'weekly' means happening every week.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7267009",
+  "question": "What does 'daily' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "happening every day",
+  "options": [
+   "happening every day",
+   "happening every week",
+   "a device that plays sound from the air",
+   "a piece of information sent to someone"
+  ],
+  "explanation": "'daily' means happening every day.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7267010",
+  "question": "What does 'listen' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "to hear a radio programme",
+  "options": [
+   "to hear a radio programme",
+   "a station on radio or television",
+   "a show on radio or television",
+   "to send out a programme over the air"
+  ],
+  "explanation": "'listen' means to hear a radio programme.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7267011",
+  "question": "What does 'announce' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "to tell people something officially",
+  "options": [
+   "to tell people something officially",
+   "a person who hears a radio programme",
+   "something you do regularly",
+   "a written or spoken account of an event"
+  ],
+  "explanation": "'announce' means to tell people something officially.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7267012",
+  "question": "What does 'viewer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "a person who watches a television programme",
+  "options": [
+   "a person who watches a television programme",
+   "a written or spoken account of an event",
+   "to look at a television programme",
+   "to send out a programme over the air"
+  ],
+  "explanation": "'viewer' means a person who watches a television programme.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH7267013",
+  "question": "What does 'headline' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "the title of a news story",
+  "options": [
+   "the title of a news story",
+   "liked most",
+   "like one thing more than another",
+   "happening every day"
+  ],
+  "explanation": "'headline' means the title of a news story.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH7267014",
+  "question": "The ___ in the shop include radio and mobile phone.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "medium",
+  "answer": "media",
+  "options": [
+   "media",
+   "channel",
+   "article",
+   "record"
+  ],
+  "explanation": "The word is 'media': The media in the shop include radio and mobile phone.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7267015",
+  "question": "Kato watches the ___ in the evening.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "medium",
+  "answer": "television",
+  "options": [
+   "television",
+   "announce",
+   "computer",
+   "media"
+  ],
+  "explanation": "The word is 'television': Kato watches the television in the evening.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7267016",
+  "question": "Which word means 'happening every day'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "daily",
+  "options": [
+   "daily",
+   "favourite",
+   "weekly",
+   "broadcast"
+  ],
+  "explanation": "happening every day — that is 'daily'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7267017",
+  "question": "Which word means 'something you do regularly'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "habit",
+  "options": [
+   "habit",
+   "viewer",
+   "information",
+   "weekly"
+  ],
+  "explanation": "something you do regularly — that is 'habit'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH7267018",
+  "question": "What does 'channel' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "easy",
+  "answer": "a station on radio or television",
+  "options": [
+   "a station on radio or television",
+   "happening every day",
+   "to send out a programme over the air",
+   "liked most"
+  ],
+  "explanation": "'channel' means a station on radio or television.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7267019",
+  "question": "The ___ shows a new phone.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Electronic Media",
+  "difficulty": "medium",
+  "answer": "advert",
+  "options": [
+   "advert",
+   "record",
+   "media",
+   "report"
+  ],
+  "explanation": "The word is 'advert': The advert shows a new phone.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7241000",
+  "question": "What does 'obey' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "follow rules or orders",
+  "options": [
+   "follow rules or orders",
+   "games and fun activities",
+   "be present at",
+   "a safe place to stay"
+  ],
+  "explanation": "'obey' means follow rules or orders.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7241001",
+  "question": "Boys and girls are ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "equal",
+  "options": [
+   "equal",
+   "protection",
+   "choose",
+   "chore"
+  ],
+  "explanation": "The word is 'equal': Boys and girls are equal.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7241002",
+  "question": "We ___ the teacher's instructions.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "obey",
+  "options": [
+   "obey",
+   "freedom",
+   "protect",
+   "learn"
+  ],
+  "explanation": "The word is 'obey': We obey the teacher's instructions.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7241003",
+  "question": "What does 'fair' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "just and equal",
+  "options": [
+   "just and equal",
+   "games and fun activities",
+   "be present at",
+   "something you are allowed to have or do"
+  ],
+  "explanation": "'fair' means just and equal.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7241004",
+  "question": "What does 'duty' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "something you must do",
+  "options": [
+   "something you must do",
+   "the same for everyone",
+   "keep safe from harm",
+   "being well and not sick"
+  ],
+  "explanation": "'duty' means something you must do.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7241005",
+  "question": "Which word means 'a duty to do something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "responsibility",
+  "options": [
+   "responsibility",
+   "food",
+   "equal",
+   "education"
+  ],
+  "explanation": "a duty to do something — that is 'responsibility'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7241006",
+  "question": "What does 'right' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "something you are allowed to have or do",
+  "options": [
+   "something you are allowed to have or do",
+   "a duty to do something",
+   "being able to choose and speak",
+   "a safe place to stay"
+  ],
+  "explanation": "'right' means something you are allowed to have or do.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7241007",
+  "question": "Every baby gets a ___ at birth.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "name",
+  "options": [
+   "name",
+   "animal",
+   "attend",
+   "responsibility"
+  ],
+  "explanation": "The word is 'name': Every baby gets a name at birth.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH7241008",
+  "question": "We must ___ up for justice.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "speak",
+  "options": [
+   "speak",
+   "discipline",
+   "help",
+   "right"
+  ],
+  "explanation": "The word is 'speak': We must speak up for justice.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7241009",
+  "question": "What does 'voice' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "your opinion expressed",
+  "options": [
+   "your opinion expressed",
+   "be present at",
+   "a living creature like a cow, goat, or dog",
+   "treat others well"
+  ],
+  "explanation": "'voice' means your opinion expressed.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH7241010",
+  "question": "Which word means 'be present at'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "attend",
+  "options": [
+   "attend",
+   "speak",
+   "shelter",
+   "discipline"
+  ],
+  "explanation": "be present at — that is 'attend'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7241011",
+  "question": "Amina loves her ___ at Primary Seven.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "education",
+  "options": [
+   "education",
+   "health",
+   "protect",
+   "learn"
+  ],
+  "explanation": "The word is 'education': Amina loves her education at Primary Seven.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7241012",
+  "question": "Which word means 'being well and not sick'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "health",
+  "options": [
+   "health",
+   "speak",
+   "discipline",
+   "freedom"
+  ],
+  "explanation": "being well and not sick — that is 'health'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH7241013",
+  "question": "Which word means 'being able to choose and speak'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "freedom",
+  "options": [
+   "freedom",
+   "play",
+   "help",
+   "health"
+  ],
+  "explanation": "being able to choose and speak — that is 'freedom'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7241014",
+  "question": "Attending school is every child's ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "duty",
+  "options": [
+   "duty",
+   "right",
+   "choose",
+   "responsibility"
+  ],
+  "explanation": "The word is 'duty': Attending school is every child's duty.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7241015",
+  "question": "What does 'care' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "looking after well-being",
+  "options": [
+   "looking after well-being",
+   "just and equal",
+   "being able to choose and speak",
+   "being well and not sick"
+  ],
+  "explanation": "'care' means looking after well-being.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7241016",
+  "question": "Which word means 'being kept safe from harm'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "protection",
+  "options": [
+   "protection",
+   "equal",
+   "voice",
+   "suffer"
+  ],
+  "explanation": "being kept safe from harm — that is 'protection'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7241017",
+  "question": "What does 'name' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "easy",
+  "answer": "what you are called",
+  "options": [
+   "what you are called",
+   "your opinion expressed",
+   "self-control and good behaviour",
+   "say what you think"
+  ],
+  "explanation": "'name' means what you are called.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH7241018",
+  "question": "Every animal needs clean ___ daily.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "water",
+  "options": [
+   "water",
+   "right",
+   "care",
+   "protect"
+  ],
+  "explanation": "The word is 'water': Every animal needs clean water daily.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7241019",
+  "question": "We must ___ animals from disease.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Rights",
+  "difficulty": "medium",
+  "answer": "protect",
+  "options": [
+   "protect",
+   "water",
+   "right",
+   "shelter"
+  ],
+  "explanation": "The word is 'protect': We must protect animals from disease.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7311000",
+  "question": "Which word means 'make dirty or harmful'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "pollute",
+  "options": [
+   "pollute",
+   "reserve",
+   "waste basket",
+   "fauna"
+  ],
+  "explanation": "make dirty or harmful — that is 'pollute'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7311001",
+  "question": "The **___** blew off the roof of the classroom.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "medium",
+  "answer": "storms",
+  "options": [
+   "storms",
+   "manure",
+   "as well as",
+   "had to"
+  ],
+  "explanation": "The word is 'storms': The **storms** blew off the roof of the classroom.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7311002",
+  "question": "What does 'terraces' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "level steps on a hillside",
+  "options": [
+   "level steps on a hillside",
+   "setting fire to land or waste",
+   "the act of protecting nature",
+   "container for household waste"
+  ],
+  "explanation": "'terraces' means level steps on a hillside.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7311003",
+  "question": "Grandmother puts cow **___** in her garden.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "medium",
+  "answer": "manure",
+  "options": [
+   "manure",
+   "had to",
+   "waste basket",
+   "source"
+  ],
+  "explanation": "The word is 'manure': Grandmother puts cow **manure** in her garden.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7311004",
+  "question": "Throw the paper in the **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "medium",
+  "answer": "waste basket",
+  "options": [
+   "waste basket",
+   "refuse",
+   "raw materials",
+   "habitat"
+  ],
+  "explanation": "The word is 'waste basket': Throw the paper in the **waste basket**.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7311005",
+  "question": "Which word means 'the act of protecting nature'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "conservation",
+  "options": [
+   "conservation",
+   "crop rotation",
+   "pollution",
+   "refuse"
+  ],
+  "explanation": "the act of protecting nature — that is 'conservation'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7311006",
+  "question": "What does 'refuse' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "rubbish that is thrown away",
+  "options": [
+   "rubbish that is thrown away",
+   "furnace for burning waste safely",
+   "natural home of plants and animals",
+   "small bin for paper and light waste"
+  ],
+  "explanation": "'refuse' means rubbish that is thrown away.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7311007",
+  "question": "What does 'incinerator' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "furnace for burning waste safely",
+  "options": [
+   "furnace for burning waste safely",
+   "protected area for nature",
+   "animals of a place",
+   "preserving fish or meat with smoke"
+  ],
+  "explanation": "'incinerator' means furnace for burning waste safely.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7311008",
+  "question": "What does 'reserve' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "protected area for nature",
+  "options": [
+   "protected area for nature",
+   "get rid of waste properly",
+   "covering soil with dry grass",
+   "preserving fish or meat with smoke"
+  ],
+  "explanation": "'reserve' means protected area for nature.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7311009",
+  "question": "The park **___** has antelopes, monkeys and birds.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "medium",
+  "answer": "fauna",
+  "options": [
+   "fauna",
+   "floods",
+   "mulching",
+   "overgrazing"
+  ],
+  "explanation": "The word is 'fauna': The park **fauna** has antelopes, monkeys and birds.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7311010",
+  "question": "Which word means 'removing water from land'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "draining",
+  "options": [
+   "draining",
+   "conservation",
+   "had to",
+   "smoking"
+  ],
+  "explanation": "removing water from land — that is 'draining'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7311011",
+  "question": "Which word means 'natural things used to make products'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "raw materials",
+  "options": [
+   "raw materials",
+   "as well as",
+   "erosion",
+   "flora"
+  ],
+  "explanation": "natural things used to make products — that is 'raw materials'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7311012",
+  "question": "Which word means 'throwing waste carelessly'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "dumping",
+  "options": [
+   "dumping",
+   "incinerator",
+   "raw materials",
+   "mulching"
+  ],
+  "explanation": "throwing waste carelessly — that is 'dumping'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7311013",
+  "question": "Which word means 'in addition to'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "as well as",
+  "options": [
+   "as well as",
+   "habitat",
+   "draining",
+   "burning"
+  ],
+  "explanation": "in addition to — that is 'as well as'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7311014",
+  "question": "Which word means 'long time without rain'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "drought",
+  "options": [
+   "drought",
+   "reserve",
+   "crop rotation",
+   "pollute"
+  ],
+  "explanation": "long time without rain — that is 'drought'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7311015",
+  "question": "What does 'degrade' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "make worse or lower quality",
+  "options": [
+   "make worse or lower quality",
+   "natural home of plants and animals",
+   "throwing waste carelessly",
+   "preserving fish or meat with smoke"
+  ],
+  "explanation": "'degrade' means make worse or lower quality.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7311016",
+  "question": "Which word means 'plants of a place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "flora",
+  "options": [
+   "flora",
+   "waste basket",
+   "had to",
+   "drought"
+  ],
+  "explanation": "plants of a place — that is 'flora'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7311017",
+  "question": "What does 'pollution' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "dirty air, water or land",
+  "options": [
+   "dirty air, water or land",
+   "rubbish or waste",
+   "removing water from land",
+   "soil being washed or blown away"
+  ],
+  "explanation": "'pollution' means dirty air, water or land.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7311018",
+  "question": "Which word means 'get rid of waste properly'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "easy",
+  "answer": "dispose",
+  "options": [
+   "dispose",
+   "pollute",
+   "pollution",
+   "mulching"
+  ],
+  "explanation": "get rid of waste properly — that is 'dispose'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7311019",
+  "question": "The river is the **___** of water for the village.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Environmental Protection",
+  "difficulty": "medium",
+  "answer": "source",
+  "options": [
+   "source",
+   "floods",
+   "manure",
+   "draining"
+  ],
+  "explanation": "The word is 'source': The river is the **source** of water for the village.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7390000",
+  "question": "What does 'engagement' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "promise to marry",
+  "options": [
+   "promise to marry",
+   "husband or wife",
+   "traditional cloth from tree bark",
+   "performed by government officials"
+  ],
+  "explanation": "'engagement' means promise to marry.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7390001",
+  "question": "Which word means 'the marriage ceremony'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "wedding",
+  "options": [
+   "wedding",
+   "funeral service",
+   "certificate",
+   "coffin"
+  ],
+  "explanation": "the marriage ceremony — that is 'wedding'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7390002",
+  "question": "Which word means 'to feel or show grief'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "mourn",
+  "options": [
+   "mourn",
+   "couple",
+   "spouse",
+   "funeral service"
+  ],
+  "explanation": "to feel or show grief — that is 'mourn'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7390003",
+  "question": "What does 'best man' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "the groom's main helper",
+  "options": [
+   "the groom's main helper",
+   "a bunch of flowers",
+   "woman whose husband has died",
+   "the woman getting married"
+  ],
+  "explanation": "'best man' means the groom's main helper.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH7390004",
+  "question": "The village gathered to ___ the elder.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "mourn",
+  "options": [
+   "mourn",
+   "couple",
+   "spouse",
+   "funeral service"
+  ],
+  "explanation": "The word is 'mourn': The village gathered to mourn the elder.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7390005",
+  "question": "Their ___ was celebrated by the whole village.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "marriage",
+  "options": [
+   "marriage",
+   "couple",
+   "spouse",
+   "mourner"
+  ],
+  "explanation": "The word is 'marriage': Their marriage was celebrated by the whole village.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7390006",
+  "question": "He placed the ___ on her finger.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "ring",
+  "options": [
+   "ring",
+   "introduction",
+   "mourner",
+   "mourn"
+  ],
+  "explanation": "The word is 'ring': He placed the ring on her finger.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7390007",
+  "question": "They used ___ for the funeral wrapping.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "barkcloth",
+  "options": [
+   "barkcloth",
+   "best man",
+   "cultural",
+   "will"
+  ],
+  "explanation": "The word is 'barkcloth': They used barkcloth for the funeral wrapping.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH7390008",
+  "question": "The ___ signed the certificate.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "couple",
+  "options": [
+   "couple",
+   "funeral service",
+   "heiress",
+   "wedding"
+  ],
+  "explanation": "The word is 'couple': The couple signed the certificate.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7390009",
+  "question": "The ___ carried the bouquet.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "maid",
+  "options": [
+   "maid",
+   "certificate",
+   "ring",
+   "wedding"
+  ],
+  "explanation": "The word is 'maid': The maid carried the bouquet.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7390010",
+  "question": "Which word means 'husband or wife'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "spouse",
+  "options": [
+   "spouse",
+   "will",
+   "barkcloth",
+   "bridegroom"
+  ],
+  "explanation": "husband or wife — that is 'spouse'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7390011",
+  "question": "What does 'bride price' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "gifts given to the bride's family",
+  "options": [
+   "gifts given to the bride's family",
+   "female heir",
+   "acts of honour",
+   "a circular band for marriage"
+  ],
+  "explanation": "'bride price' means gifts given to the bride's family.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH7390012",
+  "question": "The ___ marriage followed clan customs.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "cultural",
+  "options": [
+   "cultural",
+   "ring",
+   "bride price",
+   "introduction"
+  ],
+  "explanation": "The word is 'cultural': The cultural marriage followed clan customs.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7390013",
+  "question": "What does 'maid' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "the bride's main helper",
+  "options": [
+   "the bride's main helper",
+   "the groom's main helper",
+   "the act of placing a body in the ground",
+   "the union of two people"
+  ],
+  "explanation": "'maid' means the bride's main helper.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7390014",
+  "question": "Which word means 'the groom's main helper'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "best man",
+  "options": [
+   "best man",
+   "mourner",
+   "grave",
+   "cultural"
+  ],
+  "explanation": "the groom's main helper — that is 'best man'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH7390015",
+  "question": "They had a ___ ceremony in the mosque.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "religious",
+  "options": [
+   "religious",
+   "best man",
+   "spouse",
+   "will"
+  ],
+  "explanation": "The word is 'religious': They had a religious ceremony in the mosque.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7390016",
+  "question": "The wedding ___ was held at the community hall.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "function",
+  "options": [
+   "function",
+   "maid",
+   "ancestral",
+   "heir"
+  ],
+  "explanation": "The word is 'function': The wedding function was held at the community hall.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7390017",
+  "question": "They signed the ___ at the registry.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "medium",
+  "answer": "certificate",
+  "options": [
+   "certificate",
+   "couple",
+   "heir",
+   "dowry"
+  ],
+  "explanation": "The word is 'certificate': They signed the certificate at the registry.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7390018",
+  "question": "Which word means 'the man getting married'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "bridegroom",
+  "options": [
+   "bridegroom",
+   "maid",
+   "cemetery",
+   "will"
+  ],
+  "explanation": "the man getting married — that is 'bridegroom'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH7390019",
+  "question": "What does 'introduction' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Ceremonies",
+  "difficulty": "easy",
+  "answer": "formal meeting of families",
+  "options": [
+   "formal meeting of families",
+   "the man getting married",
+   "two people who are married",
+   "a formal gathering"
+  ],
+  "explanation": "'introduction' means formal meeting of families.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ }
+]

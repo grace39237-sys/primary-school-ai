@@ -1,0 +1,4802 @@
+[
+ {
+  "id": "TH6159000",
+  "question": "Which word means 'in the two sets at the same time'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "both",
+  "options": [
+   "both",
+   "venn diagram",
+   "neither",
+   "word problem"
+  ],
+  "explanation": "in the two sets at the same time — that is 'both'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6159001",
+  "question": "What does 'word problem' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "a question written in words that needs maths to solve",
+  "options": [
+   "a question written in words that needs maths to solve",
+   "a part of a diagram separated by lines",
+   "in the two sets at the same time",
+   "in one set but not the other"
+  ],
+  "explanation": "'word problem' means a question written in words that needs maths to solve.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH6159002",
+  "question": "We need to ___ how many like only football.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "find",
+  "options": [
+   "find",
+   "word problem",
+   "intersection",
+   "total"
+  ],
+  "explanation": "The word is 'find': We need to find how many like only football.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6159003",
+  "question": "The ___ number of pupils is 40.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "total",
+  "options": [
+   "total",
+   "union",
+   "both",
+   "complement"
+  ],
+  "explanation": "The word is 'total': The total number of pupils is 40.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6159004",
+  "question": "We ___ the union to show every member.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "shade",
+  "options": [
+   "shade",
+   "venn diagram",
+   "word problem",
+   "subset"
+  ],
+  "explanation": "The word is 'shade': We shade the union to show every member.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6159005",
+  "question": "The ___ of {beans} in the universal set {maize, beans, cassava} is {maize, cassava}.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "complement",
+  "options": [
+   "complement",
+   "neither",
+   "shade",
+   "subset"
+  ],
+  "explanation": "The word is 'complement': The complement of {beans} in the universal set {maize, beans, cassava} is {maize, cassava}.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6159006",
+  "question": "Which word means 'all members in either set'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "union",
+  "options": [
+   "union",
+   "members",
+   "venn diagram",
+   "member"
+  ],
+  "explanation": "all members in either set — that is 'union'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6159007",
+  "question": "What does 'members' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "the items that belong to a set",
+  "options": [
+   "the items that belong to a set",
+   "how many items are in a set or region",
+   "a set whose members are all in another set",
+   "all members in the universal set that are not in the given set"
+  ],
+  "explanation": "'members' means the items that belong to a set.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6159008",
+  "question": "What does 'complement' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "all members in the universal set that are not in the given set",
+  "options": [
+   "all members in the universal set that are not in the given set",
+   "the whole amount when all parts are added",
+   "the items that belong to a set",
+   "a question written in words that needs maths to solve"
+  ],
+  "explanation": "'complement' means all members in the universal set that are not in the given set.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6159009",
+  "question": "What does 'union' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "all members in either set",
+  "options": [
+   "all members in either set",
+   "a picture with circles that shows sets",
+   "to be a part of a set",
+   "a question written in words that needs maths to solve"
+  ],
+  "explanation": "'union' means all members in either set.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6159010",
+  "question": "Beans are in ___ Set A and Set B.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "both",
+  "options": [
+   "both",
+   "venn diagram",
+   "neither",
+   "word problem"
+  ],
+  "explanation": "The word is 'both': Beans are in both Set A and Set B.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6159011",
+  "question": "Which word means 'a question written in words that needs maths to solve'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "word problem",
+  "options": [
+   "word problem",
+   "number of members",
+   "both",
+   "only"
+  ],
+  "explanation": "a question written in words that needs maths to solve — that is 'word problem'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH6159012",
+  "question": "Teacher Nankya drew a ___ on the board.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "venn diagram",
+  "options": [
+   "venn diagram",
+   "belong",
+   "total",
+   "member"
+  ],
+  "explanation": "The word is 'venn diagram': Teacher Nankya drew a venn diagram on the board.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH6159013",
+  "question": "Which word means 'members common to both sets'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "intersection",
+  "options": [
+   "intersection",
+   "subset",
+   "neither",
+   "complement"
+  ],
+  "explanation": "members common to both sets — that is 'intersection'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6159014",
+  "question": "Our ___ is all food items at the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "universal set",
+  "options": [
+   "universal set",
+   "neither",
+   "subset",
+   "shade"
+  ],
+  "explanation": "The word is 'universal set': Our universal set is all food items at the market.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6159015",
+  "question": "What does 'only' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "in one set but not the other",
+  "options": [
+   "in one set but not the other",
+   "in the two sets at the same time",
+   "all members in the universal set that are not in the given set",
+   "to be a part of a set"
+  ],
+  "explanation": "'only' means in one set but not the other.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6159016",
+  "question": "What does 'shade' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "to colour a part of a diagram",
+  "options": [
+   "to colour a part of a diagram",
+   "the items that belong to a set",
+   "all members in the universal set that are not in the given set",
+   "to work out the answer"
+  ],
+  "explanation": "'shade' means to colour a part of a diagram.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6159017",
+  "question": "Which word means 'how many items are in a set or region'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "number of members",
+  "options": [
+   "number of members",
+   "members",
+   "region",
+   "universal set"
+  ],
+  "explanation": "how many items are in a set or region — that is 'number of members'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH6159018",
+  "question": "The ___ of Set A and Set B includes maize, beans, and groundnuts.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "medium",
+  "answer": "union",
+  "options": [
+   "union",
+   "members",
+   "venn diagram",
+   "member"
+  ],
+  "explanation": "The word is 'union': The union of Set A and Set B includes maize, beans, and groundnuts.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6159019",
+  "question": "Which word means 'the items that belong to a set'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Set Concepts",
+  "difficulty": "easy",
+  "answer": "members",
+  "options": [
+   "members",
+   "neither",
+   "find",
+   "shade"
+  ],
+  "explanation": "the items that belong to a set — that is 'members'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6121000",
+  "question": "What does 'value' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "the amount a digit represents",
+  "options": [
+   "the amount a digit represents",
+   "a number with six zeros",
+   "a number multiplied by itself twice (power of 3)",
+   "the result of multiplying a number by itself a given number of times"
+  ],
+  "explanation": "'value' means the amount a digit represents.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH6121001",
+  "question": "Which word means 'the number that is multiplied by itself'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "base",
+  "options": [
+   "base",
+   "place value",
+   "squared",
+   "index"
+  ],
+  "explanation": "the number that is multiplied by itself — that is 'base'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6121002",
+  "question": "Which word means 'a number with nine zeros'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "billion",
+  "options": [
+   "billion",
+   "round off",
+   "value",
+   "million"
+  ],
+  "explanation": "a number with nine zeros — that is 'billion'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6121003",
+  "question": "Which word means 'the symbols 0 to 9 used to write numbers'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "digits",
+  "options": [
+   "digits",
+   "words",
+   "million",
+   "place value"
+  ],
+  "explanation": "the symbols 0 to 9 used to write numbers — that is 'digits'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6121004",
+  "question": "Which word means 'the result of multiplying a number by itself a given number of times'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "power",
+  "options": [
+   "power",
+   "common",
+   "figures",
+   "factor"
+  ],
+  "explanation": "the result of multiplying a number by itself a given number of times — that is 'power'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6121005",
+  "question": "What does 'round off' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "to change a number to the nearest ten, hundred, etc.",
+  "options": [
+   "to change a number to the nearest ten, hundred, etc.",
+   "the small number that shows how many times to multiply the base",
+   "the closest value when rounding",
+   "a number multiplied by itself twice (power of 3)"
+  ],
+  "explanation": "'round off' means to change a number to the nearest ten, hundred, etc..",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6121006",
+  "question": "Which word means 'a number multiplied by itself once (power of 2)'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "squared",
+  "options": [
+   "squared",
+   "digits",
+   "words",
+   "round off"
+  ],
+  "explanation": "a number multiplied by itself once (power of 2) — that is 'squared'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6121007",
+  "question": "What does 'squared' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "a number multiplied by itself once (power of 2)",
+  "options": [
+   "a number multiplied by itself once (power of 2)",
+   "the result of multiplying a number by itself a given number of times",
+   "the symbols 0 to 9 used to write numbers",
+   "writing a number using letters"
+  ],
+  "explanation": "'squared' means a number multiplied by itself once (power of 2).",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6121008",
+  "question": "What does 'billion' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "a number with nine zeros",
+  "options": [
+   "a number with nine zeros",
+   "the amount a digit represents",
+   "a number multiplied by itself once (power of 2)",
+   "writing a number using digits"
+  ],
+  "explanation": "'billion' means a number with nine zeros.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6121009",
+  "question": "In 4,567 the **___** of 5 is five hundred.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "medium",
+  "answer": "place value",
+  "options": [
+   "place value",
+   "million",
+   "multiple",
+   "figures"
+  ],
+  "explanation": "The word is 'place value': In 4,567 the **place value** of 5 is five hundred.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6121010",
+  "question": "Which word means 'a number with six zeros'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "million",
+  "options": [
+   "million",
+   "base",
+   "cubed",
+   "expand"
+  ],
+  "explanation": "a number with six zeros — that is 'million'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6121011",
+  "question": "We write one thousand as 1,000 in **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "medium",
+  "answer": "figures",
+  "options": [
+   "figures",
+   "index",
+   "words",
+   "billion"
+  ],
+  "explanation": "The word is 'figures': We write one thousand as 1,000 in **figures**.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6121012",
+  "question": "2 to the **___** of 3 is 8.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "medium",
+  "answer": "power",
+  "options": [
+   "power",
+   "common",
+   "figures",
+   "factor"
+  ],
+  "explanation": "The word is 'power': 2 to the **power** of 3 is 8.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6121013",
+  "question": "What does 'digits' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "the symbols 0 to 9 used to write numbers",
+  "options": [
+   "the symbols 0 to 9 used to write numbers",
+   "a number multiplied by itself twice (power of 3)",
+   "the number that is multiplied by itself",
+   "the amount a digit represents"
+  ],
+  "explanation": "'digits' means the symbols 0 to 9 used to write numbers.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6121014",
+  "question": "Which word means 'to write a number as the sum of each digit's value'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "expand",
+  "options": [
+   "expand",
+   "index",
+   "common",
+   "squared"
+  ],
+  "explanation": "to write a number as the sum of each digit's value — that is 'expand'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6121015",
+  "question": "What does 'nearest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "the closest value when rounding",
+  "options": [
+   "the closest value when rounding",
+   "writing a number using letters",
+   "writing a number using digits",
+   "least common multiple, the smallest number that is a multiple of all given numbers"
+  ],
+  "explanation": "'nearest' means the closest value when rounding.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH6121016",
+  "question": "The **___** of 4 and 6 is 12.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "medium",
+  "answer": "lcm",
+  "options": [
+   "lcm",
+   "power",
+   "expand",
+   "factor"
+  ],
+  "explanation": "The word is 'lcm': The **lcm** of 4 and 6 is 12.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6121017",
+  "question": "What does 'base' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "the number that is multiplied by itself",
+  "options": [
+   "the number that is multiplied by itself",
+   "least common multiple, the smallest number that is a multiple of all given numbers",
+   "writing a number using digits",
+   "a number that divides another number exactly"
+  ],
+  "explanation": "'base' means the number that is multiplied by itself.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6121018",
+  "question": "Which word means 'writing a number using letters'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "words",
+  "options": [
+   "words",
+   "common",
+   "multiple",
+   "figures"
+  ],
+  "explanation": "writing a number using letters — that is 'words'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH6121019",
+  "question": "Which word means 'the small number that shows how many times to multiply the base'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Whole Numbers",
+  "difficulty": "easy",
+  "answer": "index",
+  "options": [
+   "index",
+   "round off",
+   "place value",
+   "expand"
+  ],
+  "explanation": "the small number that shows how many times to multiply the base — that is 'index'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6184000",
+  "question": "Write the ___ clearly.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "medium",
+  "answer": "solution",
+  "options": [
+   "solution",
+   "altogether",
+   "order",
+   "of"
+  ],
+  "explanation": "The word is 'solution': Write the solution clearly.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6184001",
+  "question": "Which word means 'means multiply, as in 2 of 5'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "of",
+  "options": [
+   "of",
+   "remainder",
+   "order",
+   "estimate"
+  ],
+  "explanation": "means multiply, as in 2 of 5 — that is 'of'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6184002",
+  "question": "Which word means 'to split a number into equal parts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "check",
+   "product",
+   "of"
+  ],
+  "explanation": "to split a number into equal parts — that is 'divide'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6184003",
+  "question": "The ___ of 20 ÷ 5 is 4.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "medium",
+  "answer": "quotient",
+  "options": [
+   "quotient",
+   "check",
+   "multiply",
+   "order"
+  ],
+  "explanation": "The word is 'quotient': The quotient of 20 ÷ 5 is 4.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH6184004",
+  "question": "Which word means 'a mathematical action such as add, subtract, multiply, divide'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "operation",
+  "options": [
+   "operation",
+   "multiply",
+   "order",
+   "check"
+  ],
+  "explanation": "a mathematical action such as add, subtract, multiply, divide — that is 'operation'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6184005",
+  "question": "What does 'check' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "to verify an answer by using the opposite operation",
+  "options": [
+   "to verify an answer by using the opposite operation",
+   "means multiply, as in 2 of 5",
+   "the result of division",
+   "to split a number into equal parts"
+  ],
+  "explanation": "'check' means to verify an answer by using the opposite operation.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6184006",
+  "question": "Which word means 'to change a number to the nearest ten, hundred, etc.'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "round off",
+  "options": [
+   "round off",
+   "estimate",
+   "reasonable",
+   "altogether"
+  ],
+  "explanation": "to change a number to the nearest ten, hundred, etc. — that is 'round off'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6184007",
+  "question": "Follow the ___: brackets first.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "medium",
+  "answer": "order",
+  "options": [
+   "order",
+   "answer",
+   "estimate",
+   "reasonable"
+  ],
+  "explanation": "The word is 'order': Follow the order: brackets first.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6184008",
+  "question": "Which word means 'the rule that tells the order of operations'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "bodmas",
+  "options": [
+   "bodmas",
+   "solution",
+   "altogether",
+   "approximate"
+  ],
+  "explanation": "the rule that tells the order of operations — that is 'bodmas'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6184009",
+  "question": "___ 12 by 15.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "medium",
+  "answer": "multiply",
+  "options": [
+   "multiply",
+   "of",
+   "problem",
+   "answer"
+  ],
+  "explanation": "The word is 'multiply': Multiply 12 by 15.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6184010",
+  "question": "What does 'order' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "the sequence in which operations are done",
+  "options": [
+   "the sequence in which operations are done",
+   "the round brackets ( ) that group numbers",
+   "the total when things are combined",
+   "means multiply, as in 2 of 5"
+  ],
+  "explanation": "'order' means the sequence in which operations are done.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6184011",
+  "question": "The ___ are +, -, ×, ÷.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "medium",
+  "answer": "operations",
+  "options": [
+   "operations",
+   "problem",
+   "solution",
+   "altogether"
+  ],
+  "explanation": "The word is 'operations': The operations are +, -, ×, ÷.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6184012",
+  "question": "The ___ cost is 10,000 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "medium",
+  "answer": "approximate",
+  "options": [
+   "approximate",
+   "divide",
+   "product",
+   "bodmas"
+  ],
+  "explanation": "The word is 'approximate': The approximate cost is 10,000 shillings.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6184013",
+  "question": "Which word means 'to find a close but not exact answer'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "estimate",
+  "options": [
+   "estimate",
+   "problem",
+   "approximate",
+   "reasonable"
+  ],
+  "explanation": "to find a close but not exact answer — that is 'estimate'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6184014",
+  "question": "Is 5,000 a ___ total for 2 kg rice?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "medium",
+  "answer": "reasonable",
+  "options": [
+   "reasonable",
+   "remainder",
+   "check",
+   "bodmas"
+  ],
+  "explanation": "The word is 'reasonable': Is 5,000 a reasonable total for 2 kg rice?",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6184015",
+  "question": "What does 'operations' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "the mathematical actions like add, subtract, multiply, divide",
+  "options": [
+   "the mathematical actions like add, subtract, multiply, divide",
+   "the sequence in which operations are done",
+   "to split a number into equal parts",
+   "an answer that makes sense in the situation"
+  ],
+  "explanation": "'operations' means the mathematical actions like add, subtract, multiply, divide.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6184016",
+  "question": "Which word means 'the result of multiplication'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "product",
+  "options": [
+   "product",
+   "operation",
+   "bodmas",
+   "multiply"
+  ],
+  "explanation": "the result of multiplication — that is 'product'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6184017",
+  "question": "Which word means 'the sequence in which operations are done'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "order",
+  "options": [
+   "order",
+   "answer",
+   "estimate",
+   "reasonable"
+  ],
+  "explanation": "the sequence in which operations are done — that is 'order'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6184018",
+  "question": "What does 'estimate' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "to find a close but not exact answer",
+  "options": [
+   "to find a close but not exact answer",
+   "the final number that solves the problem",
+   "a mathematical action such as add, subtract, multiply, divide",
+   "means multiply, as in 2 of 5"
+  ],
+  "explanation": "'estimate' means to find a close but not exact answer.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6184019",
+  "question": "What does 'answer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Operations on Whole Numbers",
+  "difficulty": "easy",
+  "answer": "the final number that solves the problem",
+  "options": [
+   "the final number that solves the problem",
+   "the result of multiplication",
+   "to verify an answer by using the opposite operation",
+   "to split a number into equal parts"
+  ],
+  "explanation": "'answer' means the final number that solves the problem.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6154000",
+  "question": "Which word means 'the sum of all digits in a number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "digit sum",
+  "options": [
+   "digit sum",
+   "test",
+   "sequence",
+   "factor"
+  ],
+  "explanation": "the sum of all digits in a number — that is 'digit sum'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6154001",
+  "question": "Which word means 'applying a rule to check divisibility'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "test",
+  "options": [
+   "test",
+   "digit sum",
+   "squared",
+   "pattern"
+  ],
+  "explanation": "applying a rule to check divisibility — that is 'test'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6154002",
+  "question": "What does 'prime' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "a number greater than 1 that has exactly two factors: 1 and itself",
+  "options": [
+   "a number greater than 1 that has exactly two factors: 1 and itself",
+   "applying a rule to check divisibility",
+   "a number ending in 0, 2, 4, 6, or 8",
+   "a number greater than 1 that has more than two factors"
+  ],
+  "explanation": "'prime' means a number greater than 1 that has exactly two factors: 1 and itself.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6154003",
+  "question": "Which word means 'a number greater than 1 that has exactly two factors: 1 and itself'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "prime",
+  "options": [
+   "prime",
+   "factor",
+   "divisible",
+   "cubed"
+  ],
+  "explanation": "a number greater than 1 that has exactly two factors: 1 and itself — that is 'prime'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6154004",
+  "question": "Which word means 'an ordered list of numbers that follows a rule'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "sequence",
+  "options": [
+   "sequence",
+   "rule",
+   "pattern",
+   "factor"
+  ],
+  "explanation": "an ordered list of numbers that follows a rule — that is 'sequence'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6154005",
+  "question": "Which word means 'multiplied by itself, written as a small 2'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "squared",
+  "options": [
+   "squared",
+   "factor",
+   "term",
+   "pattern"
+  ],
+  "explanation": "multiplied by itself, written as a small 2 — that is 'squared'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6154006",
+  "question": "Which word means 'multiplied by itself twice, written as a small 3'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "cubed",
+  "options": [
+   "cubed",
+   "test",
+   "divisible",
+   "factor"
+  ],
+  "explanation": "multiplied by itself twice, written as a small 3 — that is 'cubed'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6154007",
+  "question": "The ___ for 5, 10, 15 is 'add 5'.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "medium",
+  "answer": "rule",
+  "options": [
+   "rule",
+   "divisible",
+   "sequence",
+   "pattern"
+  ],
+  "explanation": "The word is 'rule': The rule for 5, 10, 15 is 'add 5'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6154008",
+  "question": "Which word means 'a number made by multiplying a given number by 1, 2, 3...'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "multiple",
+  "options": [
+   "multiple",
+   "cube number",
+   "even",
+   "test"
+  ],
+  "explanation": "a number made by multiplying a given number by 1, 2, 3... — that is 'multiple'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6154009",
+  "question": "12 is ___ because it has factors 1, 2, 3, 4, 6, 12.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "medium",
+  "answer": "composite",
+  "options": [
+   "composite",
+   "test",
+   "term",
+   "squared"
+  ],
+  "explanation": "The word is 'composite': 12 is composite because it has factors 1, 2, 3, 4, 6, 12.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6154010",
+  "question": "Which word means 'a formula to find any term using its position n'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "nth term",
+  "options": [
+   "nth term",
+   "even",
+   "digit sum",
+   "cube number"
+  ],
+  "explanation": "a formula to find any term using its position n — that is 'nth term'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH6154011",
+  "question": "27 is a ___ because 3 × 3 × 3 = 27.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "medium",
+  "answer": "cube number",
+  "options": [
+   "cube number",
+   "composite",
+   "squared",
+   "rule"
+  ],
+  "explanation": "The word is 'cube number': 27 is a cube number because 3 × 3 × 3 = 27.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6154012",
+  "question": "15 is ___ by 3 because 15 ÷ 3 = 5.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "medium",
+  "answer": "divisible",
+  "options": [
+   "divisible",
+   "pattern",
+   "digit sum",
+   "squared"
+  ],
+  "explanation": "The word is 'divisible': 15 is divisible by 3 because 15 ÷ 3 = 5.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6154013",
+  "question": "Which word means 'a number ending in 0, 2, 4, 6, or 8'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "even",
+  "options": [
+   "even",
+   "squared",
+   "nth term",
+   "cubed"
+  ],
+  "explanation": "a number ending in 0, 2, 4, 6, or 8 — that is 'even'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6154014",
+  "question": "Which word means 'the result of multiplying a number by itself twice'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "cube number",
+  "options": [
+   "cube number",
+   "composite",
+   "squared",
+   "rule"
+  ],
+  "explanation": "the result of multiplying a number by itself twice — that is 'cube number'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6154015",
+  "question": "7 is ___ because only 1 and 7 divide it.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "medium",
+  "answer": "prime",
+  "options": [
+   "prime",
+   "factor",
+   "divisible",
+   "cubed"
+  ],
+  "explanation": "The word is 'prime': 7 is prime because only 1 and 7 divide it.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6154016",
+  "question": "The ___ 1, 4, 9, 16 shows square numbers.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "medium",
+  "answer": "sequence",
+  "options": [
+   "sequence",
+   "rule",
+   "pattern",
+   "factor"
+  ],
+  "explanation": "The word is 'sequence': The sequence 1, 4, 9, 16 shows square numbers.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6154017",
+  "question": "Which word means 'the regular way the sequence changes'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "pattern",
+  "options": [
+   "pattern",
+   "term",
+   "square number",
+   "prime"
+  ],
+  "explanation": "the regular way the sequence changes — that is 'pattern'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6154018",
+  "question": "What does 'cube number' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "easy",
+  "answer": "the result of multiplying a number by itself twice",
+  "options": [
+   "the result of multiplying a number by itself twice",
+   "a number made by multiplying a given number by 1, 2, 3...",
+   "when one number divides another exactly with no remainder",
+   "a number greater than 1 that has exactly two factors: 1 and itself"
+  ],
+  "explanation": "'cube number' means the result of multiplying a number by itself twice.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6154019",
+  "question": "5 ___ is 5² = 25.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Patterns and Sequences",
+  "difficulty": "medium",
+  "answer": "squared",
+  "options": [
+   "squared",
+   "factor",
+   "term",
+   "pattern"
+  ],
+  "explanation": "The word is 'squared': 5 squared is 5² = 25.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6247000",
+  "question": "What does 'mixed number' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "a whole number and a fraction",
+  "options": [
+   "a whole number and a fraction",
+   "to split into equal parts",
+   "means multiply",
+   "the result of multiplying"
+  ],
+  "explanation": "'mixed number' means a whole number and a fraction.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6247001",
+  "question": "Which word means 'the result of adding'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "of",
+   "percentage",
+   "reciprocal"
+  ],
+  "explanation": "the result of adding — that is 'sum'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6247002",
+  "question": "We **___** 2/9 from 5/9 to get 3/9.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "product",
+   "percentage",
+   "sum"
+  ],
+  "explanation": "The word is 'subtract': We **subtract** 2/9 from 5/9 to get 3/9.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6247003",
+  "question": "**Percent** means per **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "hundred",
+  "options": [
+   "hundred",
+   "percentage",
+   "divide",
+   "convert"
+  ],
+  "explanation": "The word is 'hundred': **Percent** means per **hundred**.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6247004",
+  "question": "What does 'reciprocal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "the flipped fraction",
+  "options": [
+   "the flipped fraction",
+   "to take away",
+   "the result of multiplying",
+   "one part of a hundred equal parts"
+  ],
+  "explanation": "'reciprocal' means the flipped fraction.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6247005",
+  "question": "We **___** 1/2 to 0.5.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "convert",
+  "options": [
+   "convert",
+   "hundredths",
+   "fraction",
+   "add"
+  ],
+  "explanation": "The word is 'convert': We **convert** 1/2 to 0.5.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6247006",
+  "question": "0.3 is three **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "tenths",
+  "options": [
+   "tenths",
+   "convert",
+   "product",
+   "add"
+  ],
+  "explanation": "The word is 'tenths': 0.3 is three **tenths**.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6247007",
+  "question": "2 1/3 is a **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "mixed number",
+  "options": [
+   "mixed number",
+   "multiply",
+   "decimal",
+   "tenths"
+  ],
+  "explanation": "The word is 'mixed number': 2 1/3 is a **mixed number**.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6247008",
+  "question": "3/4 is a **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "fraction",
+  "options": [
+   "fraction",
+   "percent",
+   "hundredths",
+   "convert"
+  ],
+  "explanation": "The word is 'fraction': 3/4 is a **fraction**.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6247009",
+  "question": "We **___** 3/4 by 2/3 by using the reciprocal.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "product",
+   "tenths",
+   "of"
+  ],
+  "explanation": "The word is 'divide': We **divide** 3/4 by 2/3 by using the reciprocal.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6247010",
+  "question": "Which word means 'one part of ten equal parts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "tenths",
+  "options": [
+   "tenths",
+   "convert",
+   "product",
+   "add"
+  ],
+  "explanation": "one part of ten equal parts — that is 'tenths'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6247011",
+  "question": "What does 'divide' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "to split into equal parts",
+  "options": [
+   "to split into equal parts",
+   "the result of adding",
+   "to find the product of",
+   "the number 100"
+  ],
+  "explanation": "'divide' means to split into equal parts.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6247012",
+  "question": "Which word means 'the result of multiplying'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "product",
+  "options": [
+   "product",
+   "percent",
+   "mixed number",
+   "reciprocal"
+  ],
+  "explanation": "the result of multiplying — that is 'product'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6247013",
+  "question": "What does 'decimal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "a number with a point",
+  "options": [
+   "a number with a point",
+   "to find the product of",
+   "a shared bottom number",
+   "a whole number and a fraction"
+  ],
+  "explanation": "'decimal' means a number with a point.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6247014",
+  "question": "25 **___** means 25 out of 100.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "percent",
+  "options": [
+   "percent",
+   "multiply",
+   "sum",
+   "decimal"
+  ],
+  "explanation": "The word is 'percent': 25 **percent** means 25 out of 100.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6247015",
+  "question": "Which word means 'the number 100'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "hundred",
+  "options": [
+   "hundred",
+   "percentage",
+   "divide",
+   "convert"
+  ],
+  "explanation": "the number 100 — that is 'hundred'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6247016",
+  "question": "Which word means 'a number with a point'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "decimal",
+  "options": [
+   "decimal",
+   "subtract",
+   "divide",
+   "mixed number"
+  ],
+  "explanation": "a number with a point — that is 'decimal'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6247017",
+  "question": "What does 'fraction' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "a part of a whole",
+  "options": [
+   "a part of a whole",
+   "the result of multiplying",
+   "an amount",
+   "a part per hundred"
+  ],
+  "explanation": "'fraction' means a part of a whole.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6247018",
+  "question": "What does 'multiply' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "easy",
+  "answer": "to find the product of",
+  "options": [
+   "to find the product of",
+   "to change from one form to another",
+   "the result of adding",
+   "to split into equal parts"
+  ],
+  "explanation": "'multiply' means to find the product of.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6247019",
+  "question": "0.25 is twenty‑five **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Fractions",
+  "difficulty": "medium",
+  "answer": "hundredths",
+  "options": [
+   "hundredths",
+   "product",
+   "mixed number",
+   "common denominator"
+  ],
+  "explanation": "The word is 'hundredths': 0.25 is twenty‑five **hundredths**.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6214000",
+  "question": "The ___ of 2, 4, 6 is 4.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "mean",
+  "options": [
+   "mean",
+   "degrees",
+   "unlikely",
+   "likely"
+  ],
+  "explanation": "The word is 'mean': The mean of 2, 4, 6 is 4.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6214001",
+  "question": "What does 'data' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "information collected as numbers or facts",
+  "options": [
+   "information collected as numbers or facts",
+   "the numbers used on the axes to measure values",
+   "a chart with points joined by lines to show change over time",
+   "an event with probability greater than 1/2"
+  ],
+  "explanation": "'data' means information collected as numbers or facts.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6214002",
+  "question": "We ___ the graph to see which month had most rain.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "interpret",
+  "options": [
+   "interpret",
+   "scale",
+   "average",
+   "sector"
+  ],
+  "explanation": "The word is 'interpret': We interpret the graph to see which month had most rain.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6214003",
+  "question": "Which word means 'a slice of a pie chart representing a category'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "sector",
+  "options": [
+   "sector",
+   "certain",
+   "bar graph",
+   "line graph"
+  ],
+  "explanation": "a slice of a pie chart representing a category — that is 'sector'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6214004",
+  "question": "The ___ on the y‑axis goes up by 100.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "scale",
+  "options": [
+   "scale",
+   "mode",
+   "pie chart",
+   "data"
+  ],
+  "explanation": "The word is 'scale': The scale on the y‑axis goes up by 100.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6214005",
+  "question": "Which word means 'an event with probability less than 1/2'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "unlikely",
+  "options": [
+   "unlikely",
+   "data",
+   "average",
+   "probability"
+  ],
+  "explanation": "an event with probability less than 1/2 — that is 'unlikely'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6214006",
+  "question": "A ___ shows temperature changes during the week.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "line graph",
+  "options": [
+   "line graph",
+   "data",
+   "chance",
+   "unlikely"
+  ],
+  "explanation": "The word is 'line graph': A line graph shows temperature changes during the week.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6214007",
+  "question": "One‑half is the ___ 1/2.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "fraction",
+  "options": [
+   "fraction",
+   "scale",
+   "degrees",
+   "mean"
+  ],
+  "explanation": "The word is 'fraction': One‑half is the fraction 1/2.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6214008",
+  "question": "Which word means 'another word for mean'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "average",
+  "options": [
+   "average",
+   "degrees",
+   "bar graph",
+   "chance"
+  ],
+  "explanation": "another word for mean — that is 'average'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6214009",
+  "question": "Which word means 'the middle value when data is ordered'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "median",
+  "options": [
+   "median",
+   "certain",
+   "likely",
+   "scale"
+  ],
+  "explanation": "the middle value when data is ordered — that is 'median'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6214010",
+  "question": "What does 'sector' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "a slice of a pie chart representing a category",
+  "options": [
+   "a slice of a pie chart representing a category",
+   "the difference between the largest and smallest value",
+   "an event that will definitely happen, probability 1",
+   "information collected as numbers or facts"
+  ],
+  "explanation": "'sector' means a slice of a pie chart representing a category.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6214011",
+  "question": "What does 'degrees' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "units for measuring angles; a full circle is 360°",
+  "options": [
+   "units for measuring angles; a full circle is 360°",
+   "the sum of all values divided by how many values there are",
+   "an event that will definitely happen, probability 1",
+   "the chance of an event happening, written as a fraction"
+  ],
+  "explanation": "'degrees' means units for measuring angles; a full circle is 360°.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6214012",
+  "question": "What does 'median' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "the middle value when data is ordered",
+  "options": [
+   "the middle value when data is ordered",
+   "the size of a sector measured in degrees",
+   "a slice of a pie chart representing a category",
+   "the value that appears most often"
+  ],
+  "explanation": "'median' means the middle value when data is ordered.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6214013",
+  "question": "What does 'bar graph' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "a chart with rectangular bars showing quantities",
+  "options": [
+   "a chart with rectangular bars showing quantities",
+   "an event with probability greater than 1/2",
+   "the sum of all values divided by how many values there are",
+   "the difference between the largest and smallest value"
+  ],
+  "explanation": "'bar graph' means a chart with rectangular bars showing quantities.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6214014",
+  "question": "What does 'average' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "another word for mean",
+  "options": [
+   "another word for mean",
+   "the size of a sector measured in degrees",
+   "an event that will definitely happen, probability 1",
+   "the chance of an event happening, written as a fraction"
+  ],
+  "explanation": "'average' means another word for mean.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6214015",
+  "question": "What does 'scale' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "easy",
+  "answer": "the numbers used on the axes to measure values",
+  "options": [
+   "the numbers used on the axes to measure values",
+   "a chart with rectangular bars showing quantities",
+   "the size of a sector measured in degrees",
+   "a part of a whole written as numerator over denominator"
+  ],
+  "explanation": "'scale' means the numbers used on the axes to measure values.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6214016",
+  "question": "It is ___ to rain in April.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "likely",
+  "options": [
+   "likely",
+   "chance",
+   "average",
+   "data"
+  ],
+  "explanation": "The word is 'likely': It is likely to rain in April.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6214017",
+  "question": "The ___ of 1, 3, 5 is 3.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "median",
+  "options": [
+   "median",
+   "certain",
+   "likely",
+   "scale"
+  ],
+  "explanation": "The word is 'median': The median of 1, 3, 5 is 3.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6214018",
+  "question": "The ___ of rolling a 3 on a die is 1/6.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "probability",
+  "options": [
+   "probability",
+   "line graph",
+   "unlikely",
+   "bar graph"
+  ],
+  "explanation": "The word is 'probability': The probability of rolling a 3 on a die is 1/6.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6214019",
+  "question": "A ___ shows the number of pupils in each class.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Data Handling",
+  "difficulty": "medium",
+  "answer": "bar graph",
+  "options": [
+   "bar graph",
+   "mean",
+   "range",
+   "certain"
+  ],
+  "explanation": "The word is 'bar graph': A bar graph shows the number of pupils in each class.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6234000",
+  "question": "What does 'buying price' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "the price paid to get goods",
+  "options": [
+   "the price paid to get goods",
+   "money lost when selling price is lower than buying price",
+   "the final amount to pay after adding everything",
+   "the original amount saved or borrowed"
+  ],
+  "explanation": "'buying price' means the price paid to get goods.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6234001",
+  "question": "The profit ___ was 20%.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "medium",
+  "answer": "percentage",
+  "options": [
+   "percentage",
+   "total",
+   "loss",
+   "selling price"
+  ],
+  "explanation": "The word is 'percentage': The profit percentage was 20%.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6234002",
+  "question": "What does 'amount' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "the total of principal plus interest",
+  "options": [
+   "the total of principal plus interest",
+   "the price of one currency in another",
+   "a fraction out of 100 shown with the % sign",
+   "money paid to government on goods or income"
+  ],
+  "explanation": "'amount' means the total of principal plus interest.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6234003",
+  "question": "Which word means 'the price of one currency in another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "exchange rate",
+  "options": [
+   "exchange rate",
+   "profit",
+   "discount",
+   "interest"
+  ],
+  "explanation": "the price of one currency in another — that is 'exchange rate'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6234004",
+  "question": "Which word means 'the new price after discount'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "reduced price",
+  "options": [
+   "reduced price",
+   "rate",
+   "save",
+   "principal"
+  ],
+  "explanation": "the new price after discount — that is 'reduced price'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6234005",
+  "question": "Which word means 'the total of principal plus interest'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "amount",
+  "options": [
+   "amount",
+   "principal",
+   "rate",
+   "exchange rate"
+  ],
+  "explanation": "the total of principal plus interest — that is 'amount'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6234006",
+  "question": "Which word means 'the price at which goods are sold'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "selling price",
+  "options": [
+   "selling price",
+   "buying price",
+   "tax",
+   "dollar"
+  ],
+  "explanation": "the price at which goods are sold — that is 'selling price'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6234007",
+  "question": "Which word means 'a reduction from the original price'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "discount",
+  "options": [
+   "discount",
+   "sale",
+   "rate",
+   "total"
+  ],
+  "explanation": "a reduction from the original price — that is 'discount'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6234008",
+  "question": "Which word means 'the percentage charged or paid per year'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "rate",
+  "options": [
+   "rate",
+   "total",
+   "reduced price",
+   "time"
+  ],
+  "explanation": "the percentage charged or paid per year — that is 'rate'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6234009",
+  "question": "Which word means 'money paid to government on goods or income'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "tax",
+  "options": [
+   "tax",
+   "exchange rate",
+   "profit",
+   "save"
+  ],
+  "explanation": "money paid to government on goods or income — that is 'tax'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6234010",
+  "question": "The ___ after 2 years was 220,000 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "medium",
+  "answer": "amount",
+  "options": [
+   "amount",
+   "principal",
+   "rate",
+   "exchange rate"
+  ],
+  "explanation": "The word is 'amount': The amount after 2 years was 220,000 shillings.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6234011",
+  "question": "What does 'save' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "to keep money by paying less",
+  "options": [
+   "to keep money by paying less",
+   "a reduction from the original price",
+   "money lost when selling price is lower than buying price",
+   "the new price after discount"
+  ],
+  "explanation": "'save' means to keep money by paying less.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6234012",
+  "question": "Which word means 'a time when goods are sold at lower prices'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "sale",
+  "options": [
+   "sale",
+   "loss",
+   "buying price",
+   "interest"
+  ],
+  "explanation": "a time when goods are sold at lower prices — that is 'sale'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6234013",
+  "question": "The ___ on the phone was 18%.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "medium",
+  "answer": "tax",
+  "options": [
+   "tax",
+   "exchange rate",
+   "profit",
+   "save"
+  ],
+  "explanation": "The word is 'tax': The tax on the phone was 18%.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6234014",
+  "question": "What does 'sale' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "a time when goods are sold at lower prices",
+  "options": [
+   "a time when goods are sold at lower prices",
+   "the original amount saved or borrowed",
+   "the price of one currency in another",
+   "the final amount to pay after adding everything"
+  ],
+  "explanation": "'sale' means a time when goods are sold at lower prices.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6234015",
+  "question": "What does 'percentage' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "a fraction out of 100 shown with the % sign",
+  "options": [
+   "a fraction out of 100 shown with the % sign",
+   "the currency of the United States",
+   "the price of one currency in another",
+   "the new price after discount"
+  ],
+  "explanation": "'percentage' means a fraction out of 100 shown with the % sign.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6234016",
+  "question": "The ___ was 200,000 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "medium",
+  "answer": "principal",
+  "options": [
+   "principal",
+   "time",
+   "bill",
+   "percentage"
+  ],
+  "explanation": "The word is 'principal': The principal was 200,000 shillings.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6234017",
+  "question": "Which word means 'money paid for borrowing or earned on savings'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "interest",
+  "options": [
+   "interest",
+   "principal",
+   "sale",
+   "dollar"
+  ],
+  "explanation": "money paid for borrowing or earned on savings — that is 'interest'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6234018",
+  "question": "What does 'discount' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "a reduction from the original price",
+  "options": [
+   "a reduction from the original price",
+   "to keep money by paying less",
+   "money gained when selling price is higher than buying price",
+   "the price of one currency in another"
+  ],
+  "explanation": "'discount' means a reduction from the original price.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6234019",
+  "question": "Which word means 'a written list of goods bought with prices'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Money",
+  "difficulty": "easy",
+  "answer": "bill",
+  "options": [
+   "bill",
+   "time",
+   "total",
+   "save"
+  ],
+  "explanation": "a written list of goods bought with prices — that is 'bill'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6270000",
+  "question": "The car ___ is 60 km/h.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "speed",
+  "options": [
+   "speed",
+   "km/h",
+   "distance",
+   "calculate"
+  ],
+  "explanation": "The word is 'speed': The car speed is 60 km/h.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6270001",
+  "question": "The ___ is speed = distance ÷ time.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "formula",
+  "options": [
+   "formula",
+   "hours",
+   "time",
+   "km/h"
+  ],
+  "explanation": "The word is 'formula': The formula is speed = distance ÷ time.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6270002",
+  "question": "Which word means 'units of time, 60 minutes each'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "hours",
+  "options": [
+   "hours",
+   "duration",
+   "distance",
+   "total distance"
+  ],
+  "explanation": "units of time, 60 minutes each — that is 'hours'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6270003",
+  "question": "Which word means 'earlier than another place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "ahead",
+  "options": [
+   "ahead",
+   "formula",
+   "timetable",
+   "journey"
+  ],
+  "explanation": "earlier than another place — that is 'ahead'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6270004",
+  "question": "Which word means 'to reach a place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "arrive",
+  "options": [
+   "arrive",
+   "speed",
+   "average speed",
+   "duration"
+  ],
+  "explanation": "to reach a place — that is 'arrive'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6270005",
+  "question": "Uganda is in the East Africa ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "time zone",
+  "options": [
+   "time zone",
+   "km/h",
+   "duration",
+   "hours"
+  ],
+  "explanation": "The word is 'time zone': Uganda is in the East Africa time zone.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6270006",
+  "question": "The ___ from Kampala to Jinja is 80 km.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "distance",
+  "options": [
+   "distance",
+   "formula",
+   "total time",
+   "duration"
+  ],
+  "explanation": "The word is 'distance': The distance from Kampala to Jinja is 80 km.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6270007",
+  "question": "Kenya is one hour ___ of Uganda.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "ahead",
+  "options": [
+   "ahead",
+   "formula",
+   "timetable",
+   "journey"
+  ],
+  "explanation": "The word is 'ahead': Kenya is one hour ahead of Uganda.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6270008",
+  "question": "What does 'speed' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "how fast something moves",
+  "options": [
+   "how fast something moves",
+   "units of time, 60 minutes each",
+   "kilometres per hour, unit of speed",
+   "how far something travels"
+  ],
+  "explanation": "'speed' means how fast something moves.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6270009",
+  "question": "Which word means 'a trip from start to finish'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "journey",
+  "options": [
+   "journey",
+   "timetable",
+   "time",
+   "behind"
+  ],
+  "explanation": "a trip from start to finish — that is 'journey'.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH6270010",
+  "question": "What does 'total distance' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "sum of all distances travelled",
+  "options": [
+   "sum of all distances travelled",
+   "a rule written with symbols",
+   "time shown from 00:00 to 23:59",
+   "later than another place"
+  ],
+  "explanation": "'total distance' means sum of all distances travelled.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6270011",
+  "question": "What does 'time' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "how long the journey takes",
+  "options": [
+   "how long the journey takes",
+   "a list of departure and arrival times",
+   "the length of time something lasts",
+   "a trip from start to finish"
+  ],
+  "explanation": "'time' means how long the journey takes.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6270012",
+  "question": "Which word means 'a list of departure and arrival times'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "timetable",
+  "options": [
+   "timetable",
+   "arrive",
+   "depart",
+   "duration"
+  ],
+  "explanation": "a list of departure and arrival times — that is 'timetable'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6270013",
+  "question": "What does '24-hour' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "time shown from 00:00 to 23:59",
+  "options": [
+   "time shown from 00:00 to 23:59",
+   "sum of all time taken",
+   "to work out a number",
+   "units of time, 60 minutes each"
+  ],
+  "explanation": "'24-hour' means time shown from 00:00 to 23:59.",
+  "hint": "It starts with '2'.",
+  "image": null
+ },
+ {
+  "id": "TH6270014",
+  "question": "The ___ was 4 hours.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "total time",
+  "options": [
+   "total time",
+   "total distance",
+   "formula",
+   "duration"
+  ],
+  "explanation": "The word is 'total time': The total time was 4 hours.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6270015",
+  "question": "What does 'ahead' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "earlier than another place",
+  "options": [
+   "earlier than another place",
+   "how far something travels",
+   "sum of all time taken",
+   "to reach a place"
+  ],
+  "explanation": "'ahead' means earlier than another place.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6270016",
+  "question": "Which word means 'to work out a number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "calculate",
+  "options": [
+   "calculate",
+   "time zone",
+   "total distance",
+   "arrive"
+  ],
+  "explanation": "to work out a number — that is 'calculate'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6270017",
+  "question": "What does 'duration' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "the length of time something lasts",
+  "options": [
+   "the length of time something lasts",
+   "a list of departure and arrival times",
+   "to reach a place",
+   "kilometres per hour, unit of speed"
+  ],
+  "explanation": "'duration' means the length of time something lasts.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6270018",
+  "question": "We ___ average speed by dividing total distance by total time.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "calculate",
+  "options": [
+   "calculate",
+   "time zone",
+   "total distance",
+   "arrive"
+  ],
+  "explanation": "The word is 'calculate': We calculate average speed by dividing total distance by total time.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6270019",
+  "question": "The ___ had two legs.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "journey",
+  "options": [
+   "journey",
+   "timetable",
+   "time",
+   "behind"
+  ],
+  "explanation": "The word is 'journey': The journey had two legs.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH6300000",
+  "question": "Which word means 'the amount a container can hold'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "capacity",
+  "options": [
+   "capacity",
+   "triangle",
+   "pi",
+   "millimetre"
+  ],
+  "explanation": "the amount a container can hold — that is 'capacity'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6300001",
+  "question": "Which word means 'the amount of surface inside a shape'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "area",
+  "options": [
+   "area",
+   "volume",
+   "cubic",
+   "triangle"
+  ],
+  "explanation": "the amount of surface inside a shape — that is 'area'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6300002",
+  "question": "What does 'perimeter' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "the distance around a shape",
+  "options": [
+   "the distance around a shape",
+   "a unit of length equal to 1000 metres",
+   "relating to volume measured in cubes",
+   "the amount of space a solid occupies"
+  ],
+  "explanation": "'perimeter' means the distance around a shape.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6300003",
+  "question": "The ___ of the circle is 5 centimetre.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "medium",
+  "answer": "radius",
+  "options": [
+   "radius",
+   "capacity",
+   "height",
+   "area"
+  ],
+  "explanation": "The word is 'radius': The radius of the circle is 5 centimetre.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6300004",
+  "question": "Which word means 'a unit of length equal to 1000 metres'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "kilometre",
+  "options": [
+   "kilometre",
+   "radius",
+   "capacity",
+   "cuboid"
+  ],
+  "explanation": "a unit of length equal to 1000 metres — that is 'kilometre'.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH6300005",
+  "question": "What does 'base' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "the side on which a shape stands",
+  "options": [
+   "the side on which a shape stands",
+   "a four‑sided shape with opposite sides parallel",
+   "the amount a container can hold",
+   "a three‑sided polygon"
+  ],
+  "explanation": "'base' means the side on which a shape stands.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6300006",
+  "question": "What does 'cubic' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "relating to volume measured in cubes",
+  "options": [
+   "relating to volume measured in cubes",
+   "a straight line through the centre of a circle",
+   "a three‑sided polygon",
+   "a unit of capacity, 1 litre = 1000 cubic centimetre"
+  ],
+  "explanation": "'cubic' means relating to volume measured in cubes.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6300007",
+  "question": "What does 'litres' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "a unit of capacity, 1 litre = 1000 cubic centimetre",
+  "options": [
+   "a unit of capacity, 1 litre = 1000 cubic centimetre",
+   "the amount of surface inside a shape",
+   "half of the diameter, from centre to edge",
+   "a straight line through the centre of a circle"
+  ],
+  "explanation": "'litres' means a unit of capacity, 1 litre = 1000 cubic centimetre.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6300008",
+  "question": "What does 'convert' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "change from one unit to another",
+  "options": [
+   "change from one unit to another",
+   "one hundredth of a metre",
+   "relating to volume measured in cubes",
+   "the perpendicular distance from base to top"
+  ],
+  "explanation": "'convert' means change from one unit to another.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6300009",
+  "question": "The ___ of the parallelogram is 5 cm.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "medium",
+  "answer": "height",
+  "options": [
+   "height",
+   "convert",
+   "litres",
+   "parallelogram"
+  ],
+  "explanation": "The word is 'height': The height of the parallelogram is 5 cm.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6300010",
+  "question": "What does 'circumference' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "the distance around a circle",
+  "options": [
+   "the distance around a circle",
+   "a solid with six rectangular faces",
+   "one hundredth of a metre",
+   "the basic unit of length"
+  ],
+  "explanation": "'circumference' means the distance around a circle.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6300011",
+  "question": "Which word means 'the distance around a circle'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "circumference",
+  "options": [
+   "circumference",
+   "parallelogram",
+   "centimetre",
+   "triangle"
+  ],
+  "explanation": "the distance around a circle — that is 'circumference'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6300012",
+  "question": "The table is 2 ___ wide.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "medium",
+  "answer": "metre",
+  "options": [
+   "metre",
+   "radius",
+   "litres",
+   "parallelogram"
+  ],
+  "explanation": "The word is 'metre': The table is 2 metre wide.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6300013",
+  "question": "The ___ has a base of 10 cm and height of 6 cm.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "medium",
+  "answer": "triangle",
+  "options": [
+   "triangle",
+   "kilometre",
+   "pi",
+   "centimetre"
+  ],
+  "explanation": "The word is 'triangle': The triangle has a base of 10 cm and height of 6 cm.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6300014",
+  "question": "What does 'millimetre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "one thousandth of a metre",
+  "options": [
+   "one thousandth of a metre",
+   "a unit of capacity, 1 litre = 1000 cubic centimetre",
+   "the distance around a circle",
+   "a solid with six rectangular faces"
+  ],
+  "explanation": "'millimetre' means one thousandth of a metre.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH6300015",
+  "question": "Which word means 'a straight line through the centre of a circle'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "diameter",
+  "options": [
+   "diameter",
+   "parallelogram",
+   "litres",
+   "metre"
+  ],
+  "explanation": "a straight line through the centre of a circle — that is 'diameter'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6300016",
+  "question": "What does 'diameter' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "a straight line through the centre of a circle",
+  "options": [
+   "a straight line through the centre of a circle",
+   "a unit of length equal to 1000 metres",
+   "a unit of capacity, 1 litre = 1000 cubic centimetre",
+   "one thousandth of a metre"
+  ],
+  "explanation": "'diameter' means a straight line through the centre of a circle.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6300017",
+  "question": "What does 'centimetre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "one hundredth of a metre",
+  "options": [
+   "one hundredth of a metre",
+   "the ratio of circumference to diameter, about 22/7 or 3.14",
+   "a solid with six rectangular faces",
+   "the amount a container can hold"
+  ],
+  "explanation": "'centimetre' means one hundredth of a metre.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6300018",
+  "question": "Which word means 'a solid with six rectangular faces'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "cuboid",
+  "options": [
+   "cuboid",
+   "perimeter",
+   "kilometre",
+   "volume"
+  ],
+  "explanation": "a solid with six rectangular faces — that is 'cuboid'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6300019",
+  "question": "What does 'height' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Length",
+  "difficulty": "easy",
+  "answer": "the perpendicular distance from base to top",
+  "options": [
+   "the perpendicular distance from base to top",
+   "a unit of length equal to 1000 metres",
+   "a unit of capacity, 1 litre = 1000 cubic centimetre",
+   "a four‑sided shape with opposite sides parallel"
+  ],
+  "explanation": "'height' means the perpendicular distance from base to top.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6373000",
+  "question": "Which word means 'the total when you add numbers'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "triangle",
+   "isosceles",
+   "complementary"
+  ],
+  "explanation": "the total when you add numbers — that is 'sum'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6373001",
+  "question": "Which word means 'two angles that add to 90 degrees'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "complementary",
+  "options": [
+   "complementary",
+   "interior angles",
+   "triangle",
+   "measure"
+  ],
+  "explanation": "two angles that add to 90 degrees — that is 'complementary'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6373002",
+  "question": "Which word means 'two angles that add to 180 degrees'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "supplementary",
+  "options": [
+   "supplementary",
+   "scalene",
+   "triangle",
+   "measure"
+  ],
+  "explanation": "two angles that add to 180 degrees — that is 'supplementary'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6373003",
+  "question": "Use a ruler and **protractor** to **___** a 60° angle.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "medium",
+  "answer": "draw",
+  "options": [
+   "draw",
+   "vertically opposite",
+   "sum",
+   "supplementary"
+  ],
+  "explanation": "The word is 'draw': Use a ruler and **protractor** to **draw** a 60° angle.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6373004",
+  "question": "Which word means 'the angles inside a shape'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "interior angles",
+  "options": [
+   "interior angles",
+   "triangle",
+   "supplementary",
+   "scalene"
+  ],
+  "explanation": "the angles inside a shape — that is 'interior angles'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6373005",
+  "question": "What does 'draw' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "to make a shape or line",
+  "options": [
+   "to make a shape or line",
+   "an angle of 180 degrees",
+   "the total when you add numbers",
+   "the same in size or value"
+  ],
+  "explanation": "'draw' means to make a shape or line.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6373006",
+  "question": "Which word means 'angles opposite each other when two lines cross'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "vertically opposite",
+  "options": [
+   "vertically opposite",
+   "interior angles",
+   "scalene",
+   "sum"
+  ],
+  "explanation": "angles opposite each other when two lines cross — that is 'vertically opposite'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH6373007",
+  "question": "A square is a **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "medium",
+  "answer": "quadrilateral",
+  "options": [
+   "quadrilateral",
+   "triangle",
+   "complementary",
+   "equal"
+  ],
+  "explanation": "The word is 'quadrilateral': A square is a **quadrilateral**.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH6373008",
+  "question": "What does 'triangle' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "a shape with three sides and three angles",
+  "options": [
+   "a shape with three sides and three angles",
+   "angles that meet at one spot",
+   "triangle with three equal sides and angles",
+   "the unit we use to measure angles"
+  ],
+  "explanation": "'triangle' means a shape with three sides and three angles.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6373009",
+  "question": "Which word means 'an angle of 180 degrees'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "straight angle",
+  "options": [
+   "straight angle",
+   "measure",
+   "draw",
+   "angles at a point"
+  ],
+  "explanation": "an angle of 180 degrees — that is 'straight angle'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6373010",
+  "question": "Which word means 'triangle with two equal sides and angles'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "isosceles",
+  "options": [
+   "isosceles",
+   "equilateral",
+   "protractor",
+   "interior angles"
+  ],
+  "explanation": "triangle with two equal sides and angles — that is 'isosceles'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6373011",
+  "question": "What does 'vertically opposite' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "angles opposite each other when two lines cross",
+  "options": [
+   "angles opposite each other when two lines cross",
+   "the unit we use to measure angles",
+   "an angle of 180 degrees",
+   "triangle with no equal sides or angles"
+  ],
+  "explanation": "'vertically opposite' means angles opposite each other when two lines cross.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH6373012",
+  "question": "Which word means 'a shape with four sides and four angles'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "quadrilateral",
+  "options": [
+   "quadrilateral",
+   "triangle",
+   "complementary",
+   "equal"
+  ],
+  "explanation": "a shape with four sides and four angles — that is 'quadrilateral'.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH6373013",
+  "question": "A right angle is 90 **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "medium",
+  "answer": "degrees",
+  "options": [
+   "degrees",
+   "quadrilateral",
+   "equal",
+   "isosceles"
+  ],
+  "explanation": "The word is 'degrees': A right angle is 90 **degrees**.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6373014",
+  "question": "Which word means 'angles that meet at one spot'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "angles at a point",
+  "options": [
+   "angles at a point",
+   "triangle",
+   "degrees",
+   "supplementary"
+  ],
+  "explanation": "angles that meet at one spot — that is 'angles at a point'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6373015",
+  "question": "Which word means 'a tool to measure and draw angles'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "protractor",
+  "options": [
+   "protractor",
+   "equilateral",
+   "straight angle",
+   "degrees"
+  ],
+  "explanation": "a tool to measure and draw angles — that is 'protractor'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6373016",
+  "question": "A **___** triangle has all sides different.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "medium",
+  "answer": "scalene",
+  "options": [
+   "scalene",
+   "triangle",
+   "supplementary",
+   "protractor"
+  ],
+  "explanation": "The word is 'scalene': A **scalene** triangle has all sides different.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6373017",
+  "question": "Which word means 'triangle with three equal sides and angles'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "equilateral",
+  "options": [
+   "equilateral",
+   "supplementary",
+   "triangle",
+   "vertically opposite"
+  ],
+  "explanation": "triangle with three equal sides and angles — that is 'equilateral'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6373018",
+  "question": "What does 'complementary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "two angles that add to 90 degrees",
+  "options": [
+   "two angles that add to 90 degrees",
+   "angles opposite each other when two lines cross",
+   "angles that meet at one spot",
+   "a shape with four sides and four angles"
+  ],
+  "explanation": "'complementary' means two angles that add to 90 degrees.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6373019",
+  "question": "What does 'supplementary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Lines",
+  "difficulty": "easy",
+  "answer": "two angles that add to 180 degrees",
+  "options": [
+   "two angles that add to 180 degrees",
+   "a shape with three sides and three angles",
+   "the angles inside a shape",
+   "a shape with four sides and four angles"
+  ],
+  "explanation": "'supplementary' means two angles that add to 180 degrees.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6397000",
+  "question": "Which word means 'less than zero'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "negative",
+  "options": [
+   "negative",
+   "below zero",
+   "debt",
+   "multiply"
+  ],
+  "explanation": "less than zero — that is 'negative'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH6397001",
+  "question": "Which word means 'a question that needs a solution'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "problem",
+  "options": [
+   "problem",
+   "temperature",
+   "debt",
+   "positive"
+  ],
+  "explanation": "a question that needs a solution — that is 'problem'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6397002",
+  "question": "Which word means 'arranging numbers from smallest to largest or largest to smallest'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "order",
+  "options": [
+   "order",
+   "debt",
+   "temperature",
+   "divide"
+  ],
+  "explanation": "arranging numbers from smallest to largest or largest to smallest — that is 'order'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6397003",
+  "question": "Which word means 'rules that tell if the answer is positive or negative'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "sign rules",
+  "options": [
+   "sign rules",
+   "add",
+   "order",
+   "integer"
+  ],
+  "explanation": "rules that tell if the answer is positive or negative — that is 'sign rules'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6397004",
+  "question": "What does 'below zero' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "less than zero degrees",
+  "options": [
+   "less than zero degrees",
+   "money you owe",
+   "greater than zero",
+   "the plus or minus symbol in front of a number"
+  ],
+  "explanation": "'below zero' means less than zero degrees.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6397005",
+  "question": "Which word means 'less than zero degrees'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "below zero",
+  "options": [
+   "below zero",
+   "positive",
+   "debt",
+   "integer"
+  ],
+  "explanation": "less than zero degrees — that is 'below zero'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6397006",
+  "question": "Which word means 'how hot or cold something is, measured in degrees Celsius'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "temperature",
+  "options": [
+   "temperature",
+   "negative",
+   "below zero",
+   "problem"
+  ],
+  "explanation": "how hot or cold something is, measured in degrees Celsius — that is 'temperature'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6397007",
+  "question": "Water freezes at 0°C, so -5°C is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "medium",
+  "answer": "below zero",
+  "options": [
+   "below zero",
+   "positive",
+   "debt",
+   "integer"
+  ],
+  "explanation": "The word is 'below zero': Water freezes at 0°C, so -5°C is below zero.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6397008",
+  "question": "Amina has a ___ of 10 000 UGX.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "medium",
+  "answer": "debt",
+  "options": [
+   "debt",
+   "number line",
+   "divide",
+   "signs"
+  ],
+  "explanation": "The word is 'debt': Amina has a debt of 10 000 UGX.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6397009",
+  "question": "Which word means 'a straight line with numbers placed at equal spaces'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "number line",
+  "options": [
+   "number line",
+   "signs",
+   "negative",
+   "integer"
+  ],
+  "explanation": "a straight line with numbers placed at equal spaces — that is 'number line'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH6397010",
+  "question": "What does 'debt' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "money you owe",
+  "options": [
+   "money you owe",
+   "less than zero degrees",
+   "to add a number to itself a certain number of times",
+   "less than zero"
+  ],
+  "explanation": "'debt' means money you owe.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6397011",
+  "question": "___ 3 and -2 to get 1.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "medium",
+  "answer": "add",
+  "options": [
+   "add",
+   "negative",
+   "order",
+   "number line"
+  ],
+  "explanation": "The word is 'add': Add 3 and -2 to get 1.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6397012",
+  "question": "Which word means 'to put numbers together to find the total'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "add",
+  "options": [
+   "add",
+   "negative",
+   "order",
+   "number line"
+  ],
+  "explanation": "to put numbers together to find the total — that is 'add'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6397013",
+  "question": "What does 'problem' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "a question that needs a solution",
+  "options": [
+   "a question that needs a solution",
+   "to take one number away from another",
+   "rules that tell if the answer is positive or negative",
+   "a whole number that can be positive, negative or zero"
+  ],
+  "explanation": "'problem' means a question that needs a solution.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6397014",
+  "question": "What does 'temperature' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "how hot or cold something is, measured in degrees Celsius",
+  "options": [
+   "how hot or cold something is, measured in degrees Celsius",
+   "to put numbers together to find the total",
+   "less than zero",
+   "less than zero degrees"
+  ],
+  "explanation": "'temperature' means how hot or cold something is, measured in degrees Celsius.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6397015",
+  "question": "___ -4 from 2 to get 6.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "medium",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "divide",
+   "below zero",
+   "number line"
+  ],
+  "explanation": "The word is 'subtract': Subtract -4 from 2 to get 6.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6397016",
+  "question": "___ -12 by 3 to get -4.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "medium",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "sign rules",
+   "negative",
+   "below zero"
+  ],
+  "explanation": "The word is 'divide': Divide -12 by 3 to get -4.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6397017",
+  "question": "Which word means 'to split a number into equal groups'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "sign rules",
+   "negative",
+   "below zero"
+  ],
+  "explanation": "to split a number into equal groups — that is 'divide'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6397018",
+  "question": "What does 'positive' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "easy",
+  "answer": "greater than zero",
+  "options": [
+   "greater than zero",
+   "a question that needs a solution",
+   "to add a number to itself a certain number of times",
+   "to put numbers together to find the total"
+  ],
+  "explanation": "'positive' means greater than zero.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6397019",
+  "question": "The ___ -5 is less than 0.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Integers",
+  "difficulty": "medium",
+  "answer": "integer",
+  "options": [
+   "integer",
+   "multiply",
+   "order",
+   "debt"
+  ],
+  "explanation": "The word is 'integer': The integer -5 is less than 0.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6345000",
+  "question": "Which word means 'a mathematical statement that two expressions are equal, with an = sign'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "equation",
+  "options": [
+   "equation",
+   "replace",
+   "formula",
+   "inequality"
+  ],
+  "explanation": "a mathematical statement that two expressions are equal, with an = sign — that is 'equation'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6345001",
+  "question": "What does 'greater than' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "the symbol > means the left side is larger than the right",
+  "options": [
+   "the symbol > means the left side is larger than the right",
+   "an equation that needs two operations to solve",
+   "to work out the numerical value of an expression after substitution",
+   "a mathematical statement that two expressions are equal, with an = sign"
+  ],
+  "explanation": "'greater than' means the symbol > means the left side is larger than the right.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH6345002",
+  "question": "3x + 5 is an ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "expression",
+  "options": [
+   "expression",
+   "collect",
+   "replace",
+   "inequality"
+  ],
+  "explanation": "The word is 'expression': 3x + 5 is an expression.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6345003",
+  "question": "In 3x + 2, ___ x = 4 → 3(4) + 2.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "substitute",
+  "options": [
+   "substitute",
+   "inequality",
+   "evaluate",
+   "unknown"
+  ],
+  "explanation": "The word is 'substitute': In 3x + 2, substitute x = 4 → 3(4) + 2.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6345004",
+  "question": "If x = 7, the ___ of x is 7.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "value",
+  "options": [
+   "value",
+   "inequality",
+   "expression",
+   "like terms"
+  ],
+  "explanation": "The word is 'value': If x = 7, the value of x is 7.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH6345005",
+  "question": "Which word means 'a single number, variable, or numbers and variables multiplied together'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "term",
+  "options": [
+   "term",
+   "two steps",
+   "collect",
+   "like terms"
+  ],
+  "explanation": "a single number, variable, or numbers and variables multiplied together — that is 'term'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6345006",
+  "question": "What does 'evaluate' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "to work out the numerical value of an expression after substitution",
+  "options": [
+   "to work out the numerical value of an expression after substitution",
+   "the value or set of values that make the inequality true",
+   "an equation that needs two operations to solve",
+   "terms that have the same variable raised to the same power"
+  ],
+  "explanation": "'evaluate' means to work out the numerical value of an expression after substitution.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6345007",
+  "question": "3x + 4 = 19 is an ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "equation",
+  "options": [
+   "equation",
+   "replace",
+   "formula",
+   "inequality"
+  ],
+  "explanation": "The word is 'equation': 3x + 4 = 19 is an equation.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6345008",
+  "question": "Which word means 'the symbol > means the left side is larger than the right'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "greater than",
+  "options": [
+   "greater than",
+   "solve",
+   "collect",
+   "term"
+  ],
+  "explanation": "the symbol > means the left side is larger than the right — that is 'greater than'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH6345009",
+  "question": "What does 'like terms' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "terms that have the same variable raised to the same power",
+  "options": [
+   "terms that have the same variable raised to the same power",
+   "the symbol < means the left side is smaller than the right",
+   "to work out the numerical value of an expression after substitution",
+   "the variable we are trying to find, usually shown as a letter"
+  ],
+  "explanation": "'like terms' means terms that have the same variable raised to the same power.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6345010",
+  "question": "In 4x + 7, 4x is a ___ and 7 is a term.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "term",
+  "options": [
+   "term",
+   "two steps",
+   "collect",
+   "like terms"
+  ],
+  "explanation": "The word is 'term': In 4x + 7, 4x is a term and 7 is a term.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6345011",
+  "question": "In 5 + x = 12, x is the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "unknown",
+  "options": [
+   "unknown",
+   "equation",
+   "inequality",
+   "simplify"
+  ],
+  "explanation": "The word is 'unknown': In 5 + x = 12, x is the unknown.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6345012",
+  "question": "What does 'expression' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "a mathematical phrase with numbers, variables and operations",
+  "options": [
+   "a mathematical phrase with numbers, variables and operations",
+   "to make an expression shorter by combining like terms",
+   "the symbol > means the left side is larger than the right",
+   "an equation that needs two operations to solve"
+  ],
+  "explanation": "'expression' means a mathematical phrase with numbers, variables and operations.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6345013",
+  "question": "2x + 3 = 11 needs ___: subtract 3, then divide by 2.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "two steps",
+  "options": [
+   "two steps",
+   "equation",
+   "value",
+   "formula"
+  ],
+  "explanation": "The word is 'two steps': 2x + 3 = 11 needs two steps: subtract 3, then divide by 2.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6345014",
+  "question": "Which word means 'to work out the numerical value of an expression after substitution'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "evaluate",
+  "options": [
+   "evaluate",
+   "number line",
+   "solve",
+   "less than"
+  ],
+  "explanation": "to work out the numerical value of an expression after substitution — that is 'evaluate'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH6345015",
+  "question": "What does 'simplify' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "to make an expression shorter by combining like terms",
+  "options": [
+   "to make an expression shorter by combining like terms",
+   "a rule written with symbols that shows the relationship between quantities",
+   "the variable we are trying to find, usually shown as a letter",
+   "a mathematical statement that two expressions are equal, with an = sign"
+  ],
+  "explanation": "'simplify' means to make an expression shorter by combining like terms.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6345016",
+  "question": "Which word means 'the variable we are trying to find, usually shown as a letter'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "unknown",
+  "options": [
+   "unknown",
+   "equation",
+   "inequality",
+   "simplify"
+  ],
+  "explanation": "the variable we are trying to find, usually shown as a letter — that is 'unknown'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6345017",
+  "question": "What does 'collect' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "to group like terms together",
+  "options": [
+   "to group like terms together",
+   "to find the value of the unknown that makes the equation true",
+   "doing the same thing to both sides of an equation to keep it equal",
+   "a line with numbers placed at equal intervals, used to show solutions"
+  ],
+  "explanation": "'collect' means to group like terms together.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6345018",
+  "question": "If we subtract 3 from the left, we must subtract 3 from the right to keep the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "medium",
+  "answer": "balance",
+  "options": [
+   "balance",
+   "unknown",
+   "expression",
+   "two steps"
+  ],
+  "explanation": "The word is 'balance': If we subtract 3 from the left, we must subtract 3 from the right to keep the balance.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6345019",
+  "question": "What does 'value' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Algebra",
+  "difficulty": "easy",
+  "answer": "the number that a variable stands for",
+  "options": [
+   "the number that a variable stands for",
+   "the value or set of values that make the inequality true",
+   "to put a number in place of a variable",
+   "a statement that two expressions are not equal, using >, <, ≥, ≤"
+  ],
+  "explanation": "'value' means the number that a variable stands for.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ }
+]

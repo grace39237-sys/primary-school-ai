@@ -1,0 +1,34 @@
+{
+  "builtAt": "2026-11-24T09:36:24.634Z",
+  "totalChunks": 54186,
+  "quiz": 44467,
+  "quizNoExplanation": 0,
+  "classWords": 1677,
+  "lessons": 1012,
+  "lessonPractice": 7030,
+  "limitedRun": false,
+  "seconds": 981.9,
+  "byKind": {
+    "quiz": 44467,
+    "word": 1677,
+    "lesson": 1012,
+    "lesson-qa": 7030
+  },
+  "bySubject": {
+    "English": 8673,
+    "Math": 7341,
+    "Science": 21914,
+    "Social": 8581,
+    "Theme": 6000,
+    "Vocabulary": 1677
+  },
+  "byGrade": {
+    "P1": 5265,
+    "P2": 7449,
+    "P3": 8223,
+    "P4": 7008,
+    "P5": 7223,
+    "P6": 8209,
+    "P7": 10809
+  }
+}

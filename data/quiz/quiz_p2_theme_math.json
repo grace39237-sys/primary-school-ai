@@ -1,0 +1,4802 @@
+[
+ {
+  "id": "TH2178000",
+  "question": "___ 12 and 15 to get 27.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "add",
+  "options": [
+   "add",
+   "square",
+   "hundreds",
+   "corner"
+  ],
+  "explanation": "The word is 'add': Add 12 and 15 to get 27.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2178001",
+  "question": "Which word means 'a straight mark'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "line",
+  "options": [
+   "line",
+   "square",
+   "tens",
+   "side"
+  ],
+  "explanation": "a straight mark — that is 'line'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2178002",
+  "question": "Which word means 'put numbers together'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "add",
+  "options": [
+   "add",
+   "square",
+   "hundreds",
+   "corner"
+  ],
+  "explanation": "put numbers together — that is 'add'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2178003",
+  "question": "What does 'ones' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "single units",
+  "options": [
+   "single units",
+   "groups of one hundred",
+   "the value of a digit by its position",
+   "a straight edge of a shape"
+  ],
+  "explanation": "'ones' means single units.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2178004",
+  "question": "What does 'shape' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "a flat figure",
+  "options": [
+   "a flat figure",
+   "single units",
+   "a straight mark",
+   "the answer when you add"
+  ],
+  "explanation": "'shape' means a flat figure.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2178005",
+  "question": "What does 'corner' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "where two sides meet",
+  "options": [
+   "where two sides meet",
+   "the whole amount",
+   "say numbers in order",
+   "the answer when you add"
+  ],
+  "explanation": "'corner' means where two sides meet.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2178006",
+  "question": "The wall has a long ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "line",
+  "options": [
+   "line",
+   "square",
+   "tens",
+   "side"
+  ],
+  "explanation": "The word is 'line': The wall has a long line.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2178007",
+  "question": "What does 'place value' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "the value of a digit by its position",
+  "options": [
+   "the value of a digit by its position",
+   "a straight mark",
+   "groups of one hundred",
+   "say numbers in order"
+  ],
+  "explanation": "'place value' means the value of a digit by its position.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2178008",
+  "question": "The ___ of 10 and 20 is 30.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "total",
+   "ones",
+   "square"
+  ],
+  "explanation": "The word is 'sum': The sum of 10 and 20 is 30.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2178009",
+  "question": "What does 'add' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "put numbers together",
+  "options": [
+   "put numbers together",
+   "a shape with four equal sides and four corners",
+   "a flat figure",
+   "the answer when you add"
+  ],
+  "explanation": "'add' means put numbers together.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2178010",
+  "question": "A triangle is a ___ with three sides.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "shape",
+  "options": [
+   "shape",
+   "hundreds",
+   "corner",
+   "ones"
+  ],
+  "explanation": "The word is 'shape': A triangle is a shape with three sides.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2178011",
+  "question": "What does 'total' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "the whole amount",
+  "options": [
+   "the whole amount",
+   "say numbers in order",
+   "groups of one hundred",
+   "a shape with four equal sides and four corners"
+  ],
+  "explanation": "'total' means the whole amount.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2178012",
+  "question": "We ___ mangoes at the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "count",
+  "options": [
+   "count",
+   "tens",
+   "square",
+   "line"
+  ],
+  "explanation": "The word is 'count': We count mangoes at the market.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2178013",
+  "question": "Five ___ are five beads.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "ones",
+  "options": [
+   "ones",
+   "hundreds",
+   "square",
+   "total"
+  ],
+  "explanation": "The word is 'ones': Five ones are five beads.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2178014",
+  "question": "What does 'tens' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "groups of ten",
+  "options": [
+   "groups of ten",
+   "put numbers together",
+   "a shape with four equal sides and four corners",
+   "single units"
+  ],
+  "explanation": "'tens' means groups of ten.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2178015",
+  "question": "The ___ cost is 500 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "total",
+  "options": [
+   "total",
+   "line",
+   "side",
+   "add"
+  ],
+  "explanation": "The word is 'total': The total cost is 500 shillings.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2178016",
+  "question": "Which word means 'groups of ten'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "tens",
+  "options": [
+   "tens",
+   "ones",
+   "square",
+   "hundreds"
+  ],
+  "explanation": "groups of ten — that is 'tens'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2178017",
+  "question": "What does 'side' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "a straight edge of a shape",
+  "options": [
+   "a straight edge of a shape",
+   "where two sides meet",
+   "single units",
+   "the whole amount"
+  ],
+  "explanation": "'side' means a straight edge of a shape.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2178018",
+  "question": "Which word means 'a shape with four equal sides and four corners'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "square",
+  "options": [
+   "square",
+   "add",
+   "count",
+   "tens"
+  ],
+  "explanation": "a shape with four equal sides and four corners — that is 'square'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2178019",
+  "question": "Which word means 'a straight edge of a shape'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "side",
+  "options": [
+   "side",
+   "shape",
+   "add",
+   "line"
+  ],
+  "explanation": "a straight edge of a shape — that is 'side'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2132000",
+  "question": "Which word means 'single units'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "ones",
+  "options": [
+   "ones",
+   "less than",
+   "order",
+   "second"
+  ],
+  "explanation": "single units — that is 'ones'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2132001",
+  "question": "What does 'second' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "number two in order",
+  "options": [
+   "number two in order",
+   "the sign for subtraction",
+   "smaller than",
+   "number five in order"
+  ],
+  "explanation": "'second' means number two in order.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2132002",
+  "question": "The last runner was ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "tenth",
+  "options": [
+   "tenth",
+   "ones",
+   "subtract",
+   "minus"
+  ],
+  "explanation": "The word is 'tenth': The last runner was tenth.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2132003",
+  "question": "145 is ___ 132.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "greater than",
+  "options": [
+   "greater than",
+   "subtract",
+   "order",
+   "position"
+  ],
+  "explanation": "The word is 'greater than': 145 is greater than 132.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2132004",
+  "question": "Which word means 'bigger than'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "greater than",
+  "options": [
+   "greater than",
+   "subtract",
+   "order",
+   "position"
+  ],
+  "explanation": "bigger than — that is 'greater than'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2132005",
+  "question": "What does 'greater than' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "bigger than",
+  "options": [
+   "bigger than",
+   "arrange from smallest to largest",
+   "number ten in order",
+   "the sign for subtraction"
+  ],
+  "explanation": "'greater than' means bigger than.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2132006",
+  "question": "___ the numbers: 12, 5, 20.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "order",
+  "options": [
+   "order",
+   "tenth",
+   "greater than",
+   "second"
+  ],
+  "explanation": "The word is 'order': Order the numbers: 12, 5, 20.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2132007",
+  "question": "Which word means 'number one in order'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "first",
+  "options": [
+   "first",
+   "subtract",
+   "compare",
+   "tenth"
+  ],
+  "explanation": "number one in order — that is 'first'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2132008",
+  "question": "100 is ___ to 100.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "equal",
+  "options": [
+   "equal",
+   "greater than",
+   "tenth",
+   "position"
+  ],
+  "explanation": "The word is 'equal': 100 is equal to 100.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2132009",
+  "question": "What does 'compare' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "check which is bigger or smaller",
+  "options": [
+   "check which is bigger or smaller",
+   "place in a line or order",
+   "number ten in order",
+   "the same as"
+  ],
+  "explanation": "'compare' means check which is bigger or smaller.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2132010",
+  "question": "We write 9 ___ 4 as 9 - 4.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "minus",
+  "options": [
+   "minus",
+   "subtract",
+   "order",
+   "second"
+  ],
+  "explanation": "The word is 'minus': We write 9 minus 4 as 9 - 4.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2132011",
+  "question": "What does 'equal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "the same as",
+  "options": [
+   "the same as",
+   "the answer when you subtract",
+   "check which is bigger or smaller",
+   "bigger than"
+  ],
+  "explanation": "'equal' means the same as.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2132012",
+  "question": "Kato came ___ after Amina.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "second",
+  "options": [
+   "second",
+   "first",
+   "compare",
+   "position"
+  ],
+  "explanation": "The word is 'second': Kato came second after Amina.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2132013",
+  "question": "What does 'minus' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "the sign for subtraction",
+  "options": [
+   "the sign for subtraction",
+   "number ten in order",
+   "place in a line or order",
+   "the same as"
+  ],
+  "explanation": "'minus' means the sign for subtraction.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2132014",
+  "question": "Which word means 'number five in order'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "fifth",
+  "options": [
+   "fifth",
+   "tens",
+   "first",
+   "difference"
+  ],
+  "explanation": "number five in order — that is 'fifth'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2132015",
+  "question": "The ___ of 10 and 6 is 4.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "difference",
+  "options": [
+   "difference",
+   "second",
+   "less than",
+   "compare"
+  ],
+  "explanation": "The word is 'difference': The difference of 10 and 6 is 4.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2132016",
+  "question": "Which word means 'check which is bigger or smaller'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "compare",
+  "options": [
+   "compare",
+   "order",
+   "equal",
+   "fifth"
+  ],
+  "explanation": "check which is bigger or smaller — that is 'compare'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2132017",
+  "question": "What does 'first' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "number one in order",
+  "options": [
+   "number one in order",
+   "groups of ten",
+   "the answer when you subtract",
+   "the same as"
+  ],
+  "explanation": "'first' means number one in order.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2132018",
+  "question": "What does 'tens' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "groups of ten",
+  "options": [
+   "groups of ten",
+   "the same as",
+   "place in a line or order",
+   "smaller than"
+  ],
+  "explanation": "'tens' means groups of ten.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2132019",
+  "question": "Which word means 'number two in order'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "second",
+  "options": [
+   "second",
+   "first",
+   "compare",
+   "position"
+  ],
+  "explanation": "number two in order — that is 'second'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2154000",
+  "question": "Which word means 'having little mass'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "light",
+  "options": [
+   "light",
+   "heavy",
+   "tall",
+   "height"
+  ],
+  "explanation": "having little mass — that is 'light'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2154001",
+  "question": "Four is an ___ number.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "even",
+  "options": [
+   "even",
+   "skip count",
+   "light",
+   "fives"
+  ],
+  "explanation": "The word is 'even': Four is an even number.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2154002",
+  "question": "We count in ___: 5, 10, 15.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "fives",
+  "options": [
+   "fives",
+   "skip count",
+   "length",
+   "heavier"
+  ],
+  "explanation": "The word is 'fives': We count in fives: 5, 10, 15.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2154003",
+  "question": "What does 'odd' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "numbers ending with 1,3,5,7,9",
+  "options": [
+   "numbers ending with 1,3,5,7,9",
+   "groups of two",
+   "less heavy than something else",
+   "count by jumping numbers"
+  ],
+  "explanation": "'odd' means numbers ending with 1,3,5,7,9.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2154004",
+  "question": "What does 'length' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "how long something is",
+  "options": [
+   "how long something is",
+   "unit of length equal to 100 centimetres",
+   "find how heavy something is",
+   "more heavy than something else"
+  ],
+  "explanation": "'length' means how long something is.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2154005",
+  "question": "What does 'weigh' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "find how heavy something is",
+  "options": [
+   "find how heavy something is",
+   "find the size of something",
+   "having little mass",
+   "having a lot of mass"
+  ],
+  "explanation": "'weigh' means find how heavy something is.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2154006",
+  "question": "___ in twos to reach 20.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "skip count",
+  "options": [
+   "skip count",
+   "twos",
+   "measure",
+   "heavier"
+  ],
+  "explanation": "The word is 'skip count': Skip count in twos to reach 20.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2154007",
+  "question": "What does 'measure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "find the size of something",
+  "options": [
+   "find the size of something",
+   "having little mass",
+   "less heavy than something else",
+   "having a lot of mass"
+  ],
+  "explanation": "'measure' means find the size of something.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2154008",
+  "question": "What does 'even' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "numbers ending with 0,2,4,6,8",
+  "options": [
+   "numbers ending with 0,2,4,6,8",
+   "groups of two",
+   "more heavy than something else",
+   "how high something is"
+  ],
+  "explanation": "'even' means numbers ending with 0,2,4,6,8.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2154009",
+  "question": "Which word means 'numbers ending with 1,3,5,7,9'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "odd",
+  "options": [
+   "odd",
+   "lighter",
+   "height",
+   "light"
+  ],
+  "explanation": "numbers ending with 1,3,5,7,9 — that is 'odd'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2154010",
+  "question": "What does 'fives' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "groups of five",
+  "options": [
+   "groups of five",
+   "numbers ending with 0,2,4,6,8",
+   "less heavy than something else",
+   "having great height"
+  ],
+  "explanation": "'fives' means groups of five.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2154011",
+  "question": "A feather is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "light",
+  "options": [
+   "light",
+   "heavy",
+   "tall",
+   "height"
+  ],
+  "explanation": "The word is 'light': A feather is light.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2154012",
+  "question": "We ___ fruit on a scale.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "weigh",
+  "options": [
+   "weigh",
+   "heavy",
+   "light",
+   "length"
+  ],
+  "explanation": "The word is 'weigh': We weigh fruit on a scale.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2154013",
+  "question": "Which word means 'count by jumping numbers'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "skip count",
+  "options": [
+   "skip count",
+   "twos",
+   "measure",
+   "heavier"
+  ],
+  "explanation": "count by jumping numbers — that is 'skip count'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2154014",
+  "question": "Which word means 'groups of five'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "fives",
+  "options": [
+   "fives",
+   "skip count",
+   "length",
+   "heavier"
+  ],
+  "explanation": "groups of five — that is 'fives'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2154015",
+  "question": "The sack of cassava is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "heavy",
+  "options": [
+   "heavy",
+   "metre",
+   "lighter",
+   "light"
+  ],
+  "explanation": "The word is 'heavy': The sack of cassava is heavy.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2154016",
+  "question": "The balloon is ___ than the book.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "lighter",
+  "options": [
+   "lighter",
+   "fives",
+   "even",
+   "twos"
+  ],
+  "explanation": "The word is 'lighter': The balloon is lighter than the book.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2154017",
+  "question": "The stone is ___ than the ball.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "heavier",
+  "options": [
+   "heavier",
+   "light",
+   "fives",
+   "skip count"
+  ],
+  "explanation": "The word is 'heavier': The stone is heavier than the ball.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2154018",
+  "question": "Which word means 'having great height'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "tall",
+  "options": [
+   "tall",
+   "light",
+   "even",
+   "lighter"
+  ],
+  "explanation": "having great height — that is 'tall'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2154019",
+  "question": "Which word means 'numbers ending with 0,2,4,6,8'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "even",
+  "options": [
+   "even",
+   "skip count",
+   "light",
+   "fives"
+  ],
+  "explanation": "numbers ending with 0,2,4,6,8 — that is 'even'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2170000",
+  "question": "Which word means 'metal money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "coin",
+  "options": [
+   "coin",
+   "full",
+   "cost",
+   "capacity"
+  ],
+  "explanation": "metal money — that is 'coin'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2170001",
+  "question": "We **___** **matooke** at the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "buy",
+  "options": [
+   "buy",
+   "shilling",
+   "coin",
+   "measure"
+  ],
+  "explanation": "The word is 'buy': We **buy** **matooke** at the market.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2170002",
+  "question": "Which word means 'how much a container holds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "capacity",
+  "options": [
+   "capacity",
+   "full",
+   "money",
+   "coin"
+  ],
+  "explanation": "how much a container holds — that is 'capacity'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2170003",
+  "question": "The **___** is 300 **shillings**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "cost",
+  "options": [
+   "cost",
+   "shilling",
+   "measure",
+   "capacity"
+  ],
+  "explanation": "The word is 'cost': The **cost** is 300 **shillings**.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2170004",
+  "question": "The **___** of this jug is one **litre**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "capacity",
+  "options": [
+   "capacity",
+   "full",
+   "money",
+   "coin"
+  ],
+  "explanation": "The word is 'capacity': The **capacity** of this jug is one **litre**.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2170005",
+  "question": "What does 'note' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "paper money",
+  "options": [
+   "paper money",
+   "how much a container holds",
+   "what you pay",
+   "cost of a thing"
+  ],
+  "explanation": "'note' means paper money.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2170006",
+  "question": "What does 'half litre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "half of one litre",
+  "options": [
+   "half of one litre",
+   "find the amount",
+   "Uganda's money unit",
+   "cost of a thing"
+  ],
+  "explanation": "'half litre' means half of one litre.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2170007",
+  "question": "We **___** juice in **litres**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "measure",
+  "options": [
+   "measure",
+   "coin",
+   "buy",
+   "full"
+  ],
+  "explanation": "The word is 'measure': We **measure** juice in **litres**.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2170008",
+  "question": "We need **___** for food.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "money",
+  "options": [
+   "money",
+   "litre",
+   "price",
+   "shilling"
+  ],
+  "explanation": "The word is 'money': We need **money** for food.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2170009",
+  "question": "What does 'capacity' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "how much a container holds",
+  "options": [
+   "how much a container holds",
+   "unit for liquids",
+   "paper money",
+   "find the amount"
+  ],
+  "explanation": "'capacity' means how much a container holds.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2170010",
+  "question": "Which word means 'find the amount'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "measure",
+  "options": [
+   "measure",
+   "coin",
+   "buy",
+   "full"
+  ],
+  "explanation": "find the amount — that is 'measure'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2170011",
+  "question": "A **___** is flat and folds.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "note",
+  "options": [
+   "note",
+   "half litre",
+   "full",
+   "price"
+  ],
+  "explanation": "The word is 'note': A **note** is flat and folds.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2170012",
+  "question": "Which word means 'filled to the top'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "full",
+  "options": [
+   "full",
+   "litre",
+   "cost",
+   "measure"
+  ],
+  "explanation": "filled to the top — that is 'full'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2170013",
+  "question": "What does 'total' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "all added together",
+  "options": [
+   "all added together",
+   "metal money",
+   "paper money",
+   "find the amount"
+  ],
+  "explanation": "'total' means all added together.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2170014",
+  "question": "Which word means 'what you pay'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "cost",
+  "options": [
+   "cost",
+   "shilling",
+   "measure",
+   "capacity"
+  ],
+  "explanation": "what you pay — that is 'cost'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2170015",
+  "question": "Which word means 'half of one litre'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "half litre",
+  "options": [
+   "half litre",
+   "buy",
+   "total",
+   "litre"
+  ],
+  "explanation": "half of one litre — that is 'half litre'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2170016",
+  "question": "Which word means 'what we use to buy'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "money",
+  "options": [
+   "money",
+   "litre",
+   "price",
+   "shilling"
+  ],
+  "explanation": "what we use to buy — that is 'money'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2170017",
+  "question": "One **___** is very small.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "shilling",
+  "options": [
+   "shilling",
+   "measure",
+   "buy",
+   "full"
+  ],
+  "explanation": "The word is 'shilling': One **shilling** is very small.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2170018",
+  "question": "What does 'price' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "cost of a thing",
+  "options": [
+   "cost of a thing",
+   "unit for liquids",
+   "find the amount",
+   "how much a container holds"
+  ],
+  "explanation": "'price' means cost of a thing.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2170019",
+  "question": "Which word means 'cost of a thing'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "price",
+  "options": [
+   "price",
+   "coin",
+   "note",
+   "total"
+  ],
+  "explanation": "cost of a thing — that is 'price'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2278000",
+  "question": "We **___** 12 and 8 to get 20.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "add",
+  "options": [
+   "add",
+   "subtract",
+   "carry",
+   "hundreds"
+  ],
+  "explanation": "The word is 'add': We **add** 12 and 8 to get 20.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2278001",
+  "question": "What does 'carry' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "move a ten to the next column",
+  "options": [
+   "move a ten to the next column",
+   "the answer of subtraction",
+   "groups of one hundred",
+   "the answer of addition"
+  ],
+  "explanation": "'carry' means move a ten to the next column.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2278002",
+  "question": "What does 'regroup' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "change ten ones into one ten",
+  "options": [
+   "change ten ones into one ten",
+   "groups of ten",
+   "put numbers together",
+   "single units"
+  ],
+  "explanation": "'regroup' means change ten ones into one ten.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2278003",
+  "question": "The **___** of 52 and 27 is 25.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "difference",
+  "options": [
+   "difference",
+   "borrow",
+   "carry",
+   "add"
+  ],
+  "explanation": "The word is 'difference': The **difference** of 52 and 27 is 25.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2278004",
+  "question": "4 **___** make 40.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "tens",
+  "options": [
+   "tens",
+   "sum",
+   "borrow",
+   "carry"
+  ],
+  "explanation": "The word is 'tens': 4 **tens** make 40.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2278005",
+  "question": "What does 'ones' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "single units",
+  "options": [
+   "single units",
+   "put numbers together",
+   "the answer of subtraction",
+   "take a ten from the next column"
+  ],
+  "explanation": "'ones' means single units.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2278006",
+  "question": "We **___** 5 from 9 to get 4.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "ones",
+   "hundreds",
+   "add"
+  ],
+  "explanation": "The word is 'subtract': We **subtract** 5 from 9 to get 4.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2278007",
+  "question": "What does 'borrow' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "take a ten from the next column",
+  "options": [
+   "take a ten from the next column",
+   "the answer of addition",
+   "the value of a digit by its position",
+   "take one number away from another"
+  ],
+  "explanation": "'borrow' means take a ten from the next column.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2278008",
+  "question": "We **___** 342 to 300 + 40 + 2.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "expand",
+  "options": [
+   "expand",
+   "place value",
+   "add",
+   "difference"
+  ],
+  "explanation": "The word is 'expand': We **expand** 342 to 300 + 40 + 2.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2278009",
+  "question": "Which word means 'the value of a digit by its position'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "place value",
+  "options": [
+   "place value",
+   "sum",
+   "regroup",
+   "borrow"
+  ],
+  "explanation": "the value of a digit by its position — that is 'place value'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2278010",
+  "question": "What does 'add' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "put numbers together",
+  "options": [
+   "put numbers together",
+   "change ten ones into one ten",
+   "write a number as sum of its parts",
+   "groups of ten"
+  ],
+  "explanation": "'add' means put numbers together.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2278011",
+  "question": "Which word means 'the answer of addition'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "carry",
+   "tens",
+   "expand"
+  ],
+  "explanation": "the answer of addition — that is 'sum'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2278012",
+  "question": "What does 'expand' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "write a number as sum of its parts",
+  "options": [
+   "write a number as sum of its parts",
+   "the answer of subtraction",
+   "the value of a digit by its position",
+   "single units"
+  ],
+  "explanation": "'expand' means write a number as sum of its parts.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2278013",
+  "question": "Which word means 'groups of one hundred'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "hundreds",
+  "options": [
+   "hundreds",
+   "difference",
+   "regroup",
+   "tens"
+  ],
+  "explanation": "groups of one hundred — that is 'hundreds'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2278014",
+  "question": "Which word means 'change ten ones into one ten'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "regroup",
+  "options": [
+   "regroup",
+   "sum",
+   "subtract",
+   "difference"
+  ],
+  "explanation": "change ten ones into one ten — that is 'regroup'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2278015",
+  "question": "What does 'subtract' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "take one number away from another",
+  "options": [
+   "take one number away from another",
+   "groups of one hundred",
+   "write a number as sum of its parts",
+   "groups of ten"
+  ],
+  "explanation": "'subtract' means take one number away from another.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2278016",
+  "question": "The **___** of 27 and 38 is 65.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "carry",
+   "tens",
+   "expand"
+  ],
+  "explanation": "The word is 'sum': The **sum** of 27 and 38 is 65.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2278017",
+  "question": "Which word means 'single units'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "ones",
+  "options": [
+   "ones",
+   "place value",
+   "add",
+   "tens"
+  ],
+  "explanation": "single units — that is 'ones'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2278018",
+  "question": "Which word means 'put numbers together'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "add",
+  "options": [
+   "add",
+   "subtract",
+   "carry",
+   "hundreds"
+  ],
+  "explanation": "put numbers together — that is 'add'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2278019",
+  "question": "What does 'difference' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "the answer of subtraction",
+  "options": [
+   "the answer of subtraction",
+   "take one number away from another",
+   "move a ten to the next column",
+   "the answer of addition"
+  ],
+  "explanation": "'difference' means the answer of subtraction.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2278000",
+  "question": "What does 'cuboid' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "a solid with 6 rectangular faces",
+  "options": [
+   "a solid with 6 rectangular faces",
+   "a solid with no flat faces",
+   "a flat side of a solid",
+   "a design that repeats"
+  ],
+  "explanation": "'cuboid' means a solid with 6 rectangular faces.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2278001",
+  "question": "A dice is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "cube",
+  "options": [
+   "cube",
+   "long",
+   "length",
+   "next"
+  ],
+  "explanation": "The word is 'cube': A dice is a cube.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2278002",
+  "question": "The pattern will ___ after blue.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "repeat",
+  "options": [
+   "repeat",
+   "sphere",
+   "cuboid",
+   "long"
+  ],
+  "explanation": "The word is 'repeat': The pattern will repeat after blue.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2278003",
+  "question": "What does 'length' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "how long something is",
+  "options": [
+   "how long something is",
+   "a flat side of a solid",
+   "a tool to measure length",
+   "the one that comes after"
+  ],
+  "explanation": "'length' means how long something is.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2278004",
+  "question": "Which word means 'a solid with 6 rectangular faces'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "cuboid",
+  "options": [
+   "cuboid",
+   "length",
+   "sphere",
+   "sequence"
+  ],
+  "explanation": "a solid with 6 rectangular faces — that is 'cuboid'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2278005",
+  "question": "What does 'cube' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "a solid with 6 square faces",
+  "options": [
+   "a solid with 6 square faces",
+   "a flat side of a solid",
+   "having great length",
+   "a design that repeats"
+  ],
+  "explanation": "'cube' means a solid with 6 square faces.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2278006",
+  "question": "Which word means 'how long something is'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "length",
+  "options": [
+   "length",
+   "sequence",
+   "long",
+   "cylinder"
+  ],
+  "explanation": "how long something is — that is 'length'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2278007",
+  "question": "What does 'long' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "having great length",
+  "options": [
+   "having great length",
+   "a solid with 6 rectangular faces",
+   "a solid with 6 square faces",
+   "to do again"
+  ],
+  "explanation": "'long' means having great length.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2278008",
+  "question": "A matchbox is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "cuboid",
+  "options": [
+   "cuboid",
+   "length",
+   "sphere",
+   "sequence"
+  ],
+  "explanation": "The word is 'cuboid': A matchbox is a cuboid.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2278009",
+  "question": "What does 'rule' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "the way a pattern works",
+  "options": [
+   "the way a pattern works",
+   "how long something is",
+   "a flat side of a solid",
+   "the one that comes after"
+  ],
+  "explanation": "'rule' means the way a pattern works.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2278010",
+  "question": "Which word means 'a flat side of a solid'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "face",
+  "options": [
+   "face",
+   "length",
+   "centimetre",
+   "cube"
+  ],
+  "explanation": "a flat side of a solid — that is 'face'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2278011",
+  "question": "Which word means 'having great length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "long",
+  "options": [
+   "long",
+   "face",
+   "sequence",
+   "ruler"
+  ],
+  "explanation": "having great length — that is 'long'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2278012",
+  "question": "What does 'ruler' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "a tool to measure length",
+  "options": [
+   "a tool to measure length",
+   "having great length",
+   "to find the size of something",
+   "a solid with no flat faces"
+  ],
+  "explanation": "'ruler' means a tool to measure length.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2278013",
+  "question": "The ___ bead is red.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "next",
+  "options": [
+   "next",
+   "cuboid",
+   "face",
+   "long"
+  ],
+  "explanation": "The word is 'next': The next bead is red.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2278014",
+  "question": "What does 'face' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "a flat side of a solid",
+  "options": [
+   "a flat side of a solid",
+   "a unit for measuring length",
+   "having great length",
+   "a solid with 6 rectangular faces"
+  ],
+  "explanation": "'face' means a flat side of a solid.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2278015",
+  "question": "What does 'next' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "the one that comes after",
+  "options": [
+   "the one that comes after",
+   "having great length",
+   "the way a pattern works",
+   "a solid with 6 square faces"
+  ],
+  "explanation": "'next' means the one that comes after.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2278016",
+  "question": "What does 'sequence' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "a set of things in order",
+  "options": [
+   "a set of things in order",
+   "a tool to measure length",
+   "to do again",
+   "a design that repeats"
+  ],
+  "explanation": "'sequence' means a set of things in order.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2278017",
+  "question": "A tin can is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "cylinder",
+  "options": [
+   "cylinder",
+   "repeat",
+   "cube",
+   "centimetre"
+  ],
+  "explanation": "The word is 'cylinder': A tin can is a cylinder.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2278018",
+  "question": "The rope is very ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "long",
+  "options": [
+   "long",
+   "face",
+   "sequence",
+   "ruler"
+  ],
+  "explanation": "The word is 'long': The rope is very long.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2278019",
+  "question": "Which word means 'to find the size of something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "measure",
+  "options": [
+   "measure",
+   "sequence",
+   "repeat",
+   "next"
+  ],
+  "explanation": "to find the size of something — that is 'measure'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2257000",
+  "question": "We make ___ of two.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "equal groups",
+  "options": [
+   "equal groups",
+   "near",
+   "metre",
+   "clock"
+  ],
+  "explanation": "The word is 'equal groups': We make equal groups of two.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2257001",
+  "question": "Which word means 'how many groups we have'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "times",
+  "options": [
+   "times",
+   "multiply",
+   "half past",
+   "near"
+  ],
+  "explanation": "how many groups we have — that is 'times'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2257002",
+  "question": "Which word means 'groups with the same number in each'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "equal groups",
+  "options": [
+   "equal groups",
+   "near",
+   "metre",
+   "clock"
+  ],
+  "explanation": "groups with the same number in each — that is 'equal groups'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2257003",
+  "question": "Which word means 'a short distance away'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "near",
+  "options": [
+   "near",
+   "quarter past",
+   "half past",
+   "hour"
+  ],
+  "explanation": "a short distance away — that is 'near'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2257004",
+  "question": "The bus leaves at ___ 7.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "quarter past",
+  "options": [
+   "quarter past",
+   "distance",
+   "hour",
+   "far"
+  ],
+  "explanation": "The word is 'quarter past': The bus leaves at quarter past 7.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH2257005",
+  "question": "Which word means 'how far it is from one place to another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "distance",
+  "options": [
+   "distance",
+   "near",
+   "hour",
+   "o'clock"
+  ],
+  "explanation": "how far it is from one place to another — that is 'distance'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2257006",
+  "question": "Which word means 'the total number in all groups'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "altogether",
+  "options": [
+   "altogether",
+   "kilometre",
+   "half past",
+   "far"
+  ],
+  "explanation": "the total number in all groups — that is 'altogether'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2257007",
+  "question": "What does 'kilometre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "1000 metres, a long walk",
+  "options": [
+   "1000 metres, a long walk",
+   "sets of things put together",
+   "a tool that shows the time",
+   "a short distance away"
+  ],
+  "explanation": "'kilometre' means 1000 metres, a long walk.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH2257008",
+  "question": "We ___ 2 by 5.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "multiply",
+  "options": [
+   "multiply",
+   "distance",
+   "equal groups",
+   "hour"
+  ],
+  "explanation": "The word is 'multiply': We multiply 2 by 5.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2257009",
+  "question": "Which word means '60 minutes, the short hand shows it'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "hour",
+  "options": [
+   "hour",
+   "kilometre",
+   "clock",
+   "multiply"
+  ],
+  "explanation": "60 minutes, the short hand shows it — that is 'hour'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2257010",
+  "question": "Which word means 'the hour exactly, minutes hand at 12'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "o'clock",
+  "options": [
+   "o'clock",
+   "kilometre",
+   "distance",
+   "far"
+  ],
+  "explanation": "the hour exactly, minutes hand at 12 — that is 'o'clock'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2257011",
+  "question": "What does 'distance' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "how far it is from one place to another",
+  "options": [
+   "how far it is from one place to another",
+   "30 minutes after the hour, minutes hand at 6",
+   "a short distance away",
+   "to add the same number many times"
+  ],
+  "explanation": "'distance' means how far it is from one place to another.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2257012",
+  "question": "The wall ___ ticks loudly.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "clock",
+  "options": [
+   "clock",
+   "multiply",
+   "near",
+   "groups"
+  ],
+  "explanation": "The word is 'clock': The wall clock ticks loudly.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2257013",
+  "question": "We eat lunch at ___ 1.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "half past",
+  "options": [
+   "half past",
+   "hour",
+   "near",
+   "quarter past"
+  ],
+  "explanation": "The word is 'half past': We eat lunch at half past 1.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2257014",
+  "question": "The city is ___ from the village.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "far",
+  "options": [
+   "far",
+   "quarter past",
+   "altogether",
+   "multiply"
+  ],
+  "explanation": "The word is 'far': The city is far from the village.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2257015",
+  "question": "What does 'clock' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "a tool that shows the time",
+  "options": [
+   "a tool that shows the time",
+   "how far it is from one place to another",
+   "how many groups we have",
+   "a short step, 100 centimetres"
+  ],
+  "explanation": "'clock' means a tool that shows the time.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2257016",
+  "question": "What does 'altogether' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "the total number in all groups",
+  "options": [
+   "the total number in all groups",
+   "30 minutes after the hour, minutes hand at 6",
+   "a short distance away",
+   "1000 metres, a long walk"
+  ],
+  "explanation": "'altogether' means the total number in all groups.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2257017",
+  "question": "Which word means 'to add the same number many times'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "multiply",
+  "options": [
+   "multiply",
+   "distance",
+   "equal groups",
+   "hour"
+  ],
+  "explanation": "to add the same number many times — that is 'multiply'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2257018",
+  "question": "The well is ___ our house.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "near",
+  "options": [
+   "near",
+   "quarter past",
+   "half past",
+   "hour"
+  ],
+  "explanation": "The word is 'near': The well is near our house.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2257019",
+  "question": "What does 'half past' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "30 minutes after the hour, minutes hand at 6",
+  "options": [
+   "30 minutes after the hour, minutes hand at 6",
+   "sets of things put together",
+   "a long distance away",
+   "how far it is from one place to another"
+  ],
+  "explanation": "'half past' means 30 minutes after the hour, minutes hand at 6.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2221000",
+  "question": "What does 'after' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "Coming later than another number.",
+  "options": [
+   "Coming later than another number.",
+   "Coming earlier than another number.",
+   "The total when things are added.",
+   "What remains after taking away."
+  ],
+  "explanation": "'after' means Coming later than another number..",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2221001",
+  "question": "What does 'sum' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "The result of adding numbers.",
+  "options": [
+   "The result of adding numbers.",
+   "To put numbers together by adding.",
+   "Coming later than another number.",
+   "Coming earlier than another number."
+  ],
+  "explanation": "'sum' means The result of adding numbers..",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2221002",
+  "question": "The ___ is 12, 25, 37, 48.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "order",
+  "options": [
+   "order",
+   "sum",
+   "left",
+   "answer"
+  ],
+  "explanation": "The word is 'order': The order is 12, 25, 37, 48.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2221003",
+  "question": "What does 'take away' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "To remove a number from another.",
+  "options": [
+   "To remove a number from another.",
+   "A line with numbers in order.",
+   "The result of adding numbers.",
+   "The way numbers go from small to big."
+  ],
+  "explanation": "'take away' means To remove a number from another..",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2221004",
+  "question": "Amina draws a ___ on the sand.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "number line",
+  "options": [
+   "number line",
+   "after",
+   "problem",
+   "difference"
+  ],
+  "explanation": "The word is 'number line': Amina draws a number line on the sand.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2221005",
+  "question": "What does 'difference' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "The result of subtracting one number from another.",
+  "options": [
+   "The result of subtracting one number from another.",
+   "A line with numbers in order.",
+   "The way numbers go from small to big.",
+   "Coming later than another number."
+  ],
+  "explanation": "'difference' means The result of subtracting one number from another..",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2221006",
+  "question": "Which word means 'Coming earlier than another number.'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "before",
+  "options": [
+   "before",
+   "join",
+   "problem",
+   "after"
+  ],
+  "explanation": "Coming earlier than another number. — that is 'before'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2221007",
+  "question": "What does 'number line' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "A line with numbers in order.",
+  "options": [
+   "A line with numbers in order.",
+   "Coming earlier than another number.",
+   "To remove a number from another.",
+   "A question that needs solving."
+  ],
+  "explanation": "'number line' means A line with numbers in order..",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2221008",
+  "question": "Which word means 'The total when things are added.'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "altogether",
+  "options": [
+   "altogether",
+   "problem",
+   "before",
+   "after"
+  ],
+  "explanation": "The total when things are added. — that is 'altogether'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2221009",
+  "question": "37 is ___ 25 and 48.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "between",
+  "options": [
+   "between",
+   "answer",
+   "altogether",
+   "left"
+  ],
+  "explanation": "The word is 'between': 37 is between 25 and 48.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2221010",
+  "question": "What does 'order' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "The way numbers go from small to big.",
+  "options": [
+   "The way numbers go from small to big.",
+   "Coming earlier than another number.",
+   "What remains after taking away.",
+   "The result of subtracting one number from another."
+  ],
+  "explanation": "'order' means The way numbers go from small to big..",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2221011",
+  "question": "What does 'join' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "To put numbers together by adding.",
+  "options": [
+   "To put numbers together by adding.",
+   "The way numbers go from small to big.",
+   "To remove a number from another.",
+   "Coming later than another number."
+  ],
+  "explanation": "'join' means To put numbers together by adding..",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH2221012",
+  "question": "We ___ the two prices to find the total.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "join",
+  "options": [
+   "join",
+   "number line",
+   "order",
+   "before"
+  ],
+  "explanation": "The word is 'join': We join the two prices to find the total.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH2221013",
+  "question": "The ___ between 80 and 35 is 45.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "difference",
+  "options": [
+   "difference",
+   "join",
+   "answer",
+   "problem"
+  ],
+  "explanation": "The word is 'difference': The difference between 80 and 35 is 45.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2221014",
+  "question": "45 mangoes are ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "left",
+  "options": [
+   "left",
+   "before",
+   "after",
+   "order"
+  ],
+  "explanation": "The word is 'left': 45 mangoes are left.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2221015",
+  "question": "Which word means 'The final result of a problem.'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "answer",
+  "options": [
+   "answer",
+   "sum",
+   "difference",
+   "order"
+  ],
+  "explanation": "The final result of a problem. — that is 'answer'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2221016",
+  "question": "Which word means 'A question that needs solving.'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "problem",
+  "options": [
+   "problem",
+   "take away",
+   "difference",
+   "before"
+  ],
+  "explanation": "A question that needs solving. — that is 'problem'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2221017",
+  "question": "We ___ 35 from 80.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "take away",
+  "options": [
+   "take away",
+   "number line",
+   "between",
+   "sum"
+  ],
+  "explanation": "The word is 'take away': We take away 35 from 80.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2221018",
+  "question": "What does 'between' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "In the middle of two numbers.",
+  "options": [
+   "In the middle of two numbers.",
+   "A question that needs solving.",
+   "The result of subtracting one number from another.",
+   "The result of adding numbers."
+  ],
+  "explanation": "'between' means In the middle of two numbers..",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2221019",
+  "question": "Which word means 'To remove a number from another.'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "take away",
+  "options": [
+   "take away",
+   "number line",
+   "between",
+   "sum"
+  ],
+  "explanation": "To remove a number from another. — that is 'take away'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2369000",
+  "question": "___ 200 and 300 to get 500.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "add",
+  "options": [
+   "add",
+   "difference",
+   "borrow",
+   "number"
+  ],
+  "explanation": "The word is 'add': Add 200 and 300 to get 500.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2369001",
+  "question": "What does 'thousand' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "a group of ten hundreds",
+  "options": [
+   "a group of ten hundreds",
+   "to be left over",
+   "to put numbers together",
+   "the final amount after adding"
+  ],
+  "explanation": "'thousand' means a group of ten hundreds.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2369002",
+  "question": "After spending 200, 300 ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "remain",
+  "options": [
+   "remain",
+   "add",
+   "place value",
+   "sum"
+  ],
+  "explanation": "The word is 'remain': After spending 200, 300 remain.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2369003",
+  "question": "Which word means 'groups of one hundred'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "hundreds",
+  "options": [
+   "hundreds",
+   "difference",
+   "count",
+   "place value"
+  ],
+  "explanation": "groups of one hundred — that is 'hundreds'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2369004",
+  "question": "What does 'borrow' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "to take from the next column",
+  "options": [
+   "to take from the next column",
+   "the answer when you add",
+   "to say numbers in order",
+   "to put numbers together"
+  ],
+  "explanation": "'borrow' means to take from the next column.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2369005",
+  "question": "What does 'place value' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "the value of a digit by its position",
+  "options": [
+   "the value of a digit by its position",
+   "to put numbers together",
+   "the final amount after adding",
+   "groups of one hundred"
+  ],
+  "explanation": "'place value' means the value of a digit by its position.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2369006",
+  "question": "The ___ of 100 and 40 is 60.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "difference",
+  "options": [
+   "difference",
+   "place value",
+   "number",
+   "subtract"
+  ],
+  "explanation": "The word is 'difference': The difference of 100 and 40 is 60.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2369007",
+  "question": "Which word means 'a group of ten hundreds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "thousand",
+  "options": [
+   "thousand",
+   "carry",
+   "place value",
+   "count"
+  ],
+  "explanation": "a group of ten hundreds — that is 'thousand'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2369008",
+  "question": "Which word means 'to take away one number from another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "place value",
+   "add",
+   "total"
+  ],
+  "explanation": "to take away one number from another — that is 'subtract'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2369009",
+  "question": "What does 'remain' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "to be left over",
+  "options": [
+   "to be left over",
+   "a symbol for a quantity",
+   "a group of ten hundreds",
+   "groups of one hundred"
+  ],
+  "explanation": "'remain' means to be left over.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2369010",
+  "question": "We ___ 1 ten when the top digit is smaller.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "borrow",
+  "options": [
+   "borrow",
+   "sum",
+   "hundreds",
+   "place value"
+  ],
+  "explanation": "The word is 'borrow': We borrow 1 ten when the top digit is smaller.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2369011",
+  "question": "The ___ of 50 and 50 is 100.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "count",
+   "number",
+   "add"
+  ],
+  "explanation": "The word is 'sum': The sum of 50 and 50 is 100.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2369012",
+  "question": "What does 'carry' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "to move a ten to the next column",
+  "options": [
+   "to move a ten to the next column",
+   "to say numbers in order",
+   "to be left over",
+   "to take away one number from another"
+  ],
+  "explanation": "'carry' means to move a ten to the next column.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2369013",
+  "question": "Which word means 'the final amount after adding'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "total",
+  "options": [
+   "total",
+   "remain",
+   "hundreds",
+   "difference"
+  ],
+  "explanation": "the final amount after adding — that is 'total'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2369014",
+  "question": "Which word means 'the answer when you add'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "count",
+   "number",
+   "add"
+  ],
+  "explanation": "the answer when you add — that is 'sum'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2369015",
+  "question": "What does 'count' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "to say numbers in order",
+  "options": [
+   "to say numbers in order",
+   "to move a ten to the next column",
+   "the answer when you add",
+   "the answer when you subtract"
+  ],
+  "explanation": "'count' means to say numbers in order.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2369016",
+  "question": "We ___ from 1 to 100.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "count",
+  "options": [
+   "count",
+   "carry",
+   "difference",
+   "add"
+  ],
+  "explanation": "The word is 'count': We count from 1 to 100.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2369017",
+  "question": "What does 'hundreds' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "groups of one hundred",
+  "options": [
+   "groups of one hundred",
+   "to take away one number from another",
+   "the value of a digit by its position",
+   "to move a ten to the next column"
+  ],
+  "explanation": "'hundreds' means groups of one hundred.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2369018",
+  "question": "One ___ shillings is a big note.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "thousand",
+  "options": [
+   "thousand",
+   "carry",
+   "place value",
+   "count"
+  ],
+  "explanation": "The word is 'thousand': One thousand shillings is a big note.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2369019",
+  "question": "What does 'subtract' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "to take away one number from another",
+  "options": [
+   "to take away one number from another",
+   "the answer when you add",
+   "to be left over",
+   "groups of one hundred"
+  ],
+  "explanation": "'subtract' means to take away one number from another.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2380000",
+  "question": "Each child gets an ___ share.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "equal",
+  "options": [
+   "equal",
+   "quarter",
+   "each",
+   "multiply"
+  ],
+  "explanation": "The word is 'equal': Each child gets an equal share.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2380001",
+  "question": "Count in ___: 2, 4, 6, 8.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "twos",
+  "options": [
+   "twos",
+   "fraction",
+   "divide",
+   "half"
+  ],
+  "explanation": "The word is 'twos': Count in twos: 2, 4, 6, 8.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2380002",
+  "question": "Which word means 'the complete thing'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "whole",
+  "options": [
+   "whole",
+   "times table",
+   "quarter",
+   "groups"
+  ],
+  "explanation": "the complete thing — that is 'whole'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2380003",
+  "question": "What does 'half' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "one of two equal parts",
+  "options": [
+   "one of two equal parts",
+   "to share into equal groups",
+   "every one of a group",
+   "groups of ten"
+  ],
+  "explanation": "'half' means one of two equal parts.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2380004",
+  "question": "Which word means 'one of two equal parts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "half",
+  "options": [
+   "half",
+   "fraction",
+   "tens",
+   "times table"
+  ],
+  "explanation": "one of two equal parts — that is 'half'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2380005",
+  "question": "Two halves make a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "whole",
+  "options": [
+   "whole",
+   "times table",
+   "quarter",
+   "groups"
+  ],
+  "explanation": "The word is 'whole': Two halves make a whole.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2380006",
+  "question": "Count in ___: 10, 20, 30, 40.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "tens",
+  "options": [
+   "tens",
+   "fraction",
+   "times table",
+   "whole"
+  ],
+  "explanation": "The word is 'tens': Count in tens: 10, 20, 30, 40.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2380007",
+  "question": "Count in ___: 5, 10, 15, 20.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "fives",
+  "options": [
+   "fives",
+   "quarter",
+   "share",
+   "equal"
+  ],
+  "explanation": "The word is 'fives': Count in fives: 5, 10, 15, 20.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2380008",
+  "question": "What does 'each' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "every one of a group",
+  "options": [
+   "every one of a group",
+   "groups of two",
+   "the complete thing",
+   "groups of five"
+  ],
+  "explanation": "'each' means every one of a group.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2380009",
+  "question": "Which word means 'to share into equal groups'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "fraction",
+   "half",
+   "tens"
+  ],
+  "explanation": "to share into equal groups — that is 'divide'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2380010",
+  "question": "What does 'times table' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "a list of multiplication facts",
+  "options": [
+   "a list of multiplication facts",
+   "pieces that are the same size",
+   "a part of a whole",
+   "to give each person the same amount"
+  ],
+  "explanation": "'times table' means a list of multiplication facts.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2380011",
+  "question": "Cut the chapati in ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "half",
+  "options": [
+   "half",
+   "fraction",
+   "tens",
+   "times table"
+  ],
+  "explanation": "The word is 'half': Cut the chapati in half.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2380012",
+  "question": "Make 3 ___ of 4 stones.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "groups",
+  "options": [
+   "groups",
+   "equal",
+   "each",
+   "fives"
+  ],
+  "explanation": "The word is 'groups': Make 3 groups of 4 stones.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2380013",
+  "question": "What does 'equal parts' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "pieces that are the same size",
+  "options": [
+   "pieces that are the same size",
+   "to add equal groups together",
+   "a part of a whole",
+   "sets of things put together"
+  ],
+  "explanation": "'equal parts' means pieces that are the same size.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2380014",
+  "question": "Which word means 'a part of a whole'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "fraction",
+  "options": [
+   "fraction",
+   "twos",
+   "equal parts",
+   "times table"
+  ],
+  "explanation": "a part of a whole — that is 'fraction'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2380015",
+  "question": "Which word means 'groups of two'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "twos",
+  "options": [
+   "twos",
+   "fraction",
+   "divide",
+   "half"
+  ],
+  "explanation": "groups of two — that is 'twos'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2380016",
+  "question": "What does 'twos' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "groups of two",
+  "options": [
+   "groups of two",
+   "pieces that are the same size",
+   "groups of ten",
+   "one of two equal parts"
+  ],
+  "explanation": "'twos' means groups of two.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2380017",
+  "question": "What does 'multiply' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "to add equal groups together",
+  "options": [
+   "to add equal groups together",
+   "to share into equal groups",
+   "sets of things put together",
+   "to give each person the same amount"
+  ],
+  "explanation": "'multiply' means to add equal groups together.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2380018",
+  "question": "Which word means 'groups of ten'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "tens",
+  "options": [
+   "tens",
+   "fraction",
+   "times table",
+   "whole"
+  ],
+  "explanation": "groups of ten — that is 'tens'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2380019",
+  "question": "Which word means 'sets of things put together'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "groups",
+  "options": [
+   "groups",
+   "equal",
+   "each",
+   "fives"
+  ],
+  "explanation": "sets of things put together — that is 'groups'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2340000",
+  "question": "Which word means 'how much a container holds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "capacity",
+  "options": [
+   "capacity",
+   "jug",
+   "weigh",
+   "year"
+  ],
+  "explanation": "how much a container holds — that is 'capacity'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2340001",
+  "question": "What does 'year' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "twelve months",
+  "options": [
+   "twelve months",
+   "to find the amount",
+   "how much matter in an object",
+   "about four weeks"
+  ],
+  "explanation": "'year' means twelve months.",
+  "hint": "It starts with 'Y'.",
+  "image": null
+ },
+ {
+  "id": "TH2340002",
+  "question": "Which word means 'chart showing days and months'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "calendar",
+  "options": [
+   "calendar",
+   "jug",
+   "measure",
+   "weigh"
+  ],
+  "explanation": "chart showing days and months — that is 'calendar'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2340003",
+  "question": "What does 'weigh' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "to find how heavy",
+  "options": [
+   "to find how heavy",
+   "about four weeks",
+   "twelve months",
+   "tool to measure mass"
+  ],
+  "explanation": "'weigh' means to find how heavy.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2340004",
+  "question": "Which word means 'to find how heavy'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "weigh",
+  "options": [
+   "weigh",
+   "litre",
+   "heavy",
+   "scale"
+  ],
+  "explanation": "to find how heavy — that is 'weigh'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2340005",
+  "question": "What does 'day' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "one 24-hour period",
+  "options": [
+   "one 24-hour period",
+   "unit for big capacity",
+   "twelve months",
+   "about four weeks"
+  ],
+  "explanation": "'day' means one 24-hour period.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2340006",
+  "question": "January is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "month",
+  "options": [
+   "month",
+   "weigh",
+   "week",
+   "kilogram"
+  ],
+  "explanation": "The word is 'month': January is a month.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2340007",
+  "question": "Monday is a school ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "day",
+  "options": [
+   "day",
+   "measure",
+   "week",
+   "mass"
+  ],
+  "explanation": "The word is 'day': Monday is a school day.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2340008",
+  "question": "Which word means 'unit for small capacity'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "millilitre",
+  "options": [
+   "millilitre",
+   "calendar",
+   "mass",
+   "jug"
+  ],
+  "explanation": "unit for small capacity — that is 'millilitre'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2340009",
+  "question": "What does 'capacity' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "how much a container holds",
+  "options": [
+   "how much a container holds",
+   "to find the amount",
+   "how much matter in an object",
+   "unit for small capacity"
+  ],
+  "explanation": "'capacity' means how much a container holds.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2340010",
+  "question": "Which word means 'container with marks to measure'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "jug",
+  "options": [
+   "jug",
+   "kilogram",
+   "year",
+   "heavy"
+  ],
+  "explanation": "container with marks to measure — that is 'jug'.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH2340011",
+  "question": "One ___ has seven days.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "week",
+  "options": [
+   "week",
+   "kilogram",
+   "heavy",
+   "millilitre"
+  ],
+  "explanation": "The word is 'week': One week has seven days.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2340012",
+  "question": "The ___ hangs on the wall.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "calendar",
+  "options": [
+   "calendar",
+   "jug",
+   "measure",
+   "weigh"
+  ],
+  "explanation": "The word is 'calendar': The calendar hangs on the wall.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2340013",
+  "question": "The ___ shows five kilograms.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "scale",
+  "options": [
+   "scale",
+   "weigh",
+   "year",
+   "capacity"
+  ],
+  "explanation": "The word is 'scale': The scale shows five kilograms.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2340014",
+  "question": "What does 'month' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "about four weeks",
+  "options": [
+   "about four weeks",
+   "unit for small capacity",
+   "container with marks to measure",
+   "hard to lift"
+  ],
+  "explanation": "'month' means about four weeks.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2340015",
+  "question": "What does 'litre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "unit for big capacity",
+  "options": [
+   "unit for big capacity",
+   "to find how heavy",
+   "how much a container holds",
+   "twelve months"
+  ],
+  "explanation": "'litre' means unit for big capacity.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2340016",
+  "question": "What does 'week' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "seven days together",
+  "options": [
+   "seven days together",
+   "twelve months",
+   "hard to lift",
+   "to find the amount"
+  ],
+  "explanation": "'week' means seven days together.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2340017",
+  "question": "Which word means 'hard to lift'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "heavy",
+  "options": [
+   "heavy",
+   "millilitre",
+   "day",
+   "year"
+  ],
+  "explanation": "hard to lift — that is 'heavy'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2340018",
+  "question": "Which word means 'unit for big capacity'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "litre",
+  "options": [
+   "litre",
+   "heavy",
+   "scale",
+   "kilogram"
+  ],
+  "explanation": "unit for big capacity — that is 'litre'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2340019",
+  "question": "What does 'heavy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "hard to lift",
+  "options": [
+   "hard to lift",
+   "a unit for mass",
+   "how much matter in an object",
+   "unit for small capacity"
+  ],
+  "explanation": "'heavy' means hard to lift.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2337000",
+  "question": "Which word means 'the amount asked for an item'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "price",
+  "options": [
+   "price",
+   "number",
+   "fewest",
+   "odd"
+  ],
+  "explanation": "the amount asked for an item — that is 'price'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2337001",
+  "question": "Bananas are the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "fewest",
+  "options": [
+   "fewest",
+   "number",
+   "data",
+   "most"
+  ],
+  "explanation": "The word is 'fewest': Bananas are the fewest.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2337002",
+  "question": "The ___ shows ten mangoes.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "graph",
+  "options": [
+   "graph",
+   "odd",
+   "buy",
+   "change"
+  ],
+  "explanation": "The word is 'graph': The graph shows ten mangoes.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2337003",
+  "question": "8 is an ___ number.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "even",
+  "options": [
+   "even",
+   "number",
+   "pair",
+   "shilling"
+  ],
+  "explanation": "The word is 'even': 8 is an even number.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2337004",
+  "question": "Which word means 'the amount needed to pay'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "cost",
+  "options": [
+   "cost",
+   "fewest",
+   "price",
+   "change"
+  ],
+  "explanation": "the amount needed to pay — that is 'cost'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2337005",
+  "question": "Kato will ___ matooke.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "buy",
+  "options": [
+   "buy",
+   "data",
+   "shilling",
+   "pair"
+  ],
+  "explanation": "The word is 'buy': Kato will buy matooke.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2337006",
+  "question": "Which word means 'a number with one left over'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "odd",
+  "options": [
+   "odd",
+   "number",
+   "buy",
+   "data"
+  ],
+  "explanation": "a number with one left over — that is 'odd'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2337007",
+  "question": "What does 'pair' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "two things together",
+  "options": [
+   "two things together",
+   "an image used in a graph",
+   "a drawing that shows data",
+   "a number that can be paired"
+  ],
+  "explanation": "'pair' means two things together.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2337008",
+  "question": "He has 1000 ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "shilling",
+  "options": [
+   "shilling",
+   "odd",
+   "data",
+   "fewest"
+  ],
+  "explanation": "The word is 'shilling': He has 1000 shilling.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2337009",
+  "question": "What does 'graph' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "a drawing that shows data",
+  "options": [
+   "a drawing that shows data",
+   "an image used in a graph",
+   "the amount needed to pay",
+   "the amount asked for an item"
+  ],
+  "explanation": "'graph' means a drawing that shows data.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2337010",
+  "question": "What does 'price' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "the amount asked for an item",
+  "options": [
+   "the amount asked for an item",
+   "an image used in a graph",
+   "a counting value",
+   "a drawing that shows data"
+  ],
+  "explanation": "'price' means the amount asked for an item.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2337011",
+  "question": "What does 'pattern' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "a repeating order",
+  "options": [
+   "a repeating order",
+   "the amount needed to pay",
+   "Ugandan money unit",
+   "to get something by paying"
+  ],
+  "explanation": "'pattern' means a repeating order.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2337012",
+  "question": "What does 'fewest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "the smallest amount",
+  "options": [
+   "the smallest amount",
+   "to get something by paying",
+   "an image used in a graph",
+   "the biggest amount"
+  ],
+  "explanation": "'fewest' means the smallest amount.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2337013",
+  "question": "7 is an ___ number.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "odd",
+  "options": [
+   "odd",
+   "number",
+   "buy",
+   "data"
+  ],
+  "explanation": "The word is 'odd': 7 is an odd number.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH2337014",
+  "question": "Which word means 'a drawing that shows data'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "graph",
+  "options": [
+   "graph",
+   "odd",
+   "buy",
+   "change"
+  ],
+  "explanation": "a drawing that shows data — that is 'graph'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2337015",
+  "question": "Which word means 'money returned after paying'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "change",
+  "options": [
+   "change",
+   "data",
+   "cost",
+   "most"
+  ],
+  "explanation": "money returned after paying — that is 'change'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2337016",
+  "question": "What does 'even' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "a number that can be paired",
+  "options": [
+   "a number that can be paired",
+   "a number with one left over",
+   "Ugandan money unit",
+   "a counting value"
+  ],
+  "explanation": "'even' means a number that can be paired.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2337017",
+  "question": "Even, odd, even, odd is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "pattern",
+  "options": [
+   "pattern",
+   "picture",
+   "buy",
+   "price"
+  ],
+  "explanation": "The word is 'pattern': Even, odd, even, odd is a pattern.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2337018",
+  "question": "Which word means 'an image used in a graph'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "picture",
+  "options": [
+   "picture",
+   "shilling",
+   "graph",
+   "change"
+  ],
+  "explanation": "an image used in a graph — that is 'picture'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2337019",
+  "question": "Which word means 'the smallest amount'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "fewest",
+  "options": [
+   "fewest",
+   "number",
+   "data",
+   "most"
+  ],
+  "explanation": "the smallest amount — that is 'fewest'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ }
+]

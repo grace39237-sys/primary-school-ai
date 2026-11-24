@@ -1,0 +1,3202 @@
+[
+ {
+  "id": "TH7152000",
+  "question": "The prime meridian is a line of ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "longitude",
+  "options": [
+   "longitude",
+   "capital city",
+   "north africa",
+   "indian ocean"
+  ],
+  "explanation": "The word is 'longitude': The prime meridian is a line of longitude.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7152001",
+  "question": "What does 'red sea' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "the sea northeast of Africa between Africa and Asia",
+  "options": [
+   "the sea northeast of Africa between Africa and Asia",
+   "our neighbour to the east",
+   "the largest ocean in the world",
+   "the region at the bottom of Africa"
+  ],
+  "explanation": "'red sea' means the sea northeast of Africa between Africa and Asia.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7152002",
+  "question": "Africa is the second largest continent in the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "world",
+  "options": [
+   "world",
+   "australia",
+   "capital",
+   "pacific"
+  ],
+  "explanation": "The word is 'world': Africa is the second largest continent in the world.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7152003",
+  "question": "Which word means 'the peninsula in northeast Africa shaped like a horn'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "horn of africa",
+  "options": [
+   "horn of africa",
+   "africa",
+   "australia",
+   "east africa"
+  ],
+  "explanation": "the peninsula in northeast Africa shaped like a horn — that is 'horn of africa'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH7152004",
+  "question": "Which word means 'the sea north of Africa between Africa and Europe'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "mediterranean sea",
+  "options": [
+   "mediterranean sea",
+   "west africa",
+   "tanzania",
+   "north africa"
+  ],
+  "explanation": "the sea north of Africa between Africa and Europe — that is 'mediterranean sea'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7152005",
+  "question": "The ___ passes through Greenwich.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "prime meridian",
+  "options": [
+   "prime meridian",
+   "country",
+   "region",
+   "hemisphere"
+  ],
+  "explanation": "The word is 'prime meridian': The prime meridian passes through Greenwich.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7152006",
+  "question": "Which word means 'the continent where Uganda is found'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "africa",
+  "options": [
+   "africa",
+   "madagascar",
+   "pacific",
+   "country"
+  ],
+  "explanation": "the continent where Uganda is found — that is 'africa'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7152007",
+  "question": "Which word means 'the line of latitude at 0 degrees that divides the Earth'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "equator",
+  "options": [
+   "equator",
+   "tanzania",
+   "europe",
+   "continent"
+  ],
+  "explanation": "the line of latitude at 0 degrees that divides the Earth — that is 'equator'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7152008",
+  "question": "Africa's ___ is between the Atlantic and Indian Oceans.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "position",
+  "options": [
+   "position",
+   "neighbour",
+   "kenya",
+   "australia"
+  ],
+  "explanation": "The word is 'position': Africa's position is between the Atlantic and Indian Oceans.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7152009",
+  "question": "Kampala is the ___ of Uganda.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "capital",
+  "options": [
+   "capital",
+   "horn of africa",
+   "capital city",
+   "mediterranean sea"
+  ],
+  "explanation": "The word is 'capital': Kampala is the capital of Uganda.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7152010",
+  "question": "The equator is a line of ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "latitude",
+  "options": [
+   "latitude",
+   "indian ocean",
+   "hemisphere",
+   "equator"
+  ],
+  "explanation": "The word is 'latitude': The equator is a line of latitude.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7152011",
+  "question": "The ___ is a busy shipping route.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "red sea",
+  "options": [
+   "red sea",
+   "island",
+   "north africa",
+   "mediterranean sea"
+  ],
+  "explanation": "The word is 'red sea': The Red Sea is a busy shipping route.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7152012",
+  "question": "What does 'prime meridian' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "the line of longitude at 0 degrees",
+  "options": [
+   "the line of longitude at 0 degrees",
+   "the sea north of Africa between Africa and Europe",
+   "the smallest continent, also called Oceania",
+   "our neighbour to the south"
+  ],
+  "explanation": "'prime meridian' means the line of longitude at 0 degrees.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7152013",
+  "question": "___ is the second largest continent.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "africa",
+  "options": [
+   "africa",
+   "madagascar",
+   "pacific",
+   "country"
+  ],
+  "explanation": "The word is 'africa': Africa is the second largest continent.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7152014",
+  "question": "What does 'map' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "a drawing that shows where places are",
+  "options": [
+   "a drawing that shows where places are",
+   "the sea north of Africa between Africa and Europe",
+   "our neighbour to the south",
+   "a country that is an island"
+  ],
+  "explanation": "'map' means a drawing that shows where places are.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7152015",
+  "question": "Which word means 'the region of Africa around the Great Lakes'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "east africa",
+  "options": [
+   "east africa",
+   "asia",
+   "world",
+   "egypt"
+  ],
+  "explanation": "the region of Africa around the Great Lakes — that is 'east africa'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7152016",
+  "question": "What does 'ethiopia' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "a country in the Horn of Africa",
+  "options": [
+   "a country in the Horn of Africa",
+   "the continent where Uganda is found",
+   "the ocean east of Africa",
+   "the region of Africa around the Great Lakes"
+  ],
+  "explanation": "'ethiopia' means a country in the Horn of Africa.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7152017",
+  "question": "Which word means 'a very large body of salt water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "ocean",
+  "options": [
+   "ocean",
+   "uganda",
+   "hemisphere",
+   "capital city"
+  ],
+  "explanation": "a very large body of salt water — that is 'ocean'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7152018",
+  "question": "Uganda is a ___ in East Africa.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "medium",
+  "answer": "country",
+  "options": [
+   "country",
+   "latitude",
+   "tanzania",
+   "east africa"
+  ],
+  "explanation": "The word is 'country': Uganda is a country in East Africa.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7152019",
+  "question": "What does 'capital' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Location of Africa on the Map of the World",
+  "difficulty": "easy",
+  "answer": "the main city where government sits",
+  "options": [
+   "the main city where government sits",
+   "the line of latitude at 0 degrees that divides the Earth",
+   "the region in the middle of Africa around the Congo Basin",
+   "a large area with common features"
+  ],
+  "explanation": "'capital' means the main city where government sits.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7106000",
+  "question": "Which word means 'day‑to‑day conditions like rain or sun'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "weather",
+  "options": [
+   "weather",
+   "equatorial",
+   "zone",
+   "lumbering"
+  ],
+  "explanation": "day‑to‑day conditions like rain or sun — that is 'weather'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7106001",
+  "question": "Farmers in the **desert** use **___** to grow vegetables.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "irrigation",
+  "options": [
+   "irrigation",
+   "altitude",
+   "rainfall",
+   "relief"
+  ],
+  "explanation": "The word is 'irrigation': Farmers in the **desert** use **irrigation** to grow vegetables.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7106002",
+  "question": "Which word means 'how hot or cold it is'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "temperature",
+  "options": [
+   "temperature",
+   "wet",
+   "average",
+   "irrigation"
+  ],
+  "explanation": "how hot or cold it is — that is 'temperature'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7106003",
+  "question": "Scientists **___** daily **temperature**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "record",
+  "options": [
+   "record",
+   "chart",
+   "influence",
+   "graph"
+  ],
+  "explanation": "The word is 'record': Scientists **record** daily **temperature**.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7106004",
+  "question": "Which word means 'water vapour in the air'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "humidity",
+  "options": [
+   "humidity",
+   "rainfall",
+   "influence",
+   "average"
+  ],
+  "explanation": "water vapour in the air — that is 'humidity'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH7106005",
+  "question": "Which word means 'the usual weather over many years'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "climate",
+  "options": [
+   "climate",
+   "rainfall",
+   "distance",
+   "hunting"
+  ],
+  "explanation": "the usual weather over many years — that is 'climate'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7106006",
+  "question": "What does 'farming' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "growing crops",
+  "options": [
+   "growing crops",
+   "cutting trees for timber",
+   "amount of rain that falls",
+   "a visual display of information"
+  ],
+  "explanation": "'farming' means growing crops.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7106007",
+  "question": "During the **___** months, **rainfall** is high.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "wet",
+  "options": [
+   "wet",
+   "influence",
+   "season",
+   "data"
+  ],
+  "explanation": "The word is 'wet': During the **wet** months, **rainfall** is high.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7106008",
+  "question": "Which word means 'an area with similar climate'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "zone",
+  "options": [
+   "zone",
+   "data",
+   "dry",
+   "farming"
+  ],
+  "explanation": "an area with similar climate — that is 'zone'.",
+  "hint": "It starts with 'Z'.",
+  "image": null
+ },
+ {
+  "id": "TH7106009",
+  "question": "High **___** makes it cooler.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "altitude",
+  "options": [
+   "altitude",
+   "zone",
+   "equatorial",
+   "tropical"
+  ],
+  "explanation": "The word is 'altitude': High **altitude** makes it cooler.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7106010",
+  "question": "Which word means 'cutting trees for timber'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "lumbering",
+  "options": [
+   "lumbering",
+   "dry",
+   "rainfall",
+   "altitude"
+  ],
+  "explanation": "cutting trees for timber — that is 'lumbering'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7106011",
+  "question": "Which word means 'effect on something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "influence",
+  "options": [
+   "influence",
+   "zone",
+   "activity",
+   "relief"
+  ],
+  "explanation": "effect on something — that is 'influence'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7106012",
+  "question": "What does 'altitude' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "height above sea level",
+  "options": [
+   "height above sea level",
+   "a visual display of information",
+   "day‑to‑day conditions like rain or sun",
+   "distance north or south of the equator"
+  ],
+  "explanation": "'altitude' means height above sea level.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7106013",
+  "question": "Which word means 'way of earning a living'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "livelihood",
+  "options": [
+   "livelihood",
+   "tourism",
+   "mining",
+   "graph"
+  ],
+  "explanation": "way of earning a living — that is 'livelihood'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7106014",
+  "question": "What does 'record' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "to write down data",
+  "options": [
+   "to write down data",
+   "flow of sea water",
+   "animals kept for meat, milk, or work",
+   "very high land"
+  ],
+  "explanation": "'record' means to write down data.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7106015",
+  "question": "The **___** **rainfall** in July is 150 mm.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "average",
+  "options": [
+   "average",
+   "sunshine",
+   "livestock",
+   "tourism"
+  ],
+  "explanation": "The word is 'average': The **average** **rainfall** in July is 150 mm.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7106016",
+  "question": "Each **___** matches the local **climate**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "activity",
+  "options": [
+   "activity",
+   "mining",
+   "lumbering",
+   "latitude"
+  ],
+  "explanation": "The word is 'activity': Each **activity** matches the local **climate**.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7106017",
+  "question": "Which word means 'a visual display of information'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "easy",
+  "answer": "chart",
+  "options": [
+   "chart",
+   "temperature",
+   "ocean current",
+   "climate"
+  ],
+  "explanation": "a visual display of information — that is 'chart'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7106018",
+  "question": "A **___** forces air to rise and cool.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "mountain",
+  "options": [
+   "mountain",
+   "weather",
+   "vegetation",
+   "wind"
+  ],
+  "explanation": "The word is 'mountain': A **mountain** forces air to rise and cool.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7106019",
+  "question": "Low **___** means hotter climate.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Climate of Africa",
+  "difficulty": "medium",
+  "answer": "latitude",
+  "options": [
+   "latitude",
+   "desert",
+   "climate",
+   "relief"
+  ],
+  "explanation": "The word is 'latitude': Low **latitude** means hotter climate.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7174000",
+  "question": "What does 'elephant' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "large grey mammal with a trunk",
+  "options": [
+   "large grey mammal with a trunk",
+   "any living green organism",
+   "amount of rain that falls",
+   "forest growing in salty coastal water"
+  ],
+  "explanation": "'elephant' means large grey mammal with a trunk.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7174001",
+  "question": "Which word means 'number of individuals of a species in an area'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "population",
+  "options": [
+   "population",
+   "desert",
+   "veld",
+   "poaching"
+  ],
+  "explanation": "number of individuals of a species in an area — that is 'population'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7174002",
+  "question": "What does 'growth' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "the process of increasing in size",
+  "options": [
+   "the process of increasing in size",
+   "amount of rain that falls",
+   "very dry area with few plants",
+   "forest growing in salty coastal water"
+  ],
+  "explanation": "'growth' means the process of increasing in size.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH7174003",
+  "question": "What does 'game warden' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "official in charge of the park",
+  "options": [
+   "official in charge of the park",
+   "giving food to animals",
+   "very dry area with few plants",
+   "striped horse‑like animal"
+  ],
+  "explanation": "'game warden' means official in charge of the park.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH7174004",
+  "question": "Which word means 'giving food to animals'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "feeding",
+  "options": [
+   "feeding",
+   "game park",
+   "poaching",
+   "grassland"
+  ],
+  "explanation": "giving food to animals — that is 'feeding'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7174005",
+  "question": "The **___** is home to many wild animals.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "medium",
+  "answer": "savannah",
+  "options": [
+   "savannah",
+   "growth",
+   "soil",
+   "distribution"
+  ],
+  "explanation": "The word is 'savannah': The **savannah** is home to many wild animals.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7174006",
+  "question": "A cactus is a **___** adapted to dry places.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "medium",
+  "answer": "plant",
+  "options": [
+   "plant",
+   "treatment",
+   "vegetation",
+   "lion"
+  ],
+  "explanation": "The word is 'plant': A cactus is a **plant** adapted to dry places.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7174007",
+  "question": "What does 'lion' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "big cat that hunts in groups",
+  "options": [
+   "big cat that hunts in groups",
+   "grassland with scattered trees",
+   "to eat grass",
+   "something that causes a result"
+  ],
+  "explanation": "'lion' means big cat that hunts in groups.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7174008",
+  "question": "The **___** of lion is Panthera leo.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "medium",
+  "answer": "species",
+  "options": [
+   "species",
+   "preserve",
+   "game warden",
+   "altitude"
+  ],
+  "explanation": "The word is 'species': The **species** of lion is Panthera leo.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7174009",
+  "question": "Tourists visit the **___** to see lions.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "medium",
+  "answer": "game park",
+  "options": [
+   "game park",
+   "equatorial forest",
+   "zebra",
+   "game ranger"
+  ],
+  "explanation": "The word is 'game park': Tourists visit the **game park** to see lions.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH7174010",
+  "question": "What does 'montane' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "vegetation on high mountains",
+  "options": [
+   "vegetation on high mountains",
+   "a living creature that moves and eats",
+   "medical care for sick or injured animals",
+   "giving food to animals"
+  ],
+  "explanation": "'montane' means vegetation on high mountains.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7174011",
+  "question": "Which word means 'all plant life in an area'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "vegetation",
+  "options": [
+   "vegetation",
+   "montane",
+   "human activity",
+   "giraffe"
+  ],
+  "explanation": "all plant life in an area — that is 'vegetation'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH7174012",
+  "question": "What does 'equatorial forest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "dense forest near the equator",
+  "options": [
+   "dense forest near the equator",
+   "giving food to animals",
+   "vegetation on high mountains",
+   "the process of increasing in size"
+  ],
+  "explanation": "'equatorial forest' means dense forest near the equator.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7174013",
+  "question": "Which word means 'living in nature, not tamed'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "wild",
+  "options": [
+   "wild",
+   "desert",
+   "mangrove forest",
+   "montane"
+  ],
+  "explanation": "living in nature, not tamed — that is 'wild'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH7174014",
+  "question": "What does 'tourism' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "travel for pleasure to see wildlife",
+  "options": [
+   "travel for pleasure to see wildlife",
+   "all plant life in an area",
+   "a living creature that moves and eats",
+   "grassland with scattered trees"
+  ],
+  "explanation": "'tourism' means travel for pleasure to see wildlife.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7174015",
+  "question": "**___** brings money for conservation.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "medium",
+  "answer": "tourism",
+  "options": [
+   "tourism",
+   "altitude",
+   "climate",
+   "rainforest"
+  ],
+  "explanation": "The word is 'tourism': **Tourism** brings money for conservation.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7174016",
+  "question": "Farming is a **___** that changes vegetation.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "medium",
+  "answer": "human activity",
+  "options": [
+   "human activity",
+   "growth",
+   "zebra",
+   "protection"
+  ],
+  "explanation": "The word is 'human activity': Farming is a **human activity** that changes vegetation.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH7174017",
+  "question": "What does 'zebra' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "striped horse‑like animal",
+  "options": [
+   "striped horse‑like animal",
+   "the top layer of earth where plants grow",
+   "open land covered with grass",
+   "how something is spread out"
+  ],
+  "explanation": "'zebra' means striped horse‑like animal.",
+  "hint": "It starts with 'Z'.",
+  "image": null
+ },
+ {
+  "id": "TH7174018",
+  "question": "The **___** in Uganda includes forests and savannah.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "medium",
+  "answer": "vegetation",
+  "options": [
+   "vegetation",
+   "montane",
+   "human activity",
+   "giraffe"
+  ],
+  "explanation": "The word is 'vegetation': The **vegetation** in Uganda includes forests and savannah.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH7174019",
+  "question": "Which word means 'big cat that hunts in groups'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 1",
+  "unit": "Vegetation of Africa",
+  "difficulty": "easy",
+  "answer": "lion",
+  "options": [
+   "lion",
+   "animal",
+   "relief",
+   "graze"
+  ],
+  "explanation": "big cat that hunts in groups — that is 'lion'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7235000",
+  "question": "The ___ of minerals benefited Europe.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "medium",
+  "answer": "exploitation",
+  "options": [
+   "exploitation",
+   "goods",
+   "triangular trade",
+   "christianity"
+  ],
+  "explanation": "The word is 'exploitation': The exploitation of minerals benefited Europe.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7235001",
+  "question": "What does 'raw material' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "natural resources like minerals and timber",
+  "options": [
+   "natural resources like minerals and timber",
+   "a territory controlled by a foreign power",
+   "the land beside the sea",
+   "the mass migration of Boer families northwards in the 1830s"
+  ],
+  "explanation": "'raw material' means natural resources like minerals and timber.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7235002",
+  "question": "Which word means 'the power to affect change'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "influence",
+  "options": [
+   "influence",
+   "school",
+   "raw material",
+   "christianity"
+  ],
+  "explanation": "the power to affect change — that is 'influence'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7235003",
+  "question": "Which word means 'someone who moves to a new land to live permanently'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "settler",
+  "options": [
+   "settler",
+   "trader",
+   "language",
+   "slave trade"
+  ],
+  "explanation": "someone who moves to a new land to live permanently — that is 'settler'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7235004",
+  "question": "What does 'resistance' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "opposition to foreign rule",
+  "options": [
+   "opposition to foreign rule",
+   "hard white material from elephant tusks",
+   "someone who moves to a new land to live permanently",
+   "a person sent to spread religion"
+  ],
+  "explanation": "'resistance' means opposition to foreign rule.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7235005",
+  "question": "Which word means 'the religion based on Jesus Christ'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "christianity",
+  "options": [
+   "christianity",
+   "triangular trade",
+   "trader",
+   "atlantic"
+  ],
+  "explanation": "the religion based on Jesus Christ — that is 'christianity'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7235006",
+  "question": "Which word means 'freedom from foreign control'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "independence",
+  "options": [
+   "independence",
+   "rule",
+   "religion",
+   "method"
+  ],
+  "explanation": "freedom from foreign control — that is 'independence'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7235007",
+  "question": "What does 'missionary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "a person sent to spread religion",
+  "options": [
+   "a person sent to spread religion",
+   "the land beside the sea",
+   "basic facilities like roads, railways, ports",
+   "the power to affect change"
+  ],
+  "explanation": "'missionary' means a person sent to spread religion.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7235008",
+  "question": "What does 'infrastructure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "basic facilities like roads, railways, ports",
+  "options": [
+   "basic facilities like roads, railways, ports",
+   "the exercise of authority over a territory",
+   "the buying and selling of people as slaves",
+   "the religion based on Jesus Christ"
+  ],
+  "explanation": "'infrastructure' means basic facilities like roads, railways, ports.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7235009",
+  "question": "What does 'church' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "a building for Christian worship",
+  "options": [
+   "a building for Christian worship",
+   "a line marking the edge of a territory",
+   "a plant grown for food or sale",
+   "using resources or people unfairly for profit"
+  ],
+  "explanation": "'church' means a building for Christian worship.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7235010",
+  "question": "Which word means 'a track for trains to carry goods and people'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "railway",
+  "options": [
+   "railway",
+   "atlantic",
+   "raw material",
+   "boundary"
+  ],
+  "explanation": "a track for trains to carry goods and people — that is 'railway'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7235011",
+  "question": "Which word means 'opposition to foreign rule'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "resistance",
+  "options": [
+   "resistance",
+   "christianity",
+   "journey",
+   "scramble"
+  ],
+  "explanation": "opposition to foreign rule — that is 'resistance'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7235012",
+  "question": "What does 'boundary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "a line marking the edge of a territory",
+  "options": [
+   "a line marking the edge of a territory",
+   "the religion based on Jesus Christ",
+   "the way of life of a group",
+   "the official who heads a colony"
+  ],
+  "explanation": "'boundary' means a line marking the edge of a territory.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH7235013",
+  "question": "Which word means 'a way of doing something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "method",
+  "options": [
+   "method",
+   "journey",
+   "church",
+   "crop"
+  ],
+  "explanation": "a way of doing something — that is 'method'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7235014",
+  "question": "What does 'trader' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "someone who buys and sells goods",
+  "options": [
+   "someone who buys and sells goods",
+   "a person who supports or practices colonialism",
+   "the mass migration of Boer families northwards in the 1830s",
+   "items that are bought and sold"
+  ],
+  "explanation": "'trader' means someone who buys and sells goods.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7235015",
+  "question": "What does 'capture' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "to catch and take by force",
+  "options": [
+   "to catch and take by force",
+   "the country at the southern tip of Africa",
+   "natural resources like minerals and timber",
+   "a person who travels to unknown places to learn"
+  ],
+  "explanation": "'capture' means to catch and take by force.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7235016",
+  "question": "The ___ signed treaties with chiefs.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "medium",
+  "answer": "colonialist",
+  "options": [
+   "colonialist",
+   "infrastructure",
+   "religion",
+   "south africa"
+  ],
+  "explanation": "The word is 'colonialist': The colonialist signed treaties with chiefs.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7235017",
+  "question": "Which word means 'a person owned by another and forced to work'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "slave",
+  "options": [
+   "slave",
+   "church",
+   "language",
+   "partition"
+  ],
+  "explanation": "a person owned by another and forced to work — that is 'slave'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7235018",
+  "question": "Which word means 'to catch and take by force'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "easy",
+  "answer": "capture",
+  "options": [
+   "capture",
+   "atlantic",
+   "independence",
+   "slave trade"
+  ],
+  "explanation": "to catch and take by force — that is 'capture'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7235019",
+  "question": "The missionary built a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Foreign Influence in Africa",
+  "difficulty": "medium",
+  "answer": "church",
+  "options": [
+   "church",
+   "slave trade",
+   "religion",
+   "coast"
+  ],
+  "explanation": "The word is 'church': The missionary built a church.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7287000",
+  "question": "What does 'land' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "the ground people live on and farm",
+  "options": [
+   "the ground people live on and farm",
+   "the idea that all African people should unite and work together",
+   "a person admired for courage and great deeds",
+   "a group of people working together for a cause"
+  ],
+  "explanation": "'land' means the ground people live on and farm.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7287001",
+  "question": "What does 'unity' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "people joining together as one",
+  "options": [
+   "people joining together as one",
+   "love for your country shown by working for its good",
+   "first President of Ghana and leading Pan-Africanist",
+   "managing relations between countries through talk"
+  ],
+  "explanation": "'unity' means people joining together as one.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH7287002",
+  "question": "___ means choosing your own leaders.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "medium",
+  "answer": "freedom",
+  "options": [
+   "freedom",
+   "kwame nkrumah",
+   "resource",
+   "equality"
+  ],
+  "explanation": "The word is 'freedom': Freedom means choosing your own leaders.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7287003",
+  "question": "What does 'multi-party' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "a system where several parties compete in elections",
+  "options": [
+   "a system where several parties compete in elections",
+   "to ask for something firmly as your right",
+   "belonging to Africa or its people",
+   "things you are allowed to do or have by law"
+  ],
+  "explanation": "'multi-party' means a system where several parties compete in elections.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7287004",
+  "question": "Which word means 'strong love for one's own country and the wish to govern it'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "nationalism",
+  "options": [
+   "nationalism",
+   "land",
+   "government",
+   "demand"
+  ],
+  "explanation": "strong love for one's own country and the wish to govern it — that is 'nationalism'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH7287005",
+  "question": "What does 'patrice lumumba' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "first Prime Minister of independent Congo, killed for his stand",
+  "options": [
+   "first Prime Minister of independent Congo, killed for his stand",
+   "an organised political group",
+   "to ask for something firmly as your right",
+   "first President of Ghana and leading Pan-Africanist"
+  ],
+  "explanation": "'patrice lumumba' means first Prime Minister of independent Congo, killed for his stand.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7287006",
+  "question": "After **independence**, many African states had a single **___** system.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "medium",
+  "answer": "party",
+  "options": [
+   "party",
+   "marcus garvey",
+   "oppression",
+   "leader"
+  ],
+  "explanation": "The word is 'party': After **independence**, many African states had a single **party** system.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7287007",
+  "question": "What does 'independence' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "a country ruling itself without foreign control",
+  "options": [
+   "a country ruling itself without foreign control",
+   "West African state founded by freed American slaves, declared independence 1847",
+   "first President of Ghana and leading Pan-Africanist",
+   "using someone unfairly for your own gain"
+  ],
+  "explanation": "'independence' means a country ruling itself without foreign control.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7287008",
+  "question": "Most of Africa was **___** by 1914, but **Ethiopia** and **Liberia** were not.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "medium",
+  "answer": "colonised",
+  "options": [
+   "colonised",
+   "government",
+   "movement",
+   "ghana"
+  ],
+  "explanation": "The word is 'colonised': Most of Africa was **colonised** by 1914, but **Ethiopia** and **Liberia** were not.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7287009",
+  "question": "Which word means 'first sub-Saharan African country to gain independence'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "ghana",
+  "options": [
+   "ghana",
+   "discrimination",
+   "patriotism",
+   "south africa"
+  ],
+  "explanation": "first sub-Saharan African country to gain independence — that is 'ghana'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH7287010",
+  "question": "Which word means 'to ask for something firmly as your right'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "demand",
+  "options": [
+   "demand",
+   "government",
+   "movement",
+   "patrice lumumba"
+  ],
+  "explanation": "to ask for something firmly as your right — that is 'demand'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7287011",
+  "question": "The independence ___ spread across Africa in the 1950s.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "medium",
+  "answer": "movement",
+  "options": [
+   "movement",
+   "ethiopia",
+   "demand",
+   "discrimination"
+  ],
+  "explanation": "The word is 'movement': The independence movement spread across Africa in the 1950s.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7287012",
+  "question": "What does 'african' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "belonging to Africa or its people",
+  "options": [
+   "belonging to Africa or its people",
+   "Jamaican Pan-Africanist who founded the UNIA",
+   "a feeling of honour in who you are",
+   "love for your country shown by working for its good"
+  ],
+  "explanation": "'african' means belonging to Africa or its people.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7287013",
+  "question": "**Ethiopia** used **___** at the League of Nations; **Liberia** used treaties with Britain/France.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "medium",
+  "answer": "diplomacy",
+  "options": [
+   "diplomacy",
+   "exploitation",
+   "land",
+   "marcus garvey"
+  ],
+  "explanation": "The word is 'diplomacy': **Ethiopia** used **diplomacy** at the League of Nations; **Liberia** used treaties with Britain/France.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7287014",
+  "question": "Which word means 'the feeling that you deserve respect'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "dignity",
+  "options": [
+   "dignity",
+   "demand",
+   "haile selassie",
+   "party"
+  ],
+  "explanation": "the feeling that you deserve respect — that is 'dignity'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7287015",
+  "question": "Which word means 'using someone unfairly for your own gain'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "exploitation",
+  "options": [
+   "exploitation",
+   "movement",
+   "freedom",
+   "resource"
+  ],
+  "explanation": "using someone unfairly for your own gain — that is 'exploitation'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7287016",
+  "question": "Which word means 'a group of people working together for a cause'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "movement",
+  "options": [
+   "movement",
+   "ethiopia",
+   "demand",
+   "discrimination"
+  ],
+  "explanation": "a group of people working together for a cause — that is 'movement'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7287017",
+  "question": "Which word means 'something valuable a country owns like minerals, forests, or water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "resource",
+  "options": [
+   "resource",
+   "pride",
+   "land",
+   "freedom"
+  ],
+  "explanation": "something valuable a country owns like minerals, forests, or water — that is 'resource'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7287018",
+  "question": "We feel ___ when Uganda wins a gold medal.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "medium",
+  "answer": "pride",
+  "options": [
+   "pride",
+   "ethiopia",
+   "patriotism",
+   "marcus garvey"
+  ],
+  "explanation": "The word is 'pride': We feel pride when Uganda wins a gold medal.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7287019",
+  "question": "Which word means 'a country ruling itself without foreign control'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Nationalism and the Road to Independence of Africa",
+  "difficulty": "easy",
+  "answer": "independence",
+  "options": [
+   "independence",
+   "ghana",
+   "demand",
+   "hero"
+  ],
+  "explanation": "a country ruling itself without foreign control — that is 'independence'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7269000",
+  "question": "Which word means 'the capital city of Ethiopia'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "addis ababa",
+  "options": [
+   "addis ababa",
+   "colonialism",
+   "dependence",
+   "failure"
+  ],
+  "explanation": "the capital city of Ethiopia — that is 'addis ababa'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7269001",
+  "question": "What does 'addis ababa' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "the capital city of Ethiopia",
+  "options": [
+   "the capital city of Ethiopia",
+   "short name for Organisation of African Unity",
+   "a person who starts something",
+   "countries working together for trade and development"
+  ],
+  "explanation": "'addis ababa' means the capital city of Ethiopia.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7269002",
+  "question": "The OAU ___ was signed by 32 countries.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "medium",
+  "answer": "charter",
+  "options": [
+   "charter",
+   "border conflict",
+   "achievement",
+   "colonialism"
+  ],
+  "explanation": "The word is 'charter': The OAU Charter was signed by 32 countries.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7269003",
+  "question": "One ___ of the OAU was to end colonialism.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "medium",
+  "answer": "objective",
+  "options": [
+   "objective",
+   "formation",
+   "problem",
+   "apartheid"
+  ],
+  "explanation": "The word is 'objective': One objective of the OAU was to end colonialism.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7269004",
+  "question": "What does 'sadc' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "Southern African Development Community",
+  "options": [
+   "Southern African Development Community",
+   "the act of creating something",
+   "a person who starts something",
+   "a goal or aim"
+  ],
+  "explanation": "'sadc' means Southern African Development Community.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7269005",
+  "question": "What does 'objective' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "a goal or aim",
+  "options": [
+   "a goal or aim",
+   "countries working together for trade and development",
+   "a way to fix a problem",
+   "short name for Organisation of African Unity"
+  ],
+  "explanation": "'objective' means a goal or aim.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7269006",
+  "question": "Which word means 'buying and selling of goods and services'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "trade",
+  "options": [
+   "trade",
+   "african union",
+   "formation",
+   "colonialism"
+  ],
+  "explanation": "buying and selling of goods and services — that is 'trade'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7269007",
+  "question": "Which word means 'setting free from oppression'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "liberation",
+  "options": [
+   "liberation",
+   "member state",
+   "failure",
+   "colonialism"
+  ],
+  "explanation": "setting free from oppression — that is 'liberation'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7269008",
+  "question": "What does 'advantage' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "a benefit or good point",
+  "options": [
+   "a benefit or good point",
+   "a way to fix a problem",
+   "Economic Community of West African States",
+   "short name for Organisation of African Unity"
+  ],
+  "explanation": "'advantage' means a benefit or good point.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7269009",
+  "question": "Which word means 'being together as one'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "unity",
+  "options": [
+   "unity",
+   "achievement",
+   "member",
+   "charter"
+  ],
+  "explanation": "being together as one — that is 'unity'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH7269010",
+  "question": "Which word means 'a person who starts something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "founder",
+  "options": [
+   "founder",
+   "achievement",
+   "civil war",
+   "sadc"
+  ],
+  "explanation": "a person who starts something — that is 'founder'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7269011",
+  "question": "Ending apartheid was a major ___ of the OAU.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "medium",
+  "answer": "achievement",
+  "options": [
+   "achievement",
+   "headquarters",
+   "failure",
+   "problem"
+  ],
+  "explanation": "The word is 'achievement': Ending apartheid was a major achievement of the OAU.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7269012",
+  "question": "Which word means 'help or backing'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "support",
+  "options": [
+   "support",
+   "disadvantage",
+   "failure",
+   "achievement"
+  ],
+  "explanation": "help or backing — that is 'support'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7269013",
+  "question": "The OAU fought against ___ for decades.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "medium",
+  "answer": "apartheid",
+  "options": [
+   "apartheid",
+   "funds",
+   "member",
+   "formation"
+  ],
+  "explanation": "The word is 'apartheid': The OAU fought against apartheid for decades.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7269014",
+  "question": "Which word means 'war between groups within one country'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "civil war",
+  "options": [
+   "civil war",
+   "ecowas",
+   "funds",
+   "peace"
+  ],
+  "explanation": "war between groups within one country — that is 'civil war'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7269015",
+  "question": "What does 'support' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "help or backing",
+  "options": [
+   "help or backing",
+   "a country that belongs to a group",
+   "a place or system for buying and selling",
+   "East African Community"
+  ],
+  "explanation": "'support' means help or backing.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7269016",
+  "question": "The ___ was formed in 1963.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "medium",
+  "answer": "organisation of african unity",
+  "options": [
+   "organisation of african unity",
+   "oau",
+   "eac",
+   "disadvantage"
+  ],
+  "explanation": "The word is 'organisation of african unity': The Organisation of African Unity was formed in 1963.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7269017",
+  "question": "The East African Community is an ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "medium",
+  "answer": "economic grouping",
+  "options": [
+   "economic grouping",
+   "ecowas",
+   "market",
+   "problem"
+  ],
+  "explanation": "The word is 'economic grouping': The East African Community is an economic grouping.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7269018",
+  "question": "What does 'eac' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "easy",
+  "answer": "East African Community",
+  "options": [
+   "East African Community",
+   "Common Market for Eastern and Southern Africa",
+   "being together as one",
+   "a country that belongs to a group"
+  ],
+  "explanation": "'eac' means East African Community.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7269019",
+  "question": "Member states must ___ the secretariat financially.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 2",
+  "unit": "Post Independent Africa",
+  "difficulty": "medium",
+  "answer": "support",
+  "options": [
+   "support",
+   "disadvantage",
+   "failure",
+   "achievement"
+  ],
+  "explanation": "The word is 'support': Member states must support the secretariat financially.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7351000",
+  "question": "Africa has many ___ resources like minerals and fertile land.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "economic",
+  "options": [
+   "economic",
+   "future",
+   "project",
+   "unemployment"
+  ],
+  "explanation": "The word is 'economic': Africa has many economic resources like minerals and fertile land.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7351001",
+  "question": "Libya used oil money to build petrochemical ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "industry",
+  "options": [
+   "industry",
+   "people",
+   "instability",
+   "climate"
+  ],
+  "explanation": "The word is 'industry': Libya used oil money to build petrochemical industry.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7351002",
+  "question": "What does 'resource' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "something useful that a country has",
+  "options": [
+   "something useful that a country has",
+   "illness that spreads or affects many people",
+   "tools and methods that make work easier",
+   "buying and selling goods and services"
+  ],
+  "explanation": "'resource' means something useful that a country has.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7351003",
+  "question": "___ is one of the world's biggest irrigation projects.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "gezira",
+  "options": [
+   "gezira",
+   "libya",
+   "challenge",
+   "skill"
+  ],
+  "explanation": "The word is 'gezira': Gezira is one of the world's biggest irrigation projects.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH7351004",
+  "question": "Which word means 'the usual weather over many years'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "climate",
+  "options": [
+   "climate",
+   "oil",
+   "mining",
+   "mineral"
+  ],
+  "explanation": "the usual weather over many years — that is 'climate'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7351005",
+  "question": "Good ___ in Masaka helps farmers get big harvests.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "soil",
+  "options": [
+   "soil",
+   "mining",
+   "transport",
+   "south africa"
+  ],
+  "explanation": "The word is 'soil': Good soil in Masaka helps farmers get big harvests.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7351006",
+  "question": "Which word means 'buying and selling goods and services'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "trade",
+  "options": [
+   "trade",
+   "mineral",
+   "congo",
+   "plan"
+  ],
+  "explanation": "buying and selling goods and services — that is 'trade'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7351007",
+  "question": "Which word means 'when people who want to work cannot find jobs'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "unemployment",
+  "options": [
+   "unemployment",
+   "future",
+   "famine",
+   "hydro-electric power"
+  ],
+  "explanation": "when people who want to work cannot find jobs — that is 'unemployment'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH7351008",
+  "question": "A strong **___** creates jobs and funds services.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "economy",
+  "options": [
+   "economy",
+   "mining",
+   "resource",
+   "disease"
+  ],
+  "explanation": "The word is 'economy': A strong **economy** creates jobs and funds services.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7351009",
+  "question": "Skilled ___ are Uganda's greatest resource for development.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "people",
+  "options": [
+   "people",
+   "solution",
+   "refugee",
+   "economic"
+  ],
+  "explanation": "The word is 'people': Skilled people are Uganda's greatest resource for development.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7351010",
+  "question": "Which word means 'the human beings who work and create'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "people",
+  "options": [
+   "people",
+   "solution",
+   "refugee",
+   "economic"
+  ],
+  "explanation": "the human beings who work and create — that is 'people'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7351011",
+  "question": "What does 'economic' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "to do with money, jobs and production",
+  "options": [
+   "to do with money, jobs and production",
+   "dishonest use of power for personal gain",
+   "the system of production, trade and money in a country",
+   "extreme shortage of food over a wide area"
+  ],
+  "explanation": "'economic' means to do with money, jobs and production.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7351012",
+  "question": "Which word means 'a person forced to flee their home country'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "refugee",
+  "options": [
+   "refugee",
+   "future",
+   "economic",
+   "corruption"
+  ],
+  "explanation": "a person forced to flee their home country — that is 'refugee'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7351013",
+  "question": "What does 'plan' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "a detailed proposal for achieving something",
+  "options": [
+   "a detailed proposal for achieving something",
+   "the liquid from rain, rivers and lakes",
+   "the top layer of earth where plants grow",
+   "inability to read and write"
+  ],
+  "explanation": "'plan' means a detailed proposal for achieving something.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7351014",
+  "question": "Water is a vital ___ for farming and industry.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "resource",
+  "options": [
+   "resource",
+   "industry",
+   "famine",
+   "economy"
+  ],
+  "explanation": "The word is 'resource': Water is a vital resource for farming and industry.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH7351015",
+  "question": "Which word means 'an ability learned through practice'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "skill",
+  "options": [
+   "skill",
+   "plan",
+   "irrigation",
+   "poverty"
+  ],
+  "explanation": "an ability learned through practice — that is 'skill'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7351016",
+  "question": "What does 'congo' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "DR Congo in Central Africa with vast minerals and forests",
+  "options": [
+   "DR Congo in Central Africa with vast minerals and forests",
+   "extracting minerals from the ground",
+   "something useful that a country has",
+   "electricity generated from moving water"
+  ],
+  "explanation": "'congo' means DR Congo in Central Africa with vast minerals and forests.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7351017",
+  "question": "What does 'transport' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "systems for moving people and goods",
+  "options": [
+   "systems for moving people and goods",
+   "the usual weather over many years",
+   "electricity generated from moving water",
+   "to do with money, jobs and production"
+  ],
+  "explanation": "'transport' means systems for moving people and goods.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7351018",
+  "question": "**___** limits job opportunities and **development**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "medium",
+  "answer": "illiteracy",
+  "options": [
+   "illiteracy",
+   "solution",
+   "mineral",
+   "development"
+  ],
+  "explanation": "The word is 'illiteracy': **Illiteracy** limits job opportunities and **development**.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH7351019",
+  "question": "Which word means 'the state of being very poor'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "Economic Developments in Africa",
+  "difficulty": "easy",
+  "answer": "poverty",
+  "options": [
+   "poverty",
+   "water",
+   "instability",
+   "challenge"
+  ],
+  "explanation": "the state of being very poor — that is 'poverty'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH7312000",
+  "question": "What does 'fao' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "Food and Agriculture Organisation — works on food security",
+  "options": [
+   "Food and Agriculture Organisation — works on food security",
+   "the right to live and not be killed",
+   "to examine similarities and differences",
+   "being united as one"
+  ],
+  "explanation": "'fao' means Food and Agriculture Organisation — works on food security.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH7312001",
+  "question": "Which word means 'the quality of being worthy of respect'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "dignity",
+  "options": [
+   "dignity",
+   "member",
+   "equality",
+   "unesco"
+  ],
+  "explanation": "the quality of being worthy of respect — that is 'dignity'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH7312002",
+  "question": "UNICEF works to protect the rights of ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "medium",
+  "answer": "children",
+  "options": [
+   "children",
+   "membership",
+   "peace",
+   "organ"
+  ],
+  "explanation": "The word is 'children': UNICEF works to protect the rights of children.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7312003",
+  "question": "Which word means 'working together for a common purpose'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "cooperation",
+  "options": [
+   "cooperation",
+   "declaration",
+   "games",
+   "world war"
+  ],
+  "explanation": "working together for a common purpose — that is 'cooperation'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7312004",
+  "question": "What does 'unity' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "being united as one",
+  "options": [
+   "being united as one",
+   "United Nations High Commissioner for Refugees — protects refugees",
+   "the state of being well in body and mind",
+   "the state of being a member of an organisation"
+  ],
+  "explanation": "'unity' means being united as one.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH7312005",
+  "question": "What does 'unhcr' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "United Nations High Commissioner for Refugees — protects refugees",
+  "options": [
+   "United Nations High Commissioner for Refugees — protects refugees",
+   "World Health Organisation — deals with global health issues",
+   "a main part of an organisation that does specific work",
+   "working together for a common purpose"
+  ],
+  "explanation": "'unhcr' means United Nations High Commissioner for Refugees — protects refugees.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH7312006",
+  "question": "The Security Council is an ___ of the UN.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "medium",
+  "answer": "organ",
+  "options": [
+   "organ",
+   "country",
+   "unesco",
+   "meeting"
+  ],
+  "explanation": "The word is 'organ': The Security Council is an organ of the UN.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7312007",
+  "question": "Which word means 'a goal or aim'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "objective",
+  "options": [
+   "objective",
+   "member",
+   "who",
+   "dignity"
+  ],
+  "explanation": "a goal or aim — that is 'objective'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH7312008",
+  "question": "Which word means 'the right to live and not be killed'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "life",
+  "options": [
+   "life",
+   "cooperation",
+   "unesco",
+   "games"
+  ],
+  "explanation": "the right to live and not be killed — that is 'life'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH7312009",
+  "question": "What does 'member' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "a country that belongs to an organisation",
+  "options": [
+   "a country that belongs to an organisation",
+   "the state of being equal in status, rights, and opportunities",
+   "World Health Organisation — deals with global health issues",
+   "the state of being a member of an organisation"
+  ],
+  "explanation": "'member' means a country that belongs to an organisation.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7312010",
+  "question": "What does 'agency' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "a specialised organisation that does specific work for the UN",
+  "options": [
+   "a specialised organisation that does specific work for the UN",
+   "to examine similarities and differences",
+   "the right to act, speak, or think without unfair control",
+   "safety from danger or threat"
+  ],
+  "explanation": "'agency' means a specialised organisation that does specific work for the UN.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH7312011",
+  "question": "WHO works to improve ___ for all people.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "medium",
+  "answer": "health",
+  "options": [
+   "health",
+   "meeting",
+   "children",
+   "who"
+  ],
+  "explanation": "The word is 'health': WHO works to improve health for all people.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH7312012",
+  "question": "The Commonwealth Heads of Government ___ (CHOGM) happens every two years.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "medium",
+  "answer": "meeting",
+  "options": [
+   "meeting",
+   "assistance",
+   "human rights",
+   "torture"
+  ],
+  "explanation": "The word is 'meeting': The Commonwealth Heads of Government Meeting (CHOGM) happens every two years.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH7312013",
+  "question": "What does 'undp' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "United Nations Development Programme — fights poverty",
+  "options": [
+   "United Nations Development Programme — fights poverty",
+   "an organisation of countries working together for peace",
+   "a gathering of people for discussion",
+   "a country that belongs to an organisation"
+  ],
+  "explanation": "'undp' means United Nations Development Programme — fights poverty.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH7312014",
+  "question": "The law must treat everyone with ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "medium",
+  "answer": "equality",
+  "options": [
+   "equality",
+   "children",
+   "world war",
+   "games"
+  ],
+  "explanation": "The word is 'equality': The law must treat everyone with equality.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH7312015",
+  "question": "Each Commonwealth ___ is independent.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "medium",
+  "answer": "country",
+  "options": [
+   "country",
+   "agency",
+   "children",
+   "objective"
+  ],
+  "explanation": "The word is 'country': Each Commonwealth country is independent.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH7312016",
+  "question": "What does 'security' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "safety from danger or threat",
+  "options": [
+   "safety from danger or threat",
+   "the right to live and not be killed",
+   "United Nations Children's Fund — helps children worldwide",
+   "a multi-sport event held every four years"
+  ],
+  "explanation": "'security' means safety from danger or threat.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH7312017",
+  "question": "Which word means 'United Nations Children's Fund — helps children worldwide'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "unicef",
+  "options": [
+   "unicef",
+   "commonwealth",
+   "organ",
+   "assistance"
+  ],
+  "explanation": "United Nations Children's Fund — helps children worldwide — that is 'unicef'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH7312018",
+  "question": "___ is banned by international law.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "medium",
+  "answer": "torture",
+  "options": [
+   "torture",
+   "meeting",
+   "member",
+   "trade"
+  ],
+  "explanation": "The word is 'torture': Torture is banned by international law.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH7312019",
+  "question": "What does 'assistance' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P7",
+  "term": "Term 3",
+  "unit": "World Organisations",
+  "difficulty": "easy",
+  "answer": "help or support given to someone",
+  "options": [
+   "help or support given to someone",
+   "the state of being well in body and mind",
+   "a specialised organisation that does specific work for the UN",
+   "a country that belongs to an organisation"
+  ],
+  "explanation": "'assistance' means help or support given to someone.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ }
+]

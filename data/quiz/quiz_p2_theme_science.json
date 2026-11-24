@@ -1,0 +1,4802 @@
+[
+ {
+  "id": "TH2147000",
+  "question": "Which word means 'a shiny, hard material like iron'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "metal",
+  "options": [
+   "metal",
+   "tree",
+   "soil",
+   "stone"
+  ],
+  "explanation": "a shiny, hard material like iron — that is 'metal'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2147001",
+  "question": "A **___** lands on a flower.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "butterfly",
+  "options": [
+   "butterfly",
+   "clean",
+   "non-living",
+   "wood"
+  ],
+  "explanation": "The word is 'butterfly': A **butterfly** lands on a flower.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2147002",
+  "question": "A cat is **___** because it eats and runs.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "living",
+  "options": [
+   "living",
+   "grass",
+   "healthy",
+   "clean"
+  ],
+  "explanation": "The word is 'living': A cat is **living** because it eats and runs.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2147003",
+  "question": "What does 'healthy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "strong and well, not sick",
+  "options": [
+   "strong and well, not sick",
+   "something that grows, breathes and moves",
+   "something that does not grow, breathe or move",
+   "the top layer of earth where plants grow"
+  ],
+  "explanation": "'healthy' means strong and well, not sick.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2147004",
+  "question": "Which word means 'a tall plant with a trunk and branches'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "tree",
+  "options": [
+   "tree",
+   "butterfly",
+   "dustbin",
+   "grass"
+  ],
+  "explanation": "a tall plant with a trunk and branches — that is 'tree'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2147005",
+  "question": "What does 'clean' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "free from dirt and rubbish",
+  "options": [
+   "free from dirt and rubbish",
+   "a shiny, hard material like iron",
+   "a tall plant with a trunk and branches",
+   "something that grows, breathes and moves"
+  ],
+  "explanation": "'clean' means free from dirt and rubbish.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2147006",
+  "question": "What does 'litter' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "rubbish thrown on the ground",
+  "options": [
+   "rubbish thrown on the ground",
+   "free from dirt and rubbish",
+   "a hard piece of rock",
+   "the top layer of earth where plants grow"
+  ],
+  "explanation": "'litter' means rubbish thrown on the ground.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2147007",
+  "question": "What does 'butterfly' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "a small flying insect with colourful wings",
+  "options": [
+   "a small flying insect with colourful wings",
+   "something that does not grow, breathe or move",
+   "short green plants that cover the ground",
+   "the top layer of earth where plants grow"
+  ],
+  "explanation": "'butterfly' means a small flying insect with colourful wings.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2147008",
+  "question": "What does 'non-living' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "something that does not grow, breathe or move",
+  "options": [
+   "something that does not grow, breathe or move",
+   "a container for rubbish",
+   "a shiny, hard material like iron",
+   "strong and well, not sick"
+  ],
+  "explanation": "'non-living' means something that does not grow, breathe or move.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2147009",
+  "question": "We sit on the **___** at break time.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "grass",
+  "options": [
+   "grass",
+   "soil",
+   "clean",
+   "sweep"
+  ],
+  "explanation": "The word is 'grass': We sit on the **grass** at break time.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2147010",
+  "question": "What does 'metal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "a shiny, hard material like iron",
+  "options": [
+   "a shiny, hard material like iron",
+   "something that grows, breathes and moves",
+   "strong and well, not sick",
+   "something that does not grow, breathe or move"
+  ],
+  "explanation": "'metal' means a shiny, hard material like iron.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2147011",
+  "question": "Which word means 'the top layer of earth where plants grow'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "soil",
+  "options": [
+   "soil",
+   "metal",
+   "tree",
+   "non-living"
+  ],
+  "explanation": "the top layer of earth where plants grow — that is 'soil'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2147012",
+  "question": "We **___** the classroom every morning.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "sweep",
+  "options": [
+   "sweep",
+   "soil",
+   "tree",
+   "wood"
+  ],
+  "explanation": "The word is 'sweep': We **sweep** the classroom every morning.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2147013",
+  "question": "The **___** in the garden is dark and soft.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "soil",
+  "options": [
+   "soil",
+   "metal",
+   "tree",
+   "non-living"
+  ],
+  "explanation": "The word is 'soil': The **soil** in the garden is dark and soft.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2147014",
+  "question": "Which word means 'material from tree trunks and branches'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "wood",
+  "options": [
+   "wood",
+   "soil",
+   "litter",
+   "tree"
+  ],
+  "explanation": "material from tree trunks and branches — that is 'wood'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2147015",
+  "question": "What does 'living' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "something that grows, breathes and moves",
+  "options": [
+   "something that grows, breathes and moves",
+   "material from tree trunks and branches",
+   "a small flying insect with colourful wings",
+   "a hard piece of rock"
+  ],
+  "explanation": "'living' means something that grows, breathes and moves.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2147016",
+  "question": "Which word means 'free from dirt and rubbish'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "clean",
+  "options": [
+   "clean",
+   "stone",
+   "wood",
+   "healthy"
+  ],
+  "explanation": "free from dirt and rubbish — that is 'clean'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2147017",
+  "question": "What does 'bird' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "easy",
+  "answer": "an animal with feathers and wings",
+  "options": [
+   "an animal with feathers and wings",
+   "something that does not grow, breathe or move",
+   "material from tree trunks and branches",
+   "a container for rubbish"
+  ],
+  "explanation": "'bird' means an animal with feathers and wings.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2147018",
+  "question": "**___** makes the compound dirty.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "litter",
+  "options": [
+   "litter",
+   "metal",
+   "living",
+   "soil"
+  ],
+  "explanation": "The word is 'litter': **Litter** makes the compound dirty.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2147019",
+  "question": "A book is **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our School and Neighbourhood",
+  "difficulty": "medium",
+  "answer": "non-living",
+  "options": [
+   "non-living",
+   "clean",
+   "healthy",
+   "sweep"
+  ],
+  "explanation": "The word is 'non-living': A book is **non-living**.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2164000",
+  "question": "What does 'rain' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "water that falls from the sky",
+  "options": [
+   "water that falls from the sky",
+   "to cut and gather ripe crops",
+   "to give food to animals",
+   "a big stream of flowing water"
+  ],
+  "explanation": "'rain' means water that falls from the sky.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2164001",
+  "question": "What does 'banana' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "a fruit that grows in big bunches",
+  "options": [
+   "a fruit that grows in big bunches",
+   "a tall plant with yellow grains",
+   "a root crop that grows underground",
+   "an animal that guards the home"
+  ],
+  "explanation": "'banana' means a fruit that grows in big bunches.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2164002",
+  "question": "The **___** barks at night.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "dog",
+  "options": [
+   "dog",
+   "well",
+   "rain",
+   "cassava"
+  ],
+  "explanation": "The word is 'dog': The **dog** barks at night.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2164003",
+  "question": "Which word means 'an animal with horns that gives milk'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "goat",
+  "options": [
+   "goat",
+   "maize",
+   "well",
+   "sheep"
+  ],
+  "explanation": "an animal with horns that gives milk — that is 'goat'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2164004",
+  "question": "Which word means 'a big animal that gives milk'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "cow",
+  "options": [
+   "cow",
+   "river",
+   "harvest",
+   "cassava"
+  ],
+  "explanation": "a big animal that gives milk — that is 'cow'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2164005",
+  "question": "Which word means 'an animal that guards the home'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "dog",
+  "options": [
+   "dog",
+   "well",
+   "rain",
+   "cassava"
+  ],
+  "explanation": "an animal that guards the home — that is 'dog'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2164006",
+  "question": "Which word means 'water that falls from the sky'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "rain",
+  "options": [
+   "rain",
+   "lake",
+   "dog",
+   "maize"
+  ],
+  "explanation": "water that falls from the sky — that is 'rain'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2164007",
+  "question": "Which word means 'a pipe that gives clean water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "tap",
+  "options": [
+   "tap",
+   "harvest",
+   "cassava",
+   "well"
+  ],
+  "explanation": "a pipe that gives clean water — that is 'tap'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2164008",
+  "question": "Which word means 'a big stream of flowing water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "river",
+  "options": [
+   "river",
+   "sheep",
+   "tap",
+   "cassava"
+  ],
+  "explanation": "a big stream of flowing water — that is 'river'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2164009",
+  "question": "What does 'river' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "a big stream of flowing water",
+  "options": [
+   "a big stream of flowing water",
+   "to give food to animals",
+   "an animal with horns that gives milk",
+   "water that falls from the sky"
+  ],
+  "explanation": "'river' means a big stream of flowing water.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2164010",
+  "question": "What does 'maize' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "a tall plant with yellow grains",
+  "options": [
+   "a tall plant with yellow grains",
+   "an animal with wool that gives meat",
+   "an animal with horns that gives milk",
+   "a big animal that gives milk"
+  ],
+  "explanation": "'maize' means a tall plant with yellow grains.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2164011",
+  "question": "Which word means 'a large body of water with land around it'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "lake",
+  "options": [
+   "lake",
+   "river",
+   "dog",
+   "feed"
+  ],
+  "explanation": "a large body of water with land around it — that is 'lake'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2164012",
+  "question": "What does 'cassava' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "a root crop that grows underground",
+  "options": [
+   "a root crop that grows underground",
+   "to give food to animals",
+   "a pipe that gives clean water",
+   "an animal with wool that gives meat"
+  ],
+  "explanation": "'cassava' means a root crop that grows underground.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2164013",
+  "question": "The **___** plant has large leaves.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "banana",
+  "options": [
+   "banana",
+   "feed",
+   "sheep",
+   "lake"
+  ],
+  "explanation": "The word is 'banana': The **banana** plant has large leaves.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2164014",
+  "question": "**___** fills our tanks.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "rain",
+  "options": [
+   "rain",
+   "lake",
+   "dog",
+   "maize"
+  ],
+  "explanation": "The word is 'rain': **Rain** fills our tanks.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2164015",
+  "question": "Which word means 'a fruit that grows in big bunches'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "banana",
+  "options": [
+   "banana",
+   "feed",
+   "sheep",
+   "lake"
+  ],
+  "explanation": "a fruit that grows in big bunches — that is 'banana'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2164016",
+  "question": "What does 'beans' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "a plant with pods full of seeds",
+  "options": [
+   "a plant with pods full of seeds",
+   "an animal with wool that gives meat",
+   "a pipe that gives clean water",
+   "a big animal that gives milk"
+  ],
+  "explanation": "'beans' means a plant with pods full of seeds.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2164017",
+  "question": "Which word means 'a plant with pods full of seeds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "beans",
+  "options": [
+   "beans",
+   "well",
+   "lake",
+   "banana"
+  ],
+  "explanation": "a plant with pods full of seeds — that is 'beans'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2164018",
+  "question": "The **___** is at the trading centre.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "tap",
+  "options": [
+   "tap",
+   "harvest",
+   "cassava",
+   "well"
+  ],
+  "explanation": "The word is 'tap': The **tap** is at the trading centre.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2164019",
+  "question": "Which word means 'a root crop that grows underground'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "cassava",
+  "options": [
+   "cassava",
+   "tap",
+   "cow",
+   "feed"
+  ],
+  "explanation": "a root crop that grows underground — that is 'cassava'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2172000",
+  "question": "Amina uses her **___** to read.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "eye",
+  "options": [
+   "eye",
+   "diarrhoea",
+   "fever",
+   "nose"
+  ],
+  "explanation": "The word is 'eye': Amina uses her **eye** to read.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2172001",
+  "question": "We have five **___** organs.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "sense",
+  "options": [
+   "sense",
+   "fever",
+   "diarrhoea",
+   "malaria"
+  ],
+  "explanation": "The word is 'sense': We have five **sense** organs.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2172002",
+  "question": "What does 'towel' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "cloth for drying",
+  "options": [
+   "cloth for drying",
+   "runny stomach from dirty water",
+   "organ for tasting",
+   "tiny things that cause sickness"
+  ],
+  "explanation": "'towel' means cloth for drying.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2172003",
+  "question": "Which word means 'tiny things that cause sickness'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "germs",
+  "options": [
+   "germs",
+   "nails",
+   "diarrhoea",
+   "sense"
+  ],
+  "explanation": "tiny things that cause sickness — that is 'germs'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2172004",
+  "question": "What does 'tongue' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "organ for tasting",
+  "options": [
+   "organ for tasting",
+   "organ for feeling",
+   "hot body temperature",
+   "tiny things that cause sickness"
+  ],
+  "explanation": "'tongue' means organ for tasting.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2172005",
+  "question": "Which word means 'hot body temperature'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "fever",
+  "options": [
+   "fever",
+   "nails",
+   "ear",
+   "nose"
+  ],
+  "explanation": "hot body temperature — that is 'fever'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2172006",
+  "question": "Peter washes his **___** with water.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "hair",
+  "options": [
+   "hair",
+   "tongue",
+   "cough",
+   "towel"
+  ],
+  "explanation": "The word is 'hair': Peter washes his **hair** with water.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2172007",
+  "question": "Which word means 'runny stomach from dirty water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "diarrhoea",
+  "options": [
+   "diarrhoea",
+   "sense",
+   "nose",
+   "cough"
+  ],
+  "explanation": "runny stomach from dirty water — that is 'diarrhoea'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2172008",
+  "question": "What does 'ear' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "organ for hearing",
+  "options": [
+   "organ for hearing",
+   "cloth for drying",
+   "a way the body knows things",
+   "strands on head"
+  ],
+  "explanation": "'ear' means organ for hearing.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2172009",
+  "question": "Which word means 'cleaner for washing'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "soap",
+  "options": [
+   "soap",
+   "nose",
+   "ear",
+   "hair"
+  ],
+  "explanation": "cleaner for washing — that is 'soap'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2172010",
+  "question": "Nalongo feels hot; she has a **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "fever",
+  "options": [
+   "fever",
+   "nails",
+   "ear",
+   "nose"
+  ],
+  "explanation": "The word is 'fever': Nalongo feels hot; she has a **fever**.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2172011",
+  "question": "What does 'sense' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "a way the body knows things",
+  "options": [
+   "a way the body knows things",
+   "drug from clinic to treat sickness",
+   "organ for smelling",
+   "cloth for drying"
+  ],
+  "explanation": "'sense' means a way the body knows things.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2172012",
+  "question": "Which word means 'a way the body knows things'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "sense",
+  "options": [
+   "sense",
+   "fever",
+   "diarrhoea",
+   "malaria"
+  ],
+  "explanation": "a way the body knows things — that is 'sense'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2172013",
+  "question": "Nalongo smells soup with her **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "nose",
+  "options": [
+   "nose",
+   "cough",
+   "eye",
+   "germs"
+  ],
+  "explanation": "The word is 'nose': Nalongo smells soup with her **nose**.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2172014",
+  "question": "Amina uses **___** to wash hands.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "soap",
+  "options": [
+   "soap",
+   "nose",
+   "ear",
+   "hair"
+  ],
+  "explanation": "The word is 'soap': Amina uses **soap** to wash hands.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2172015",
+  "question": "What does 'diarrhoea' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "runny stomach from dirty water",
+  "options": [
+   "runny stomach from dirty water",
+   "sickness with noisy breathing",
+   "hot body temperature",
+   "a way the body knows things"
+  ],
+  "explanation": "'diarrhoea' means runny stomach from dirty water.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2172016",
+  "question": "Peter tastes mango with his **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "medium",
+  "answer": "tongue",
+  "options": [
+   "tongue",
+   "medicine",
+   "cough",
+   "sense"
+  ],
+  "explanation": "The word is 'tongue': Peter tastes mango with his **tongue**.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2172017",
+  "question": "Which word means 'organ for feeling'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "skin",
+  "options": [
+   "skin",
+   "cough",
+   "medicine",
+   "nails"
+  ],
+  "explanation": "organ for feeling — that is 'skin'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2172018",
+  "question": "Which word means 'organ for tasting'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "tongue",
+  "options": [
+   "tongue",
+   "medicine",
+   "cough",
+   "sense"
+  ],
+  "explanation": "organ for tasting — that is 'tongue'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2172019",
+  "question": "What does 'germs' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Human Body and Health",
+  "difficulty": "easy",
+  "answer": "tiny things that cause sickness",
+  "options": [
+   "tiny things that cause sickness",
+   "organ for tasting",
+   "organ for hearing",
+   "strands on head"
+  ],
+  "explanation": "'germs' means tiny things that cause sickness.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2152000",
+  "question": "Beans are ___ food.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "body-building",
+  "options": [
+   "body-building",
+   "meal",
+   "clean",
+   "protective"
+  ],
+  "explanation": "The word is 'body-building': Beans are body-building food.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2152001",
+  "question": "___ makes bones strong.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "milk",
+  "options": [
+   "milk",
+   "spoil",
+   "healthy",
+   "flies"
+  ],
+  "explanation": "The word is 'milk': Milk makes bones strong.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2152002",
+  "question": "What does 'healthy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "strong and free from sickness",
+  "options": [
+   "strong and free from sickness",
+   "food that gives power to work and play",
+   "food that protects the body from sickness",
+   "make something free from dirt"
+  ],
+  "explanation": "'healthy' means strong and free from sickness.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2152003",
+  "question": "What does 'cover' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "put a lid or cloth over food",
+  "options": [
+   "put a lid or cloth over food",
+   "keep food safely for later use",
+   "plant food like spinach or cabbage",
+   "food eaten at one time"
+  ],
+  "explanation": "'cover' means put a lid or cloth over food.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2152004",
+  "question": "What does 'matooke' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "steamed green banana, a staple food",
+  "options": [
+   "steamed green banana, a staple food",
+   "become bad and unsafe to eat",
+   "food eaten at one time",
+   "seeds that grow in pods, rich in protein"
+  ],
+  "explanation": "'matooke' means steamed green banana, a staple food.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2152005",
+  "question": "Which word means 'strong and free from sickness'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "healthy",
+  "options": [
+   "healthy",
+   "matooke",
+   "vegetable",
+   "cover"
+  ],
+  "explanation": "strong and free from sickness — that is 'healthy'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2152006",
+  "question": "What does 'fruit' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "sweet plant food like mango or orange",
+  "options": [
+   "sweet plant food like mango or orange",
+   "strong and free from sickness",
+   "food that builds muscles and helps growth",
+   "white drink from cows or goats"
+  ],
+  "explanation": "'fruit' means sweet plant food like mango or orange.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2152007",
+  "question": "What does 'meal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "food eaten at one time",
+  "options": [
+   "food eaten at one time",
+   "plant food like spinach or cabbage",
+   "food that builds muscles and helps growth",
+   "food that gives power to work and play"
+  ],
+  "explanation": "'meal' means food eaten at one time.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2152008",
+  "question": "Which word means 'seeds that grow in pods, rich in protein'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "beans",
+  "options": [
+   "beans",
+   "matooke",
+   "energy",
+   "vegetable"
+  ],
+  "explanation": "seeds that grow in pods, rich in protein — that is 'beans'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2152009",
+  "question": "Which word means 'keep food safely for later use'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "store",
+  "options": [
+   "store",
+   "beans",
+   "fruit",
+   "milk"
+  ],
+  "explanation": "keep food safely for later use — that is 'store'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2152010",
+  "question": "___ keeps us healthy.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "vegetable",
+  "options": [
+   "vegetable",
+   "meal",
+   "body-building",
+   "matooke"
+  ],
+  "explanation": "The word is 'vegetable': Vegetable keeps us healthy.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH2152011",
+  "question": "What does 'spoil' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "become bad and unsafe to eat",
+  "options": [
+   "become bad and unsafe to eat",
+   "put a lid or cloth over food",
+   "food that gives power to work and play",
+   "small insects that carry germs"
+  ],
+  "explanation": "'spoil' means become bad and unsafe to eat.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2152012",
+  "question": "___ the table before cooking.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "clean",
+  "options": [
+   "clean",
+   "fruit",
+   "protective",
+   "healthy"
+  ],
+  "explanation": "The word is 'clean': Clean the table before cooking.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2152013",
+  "question": "Which word means 'plant food like spinach or cabbage'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "vegetable",
+  "options": [
+   "vegetable",
+   "meal",
+   "body-building",
+   "matooke"
+  ],
+  "explanation": "plant food like spinach or cabbage — that is 'vegetable'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH2152014",
+  "question": "Which word means 'food that protects the body from sickness'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "protective",
+  "options": [
+   "protective",
+   "vegetable",
+   "energy",
+   "matooke"
+  ],
+  "explanation": "food that protects the body from sickness — that is 'protective'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2152015",
+  "question": "Which word means 'food that gives power to work and play'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "energy",
+  "options": [
+   "energy",
+   "protective",
+   "meal",
+   "matooke"
+  ],
+  "explanation": "food that gives power to work and play — that is 'energy'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2152016",
+  "question": "We eat ___ for lunch.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "matooke",
+  "options": [
+   "matooke",
+   "flies",
+   "protective",
+   "cover"
+  ],
+  "explanation": "The word is 'matooke': We eat matooke for lunch.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2152017",
+  "question": "What does 'body-building' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "food that builds muscles and helps growth",
+  "options": [
+   "food that builds muscles and helps growth",
+   "seeds that grow in pods, rich in protein",
+   "small insects that carry germs",
+   "steamed green banana, a staple food"
+  ],
+  "explanation": "'body-building' means food that builds muscles and helps growth.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2152018",
+  "question": "Meat will ___ in the sun.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "medium",
+  "answer": "spoil",
+  "options": [
+   "spoil",
+   "clean",
+   "body-building",
+   "beans"
+  ],
+  "explanation": "The word is 'spoil': Meat will spoil in the sun.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2152019",
+  "question": "What does 'store' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 1",
+  "unit": "Food and Nutrition",
+  "difficulty": "easy",
+  "answer": "keep food safely for later use",
+  "options": [
+   "keep food safely for later use",
+   "make something free from dirt",
+   "plant food like spinach or cabbage",
+   "seeds that grow in pods, rich in protein"
+  ],
+  "explanation": "'store' means keep food safely for later use.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2294000",
+  "question": "Which word means 'a living green thing that grows'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "plant",
+  "options": [
+   "plant",
+   "wind",
+   "tree",
+   "burn"
+  ],
+  "explanation": "a living green thing that grows — that is 'plant'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2294001",
+  "question": "What does 'water' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "liquid we drink and plants need",
+  "options": [
+   "liquid we drink and plants need",
+   "water that falls from clouds",
+   "to set fire to something",
+   "white puff in the sky that holds water"
+  ],
+  "explanation": "'water' means liquid we drink and plants need.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2294002",
+  "question": "___ blows the trees.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "wind",
+  "options": [
+   "wind",
+   "air",
+   "litter",
+   "cloud"
+  ],
+  "explanation": "The word is 'wind': Wind blows the trees.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2294003",
+  "question": "The ___ gives shade.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "tree",
+  "options": [
+   "tree",
+   "wind",
+   "cloud",
+   "care"
+  ],
+  "explanation": "The word is 'tree': The tree gives shade.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2294004",
+  "question": "What does 'season' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "time of year with certain weather",
+  "options": [
+   "time of year with certain weather",
+   "white puff in the sky that holds water",
+   "to set fire to something",
+   "to look after something"
+  ],
+  "explanation": "'season' means time of year with certain weather.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2294005",
+  "question": "What does 'wind' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "moving air",
+  "options": [
+   "moving air",
+   "water that falls from clouds",
+   "time of year with certain weather",
+   "rubbish left on the ground"
+  ],
+  "explanation": "'wind' means moving air.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2294006",
+  "question": "Amina digs in the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "soil",
+  "options": [
+   "soil",
+   "tree",
+   "litter",
+   "care"
+  ],
+  "explanation": "The word is 'soil': Amina digs in the soil.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2294007",
+  "question": "Which word means 'liquid we drink and plants need'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "water",
+  "options": [
+   "water",
+   "burn",
+   "cloud",
+   "season"
+  ],
+  "explanation": "liquid we drink and plants need — that is 'water'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2294008",
+  "question": "Which word means 'the invisible gas around us'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "air",
+  "options": [
+   "air",
+   "sun",
+   "season",
+   "litter"
+  ],
+  "explanation": "the invisible gas around us — that is 'air'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2294009",
+  "question": "___ hurts the soil.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "burn",
+  "options": [
+   "burn",
+   "litter",
+   "plant",
+   "rain"
+  ],
+  "explanation": "The word is 'burn': Burn hurts the soil.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2294010",
+  "question": "What does 'air' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "the invisible gas around us",
+  "options": [
+   "the invisible gas around us",
+   "time of year with certain weather",
+   "a big plant with a trunk",
+   "white puff in the sky that holds water"
+  ],
+  "explanation": "'air' means the invisible gas around us.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2294011",
+  "question": "A ___ covers the sun.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "cloud",
+  "options": [
+   "cloud",
+   "season",
+   "air",
+   "wind"
+  ],
+  "explanation": "The word is 'cloud': A cloud covers the sun.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2294012",
+  "question": "What does 'burn' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "to set fire to something",
+  "options": [
+   "to set fire to something",
+   "a living green thing that grows",
+   "the invisible gas around us",
+   "time of year with certain weather"
+  ],
+  "explanation": "'burn' means to set fire to something.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2294013",
+  "question": "We show ___ for nature.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "care",
+  "options": [
+   "care",
+   "wind",
+   "rain",
+   "sun"
+  ],
+  "explanation": "The word is 'care': We show care for nature.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2294014",
+  "question": "The ___ grows tall.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "plant",
+  "options": [
+   "plant",
+   "wind",
+   "tree",
+   "burn"
+  ],
+  "explanation": "The word is 'plant': The plant grows tall.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2294015",
+  "question": "Which word means 'the bright star that gives light'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "sun",
+  "options": [
+   "sun",
+   "soil",
+   "rain",
+   "water"
+  ],
+  "explanation": "the bright star that gives light — that is 'sun'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2294016",
+  "question": "Which word means 'to look after something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "care",
+  "options": [
+   "care",
+   "wind",
+   "rain",
+   "sun"
+  ],
+  "explanation": "to look after something — that is 'care'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2294017",
+  "question": "The ___ shines on the garden.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "medium",
+  "answer": "sun",
+  "options": [
+   "sun",
+   "soil",
+   "rain",
+   "water"
+  ],
+  "explanation": "The word is 'sun': The sun shines on the garden.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2294018",
+  "question": "What does 'soil' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "the ground where plants grow",
+  "options": [
+   "the ground where plants grow",
+   "time of year with certain weather",
+   "the invisible gas around us",
+   "rubbish left on the ground"
+  ],
+  "explanation": "'soil' means the ground where plants grow.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2294019",
+  "question": "Which word means 'time of year with certain weather'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Our Environment",
+  "difficulty": "easy",
+  "answer": "season",
+  "options": [
+   "season",
+   "rain",
+   "water",
+   "sun"
+  ],
+  "explanation": "time of year with certain weather — that is 'season'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2245000",
+  "question": "The brick ___ is wooden.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "mould",
+  "options": [
+   "mould",
+   "pattern",
+   "sisal",
+   "palm"
+  ],
+  "explanation": "The word is 'mould': The brick mould is wooden.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2245001",
+  "question": "What does 'basket' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "container made by weaving",
+  "options": [
+   "container made by weaving",
+   "round container for cooking",
+   "block for building walls",
+   "strong fibre from a plant"
+  ],
+  "explanation": "'basket' means container made by weaving.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2245002",
+  "question": "Mother cooks beans in a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "pot",
+  "options": [
+   "pot",
+   "pattern",
+   "clay",
+   "palm"
+  ],
+  "explanation": "The word is 'pot': Mother cooks beans in a pot.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2245003",
+  "question": "What does 'brick' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "block for building walls",
+  "options": [
+   "block for building walls",
+   "strong fibre from a plant",
+   "shape used to form clay",
+   "hot flames that harden clay"
+  ],
+  "explanation": "'brick' means block for building walls.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2245004",
+  "question": "Which word means 'strips from banana plant'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "banana fibre",
+  "options": [
+   "banana fibre",
+   "palm",
+   "fire",
+   "pot"
+  ],
+  "explanation": "strips from banana plant — that is 'banana fibre'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2245005",
+  "question": "What does 'sisal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "strong fibre from a plant",
+  "options": [
+   "strong fibre from a plant",
+   "soft earth used for pots",
+   "container made by weaving",
+   "flat woven floor cover"
+  ],
+  "explanation": "'sisal' means strong fibre from a plant.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2245006",
+  "question": "Which word means 'hot flames that harden clay'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "fire",
+  "options": [
+   "fire",
+   "brick",
+   "mat",
+   "sisal"
+  ],
+  "explanation": "hot flames that harden clay — that is 'fire'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2245007",
+  "question": "Which word means 'remove water by sun or air'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "dry",
+  "options": [
+   "dry",
+   "pattern",
+   "material",
+   "banana fibre"
+  ],
+  "explanation": "remove water by sun or air — that is 'dry'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH2245008",
+  "question": "What does 'pattern' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "repeated design",
+  "options": [
+   "repeated design",
+   "remove water by sun or air",
+   "strips from banana plant",
+   "container made by weaving"
+  ],
+  "explanation": "'pattern' means repeated design.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2245009",
+  "question": "What does 'pot' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "round container for cooking",
+  "options": [
+   "round container for cooking",
+   "soft earth used for pots",
+   "leaves from a palm tree",
+   "container made by weaving"
+  ],
+  "explanation": "'pot' means round container for cooking.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2245010",
+  "question": "Which word means 'leaves from a palm tree'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "palm",
+  "options": [
+   "palm",
+   "banana fibre",
+   "mat",
+   "fire"
+  ],
+  "explanation": "leaves from a palm tree — that is 'palm'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2245011",
+  "question": "What does 'weave' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "cross strips to make fabric",
+  "options": [
+   "cross strips to make fabric",
+   "container made by weaving",
+   "round container for cooking",
+   "soft earth used for pots"
+  ],
+  "explanation": "'weave' means cross strips to make fabric.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2245012",
+  "question": "Which word means 'cross strips to make fabric'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "weave",
+  "options": [
+   "weave",
+   "mould",
+   "material",
+   "basket"
+  ],
+  "explanation": "cross strips to make fabric — that is 'weave'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2245013",
+  "question": "What does 'mat' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "flat woven floor cover",
+  "options": [
+   "flat woven floor cover",
+   "repeated design",
+   "strong fibre from a plant",
+   "leaves from a palm tree"
+  ],
+  "explanation": "'mat' means flat woven floor cover.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2245014",
+  "question": "Which word means 'shape used to form clay'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "mould",
+  "options": [
+   "mould",
+   "pattern",
+   "sisal",
+   "palm"
+  ],
+  "explanation": "shape used to form clay — that is 'mould'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2245015",
+  "question": "What does 'mould' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "shape used to form clay",
+  "options": [
+   "shape used to form clay",
+   "something used to make things",
+   "soft earth used for pots",
+   "leaves from a palm tree"
+  ],
+  "explanation": "'mould' means shape used to form clay.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2245016",
+  "question": "___ is good for weaving.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "banana fibre",
+  "options": [
+   "banana fibre",
+   "palm",
+   "fire",
+   "pot"
+  ],
+  "explanation": "The word is 'banana fibre': Banana fibre is good for weaving.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2245017",
+  "question": "The kiln has a strong ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "medium",
+  "answer": "fire",
+  "options": [
+   "fire",
+   "brick",
+   "mat",
+   "sisal"
+  ],
+  "explanation": "The word is 'fire': The kiln has a strong fire.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2245018",
+  "question": "Which word means 'flat woven floor cover'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "mat",
+  "options": [
+   "mat",
+   "fire",
+   "material",
+   "sisal"
+  ],
+  "explanation": "flat woven floor cover — that is 'mat'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2245019",
+  "question": "Which word means 'repeated design'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Things We Make",
+  "difficulty": "easy",
+  "answer": "pattern",
+  "options": [
+   "pattern",
+   "basket",
+   "mould",
+   "fire"
+  ],
+  "explanation": "repeated design — that is 'pattern'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2236000",
+  "question": "The ___ carries bananas.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "pickup",
+  "options": [
+   "pickup",
+   "goods",
+   "zebra crossing",
+   "car"
+  ],
+  "explanation": "The word is 'pickup': The pickup carries bananas.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2236001",
+  "question": "What does 'market' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "a place where people buy and sell",
+  "options": [
+   "a place where people buy and sell",
+   "a vessel that moves on water",
+   "a large vehicle that carries many people",
+   "a person walking on the road"
+  ],
+  "explanation": "'market' means a place where people buy and sell.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2236002",
+  "question": "What does 'look' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "to use your eyes to see",
+  "options": [
+   "to use your eyes to see",
+   "a person walking on the road",
+   "free from danger",
+   "a motorcycle taxi"
+  ],
+  "explanation": "'look' means to use your eyes to see.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2236003",
+  "question": "Which word means 'to use your eyes to see'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "look",
+  "options": [
+   "look",
+   "pickup",
+   "goods",
+   "bus"
+  ],
+  "explanation": "to use your eyes to see — that is 'look'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2236004",
+  "question": "What does 'zebra crossing' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "a marked place to cross the road",
+  "options": [
+   "a marked place to cross the road",
+   "to use your eyes to see",
+   "a big truck for carrying heavy loads",
+   "a vehicle with four wheels"
+  ],
+  "explanation": "'zebra crossing' means a marked place to cross the road.",
+  "hint": "It starts with 'Z'.",
+  "image": null
+ },
+ {
+  "id": "TH2236005",
+  "question": "The ___ is heavy today.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "traffic",
+  "options": [
+   "traffic",
+   "pedestrian",
+   "lorry",
+   "market"
+  ],
+  "explanation": "The word is 'traffic': The traffic is heavy today.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2236006",
+  "question": "The ___ brings maize to the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "lorry",
+  "options": [
+   "lorry",
+   "pickup",
+   "zebra crossing",
+   "traffic"
+  ],
+  "explanation": "The word is 'lorry': The lorry brings maize to the market.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2236007",
+  "question": "Which word means 'vehicles moving on the road'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "traffic",
+  "options": [
+   "traffic",
+   "pedestrian",
+   "lorry",
+   "market"
+  ],
+  "explanation": "vehicles moving on the road — that is 'traffic'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2236008",
+  "question": "What does 'bicycle' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "a two‑wheel vehicle you pedal",
+  "options": [
+   "a two‑wheel vehicle you pedal",
+   "a marked place to cross the road",
+   "a motorcycle taxi",
+   "vehicles moving on the road"
+  ],
+  "explanation": "'bicycle' means a two‑wheel vehicle you pedal.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2236009",
+  "question": "Which word means 'a car that carries passengers for money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "taxi",
+  "options": [
+   "taxi",
+   "bicycle",
+   "car",
+   "pedestrian"
+  ],
+  "explanation": "a car that carries passengers for money — that is 'taxi'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2236010",
+  "question": "Which word means 'a two‑wheel vehicle you pedal'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "bicycle",
+  "options": [
+   "bicycle",
+   "traffic",
+   "safe",
+   "boda boda"
+  ],
+  "explanation": "a two‑wheel vehicle you pedal — that is 'bicycle'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2236011",
+  "question": "Which word means 'a place where people buy and sell'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "market",
+  "options": [
+   "market",
+   "bicycle",
+   "boda boda",
+   "car"
+  ],
+  "explanation": "a place where people buy and sell — that is 'market'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2236012",
+  "question": "What does 'pedestrian' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "a person walking on the road",
+  "options": [
+   "a person walking on the road",
+   "a car that carries passengers for money",
+   "a two‑wheel vehicle you pedal",
+   "a marked place to cross the road"
+  ],
+  "explanation": "'pedestrian' means a person walking on the road.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2236013",
+  "question": "Which word means 'a person walking on the road'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "pedestrian",
+  "options": [
+   "pedestrian",
+   "taxi",
+   "goods",
+   "traffic"
+  ],
+  "explanation": "a person walking on the road — that is 'pedestrian'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2236014",
+  "question": "The ___ are fresh vegetables.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "goods",
+  "options": [
+   "goods",
+   "pickup",
+   "market",
+   "bus"
+  ],
+  "explanation": "The word is 'goods': The goods are fresh vegetables.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2236015",
+  "question": "We cross at the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "zebra crossing",
+  "options": [
+   "zebra crossing",
+   "bicycle",
+   "goods",
+   "boat"
+  ],
+  "explanation": "The word is 'zebra crossing': We cross at the zebra crossing.",
+  "hint": "It starts with 'Z'.",
+  "image": null
+ },
+ {
+  "id": "TH2236016",
+  "question": "We feel ___ on the crossing.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "medium",
+  "answer": "safe",
+  "options": [
+   "safe",
+   "traffic",
+   "bicycle",
+   "boda boda"
+  ],
+  "explanation": "The word is 'safe': We feel safe on the crossing.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2236017",
+  "question": "Which word means 'a small truck with an open back'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "pickup",
+  "options": [
+   "pickup",
+   "goods",
+   "zebra crossing",
+   "car"
+  ],
+  "explanation": "a small truck with an open back — that is 'pickup'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2236018",
+  "question": "Which word means 'things that are bought and sold'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "goods",
+  "options": [
+   "goods",
+   "pickup",
+   "market",
+   "bus"
+  ],
+  "explanation": "things that are bought and sold — that is 'goods'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2236019",
+  "question": "What does 'traffic' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Transport in Our Community",
+  "difficulty": "easy",
+  "answer": "vehicles moving on the road",
+  "options": [
+   "vehicles moving on the road",
+   "a vessel that moves on water",
+   "a vehicle with four wheels",
+   "a two‑wheel vehicle you pedal"
+  ],
+  "explanation": "'traffic' means vehicles moving on the road.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2203000",
+  "question": "Tell an **___** if someone is hurt.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "adult",
+  "options": [
+   "adult",
+   "fire",
+   "run",
+   "fall"
+  ],
+  "explanation": "The word is 'adult': Tell an **adult** if someone is hurt.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2203001",
+  "question": "What does 'medicine' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "something you take to feel better",
+  "options": [
+   "something you take to feel better",
+   "hurt on the body",
+   "hurt from heat or fire",
+   "first help for a hurt person"
+  ],
+  "explanation": "'medicine' means something you take to feel better.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2203002",
+  "question": "Which word means 'place where children play'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "playground",
+  "options": [
+   "playground",
+   "adult",
+   "wash",
+   "burn"
+  ],
+  "explanation": "place where children play — that is 'playground'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2203003",
+  "question": "Teacher Nankya knows **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "first aid",
+  "options": [
+   "first aid",
+   "burn",
+   "road",
+   "injury"
+  ],
+  "explanation": "The word is 'first aid': Teacher Nankya knows **first aid**.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2203004",
+  "question": "Which word means 'hurt from heat or fire'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "burn",
+  "options": [
+   "burn",
+   "fire",
+   "injury",
+   "first aid"
+  ],
+  "explanation": "hurt from heat or fire — that is 'burn'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2203005",
+  "question": "The children run on the **___** at break time.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "playground",
+  "options": [
+   "playground",
+   "adult",
+   "wash",
+   "burn"
+  ],
+  "explanation": "The word is 'playground': The children run on the **playground** at break time.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2203006",
+  "question": "What does 'bleeding' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "blood coming out of a cut",
+  "options": [
+   "blood coming out of a cut",
+   "sharp tool for cutting",
+   "hot flames that can hurt you",
+   "hurt from heat or fire"
+  ],
+  "explanation": "'bleeding' means blood coming out of a cut.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2203007",
+  "question": "What does 'knife' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "sharp tool for cutting",
+  "options": [
+   "sharp tool for cutting",
+   "path for cars and boda bodas",
+   "place where children play",
+   "cloth to cover a cut"
+  ],
+  "explanation": "'knife' means sharp tool for cutting.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH2203008",
+  "question": "Which word means 'blood coming out of a cut'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "bleeding",
+  "options": [
+   "bleeding",
+   "careful",
+   "road",
+   "first aid"
+  ],
+  "explanation": "blood coming out of a cut — that is 'bleeding'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2203009",
+  "question": "Which word means 'cloth to cover a cut'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "bandage",
+  "options": [
+   "bandage",
+   "knife",
+   "bleeding",
+   "road"
+  ],
+  "explanation": "cloth to cover a cut — that is 'bandage'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2203010",
+  "question": "What does 'run' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "move fast on feet",
+  "options": [
+   "move fast on feet",
+   "something you take to feel better",
+   "path for cars and boda bodas",
+   "watch out for danger"
+  ],
+  "explanation": "'run' means move fast on feet.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2203011",
+  "question": "Which word means 'clean with water and soap'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "wash",
+  "options": [
+   "wash",
+   "adult",
+   "first aid",
+   "medicine"
+  ],
+  "explanation": "clean with water and soap — that is 'wash'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2203012",
+  "question": "Which word means 'hurt on the body'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "injury",
+  "options": [
+   "injury",
+   "bandage",
+   "knife",
+   "careful"
+  ],
+  "explanation": "hurt on the body — that is 'injury'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH2203013",
+  "question": "Which word means 'first help for a hurt person'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "first aid",
+  "options": [
+   "first aid",
+   "burn",
+   "road",
+   "injury"
+  ],
+  "explanation": "first help for a hurt person — that is 'first aid'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2203014",
+  "question": "What does 'adult' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "grown-up person",
+  "options": [
+   "grown-up person",
+   "hot flames that can hurt you",
+   "watch out for danger",
+   "cloth to cover a cut"
+  ],
+  "explanation": "'adult' means grown-up person.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2203015",
+  "question": "Kato had a **___** on the wet floor.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "fall",
+  "options": [
+   "fall",
+   "playground",
+   "medicine",
+   "bleeding"
+  ],
+  "explanation": "The word is 'fall': Kato had a **fall** on the wet floor.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2203016",
+  "question": "Peter likes to **___** with his friends.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "run",
+  "options": [
+   "run",
+   "knife",
+   "medicine",
+   "adult"
+  ],
+  "explanation": "The word is 'run': Peter likes to **run** with his friends.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2203017",
+  "question": "The **___** in the kitchen cooks our food.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "medium",
+  "answer": "fire",
+  "options": [
+   "fire",
+   "bleeding",
+   "playground",
+   "burn"
+  ],
+  "explanation": "The word is 'fire': The **fire** in the kitchen cooks our food.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2203018",
+  "question": "Which word means 'watch out for danger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "careful",
+  "options": [
+   "careful",
+   "knife",
+   "bleeding",
+   "first aid"
+  ],
+  "explanation": "watch out for danger — that is 'careful'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2203019",
+  "question": "What does 'road' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 2",
+  "unit": "Accidents and Safety",
+  "difficulty": "easy",
+  "answer": "path for cars and boda bodas",
+  "options": [
+   "path for cars and boda bodas",
+   "clean with water and soap",
+   "hurt on the body",
+   "watch out for danger"
+  ],
+  "explanation": "'road' means path for cars and boda bodas.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2311000",
+  "question": "Which word means 'person who watches a gate'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "guard",
+  "options": [
+   "guard",
+   "river",
+   "safe",
+   "forest"
+  ],
+  "explanation": "person who watches a gate — that is 'guard'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2311001",
+  "question": "Which word means 'mother or father'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "parent",
+  "options": [
+   "parent",
+   "dangerous",
+   "protect",
+   "report"
+  ],
+  "explanation": "mother or father — that is 'parent'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2311002",
+  "question": "What does 'report' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "tell an adult about danger",
+  "options": [
+   "tell an adult about danger",
+   "person who defends the country",
+   "person who watches a gate",
+   "large water body"
+  ],
+  "explanation": "'report' means tell an adult about danger.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2311003",
+  "question": "What does 'protect' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "keep safe from harm",
+  "options": [
+   "keep safe from harm",
+   "a person you do not know",
+   "tell an adult about danger",
+   "person who watches a gate"
+  ],
+  "explanation": "'protect' means keep safe from harm.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2311004",
+  "question": "The **___** talks to the **police**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "leader",
+  "options": [
+   "leader",
+   "forest",
+   "police",
+   "report"
+  ],
+  "explanation": "The word is 'leader': The **leader** talks to the **police**.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2311005",
+  "question": "Which word means 'tell an adult about danger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "report",
+  "options": [
+   "report",
+   "stranger",
+   "police",
+   "road"
+  ],
+  "explanation": "tell an adult about danger — that is 'report'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2311006",
+  "question": "What does 'river' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "large water body",
+  "options": [
+   "large water body",
+   "path for vehicles",
+   "can cause harm",
+   "person who watches a gate"
+  ],
+  "explanation": "'river' means large water body.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2311007",
+  "question": "Which word means 'keep safe from harm'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "protect",
+  "options": [
+   "protect",
+   "guard",
+   "river",
+   "forest"
+  ],
+  "explanation": "keep safe from harm — that is 'protect'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2311008",
+  "question": "Which word means 'free from danger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "safe",
+  "options": [
+   "safe",
+   "soldier",
+   "gift",
+   "dangerous"
+  ],
+  "explanation": "free from danger — that is 'safe'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2311009",
+  "question": "The **___** officer directed traffic.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "police",
+  "options": [
+   "police",
+   "forest",
+   "dangerous",
+   "protect"
+  ],
+  "explanation": "The word is 'police': The **police** officer directed traffic.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2311010",
+  "question": "Which word means 'person who defends the country'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "soldier",
+  "options": [
+   "soldier",
+   "river",
+   "stranger",
+   "gift"
+  ],
+  "explanation": "person who defends the country — that is 'soldier'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2311011",
+  "question": "The **___** stands at the barracks.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "soldier",
+  "options": [
+   "soldier",
+   "river",
+   "stranger",
+   "gift"
+  ],
+  "explanation": "The word is 'soldier': The **soldier** stands at the barracks.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2311012",
+  "question": "Which word means 'a person you do not know'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "stranger",
+  "options": [
+   "stranger",
+   "dangerous",
+   "soldier",
+   "guard"
+  ],
+  "explanation": "a person you do not know — that is 'stranger'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2311013",
+  "question": "What does 'parent' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "mother or father",
+  "options": [
+   "mother or father",
+   "person who defends the country",
+   "a person you do not know",
+   "large water body"
+  ],
+  "explanation": "'parent' means mother or father.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2311014",
+  "question": "They **___** us every day.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "protect",
+  "options": [
+   "protect",
+   "guard",
+   "river",
+   "forest"
+  ],
+  "explanation": "The word is 'protect': They **protect** us every day.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2311015",
+  "question": "What does 'gift' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "something given for free",
+  "options": [
+   "something given for free",
+   "officers who catch thieves",
+   "free from danger",
+   "person who guides the community"
+  ],
+  "explanation": "'gift' means something given for free.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH2311016",
+  "question": "What does 'road' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "path for vehicles",
+  "options": [
+   "path for vehicles",
+   "keep safe from harm",
+   "person who watches a gate",
+   "officers who catch thieves"
+  ],
+  "explanation": "'road' means path for vehicles.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2311017",
+  "question": "The **___** has a strong current.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "river",
+  "options": [
+   "river",
+   "protect",
+   "safe",
+   "parent"
+  ],
+  "explanation": "The word is 'river': The **river** has a strong current.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2311018",
+  "question": "Amina will **___** the **stranger** to her **parent**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "report",
+  "options": [
+   "report",
+   "stranger",
+   "police",
+   "road"
+  ],
+  "explanation": "The word is 'report': Amina will **report** the **stranger** to her **parent**.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2311019",
+  "question": "Which word means 'person who guides the community'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "leader",
+  "options": [
+   "leader",
+   "forest",
+   "police",
+   "report"
+  ],
+  "explanation": "person who guides the community — that is 'leader'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2346000",
+  "question": "___ means no food or care.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "neglect",
+  "options": [
+   "neglect",
+   "school",
+   "trust",
+   "play"
+  ],
+  "explanation": "The word is 'neglect': Neglect means no food or care.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2346001",
+  "question": "Which word means 'place to learn'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "school",
+  "options": [
+   "school",
+   "touch",
+   "protection",
+   "teacher"
+  ],
+  "explanation": "place to learn — that is 'school'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2346002",
+  "question": "Which word means 'being kept safe'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "protection",
+  "options": [
+   "protection",
+   "teacher",
+   "food",
+   "touch"
+  ],
+  "explanation": "being kept safe — that is 'protection'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2346003",
+  "question": "Which word means 'not in danger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "safe",
+  "options": [
+   "safe",
+   "neglect",
+   "right",
+   "touch"
+  ],
+  "explanation": "not in danger — that is 'safe'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2346004",
+  "question": "My ___ helps me learn.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "teacher",
+  "options": [
+   "teacher",
+   "neglect",
+   "food",
+   "abuse"
+  ],
+  "explanation": "The word is 'teacher': My teacher helps me learn.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2346005",
+  "question": "I go to ___ every day.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "school",
+  "options": [
+   "school",
+   "touch",
+   "protection",
+   "teacher"
+  ],
+  "explanation": "The word is 'school': I go to school every day.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2346006",
+  "question": "What does 'food' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "healthy things to eat",
+  "options": [
+   "healthy things to eat",
+   "fun activity",
+   "being kept safe",
+   "tell an adult about a problem"
+  ],
+  "explanation": "'food' means healthy things to eat.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2346007",
+  "question": "Which word means 'belongs only to you'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "private",
+  "options": [
+   "private",
+   "right",
+   "abuse",
+   "report"
+  ],
+  "explanation": "belongs only to you — that is 'private'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2346008",
+  "question": "What does 'school' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "place to learn",
+  "options": [
+   "place to learn",
+   "belongs only to you",
+   "fun activity",
+   "adult who teaches at school"
+  ],
+  "explanation": "'school' means place to learn.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2346009",
+  "question": "A good ___ is a hug.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "touch",
+  "options": [
+   "touch",
+   "protection",
+   "trust",
+   "school"
+  ],
+  "explanation": "The word is 'touch': A good touch is a hug.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2346010",
+  "question": "Every child has a ___ to food.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "right",
+  "options": [
+   "right",
+   "touch",
+   "report",
+   "protection"
+  ],
+  "explanation": "The word is 'right': Every child has a right to food.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2346011",
+  "question": "Which word means 'adult who teaches at school'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "teacher",
+  "options": [
+   "teacher",
+   "neglect",
+   "food",
+   "abuse"
+  ],
+  "explanation": "adult who teaches at school — that is 'teacher'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2346012",
+  "question": "Which word means 'healthy things to eat'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "food",
+  "options": [
+   "food",
+   "safe",
+   "private",
+   "touch"
+  ],
+  "explanation": "healthy things to eat — that is 'food'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2346013",
+  "question": "What does 'neglect' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "not giving a child needed care",
+  "options": [
+   "not giving a child needed care",
+   "adult who teaches at school",
+   "fun activity",
+   "not in danger"
+  ],
+  "explanation": "'neglect' means not giving a child needed care.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH2346014",
+  "question": "Which word means 'hurting a child on purpose'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "abuse",
+  "options": [
+   "abuse",
+   "trust",
+   "touch",
+   "right"
+  ],
+  "explanation": "hurting a child on purpose — that is 'abuse'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH2346015",
+  "question": "I will ___ a bad touch.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "report",
+  "options": [
+   "report",
+   "private",
+   "trust",
+   "safe"
+  ],
+  "explanation": "The word is 'report': I will report a bad touch.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2346016",
+  "question": "We eat ___ to grow strong.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "medium",
+  "answer": "food",
+  "options": [
+   "food",
+   "safe",
+   "private",
+   "touch"
+  ],
+  "explanation": "The word is 'food': We eat food to grow strong.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2346017",
+  "question": "Which word means 'something you must have'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "right",
+  "options": [
+   "right",
+   "touch",
+   "report",
+   "protection"
+  ],
+  "explanation": "something you must have — that is 'right'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2346018",
+  "question": "What does 'play' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "fun activity",
+  "options": [
+   "fun activity",
+   "not in danger",
+   "something you must have",
+   "to put hand on something"
+  ],
+  "explanation": "'play' means fun activity.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2346019",
+  "question": "Which word means 'support to fix a problem'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Child Protection",
+  "difficulty": "easy",
+  "answer": "help",
+  "options": [
+   "help",
+   "play",
+   "school",
+   "safe"
+  ],
+  "explanation": "support to fix a problem — that is 'help'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2396000",
+  "question": "What does 'heavy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "having much weight",
+  "options": [
+   "having much weight",
+   "greater length",
+   "tool to compare weight",
+   "unit of weight"
+  ],
+  "explanation": "'heavy' means having much weight.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2396001",
+  "question": "What does 'short' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "less length",
+  "options": [
+   "less length",
+   "unit of weight",
+   "holding as much as possible",
+   "greater length"
+  ],
+  "explanation": "'short' means less length.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2396002",
+  "question": "We ___ the fruit.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "weigh",
+  "options": [
+   "weigh",
+   "time",
+   "hour",
+   "measure"
+  ],
+  "explanation": "The word is 'weigh': We weigh the fruit.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2396003",
+  "question": "The sack is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "heavy",
+  "options": [
+   "heavy",
+   "short",
+   "measure",
+   "kilogram"
+  ],
+  "explanation": "The word is 'heavy': The sack is heavy.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2396004",
+  "question": "Which word means 'a tool to measure length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "ruler",
+  "options": [
+   "ruler",
+   "litre",
+   "time",
+   "full"
+  ],
+  "explanation": "a tool to measure length — that is 'ruler'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2396005",
+  "question": "What does 'measure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "find the size",
+  "options": [
+   "find the size",
+   "find how heavy",
+   "a tool to measure length",
+   "small container for measuring"
+  ],
+  "explanation": "'measure' means find the size.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2396006",
+  "question": "What does 'balance' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "tool to compare weight",
+  "options": [
+   "tool to compare weight",
+   "unit of weight",
+   "greater length",
+   "having much weight"
+  ],
+  "explanation": "'balance' means tool to compare weight.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH2396007",
+  "question": "What does 'time' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "what a clock shows",
+  "options": [
+   "what a clock shows",
+   "greater length",
+   "find the size",
+   "unit of length"
+  ],
+  "explanation": "'time' means what a clock shows.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2396008",
+  "question": "Which word means 'greater length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "long",
+  "options": [
+   "long",
+   "short",
+   "litre",
+   "weigh"
+  ],
+  "explanation": "greater length — that is 'long'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2396009",
+  "question": "School starts in one ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "hour",
+  "options": [
+   "hour",
+   "short",
+   "heavy",
+   "light"
+  ],
+  "explanation": "The word is 'hour': School starts in one hour.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH2396010",
+  "question": "The jug is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "full",
+  "options": [
+   "full",
+   "heavy",
+   "cup",
+   "long"
+  ],
+  "explanation": "The word is 'full': The jug is full.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2396011",
+  "question": "Which word means 'having little weight'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "light",
+  "options": [
+   "light",
+   "full",
+   "measure",
+   "ruler"
+  ],
+  "explanation": "having little weight — that is 'light'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2396012",
+  "question": "What does 'litre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "unit of liquid volume",
+  "options": [
+   "unit of liquid volume",
+   "greater length",
+   "find how heavy",
+   "having much weight"
+  ],
+  "explanation": "'litre' means unit of liquid volume.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2396013",
+  "question": "Which word means 'unit of liquid volume'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "litre",
+  "options": [
+   "litre",
+   "balance",
+   "full",
+   "weigh"
+  ],
+  "explanation": "unit of liquid volume — that is 'litre'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2396014",
+  "question": "Which word means 'unit of length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "metre",
+  "options": [
+   "metre",
+   "full",
+   "litre",
+   "hour"
+  ],
+  "explanation": "unit of length — that is 'metre'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2396015",
+  "question": "We check the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "time",
+  "options": [
+   "time",
+   "ruler",
+   "hour",
+   "heavy"
+  ],
+  "explanation": "The word is 'time': We check the time.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH2396016",
+  "question": "What does 'cup' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "small container for measuring",
+  "options": [
+   "small container for measuring",
+   "what a clock shows",
+   "less length",
+   "unit of liquid volume"
+  ],
+  "explanation": "'cup' means small container for measuring.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH2396017",
+  "question": "The pencil is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "medium",
+  "answer": "short",
+  "options": [
+   "short",
+   "ruler",
+   "balance",
+   "kilogram"
+  ],
+  "explanation": "The word is 'short': The pencil is short.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2396018",
+  "question": "Which word means 'unit of weight'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "kilogram",
+  "options": [
+   "kilogram",
+   "heavy",
+   "cup",
+   "weigh"
+  ],
+  "explanation": "unit of weight — that is 'kilogram'.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH2396019",
+  "question": "What does 'weigh' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Measures",
+  "difficulty": "easy",
+  "answer": "find how heavy",
+  "options": [
+   "find how heavy",
+   "greater length",
+   "unit of weight",
+   "having little weight"
+  ],
+  "explanation": "'weigh' means find how heavy.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH2330000",
+  "question": "Which word means 'part of body that moves you'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "muscle",
+  "options": [
+   "muscle",
+   "safe",
+   "jump",
+   "crowd"
+  ],
+  "explanation": "part of body that moves you — that is 'muscle'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2330001",
+  "question": "Which word means 'power to do things'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "energy",
+  "options": [
+   "energy",
+   "play",
+   "jump",
+   "clean"
+  ],
+  "explanation": "power to do things — that is 'energy'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2330002",
+  "question": "Which word means 'have fun with games'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "play",
+  "options": [
+   "play",
+   "exercise",
+   "jump",
+   "food"
+  ],
+  "explanation": "have fun with games — that is 'play'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2330003",
+  "question": "We do ___ at school.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "exercise",
+  "options": [
+   "exercise",
+   "sleep",
+   "parent",
+   "fireworks"
+  ],
+  "explanation": "The word is 'exercise': We do exercise at school.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2330004",
+  "question": "Which word means 'what we eat to grow'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "food",
+  "options": [
+   "food",
+   "exercise",
+   "energy",
+   "run"
+  ],
+  "explanation": "what we eat to grow — that is 'food'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2330005",
+  "question": "My leg ___ is strong.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "muscle",
+  "options": [
+   "muscle",
+   "safe",
+   "jump",
+   "crowd"
+  ],
+  "explanation": "The word is 'muscle': My leg muscle is strong.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2330006",
+  "question": "What does 'play' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "have fun with games",
+  "options": [
+   "have fun with games",
+   "free from dirt",
+   "move body to be strong",
+   "what we eat to grow"
+  ],
+  "explanation": "'play' means have fun with games.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2330007",
+  "question": "Stay close to be ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "safe",
+  "options": [
+   "safe",
+   "exercise",
+   "rest",
+   "play"
+  ],
+  "explanation": "The word is 'safe': Stay close to be safe.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH2330008",
+  "question": "What does 'muscle' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "part of body that moves you",
+  "options": [
+   "part of body that moves you",
+   "move fast on feet",
+   "what we eat to grow",
+   "push off ground into air"
+  ],
+  "explanation": "'muscle' means part of body that moves you.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH2330009",
+  "question": "What does 'energy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "power to do things",
+  "options": [
+   "power to do things",
+   "bright lights in sky",
+   "what we eat to grow",
+   "have fun with games"
+  ],
+  "explanation": "'energy' means power to do things.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2330010",
+  "question": "Which word means 'push off ground into air'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "jump",
+  "options": [
+   "jump",
+   "fireworks",
+   "muscle",
+   "play"
+  ],
+  "explanation": "push off ground into air — that is 'jump'.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH2330011",
+  "question": "What does 'lost' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "cannot find your way",
+  "options": [
+   "cannot find your way",
+   "rest at night",
+   "free from danger",
+   "have fun with games"
+  ],
+  "explanation": "'lost' means cannot find your way.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH2330012",
+  "question": "Children ___ at the trading centre.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "play",
+  "options": [
+   "play",
+   "exercise",
+   "jump",
+   "food"
+  ],
+  "explanation": "The word is 'play': Children play at the trading centre.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2330013",
+  "question": "What does 'fireworks' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "bright lights in sky",
+  "options": [
+   "bright lights in sky",
+   "move fast on feet",
+   "power to do things",
+   "what we eat to grow"
+  ],
+  "explanation": "'fireworks' means bright lights in sky.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2330014",
+  "question": "Kato holds his ___'s hand.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "parent",
+  "options": [
+   "parent",
+   "lost",
+   "muscle",
+   "clean"
+  ],
+  "explanation": "The word is 'parent': Kato holds his parent's hand.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH2330015",
+  "question": "What does 'run' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "move fast on feet",
+  "options": [
+   "move fast on feet",
+   "what we eat to grow",
+   "stop work to relax",
+   "power to do things"
+  ],
+  "explanation": "'run' means move fast on feet.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH2330016",
+  "question": "Food gives me ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "energy",
+  "options": [
+   "energy",
+   "play",
+   "jump",
+   "clean"
+  ],
+  "explanation": "The word is 'energy': Food gives me energy.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH2330017",
+  "question": "Which word means 'bright lights in sky'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "fireworks",
+  "options": [
+   "fireworks",
+   "crowd",
+   "play",
+   "run"
+  ],
+  "explanation": "bright lights in sky — that is 'fireworks'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2330018",
+  "question": "___ make loud noise.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "medium",
+  "answer": "fireworks",
+  "options": [
+   "fireworks",
+   "crowd",
+   "play",
+   "run"
+  ],
+  "explanation": "The word is 'fireworks': Fireworks make loud noise.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH2330019",
+  "question": "Which word means 'stop work to relax'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P2",
+  "term": "Term 3",
+  "unit": "Recreation, Festivals and Holiday",
+  "difficulty": "easy",
+  "answer": "rest",
+  "options": [
+   "rest",
+   "lost",
+   "parent",
+   "exercise"
+  ],
+  "explanation": "stop work to relax — that is 'rest'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ }
+]

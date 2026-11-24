@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "TH4144000",
+  "question": "What does 'west' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "the direction where the sun goes down",
+  "options": [
+   "the direction where the sun goes down",
+   "a drawing of a place from above",
+   "the direction where the sun comes up",
+   "where something began"
+  ],
+  "explanation": "'west' means the direction where the sun goes down.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4144001",
+  "question": "We look at the ___ of Uganda.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "medium",
+  "answer": "map",
+  "options": [
+   "map",
+   "mosque",
+   "road",
+   "west"
+  ],
+  "explanation": "The word is 'map': We look at the map of Uganda.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4144002",
+  "question": "The district ___ is in Wakiso town.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "medium",
+  "answer": "headquarters",
+  "options": [
+   "headquarters",
+   "district",
+   "border",
+   "town"
+  ],
+  "explanation": "The word is 'headquarters': The district headquarters is in Wakiso town.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4144003",
+  "question": "What does 'compass' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "a tool that shows four main directions",
+  "options": [
+   "a tool that shows four main directions",
+   "where something began",
+   "a place where many people live and work",
+   "a drawing of a place from above"
+  ],
+  "explanation": "'compass' means a tool that shows four main directions.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4144004",
+  "question": "What does 'border' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "the line between two districts",
+  "options": [
+   "the line between two districts",
+   "the main office of a district or sub-county",
+   "an area with its own local government",
+   "the direction where the sun rises in Uganda"
+  ],
+  "explanation": "'border' means the line between two districts.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4144005",
+  "question": "We learn the ___ of our district.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "medium",
+  "answer": "history",
+  "options": [
+   "history",
+   "south",
+   "post office",
+   "district"
+  ],
+  "explanation": "The word is 'history': We learn the history of our district.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4144006",
+  "question": "Which word means 'a place where police work to keep peace'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "police station",
+  "options": [
+   "police station",
+   "origin",
+   "map",
+   "west"
+  ],
+  "explanation": "a place where police work to keep peace — that is 'police station'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4144007",
+  "question": "Which word means 'a building where Christians worship'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "church",
+  "options": [
+   "church",
+   "district",
+   "south",
+   "size"
+  ],
+  "explanation": "a building where Christians worship — that is 'church'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4144008",
+  "question": "What does 'size' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "how big a place is",
+  "options": [
+   "how big a place is",
+   "a building where Muslims worship",
+   "the direction where the sun comes up",
+   "a place where letters and parcels are sent"
+  ],
+  "explanation": "'size' means how big a place is.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4144009",
+  "question": "Which word means 'the story of what happened long ago'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "history",
+  "options": [
+   "history",
+   "south",
+   "post office",
+   "district"
+  ],
+  "explanation": "the story of what happened long ago — that is 'history'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4144010",
+  "question": "What does 'history' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "the story of what happened long ago",
+  "options": [
+   "the story of what happened long ago",
+   "the direction where the sun rises in Uganda",
+   "the direction where the sun comes up",
+   "older people who know the past"
+  ],
+  "explanation": "'history' means the story of what happened long ago.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4144011",
+  "question": "Which word means 'a place where people buy and sell goods'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "market",
+  "options": [
+   "market",
+   "police station",
+   "south",
+   "border"
+  ],
+  "explanation": "a place where people buy and sell goods — that is 'market'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4144012",
+  "question": "What does 'district' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "an area with its own local government",
+  "options": [
+   "an area with its own local government",
+   "the line between two districts",
+   "a tool that shows four main directions",
+   "older people who know the past"
+  ],
+  "explanation": "'district' means an area with its own local government.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4144013",
+  "question": "Which word means 'a building where Muslims worship'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "mosque",
+  "options": [
+   "mosque",
+   "headquarters",
+   "west",
+   "size"
+  ],
+  "explanation": "a building where Muslims worship — that is 'mosque'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4144014",
+  "question": "Which word means 'a town with its own local government'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "municipality",
+  "options": [
+   "municipality",
+   "county",
+   "police station",
+   "hospital"
+  ],
+  "explanation": "a town with its own local government — that is 'municipality'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4144015",
+  "question": "Nansana is a busy ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "medium",
+  "answer": "town",
+  "options": [
+   "town",
+   "elders",
+   "district",
+   "origin"
+  ],
+  "explanation": "The word is 'town': Nansana is a busy town.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4144016",
+  "question": "Kasese is ___ of Kampala.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "medium",
+  "answer": "west",
+  "options": [
+   "west",
+   "map",
+   "compass",
+   "hospital"
+  ],
+  "explanation": "The word is 'west': Kasese is west of Kampala.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4144017",
+  "question": "Which word means 'the direction where the sun goes down'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "west",
+  "options": [
+   "west",
+   "map",
+   "compass",
+   "hospital"
+  ],
+  "explanation": "the direction where the sun goes down — that is 'west'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4144018",
+  "question": "Which word means 'the main office of a district or sub-county'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "headquarters",
+  "options": [
+   "headquarters",
+   "district",
+   "border",
+   "town"
+  ],
+  "explanation": "the main office of a district or sub-county — that is 'headquarters'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4144019",
+  "question": "What does 'hospital' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Location of Our District in Uganda",
+  "difficulty": "easy",
+  "answer": "a place where sick people get treatment",
+  "options": [
+   "a place where sick people get treatment",
+   "a tool that shows four main directions",
+   "the main office of a district or sub-county",
+   "the direction where the sun goes down"
+  ],
+  "explanation": "'hospital' means a place where sick people get treatment.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4141000",
+  "question": "___ from the quarry build houses.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "medium",
+  "answer": "stones",
+  "options": [
+   "stones",
+   "dam",
+   "fishing",
+   "waterfall"
+  ],
+  "explanation": "The word is 'stones': Stones from the quarry build houses.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4141001",
+  "question": "Mount Elgon is a ___ in Uganda.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "medium",
+  "answer": "mountain",
+  "options": [
+   "mountain",
+   "landslide",
+   "stream",
+   "flood"
+  ],
+  "explanation": "The word is 'mountain': Mount Elgon is a mountain in Uganda.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4141002",
+  "question": "A hill is a type of ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "medium",
+  "answer": "landform",
+  "options": [
+   "landform",
+   "valley",
+   "danger",
+   "tourism"
+  ],
+  "explanation": "The word is 'landform': A hill is a type of landform.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4141003",
+  "question": "Heavy rain caused a ___ in the valley.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "medium",
+  "answer": "flood",
+  "options": [
+   "flood",
+   "landslide",
+   "farming",
+   "landform"
+  ],
+  "explanation": "The word is 'flood': Heavy rain caused a flood in the valley.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4141004",
+  "question": "Which word means 'clean water for drinking and cooking'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "water",
+  "options": [
+   "water",
+   "landslide",
+   "source",
+   "lake"
+  ],
+  "explanation": "clean water for drinking and cooking — that is 'water'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4141005",
+  "question": "What does 'danger' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "something that can cause harm",
+  "options": [
+   "something that can cause harm",
+   "place where a river begins",
+   "clean water for drinking and cooking",
+   "small body of still water"
+  ],
+  "explanation": "'danger' means something that can cause harm.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4141006",
+  "question": "Which word means 'catching fish for food or sale'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "fishing",
+  "options": [
+   "fishing",
+   "rift valley",
+   "source",
+   "lake"
+  ],
+  "explanation": "catching fish for food or sale — that is 'fishing'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4141007",
+  "question": "___ Victoria is the biggest lake in Uganda.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "medium",
+  "answer": "lake",
+  "options": [
+   "lake",
+   "stones",
+   "protect",
+   "waterfall"
+  ],
+  "explanation": "The word is 'lake': Lake Victoria is the biggest lake in Uganda.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4141008",
+  "question": "Which word means 'valuable substances from the ground'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "minerals",
+  "options": [
+   "minerals",
+   "fishing",
+   "danger",
+   "lake"
+  ],
+  "explanation": "valuable substances from the ground — that is 'minerals'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4141009",
+  "question": "What does 'hill' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "high land with a rounded top",
+  "options": [
+   "high land with a rounded top",
+   "water covering dry land",
+   "water falling from a height",
+   "place where a river begins"
+  ],
+  "explanation": "'hill' means high land with a rounded top.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4141010",
+  "question": "What does 'dam' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "wall built across a river to hold water",
+  "options": [
+   "wall built across a river to hold water",
+   "look after something well",
+   "long valley with steep sides",
+   "hard rocks used for building"
+  ],
+  "explanation": "'dam' means wall built across a river to hold water.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4141011",
+  "question": "Which word means 'natural shape of the earth's surface'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "landform",
+  "options": [
+   "landform",
+   "valley",
+   "danger",
+   "tourism"
+  ],
+  "explanation": "natural shape of the earth's surface — that is 'landform'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4141012",
+  "question": "What does 'pond' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "small body of still water",
+  "options": [
+   "small body of still water",
+   "growing crops and keeping animals",
+   "soil being washed or blown away",
+   "keep safe from harm"
+  ],
+  "explanation": "'pond' means small body of still water.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4141013",
+  "question": "Which word means 'water covering dry land'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "flood",
+  "options": [
+   "flood",
+   "landslide",
+   "farming",
+   "landform"
+  ],
+  "explanation": "water covering dry land — that is 'flood'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4141014",
+  "question": "Which word means 'high land with a rounded top'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "hill",
+  "options": [
+   "hill",
+   "erosion",
+   "stream",
+   "care"
+  ],
+  "explanation": "high land with a rounded top — that is 'hill'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4141015",
+  "question": "What does 'stones' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "hard rocks used for building",
+  "options": [
+   "hard rocks used for building",
+   "natural shape of the earth's surface",
+   "free from dirt or rubbish",
+   "clean water for drinking and cooking"
+  ],
+  "explanation": "'stones' means hard rocks used for building.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4141016",
+  "question": "The river flows through the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "medium",
+  "answer": "valley",
+  "options": [
+   "valley",
+   "landslide",
+   "pond",
+   "clean"
+  ],
+  "explanation": "The word is 'valley': The river flows through the valley.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4141017",
+  "question": "Which word means 'small body of still water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "pond",
+  "options": [
+   "pond",
+   "dam",
+   "sand",
+   "clean"
+  ],
+  "explanation": "small body of still water — that is 'pond'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4141018",
+  "question": "Which word means 'water falling from a height'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "waterfall",
+  "options": [
+   "waterfall",
+   "mountain",
+   "rift valley",
+   "stream"
+  ],
+  "explanation": "water falling from a height — that is 'waterfall'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4141019",
+  "question": "Which word means 'place where a river begins'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Physical Features in Our District",
+  "difficulty": "easy",
+  "answer": "source",
+  "options": [
+   "source",
+   "flood",
+   "landslide",
+   "rift valley"
+  ],
+  "explanation": "place where a river begins — that is 'source'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4299000",
+  "question": "Father bought ___ to make a bed.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "medium",
+  "answer": "timber",
+  "options": [
+   "timber",
+   "planting",
+   "charcoal",
+   "forest"
+  ],
+  "explanation": "The word is 'timber': Father bought timber to make a bed.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4299001",
+  "question": "Which word means 'wood cut for building'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "timber",
+  "options": [
+   "timber",
+   "planting",
+   "charcoal",
+   "forest"
+  ],
+  "explanation": "wood cut for building — that is 'timber'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4299002",
+  "question": "What does 'vegetation' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "all plants growing in an area",
+  "options": [
+   "all plants growing in an area",
+   "cutting down many trees",
+   "baked clay blocks for building",
+   "farming land without rest"
+  ],
+  "explanation": "'vegetation' means all plants growing in an area.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4299003",
+  "question": "Which word means 'rain that falls from clouds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "rainfall",
+  "options": [
+   "rainfall",
+   "oxygen",
+   "bricks",
+   "timber"
+  ],
+  "explanation": "rain that falls from clouds — that is 'rainfall'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4299004",
+  "question": "Which word means 'clean air we breathe'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "oxygen",
+  "options": [
+   "oxygen",
+   "forest",
+   "medicine",
+   "firewood"
+  ],
+  "explanation": "clean air we breathe — that is 'oxygen'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4299005",
+  "question": "Bush ___ in dry season destroys young trees.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "medium",
+  "answer": "burning",
+  "options": [
+   "burning",
+   "savanna",
+   "overgrazing",
+   "deforestation"
+  ],
+  "explanation": "The word is 'burning': Bush burning in dry season destroys young trees.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4299006",
+  "question": "Which word means 'protecting nature for the future'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "conservation",
+  "options": [
+   "conservation",
+   "forest",
+   "bricks",
+   "savanna"
+  ],
+  "explanation": "protecting nature for the future — that is 'conservation'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4299007",
+  "question": "We visited the tree ___ at the sub-county.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "medium",
+  "answer": "nursery",
+  "options": [
+   "nursery",
+   "overcultivation",
+   "firewood",
+   "manure"
+  ],
+  "explanation": "The word is 'nursery': We visited the tree nursery at the sub-county.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4299008",
+  "question": "Adding ___ makes the garden soil rich.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "medium",
+  "answer": "manure",
+  "options": [
+   "manure",
+   "trimming",
+   "timber",
+   "nursery"
+  ],
+  "explanation": "The word is 'manure': Adding manure makes the garden soil rich.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4299009",
+  "question": "What does 'food' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "plants and fruits we eat",
+  "options": [
+   "plants and fruits we eat",
+   "giving water to plants",
+   "black fuel made from wood",
+   "large area with many tall trees"
+  ],
+  "explanation": "'food' means plants and fruits we eat.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4299010",
+  "question": "___ of forests keeps rainfall regular.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "medium",
+  "answer": "conservation",
+  "options": [
+   "conservation",
+   "forest",
+   "bricks",
+   "savanna"
+  ],
+  "explanation": "The word is 'conservation': Conservation of forests keeps rainfall regular.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4299011",
+  "question": "We saw zebras on the ___ during the trip.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "medium",
+  "answer": "savanna",
+  "options": [
+   "savanna",
+   "shrub",
+   "firewood",
+   "planting"
+  ],
+  "explanation": "The word is 'savanna': We saw zebras on the savanna during the trip.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4299012",
+  "question": "Which word means 'too many animals eating grass'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "overgrazing",
+  "options": [
+   "overgrazing",
+   "conservation",
+   "watering",
+   "food"
+  ],
+  "explanation": "too many animals eating grass — that is 'overgrazing'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4299013",
+  "question": "What does 'forest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "large area with many tall trees",
+  "options": [
+   "large area with many tall trees",
+   "clean air we breathe",
+   "wet land where water stays long",
+   "farming land without rest"
+  ],
+  "explanation": "'forest' means large area with many tall trees.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4299014",
+  "question": "Which word means 'place where young plants grow'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "nursery",
+  "options": [
+   "nursery",
+   "overcultivation",
+   "firewood",
+   "manure"
+  ],
+  "explanation": "place where young plants grow — that is 'nursery'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4299015",
+  "question": "Which word means 'black fuel made from wood'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "charcoal",
+  "options": [
+   "charcoal",
+   "forest",
+   "crops",
+   "deforestation"
+  ],
+  "explanation": "black fuel made from wood — that is 'charcoal'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4299016",
+  "question": "Which word means 'baked clay blocks for building'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "bricks",
+  "options": [
+   "bricks",
+   "watering",
+   "manure",
+   "vegetation"
+  ],
+  "explanation": "baked clay blocks for building — that is 'bricks'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4299017",
+  "question": "Papyrus grows in the ___ by the river.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "medium",
+  "answer": "swamp",
+  "options": [
+   "swamp",
+   "trimming",
+   "manure",
+   "burning"
+  ],
+  "explanation": "The word is 'swamp': Papyrus grows in the swamp by the river.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4299018",
+  "question": "Which word means 'cool cover from the sun'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "shade",
+  "options": [
+   "shade",
+   "planting",
+   "forest",
+   "deforestation"
+  ],
+  "explanation": "cool cover from the sun — that is 'shade'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4299019",
+  "question": "What does 'crops' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Vegetation in Our District",
+  "difficulty": "easy",
+  "answer": "plants grown by people for food",
+  "options": [
+   "plants grown by people for food",
+   "clean air we breathe",
+   "protecting nature for the future",
+   "cutting branches to shape trees"
+  ],
+  "explanation": "'crops' means plants grown by people for food.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4224000",
+  "question": "Which word means 'the beginning or source of something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "origin",
+  "options": [
+   "origin",
+   "totem",
+   "trading",
+   "migration"
+  ],
+  "explanation": "the beginning or source of something — that is 'origin'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4224001",
+  "question": "Which word means 'buying and selling goods'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "trade",
+  "options": [
+   "trade",
+   "services",
+   "wedding",
+   "settlement"
+  ],
+  "explanation": "buying and selling goods — that is 'trade'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4224002",
+  "question": "Which word means 'an animal or plant symbol for a clan'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "totem",
+  "options": [
+   "totem",
+   "tribe",
+   "search",
+   "settlement"
+  ],
+  "explanation": "an animal or plant symbol for a clan — that is 'totem'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4224003",
+  "question": "Which word means 'the traditional ways a group does things'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "customs",
+  "options": [
+   "customs",
+   "settlement",
+   "fishing",
+   "farming"
+  ],
+  "explanation": "the traditional ways a group does things — that is 'customs'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4224004",
+  "question": "People build on hills for ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "medium",
+  "answer": "security",
+  "options": [
+   "security",
+   "fishing",
+   "farming",
+   "clan"
+  ],
+  "explanation": "The word is 'security': People build on hills for security.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4224005",
+  "question": "Which word means 'making pots and jars from clay'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "pottery",
+  "options": [
+   "pottery",
+   "language",
+   "clan",
+   "pasture"
+  ],
+  "explanation": "making pots and jars from clay — that is 'pottery'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4224006",
+  "question": "What does 'search' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "to look carefully for something",
+  "options": [
+   "to look carefully for something",
+   "buying and selling goods at markets",
+   "a ceremony joining two people in marriage",
+   "growing crops and keeping animals for food and income"
+  ],
+  "explanation": "'search' means to look carefully for something.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4224007",
+  "question": "What does 'pasture' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "land covered with grass for animals to eat",
+  "options": [
+   "land covered with grass for animals to eat",
+   "soil that is good for growing crops",
+   "buying and selling goods at markets",
+   "a ceremony joining two people in marriage"
+  ],
+  "explanation": "'pasture' means land covered with grass for animals to eat.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4224008",
+  "question": "Which word means 'a traditional story about the past, often explaining origins'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "legend",
+  "options": [
+   "legend",
+   "tribe",
+   "migration",
+   "fishing"
+  ],
+  "explanation": "a traditional story about the past, often explaining origins — that is 'legend'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4224009",
+  "question": "Which word means 'a ceremony to give a baby its name'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "naming",
+  "options": [
+   "naming",
+   "tribe",
+   "farming",
+   "ethnic group"
+  ],
+  "explanation": "a ceremony to give a baby its name — that is 'naming'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4224010",
+  "question": "What does 'story' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "an account of events, real or imagined",
+  "options": [
+   "an account of events, real or imagined",
+   "soil that is good for growing crops",
+   "movement of people from one place to another",
+   "to look carefully for something"
+  ],
+  "explanation": "'story' means an account of events, real or imagined.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4224011",
+  "question": "The herders needed fresh ___ for their cattle.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "medium",
+  "answer": "pasture",
+  "options": [
+   "pasture",
+   "customs",
+   "origin",
+   "fertile"
+  ],
+  "explanation": "The word is 'pasture': The herders needed fresh pasture for their cattle.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4224012",
+  "question": "The legend tells the ___ of the Baganda people.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "medium",
+  "answer": "origin",
+  "options": [
+   "origin",
+   "totem",
+   "trading",
+   "migration"
+  ],
+  "explanation": "The word is 'origin': The legend tells the origin of the Baganda people.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4224013",
+  "question": "What does 'ethnic group' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "people who share culture, language and ancestors",
+  "options": [
+   "people who share culture, language and ancestors",
+   "soil that is good for growing crops",
+   "the amount of rain that falls in a place",
+   "an animal or plant symbol for a clan"
+  ],
+  "explanation": "'ethnic group' means people who share culture, language and ancestors.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4224014",
+  "question": "Which word means 'buying and selling goods at markets'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "trading",
+  "options": [
+   "trading",
+   "language",
+   "ethnic group",
+   "pottery"
+  ],
+  "explanation": "buying and selling goods at markets — that is 'trading'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4224015",
+  "question": "What does 'language' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "the words and speech used by a group of people",
+  "options": [
+   "the words and speech used by a group of people",
+   "to look carefully for something",
+   "a place where people make their homes",
+   "growing crops and keeping animals for food and income"
+  ],
+  "explanation": "'language' means the words and speech used by a group of people.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4224016",
+  "question": "The settlement grew because of ___ at the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "medium",
+  "answer": "trade",
+  "options": [
+   "trade",
+   "services",
+   "wedding",
+   "settlement"
+  ],
+  "explanation": "The word is 'trade': The settlement grew because of trade at the market.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4224017",
+  "question": "Which word means 'family members who lived long before us'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "ancestors",
+  "options": [
+   "ancestors",
+   "trade",
+   "pasture",
+   "services"
+  ],
+  "explanation": "family members who lived long before us — that is 'ancestors'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4224018",
+  "question": "The Baganda are a ___ in Uganda.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "medium",
+  "answer": "tribe",
+  "options": [
+   "tribe",
+   "trade",
+   "security",
+   "origin"
+  ],
+  "explanation": "The word is 'tribe': The Baganda are a tribe in Uganda.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4224019",
+  "question": "What does 'trading' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "People in Our District",
+  "difficulty": "easy",
+  "answer": "buying and selling goods at markets",
+  "options": [
+   "buying and selling goods at markets",
+   "growing crops and keeping animals for food and income",
+   "the traditional ways a group does things",
+   "a ceremony joining two people in marriage"
+  ],
+  "explanation": "'trading' means buying and selling goods at markets.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4384000",
+  "question": "Which word means 'group of elected members'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "council",
+  "options": [
+   "council",
+   "bishop",
+   "appointment",
+   "respectful"
+  ],
+  "explanation": "group of elected members — that is 'council'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4384001",
+  "question": "Good ___ helps the community grow.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "medium",
+  "answer": "leadership",
+  "options": [
+   "leadership",
+   "voting",
+   "volunteering",
+   "kind"
+  ],
+  "explanation": "The word is 'leadership': Good leadership helps the community grow.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4384002",
+  "question": "The ___ troop planted trees.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "medium",
+  "answer": "scout",
+  "options": [
+   "scout",
+   "chosen",
+   "council",
+   "kind"
+  ],
+  "explanation": "The word is 'scout': The scout troop planted trees.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4384003",
+  "question": "Which word means 'works with effort'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "hardworking",
+  "options": [
+   "hardworking",
+   "inheritance",
+   "chosen",
+   "volunteering"
+  ],
+  "explanation": "works with effort — that is 'hardworking'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4384004",
+  "question": "The ___ cleaned the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "medium",
+  "answer": "volunteer",
+  "options": [
+   "volunteer",
+   "scout",
+   "cooperative",
+   "honest"
+  ],
+  "explanation": "The word is 'volunteer': The volunteer cleaned the market.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4384005",
+  "question": "What does 'appointment' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "selected by a higher authority",
+  "options": [
+   "selected by a higher authority",
+   "period when candidates share ideas",
+   "truthful",
+   "leader of a parish"
+  ],
+  "explanation": "'appointment' means selected by a higher authority.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4384006",
+  "question": "What does 'duty' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "responsibility",
+  "options": [
+   "responsibility",
+   "polite and considerate",
+   "head of the council",
+   "leader of a parish"
+  ],
+  "explanation": "'duty' means responsibility.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4384007",
+  "question": "Our ___ raised the water issue.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "medium",
+  "answer": "representative",
+  "options": [
+   "representative",
+   "civic",
+   "campaign",
+   "voting"
+  ],
+  "explanation": "The word is 'representative': Our representative raised the water issue.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4384008",
+  "question": "Which word means 'person who helps without pay'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "volunteer",
+  "options": [
+   "volunteer",
+   "scout",
+   "cooperative",
+   "honest"
+  ],
+  "explanation": "person who helps without pay — that is 'volunteer'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4384009",
+  "question": "What does 'ballot' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "paper used to vote secretly",
+  "options": [
+   "paper used to vote secretly",
+   "selected for a position",
+   "leader of a congregation",
+   "responsibility"
+  ],
+  "explanation": "'ballot' means paper used to vote secretly.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4384010",
+  "question": "What does 'volunteer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "person who helps without pay",
+  "options": [
+   "person who helps without pay",
+   "responsibility",
+   "passed down in a family",
+   "caring"
+  ],
+  "explanation": "'volunteer' means person who helps without pay.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4384011",
+  "question": "The ___ decides on new roads.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "medium",
+  "answer": "council",
+  "options": [
+   "council",
+   "bishop",
+   "appointment",
+   "respectful"
+  ],
+  "explanation": "The word is 'council': The council decides on new roads.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4384012",
+  "question": "Which word means 'head of many churches'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "bishop",
+  "options": [
+   "bishop",
+   "responsible",
+   "volunteering",
+   "respectful"
+  ],
+  "explanation": "head of many churches — that is 'bishop'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4384013",
+  "question": "Which word means 'truthful'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "honest",
+  "options": [
+   "honest",
+   "campaign",
+   "civic",
+   "bishop"
+  ],
+  "explanation": "truthful — that is 'honest'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4384014",
+  "question": "What does 'sheikh' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "Muslim religious leader",
+  "options": [
+   "Muslim religious leader",
+   "choosing by casting a ballot",
+   "works with effort",
+   "head of many churches"
+  ],
+  "explanation": "'sheikh' means Muslim religious leader.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4384015",
+  "question": "Which word means 'about the community'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "civic",
+  "options": [
+   "civic",
+   "sheikh",
+   "voting",
+   "kind"
+  ],
+  "explanation": "about the community — that is 'civic'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4384016",
+  "question": "Which word means 'person who speaks for others'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "representative",
+  "options": [
+   "representative",
+   "civic",
+   "campaign",
+   "voting"
+  ],
+  "explanation": "person who speaks for others — that is 'representative'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4384017",
+  "question": "What does 'scout' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "member of a youth service group",
+  "options": [
+   "member of a youth service group",
+   "choosing by casting a ballot",
+   "head of the council",
+   "accepts differences"
+  ],
+  "explanation": "'scout' means member of a youth service group.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4384018",
+  "question": "Each voter marked the ___ in private.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "medium",
+  "answer": "ballot",
+  "options": [
+   "ballot",
+   "campaign",
+   "chairperson",
+   "leadership"
+  ],
+  "explanation": "The word is 'ballot': Each voter marked the ballot in private.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4384019",
+  "question": "What does 'reverend' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Our Leaders in the District",
+  "difficulty": "easy",
+  "answer": "title for Christian ministers",
+  "options": [
+   "title for Christian ministers",
+   "member of a youth service group",
+   "head of many churches",
+   "accepts differences"
+  ],
+  "explanation": "'reverend' means title for Christian ministers.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4354000",
+  "question": "Many families face **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "medium",
+  "answer": "poverty",
+  "options": [
+   "poverty",
+   "water",
+   "protect",
+   "electricity"
+  ],
+  "explanation": "The word is 'poverty': Many families face **poverty**.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4354001",
+  "question": "What does 'cleaning' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "making something clean",
+  "options": [
+   "making something clean",
+   "things people must have to live well",
+   "not enough of something",
+   "moving people or goods"
+  ],
+  "explanation": "'cleaning' means making something clean.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4354002",
+  "question": "Which word means 'person who works in a bank'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "banker",
+  "options": [
+   "banker",
+   "problems",
+   "corruption",
+   "driver"
+  ],
+  "explanation": "person who works in a bank — that is 'banker'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4354003",
+  "question": "Which word means 'treating people and property well'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "respect",
+  "options": [
+   "respect",
+   "education",
+   "problems",
+   "farmer"
+  ],
+  "explanation": "treating people and property well — that is 'respect'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4354004",
+  "question": "Which word means 'person who drives a vehicle'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "driver",
+  "options": [
+   "driver",
+   "transport",
+   "protect",
+   "theft"
+  ],
+  "explanation": "person who drives a vehicle — that is 'driver'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4354005",
+  "question": "Which word means 'person who treats sick people'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "doctor",
+  "options": [
+   "doctor",
+   "police officer",
+   "responsibility",
+   "banker"
+  ],
+  "explanation": "person who treats sick people — that is 'doctor'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4354006",
+  "question": "What does 'maintain' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "keep in good condition",
+  "options": [
+   "keep in good condition",
+   "person who teaches pupils",
+   "person who keeps law and order",
+   "not enough of something"
+  ],
+  "explanation": "'maintain' means keep in good condition.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4354007",
+  "question": "The **___** takes passengers to town.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "medium",
+  "answer": "driver",
+  "options": [
+   "driver",
+   "transport",
+   "protect",
+   "theft"
+  ],
+  "explanation": "The word is 'driver': The **driver** takes passengers to town.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4354008",
+  "question": "Which word means 'person who grows food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "farmer",
+  "options": [
+   "farmer",
+   "population",
+   "driver",
+   "responsibility"
+  ],
+  "explanation": "person who grows food — that is 'farmer'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4354009",
+  "question": "**___** slows community projects.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "medium",
+  "answer": "laziness",
+  "options": [
+   "laziness",
+   "water",
+   "poverty",
+   "maintain"
+  ],
+  "explanation": "The word is 'laziness': **Laziness** slows community projects.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4354010",
+  "question": "The **___** harvests maize.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "medium",
+  "answer": "farmer",
+  "options": [
+   "farmer",
+   "population",
+   "driver",
+   "responsibility"
+  ],
+  "explanation": "The word is 'farmer': The **farmer** harvests maize.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4354011",
+  "question": "Which word means 'keep in good condition'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "maintain",
+  "options": [
+   "maintain",
+   "corruption",
+   "driver",
+   "poverty"
+  ],
+  "explanation": "keep in good condition — that is 'maintain'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4354012",
+  "question": "Which word means 'power for lights and machines'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "electricity",
+  "options": [
+   "electricity",
+   "water",
+   "poverty",
+   "maintain"
+  ],
+  "explanation": "power for lights and machines — that is 'electricity'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4354013",
+  "question": "What does 'population' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "number of people in an area",
+  "options": [
+   "number of people in an area",
+   "person who grows food",
+   "treating people and property well",
+   "person who treats sick people"
+  ],
+  "explanation": "'population' means number of people in an area.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4354014",
+  "question": "What does 'corruption' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "dishonest use of power",
+  "options": [
+   "dishonest use of power",
+   "number of people in an area",
+   "safety from harm",
+   "care for the body"
+  ],
+  "explanation": "'corruption' means dishonest use of power.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4354015",
+  "question": "It is our **___** to keep the **centre** tidy.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "medium",
+  "answer": "responsibility",
+  "options": [
+   "responsibility",
+   "maintain",
+   "respect",
+   "theft"
+  ],
+  "explanation": "The word is 'responsibility': It is our **responsibility** to keep the **centre** tidy.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4354016",
+  "question": "Boda boda is a common ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "medium",
+  "answer": "transport",
+  "options": [
+   "transport",
+   "needs",
+   "problems",
+   "laziness"
+  ],
+  "explanation": "The word is 'transport': Boda boda is a common transport.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4354017",
+  "question": "What does 'respect' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "treating people and property well",
+  "options": [
+   "treating people and property well",
+   "not wanting to work",
+   "moving people or goods",
+   "person who grows food"
+  ],
+  "explanation": "'respect' means treating people and property well.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4354018",
+  "question": "Which word means 'people living together in an area'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "easy",
+  "answer": "community",
+  "options": [
+   "community",
+   "teacher",
+   "shortage",
+   "health"
+  ],
+  "explanation": "people living together in an area — that is 'community'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4354019",
+  "question": "We **___** the school fence.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "How to Meet People's Needs in Our District",
+  "difficulty": "medium",
+  "answer": "protect",
+  "options": [
+   "protect",
+   "theft",
+   "poverty",
+   "responsibility"
+  ],
+  "explanation": "The word is 'protect': We **protect** the school fence.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ }
+]

@@ -1,0 +1,130 @@
+/* Ask Teacher — offline primary-school AI.
+   White + leaf green. Big text, big touch targets, one job per screen. */
+/* hidden beats any display rule (translator v1 bug guard). */
+[hidden] { display: none !important; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: #FFFFFF;
+  color: #202124;
+  font-family: Roboto, system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+main { max-width: 640px; margin: 0 auto; padding: 0 16px 48px; }
+h1 { font-size: 22px; margin: 0; font-weight: 700; color: #2E7D32; }
+button { font: inherit; cursor: pointer; }
+button:disabled { opacity: .45; cursor: default; }
+button:focus-visible, textarea:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 3px solid #2E7D32; outline-offset: 2px;
+}
+textarea, input[type="text"] {
+  width: 100%; border: 1px solid #DADCE0; border-radius: 10px;
+  font: inherit; color: #202124; background: #FFFFFF;
+  padding: 12px; min-height: 64px;
+}
+textarea::placeholder, input::placeholder { color: #80868B; }
+select {
+  font: inherit; color: #202124; background: #FFFFFF;
+  border: 1px solid #DADCE0; border-radius: 10px;
+  padding: 10px 12px; min-height: 48px; margin-top: 4px; width: 100%;
+}
+
+/* Top status */
+.topbar {
+  display: flex; align-items: center; gap: 8px;
+  max-width: 640px; margin: 0 auto; padding: 14px 16px 4px;
+}
+.status-dot { width: 10px; height: 10px; border-radius: 50%; background: #DADCE0; flex: none; }
+.status-dot.off { background: #DADCE0; }
+.status-dot.busy { background: #F9AB00; }
+.status-dot.ready { background: #2E7D32; }
+.status-text { font-size: 13px; color: #5F6368; margin-left: auto; }
+
+/* Model box */
+.model-box {
+  border: 1px solid #DADCE0; border-radius: 12px;
+  padding: 12px 14px; margin-bottom: 16px; background: #F8F9FA;
+}
+.model-box p { margin: 0 0 10px; font-size: 14px; }
+.progress { height: 6px; background: #DADCE0; border-radius: 3px; overflow: hidden; margin-bottom: 8px; }
+.progress-bar { height: 100%; width: 0%; background: #2E7D32; transition: width .2s; }
+.download-label { font-size: 13px; color: #5F6368; margin: 0 0 10px; }
+
+/* Home mode cards */
+.mode-card {
+  display: block; width: 100%; text-align: left;
+  border: 2px solid #2E7D32; border-radius: 16px; background: #FFFFFF;
+  padding: 20px; margin-bottom: 12px; min-height: 96px;
+}
+.mode-card.green { background: #E8F5E9; }
+.mode-card:active { background: #E8F5E9; }
+.mode-emoji { font-size: 30px; display: block; margin-bottom: 4px; }
+.mode-title { display: block; font-size: 22px; font-weight: 700; color: #202124; }
+.mode-sub { display: block; font-size: 15px; color: #5F6368; margin-top: 2px; }
+
+/* Cards */
+.card {
+  border: 1px solid #DADCE0; border-radius: 12px;
+  padding: 14px; margin-bottom: 12px;
+}
+.card.answer { background: #E8F5E9; border-color: #E8F5E9; }
+.card-label { display: block; font-size: 14px; color: #5F6368; margin-bottom: 6px; }
+.answer-text { font-size: 22px; font-weight: 500; margin: 0 0 12px; line-height: 1.4; word-break: keep-all; overflow-wrap: anywhere; }
+.card-actions { display: flex; align-items: center; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+.hint { font-size: 13px; color: #5F6368; margin: 8px 0 0; }
+
+/* Source lines under the answer */
+.source-wrap { border-top: 1px solid #C8E6C9; padding-top: 10px; margin-top: 4px; }
+.source-title { font-size: 14px; font-weight: 700; color: #2E7D32; margin: 0 0 4px; }
+.source-list { margin: 0; padding-left: 20px; font-size: 15px; color: #3C4043; }
+.source-list li { margin-bottom: 4px; line-height: 1.4; }
+.source-list .src-meta { font-size: 12px; color: #80868B; }
+
+/* Buttons */
+.btn {
+  border: 1px solid #DADCE0; background: #FFFFFF; color: #2E7D32;
+  border-radius: 24px; padding: 10px 18px; min-height: 48px; font-weight: 700;
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.btn.primary { background: #2E7D32; border-color: #2E7D32; color: #FFFFFF; }
+.btn.small { min-height: 36px; padding: 6px 12px; font-size: 13px; }
+
+/* Practice */
+.picker-row { display: flex; gap: 12px; margin-bottom: 4px; }
+.picker-label { flex: 1; font-size: 14px; color: #5F6368; }
+.quiz-head { display: flex; align-items: center; justify-content: space-between; margin: 4px 0 8px; }
+.quiz-meta { font-size: 13px; color: #5F6368; }
+.quiz-stars { font-size: 18px; letter-spacing: 2px; }
+.quiz-passage {
+  font-size: 16px; line-height: 1.6; background: #F8F9FA;
+  border: 1px solid #DADCE0; border-radius: 12px; padding: 12px 14px; margin: 0 0 12px;
+}
+.question-card { background: #FFFFFF; }
+.quiz-question { font-size: 20px; font-weight: 500; margin: 0 0 12px; line-height: 1.4; word-break: keep-all; overflow-wrap: anywhere; }
+.opt-list { display: flex; flex-direction: column; gap: 10px; }
+.opt-btn {
+  text-align: left; border: 2px solid #DADCE0; border-radius: 12px;
+  background: #FFFFFF; padding: 14px; min-height: 52px; font-size: 17px; line-height: 1.35;
+}
+.opt-btn[aria-pressed="true"] { border-color: #2E7D32; background: #E8F5E9; }
+.opt-btn.correct { border-color: #2E7D32; background: #E8F5E9; }
+.opt-btn.wrong { border-color: #D93025; background: #FCE8E6; }
+.opt-btn:disabled { opacity: 1; }
+.check-row { display: flex; align-items: center; gap: 10px; margin: 4px 0; }
+.check-row input[type="checkbox"] { width: 24px; height: 24px; flex: none; accent-color: #2E7D32; }
+.check-row label { font-size: 17px; line-height: 1.35; }
+.result-card { background: #FFF8E1; border-color: #FFE082; }
+.verdict { font-size: 22px; font-weight: 700; margin: 0 0 6px; }
+.verdict.good { color: #2E7D32; }
+.verdict.bad { color: #D93025; }
+.quiz-correct { font-size: 16px; margin: 0 0 10px; }
+.steps-title { font-size: 14px; font-weight: 700; color: #5F6368; margin: 10px 0 4px; }
+.steps-list { margin: 0; padding-left: 22px; font-size: 16px; line-height: 1.55; }
+.steps-list li { margin-bottom: 6px; }
+.simpler-text { font-size: 16px; background: #E8F5E9; border-radius: 10px; padding: 10px 12px; margin: 10px 0 0; line-height: 1.5; }
+
+@media (prefers-reduced-motion: reduce) {
+  .progress-bar { transition: none; }
+}

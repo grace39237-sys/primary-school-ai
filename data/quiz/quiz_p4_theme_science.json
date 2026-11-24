@@ -1,0 +1,3602 @@
+[
+ {
+  "id": "TH4176000",
+  "question": "What does 'sunlight' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "light energy from the sun that plants use to make food",
+  "options": [
+   "light energy from the sun that plants use to make food",
+   "the swollen base of the female part where seeds form",
+   "the sticky top of the female part that catches pollen",
+   "the part under soil that holds the plant and takes water"
+  ],
+  "explanation": "'sunlight' means light energy from the sun that plants use to make food.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4176001",
+  "question": "What does 'agent' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "something that moves pollen from one flower to another",
+  "options": [
+   "something that moves pollen from one flower to another",
+   "the part of the seed that grows into the shoot and leaves",
+   "a gas from the air that plants use to make food",
+   "fine powder from the male part of a flower"
+  ],
+  "explanation": "'agent' means something that moves pollen from one flower to another.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4176002",
+  "question": "Which word means 'the green part that makes food for the plant'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "leaf",
+  "options": [
+   "leaf",
+   "plumule",
+   "fruit",
+   "stem"
+  ],
+  "explanation": "the green part that makes food for the plant — that is 'leaf'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4176003",
+  "question": "What does 'plumule' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "the part of the seed that grows into the shoot and leaves",
+  "options": [
+   "the part of the seed that grows into the shoot and leaves",
+   "the part under soil that holds the plant and takes water",
+   "the green part that makes food for the plant",
+   "fine powder from the male part of a flower"
+  ],
+  "explanation": "'plumule' means the part of the seed that grows into the shoot and leaves.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4176004",
+  "question": "What does 'stem' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "the main stalk that holds leaves and carries water",
+  "options": [
+   "the main stalk that holds leaves and carries water",
+   "the part under soil that holds the plant and takes water",
+   "the spreading of seeds away from the parent plant",
+   "the part of the seed that grows into the shoot and leaves"
+  ],
+  "explanation": "'stem' means the main stalk that holds leaves and carries water.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4176005",
+  "question": "**___** begins when the seed gets water, air, and warmth.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "germination",
+  "options": [
+   "germination",
+   "stigma",
+   "root",
+   "chlorophyll"
+  ],
+  "explanation": "The word is 'germination': **Germination** begins when the seed gets water, air, and warmth.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH4176006",
+  "question": "The **___** shows its first **plumule** and **radicle**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "seedling",
+  "options": [
+   "seedling",
+   "chlorophyll",
+   "radicle",
+   "plumule"
+  ],
+  "explanation": "The word is 'seedling': The **seedling** shows its first **plumule** and **radicle**.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4176007",
+  "question": "Which word means 'a gas from the air that plants use to make food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "carbon dioxide",
+  "options": [
+   "carbon dioxide",
+   "insect",
+   "dispersal",
+   "stomata"
+  ],
+  "explanation": "a gas from the air that plants use to make food — that is 'carbon dioxide'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4176008",
+  "question": "What does 'wind' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "moving air that can carry light pollen between flowers",
+  "options": [
+   "moving air that can carry light pollen between flowers",
+   "the young stem with leaves growing up from the ground",
+   "the sticky top of the female part that catches pollen",
+   "the spreading of seeds away from the parent plant"
+  ],
+  "explanation": "'wind' means moving air that can carry light pollen between flowers.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4176009",
+  "question": "Which word means 'tiny holes on the leaf surface that let gases in and out'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "stomata",
+  "options": [
+   "stomata",
+   "shoot",
+   "fruit",
+   "plumule"
+  ],
+  "explanation": "tiny holes on the leaf surface that let gases in and out — that is 'stomata'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4176010",
+  "question": "The **___** of the cassava grows deep.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "root",
+  "options": [
+   "root",
+   "germination",
+   "shoot",
+   "chlorophyll"
+  ],
+  "explanation": "The word is 'root': The **root** of the cassava grows deep.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4176011",
+  "question": "Plants need **___** for photosynthesis.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "carbon dioxide",
+  "options": [
+   "carbon dioxide",
+   "insect",
+   "dispersal",
+   "stomata"
+  ],
+  "explanation": "The word is 'carbon dioxide': Plants need **carbon dioxide** for photosynthesis.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4176012",
+  "question": "The **___** of the pumpkin is yellow.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "flower",
+  "options": [
+   "flower",
+   "stigma",
+   "leaf",
+   "wind"
+  ],
+  "explanation": "The word is 'flower': The **flower** of the pumpkin is yellow.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4176013",
+  "question": "What does 'leaf' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "the green part that makes food for the plant",
+  "options": [
+   "the green part that makes food for the plant",
+   "the swollen base of the female part where seeds form",
+   "the part that holds seeds, often good to eat",
+   "the green pigment in leaves that traps sunlight"
+  ],
+  "explanation": "'leaf' means the green part that makes food for the plant.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4176014",
+  "question": "The **___** of the matooke plant is wide.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "leaf",
+  "options": [
+   "leaf",
+   "plumule",
+   "fruit",
+   "stem"
+  ],
+  "explanation": "The word is 'leaf': The **leaf** of the matooke plant is wide.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4176015",
+  "question": "The **___** grows down to become the **root**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "radicle",
+  "options": [
+   "radicle",
+   "shoot",
+   "carbon dioxide",
+   "ovary"
+  ],
+  "explanation": "The word is 'radicle': The **radicle** grows down to become the **root**.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4176016",
+  "question": "What does 'flower' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "the colourful part that makes seeds and fruit",
+  "options": [
+   "the colourful part that makes seeds and fruit",
+   "the swollen base of the female part where seeds form",
+   "the green part that makes food for the plant",
+   "tiny holes on the leaf surface that let gases in and out"
+  ],
+  "explanation": "'flower' means the colourful part that makes seeds and fruit.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4176017",
+  "question": "The **___** grows into a **fruit** after fertilisation.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "medium",
+  "answer": "ovary",
+  "options": [
+   "ovary",
+   "shoot",
+   "sunlight",
+   "photosynthesis"
+  ],
+  "explanation": "The word is 'ovary': The **ovary** grows into a **fruit** after fertilisation.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4176018",
+  "question": "What does 'ovary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "the swollen base of the female part where seeds form",
+  "options": [
+   "the swollen base of the female part where seeds form",
+   "moving air that can carry light pollen between flowers",
+   "the part of the seed that grows into the root",
+   "a small animal like a bee that carries pollen between flowers"
+  ],
+  "explanation": "'ovary' means the swollen base of the female part where seeds form.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4176019",
+  "question": "Which word means 'the main stalk that holds leaves and carries water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Plant Life",
+  "difficulty": "easy",
+  "answer": "stem",
+  "options": [
+   "stem",
+   "pollen",
+   "flower",
+   "stomata"
+  ],
+  "explanation": "the main stalk that holds leaves and carries water — that is 'stem'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4193000",
+  "question": "Which word means 'supporting plants with sticks'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "staking",
+  "options": [
+   "staking",
+   "watering",
+   "harvest",
+   "nursery"
+  ],
+  "explanation": "supporting plants with sticks — that is 'staking'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4193001",
+  "question": "Which word means 'removing moisture from crops'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "dry",
+  "options": [
+   "dry",
+   "harrowing",
+   "clearing",
+   "digging"
+  ],
+  "explanation": "removing moisture from crops — that is 'dry'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4193002",
+  "question": "A ___ protects grain from pests.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "medium",
+  "answer": "granary",
+  "options": [
+   "granary",
+   "dry",
+   "thinning",
+   "pruning"
+  ],
+  "explanation": "The word is 'granary': A granary protects grain from pests.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH4193003",
+  "question": "___ eat stored grain if not protected.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "medium",
+  "answer": "pests",
+  "options": [
+   "pests",
+   "store",
+   "watering",
+   "granary"
+  ],
+  "explanation": "The word is 'pests': Pests eat stored grain if not protected.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4193004",
+  "question": "Which word means 'covering soil with dry grass or leaves'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "mulching",
+  "options": [
+   "mulching",
+   "granary",
+   "pests",
+   "transplant"
+  ],
+  "explanation": "covering soil with dry grass or leaves — that is 'mulching'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4193005",
+  "question": "What does 'staking' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "supporting plants with sticks",
+  "options": [
+   "supporting plants with sticks",
+   "cutting extra branches",
+   "removing extra seedlings to give space",
+   "separating grain from chaff by wind"
+  ],
+  "explanation": "'staking' means supporting plants with sticks.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4193006",
+  "question": "What does 'mulching' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "covering soil with dry grass or leaves",
+  "options": [
+   "covering soil with dry grass or leaves",
+   "removing extra seedlings to give space",
+   "turning soil with a hoe",
+   "supporting plants with sticks"
+  ],
+  "explanation": "'mulching' means covering soil with dry grass or leaves.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4193007",
+  "question": "Which word means 'cutting and gathering ripe crops'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "harvest",
+  "options": [
+   "harvest",
+   "harrowing",
+   "nursery",
+   "mulching"
+  ],
+  "explanation": "cutting and gathering ripe crops — that is 'harvest'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4193008",
+  "question": "What does 'pests' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "insects or animals that damage crops",
+  "options": [
+   "insects or animals that damage crops",
+   "breaking soil clods to make it fine",
+   "giving water to plants",
+   "supporting plants with sticks"
+  ],
+  "explanation": "'pests' means insects or animals that damage crops.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4193009",
+  "question": "___ makes a smooth seedbed.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "medium",
+  "answer": "harrowing",
+  "options": [
+   "harrowing",
+   "nursery",
+   "dry",
+   "harvest"
+  ],
+  "explanation": "The word is 'harrowing': Harrowing makes a smooth seedbed.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4193010",
+  "question": "___ early morning reduces evaporation.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "medium",
+  "answer": "watering",
+  "options": [
+   "watering",
+   "dry",
+   "store",
+   "harrowing"
+  ],
+  "explanation": "The word is 'watering': Watering early morning reduces evaporation.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4193011",
+  "question": "What does 'dry' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "removing moisture from crops",
+  "options": [
+   "removing moisture from crops",
+   "breaking soil clods to make it fine",
+   "removing bushes and grass",
+   "prepared ground for sowing seeds"
+  ],
+  "explanation": "'dry' means removing moisture from crops.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4193012",
+  "question": "What does 'granary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "a building for storing grain",
+  "options": [
+   "a building for storing grain",
+   "place where young seedlings grow",
+   "separating grain from chaff by wind",
+   "supporting plants with sticks"
+  ],
+  "explanation": "'granary' means a building for storing grain.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH4193013",
+  "question": "Which word means 'moving seedlings to the main field'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "transplant",
+  "options": [
+   "transplant",
+   "clearing",
+   "digging",
+   "harvest"
+  ],
+  "explanation": "moving seedlings to the main field — that is 'transplant'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4193014",
+  "question": "What does 'harrowing' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "breaking soil clods to make it fine",
+  "options": [
+   "breaking soil clods to make it fine",
+   "removing extra seedlings to give space",
+   "moving seedlings to the main field",
+   "cutting and gathering ripe crops"
+  ],
+  "explanation": "'harrowing' means breaking soil clods to make it fine.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4193015",
+  "question": "Farmers ___ maize when kernels are hard.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "medium",
+  "answer": "harvest",
+  "options": [
+   "harvest",
+   "harrowing",
+   "nursery",
+   "mulching"
+  ],
+  "explanation": "The word is 'harvest': Farmers harvest maize when kernels are hard.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4193016",
+  "question": "What does 'seedbed' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "prepared ground for sowing seeds",
+  "options": [
+   "prepared ground for sowing seeds",
+   "breaking soil clods to make it fine",
+   "giving water to plants",
+   "removing extra seedlings to give space"
+  ],
+  "explanation": "'seedbed' means prepared ground for sowing seeds.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4193017",
+  "question": "___ the grain in the sun before storage.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "medium",
+  "answer": "dry",
+  "options": [
+   "dry",
+   "harrowing",
+   "clearing",
+   "digging"
+  ],
+  "explanation": "The word is 'dry': Dry the grain in the sun before storage.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4193018",
+  "question": "What does 'weeding' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "removing unwanted plants",
+  "options": [
+   "removing unwanted plants",
+   "prepared ground for sowing seeds",
+   "giving water to plants",
+   "cutting extra branches"
+  ],
+  "explanation": "'weeding' means removing unwanted plants.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4193019",
+  "question": "Which word means 'removing extra seedlings to give space'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Growing Crops",
+  "difficulty": "easy",
+  "answer": "thinning",
+  "options": [
+   "thinning",
+   "pests",
+   "store",
+   "seedbed"
+  ],
+  "explanation": "removing extra seedlings to give space — that is 'thinning'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4158000",
+  "question": "What does 'rainfall' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "amount of rain that falls",
+  "options": [
+   "amount of rain that falls",
+   "mass of water droplets in the sky",
+   "cloud that brings rain",
+   "watering crops using pipes or canals"
+  ],
+  "explanation": "'rainfall' means amount of rain that falls.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4158001",
+  "question": "Which word means 'amount of rain that falls'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "rainfall",
+  "options": [
+   "rainfall",
+   "drought",
+   "cloud",
+   "forecast"
+  ],
+  "explanation": "amount of rain that falls — that is 'rainfall'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4158002",
+  "question": "___ helps the garden during dry days.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "medium",
+  "answer": "mulching",
+  "options": [
+   "mulching",
+   "rainfall",
+   "irrigation",
+   "stratus"
+  ],
+  "explanation": "The word is 'mulching': Mulching helps the garden during dry days.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4158003",
+  "question": "Which word means 'bright light from the sun'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "sunshine",
+  "options": [
+   "sunshine",
+   "rainfall",
+   "rain",
+   "drought"
+  ],
+  "explanation": "bright light from the sun — that is 'sunshine'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4158004",
+  "question": "The ___ shows 12 mm.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "medium",
+  "answer": "rain gauge",
+  "options": [
+   "rain gauge",
+   "mulching",
+   "stratus",
+   "season"
+  ],
+  "explanation": "The word is 'rain gauge': The rain gauge shows 12 mm.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4158005",
+  "question": "___ clouds are high and thin.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "medium",
+  "answer": "cirrus",
+  "options": [
+   "cirrus",
+   "rain",
+   "drought",
+   "cumulus"
+  ],
+  "explanation": "The word is 'cirrus': Cirrus clouds are high and thin.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4158006",
+  "question": "___ saves crops in a drought.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "medium",
+  "answer": "irrigation",
+  "options": [
+   "irrigation",
+   "drought",
+   "cloud",
+   "rainfall"
+  ],
+  "explanation": "The word is 'irrigation': Irrigation saves crops in a drought.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH4158007",
+  "question": "A ___ covered the road near the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "medium",
+  "answer": "flood",
+  "options": [
+   "flood",
+   "thermometer",
+   "anemometer",
+   "forecast"
+  ],
+  "explanation": "The word is 'flood': A flood covered the road near the market.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4158008",
+  "question": "What does 'drought' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "long period without rain",
+  "options": [
+   "long period without rain",
+   "covering soil with dry grass to keep moisture",
+   "high thin wispy cloud",
+   "instrument that measures wind speed"
+  ],
+  "explanation": "'drought' means long period without rain.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4158009",
+  "question": "What does 'season' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "time of year with typical weather",
+  "options": [
+   "time of year with typical weather",
+   "low grey cloud covering the sky",
+   "mass of water droplets in the sky",
+   "long period without rain"
+  ],
+  "explanation": "'season' means time of year with typical weather.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4158010",
+  "question": "Which word means 'water falling from clouds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "rain",
+  "options": [
+   "rain",
+   "wind vane",
+   "nimbus",
+   "forecast"
+  ],
+  "explanation": "water falling from clouds — that is 'rain'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4158011",
+  "question": "What does 'stratus' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "low grey cloud covering the sky",
+  "options": [
+   "low grey cloud covering the sky",
+   "water falling from clouds",
+   "watering crops using pipes or canals",
+   "high thin wispy cloud"
+  ],
+  "explanation": "'stratus' means low grey cloud covering the sky.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4158012",
+  "question": "Which word means 'fluffy white cloud with flat base'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "cumulus",
+  "options": [
+   "cumulus",
+   "thermometer",
+   "stratus",
+   "cirrus"
+  ],
+  "explanation": "fluffy white cloud with flat base — that is 'cumulus'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4158013",
+  "question": "Which word means 'mass of water droplets in the sky'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "cloud",
+  "options": [
+   "cloud",
+   "rain gauge",
+   "irrigation",
+   "wind vane"
+  ],
+  "explanation": "mass of water droplets in the sky — that is 'cloud'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4158014",
+  "question": "Which word means 'overflow of water onto land'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "flood",
+  "options": [
+   "flood",
+   "thermometer",
+   "anemometer",
+   "forecast"
+  ],
+  "explanation": "overflow of water onto land — that is 'flood'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4158015",
+  "question": "What does 'cirrus' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "high thin wispy cloud",
+  "options": [
+   "high thin wispy cloud",
+   "watering crops using pipes or canals",
+   "overflow of water onto land",
+   "long period without rain"
+  ],
+  "explanation": "'cirrus' means high thin wispy cloud.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4158016",
+  "question": "Which word means 'instrument that collects rain to measure rainfall'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "rain gauge",
+  "options": [
+   "rain gauge",
+   "mulching",
+   "stratus",
+   "season"
+  ],
+  "explanation": "instrument that collects rain to measure rainfall — that is 'rain gauge'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4158017",
+  "question": "The ___ reads 28°C.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "medium",
+  "answer": "thermometer",
+  "options": [
+   "thermometer",
+   "mulching",
+   "season",
+   "anemometer"
+  ],
+  "explanation": "The word is 'thermometer': The thermometer reads 28°C.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4158018",
+  "question": "The rainy ___ starts in March.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "medium",
+  "answer": "season",
+  "options": [
+   "season",
+   "drought",
+   "forecast",
+   "wind vane"
+  ],
+  "explanation": "The word is 'season': The rainy season starts in March.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4158019",
+  "question": "What does 'cloud' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Weather Changes Around Us",
+  "difficulty": "easy",
+  "answer": "mass of water droplets in the sky",
+  "options": [
+   "mass of water droplets in the sky",
+   "high thin wispy cloud",
+   "time of year with typical weather",
+   "low grey cloud covering the sky"
+  ],
+  "explanation": "'cloud' means mass of water droplets in the sky.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4208000",
+  "question": "Flies cause ___ on uncovered food.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "medium",
+  "answer": "contamination",
+  "options": [
+   "contamination",
+   "smoking",
+   "preservation",
+   "kwashiorkor"
+  ],
+  "explanation": "The word is 'contamination': Flies cause contamination on uncovered food.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4208001",
+  "question": "Which word means 'plant eaten as food, often leaves or roots'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "vegetable",
+  "options": [
+   "vegetable",
+   "protective",
+   "body-building",
+   "energy"
+  ],
+  "explanation": "plant eaten as food, often leaves or roots — that is 'vegetable'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4208002",
+  "question": "What does 'bacteria' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "tiny germs that spoil food",
+  "options": [
+   "tiny germs that spoil food",
+   "making muscles and bones strong",
+   "lack of something the body needs",
+   "food eaten at one time"
+  ],
+  "explanation": "'bacteria' means tiny germs that spoil food.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4208003",
+  "question": "Mango is a ___ rich in vitamin A.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "medium",
+  "answer": "fruit",
+  "options": [
+   "fruit",
+   "kwashiorkor",
+   "bacteria",
+   "protective"
+  ],
+  "explanation": "The word is 'fruit': Mango is a fruit rich in vitamin A.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4208004",
+  "question": "What does 'carbohydrates' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "foods that give us energy",
+  "options": [
+   "foods that give us energy",
+   "poor health from wrong food",
+   "disease from lack of vitamin D",
+   "sweet food from a plant, often with seeds"
+  ],
+  "explanation": "'carbohydrates' means foods that give us energy.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4208005",
+  "question": "Which word means 'disease from not enough food at all'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "marasmus",
+  "options": [
+   "marasmus",
+   "carbohydrates",
+   "malnutrition",
+   "vitamins"
+  ],
+  "explanation": "disease from not enough food at all — that is 'marasmus'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4208006",
+  "question": "What does 'contamination' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "dirt or germs getting into food",
+  "options": [
+   "dirt or germs getting into food",
+   "tiny germs that spoil food",
+   "disease from not enough protein",
+   "foods that protect us from sickness"
+  ],
+  "explanation": "'contamination' means dirt or germs getting into food.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4208007",
+  "question": "What does 'preservation' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "keeping food good for a long time",
+  "options": [
+   "keeping food good for a long time",
+   "dirt or germs getting into food",
+   "cannot see well in dim light",
+   "keeping the body safe from disease"
+  ],
+  "explanation": "'preservation' means keeping food good for a long time.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4208008",
+  "question": "Which word means 'a meal with all food classes'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "balanced diet",
+  "options": [
+   "balanced diet",
+   "marasmus",
+   "proteins",
+   "rickets"
+  ],
+  "explanation": "a meal with all food classes — that is 'balanced diet'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4208009",
+  "question": "Which word means 'sweet food from a plant, often with seeds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "fruit",
+  "options": [
+   "fruit",
+   "kwashiorkor",
+   "bacteria",
+   "protective"
+  ],
+  "explanation": "sweet food from a plant, often with seeds — that is 'fruit'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4208010",
+  "question": "A child with ___ has swollen feet.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "medium",
+  "answer": "kwashiorkor",
+  "options": [
+   "kwashiorkor",
+   "proteins",
+   "vegetable",
+   "marasmus"
+  ],
+  "explanation": "The word is 'kwashiorkor': A child with kwashiorkor has swollen feet.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH4208011",
+  "question": "What does 'meal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "food eaten at one time",
+  "options": [
+   "food eaten at one time",
+   "a meal with all food classes",
+   "tiny germs that spoil food",
+   "disease from lack of vitamin C"
+  ],
+  "explanation": "'meal' means food eaten at one time.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4208012",
+  "question": "A ___ of vitamins causes sickness.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "medium",
+  "answer": "deficiency",
+  "options": [
+   "deficiency",
+   "vitamins",
+   "balanced diet",
+   "body-building"
+  ],
+  "explanation": "The word is 'deficiency': A deficiency of vitamins causes sickness.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4208013",
+  "question": "Which word means 'tiny germs that spoil food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "bacteria",
+  "options": [
+   "bacteria",
+   "protective",
+   "marasmus",
+   "balanced diet"
+  ],
+  "explanation": "tiny germs that spoil food — that is 'bacteria'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4208014",
+  "question": "Which word means 'disease from lack of vitamin C'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "scurvy",
+  "options": [
+   "scurvy",
+   "carbohydrates",
+   "fruit",
+   "protective"
+  ],
+  "explanation": "disease from lack of vitamin C — that is 'scurvy'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4208015",
+  "question": "What does 'kwashiorkor' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "disease from not enough protein",
+  "options": [
+   "disease from not enough protein",
+   "poor health from wrong food",
+   "keeping food good for a long time",
+   "a nutrient that protects the body"
+  ],
+  "explanation": "'kwashiorkor' means disease from not enough protein.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH4208016",
+  "question": "Which word means 'food eaten at one time'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "meal",
+  "options": [
+   "meal",
+   "malnutrition",
+   "scurvy",
+   "fruit"
+  ],
+  "explanation": "food eaten at one time — that is 'meal'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4208017",
+  "question": "What does 'body-building' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "making muscles and bones strong",
+  "options": [
+   "making muscles and bones strong",
+   "using smoke to preserve fish or meat",
+   "poor health from wrong food",
+   "foods that build our body"
+  ],
+  "explanation": "'body-building' means making muscles and bones strong.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4208018",
+  "question": "___ makes children weak.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "medium",
+  "answer": "malnutrition",
+  "options": [
+   "malnutrition",
+   "meal",
+   "kwashiorkor",
+   "carbohydrates"
+  ],
+  "explanation": "The word is 'malnutrition': Malnutrition makes children weak.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4208019",
+  "question": "What does 'night blindness' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Our Food",
+  "difficulty": "easy",
+  "answer": "cannot see well in dim light",
+  "options": [
+   "cannot see well in dim light",
+   "disease from lack of vitamin D",
+   "a nutrient that protects the body",
+   "poor health from wrong food"
+  ],
+  "explanation": "'night blindness' means cannot see well in dim light.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4268000",
+  "question": "We breathe in ___ to stay alive.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "oxygen",
+  "options": [
+   "oxygen",
+   "ribs",
+   "trachea",
+   "rest"
+  ],
+  "explanation": "The word is 'oxygen': We breathe in oxygen to stay alive.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4268001",
+  "question": "Which word means 'red liquid that carries oxygen in the body'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "blood",
+  "options": [
+   "blood",
+   "rest",
+   "diet",
+   "alcohol"
+  ],
+  "explanation": "red liquid that carries oxygen in the body — that is 'blood'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4268002",
+  "question": "___ flows through veins and arteries.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "blood",
+  "options": [
+   "blood",
+   "rest",
+   "diet",
+   "alcohol"
+  ],
+  "explanation": "The word is 'blood': Blood flows through veins and arteries.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4268003",
+  "question": "Playing football is good ___ for the heart.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "exercise",
+  "options": [
+   "exercise",
+   "skin",
+   "breathe",
+   "pump"
+  ],
+  "explanation": "The word is 'exercise': Playing football is good exercise for the heart.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4268004",
+  "question": "What does 'breathe' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "to take air in and out of the lungs",
+  "options": [
+   "to take air in and out of the lungs",
+   "two spongy organs in the chest for breathing",
+   "to remove unwanted substances from a liquid",
+   "large organ that cleans blood and helps digestion"
+  ],
+  "explanation": "'breathe' means to take air in and out of the lungs.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4268005",
+  "question": "The ___ rises when you breathe in.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "chest",
+  "options": [
+   "chest",
+   "carbon dioxide",
+   "liver",
+   "oxygen"
+  ],
+  "explanation": "The word is 'chest': The chest rises when you breathe in.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4268006",
+  "question": "What does 'diet' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "the food and drink you eat regularly",
+  "options": [
+   "the food and drink you eat regularly",
+   "sleep or quiet time to let the body recover",
+   "large organ that cleans blood and helps digestion",
+   "to take air in and out of the lungs"
+  ],
+  "explanation": "'diet' means the food and drink you eat regularly.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4268007",
+  "question": "Air moves down the ___ to the lungs.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "trachea",
+  "options": [
+   "trachea",
+   "hygiene",
+   "sweat",
+   "alcohol"
+  ],
+  "explanation": "The word is 'trachea': Air moves down the trachea to the lungs.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4268008",
+  "question": "A balanced ___ has matooke, beans, and greens.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "diet",
+  "options": [
+   "diet",
+   "urine",
+   "sweat",
+   "smoking"
+  ],
+  "explanation": "The word is 'diet': A balanced diet has matooke, beans, and greens.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4268009",
+  "question": "What does 'lungs' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "two spongy organs in the chest for breathing",
+  "options": [
+   "two spongy organs in the chest for breathing",
+   "bony box that protects the brain",
+   "bones around the chest that protect the heart",
+   "front part of the body between neck and stomach"
+  ],
+  "explanation": "'lungs' means two spongy organs in the chest for breathing.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4268010",
+  "question": "What does 'blood' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "red liquid that carries oxygen in the body",
+  "options": [
+   "red liquid that carries oxygen in the body",
+   "organ in the chest that pumps blood",
+   "windpipe that carries air to the lungs",
+   "clean habits that prevent disease"
+  ],
+  "explanation": "'blood' means red liquid that carries oxygen in the body.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4268011",
+  "question": "Which word means 'liquid waste made by kidneys'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "urine",
+  "options": [
+   "urine",
+   "oxygen",
+   "sweat",
+   "filter"
+  ],
+  "explanation": "liquid waste made by kidneys — that is 'urine'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH4268012",
+  "question": "Kidneys ___ blood to make urine.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "filter",
+  "options": [
+   "filter",
+   "heart",
+   "skin",
+   "ribs"
+  ],
+  "explanation": "The word is 'filter': Kidneys filter blood to make urine.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4268013",
+  "question": "The ___ removes germs and toxins from blood.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "liver",
+  "options": [
+   "liver",
+   "alcohol",
+   "carbon dioxide",
+   "trachea"
+  ],
+  "explanation": "The word is 'liver': The liver removes germs and toxins from blood.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4268014",
+  "question": "What does 'rest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "sleep or quiet time to let the body recover",
+  "options": [
+   "sleep or quiet time to let the body recover",
+   "physical activity that makes the body stronger",
+   "bony box that protects the brain",
+   "to remove unwanted substances from a liquid"
+  ],
+  "explanation": "'rest' means sleep or quiet time to let the body recover.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4268015",
+  "question": "What does 'skin' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "outer covering of the body that protects and sweats",
+  "options": [
+   "outer covering of the body that protects and sweats",
+   "physical activity that makes the body stronger",
+   "red liquid that carries oxygen in the body",
+   "large organ that cleans blood and helps digestion"
+  ],
+  "explanation": "'skin' means outer covering of the body that protects and sweats.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4268016",
+  "question": "The ___ beats all day and night.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "heart",
+  "options": [
+   "heart",
+   "brain",
+   "smoking",
+   "kidney"
+  ],
+  "explanation": "The word is 'heart': The heart beats all day and night.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4268017",
+  "question": "Which word means 'physical activity that makes the body stronger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "exercise",
+  "options": [
+   "exercise",
+   "skin",
+   "breathe",
+   "pump"
+  ],
+  "explanation": "physical activity that makes the body stronger — that is 'exercise'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4268018",
+  "question": "You ___ faster when you run.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "medium",
+  "answer": "breathe",
+  "options": [
+   "breathe",
+   "blood",
+   "liver",
+   "ribs"
+  ],
+  "explanation": "The word is 'breathe': You breathe faster when you run.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4268019",
+  "question": "Which word means 'breathing in smoke from cigarettes'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Human Body Organs",
+  "difficulty": "easy",
+  "answer": "smoking",
+  "options": [
+   "smoking",
+   "carbon dioxide",
+   "urine",
+   "hygiene"
+  ],
+  "explanation": "breathing in smoke from cigarettes — that is 'smoking'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4285000",
+  "question": "A ___ needs filling by a dentist.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "medium",
+  "answer": "cavity",
+  "options": [
+   "cavity",
+   "cutting",
+   "root",
+   "dentine"
+  ],
+  "explanation": "The word is 'cavity': A cavity needs filling by a dentist.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285001",
+  "question": "Which word means 'hard layer under enamel'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "dentine",
+  "options": [
+   "dentine",
+   "enamel",
+   "molars",
+   "pulp"
+  ],
+  "explanation": "hard layer under enamel — that is 'dentine'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4285002",
+  "question": "Which word means 'slicing food into small pieces'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "cutting",
+  "options": [
+   "cutting",
+   "decay",
+   "tearing",
+   "canines"
+  ],
+  "explanation": "slicing food into small pieces — that is 'cutting'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285003",
+  "question": "Which word means 'hole in tooth from decay'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "cavity",
+  "options": [
+   "cavity",
+   "cutting",
+   "root",
+   "dentine"
+  ],
+  "explanation": "hole in tooth from decay — that is 'cavity'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285004",
+  "question": "What does 'premolars' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "flat teeth behind canines",
+  "options": [
+   "flat teeth behind canines",
+   "soft centre with blood vessels",
+   "mineral that strengthens enamel",
+   "front teeth for cutting"
+  ],
+  "explanation": "'premolars' means flat teeth behind canines.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4285005",
+  "question": "___ crush the posho.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "medium",
+  "answer": "premolars",
+  "options": [
+   "premolars",
+   "plaque",
+   "decay",
+   "incisors"
+  ],
+  "explanation": "The word is 'premolars': Premolars crush the posho.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4285006",
+  "question": "What does 'cavity' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "hole in tooth from decay",
+  "options": [
+   "hole in tooth from decay",
+   "tiny thread that feels pain",
+   "soft centre with blood vessels",
+   "front teeth for cutting"
+  ],
+  "explanation": "'cavity' means hole in tooth from decay.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285007",
+  "question": "What does 'dentine' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "hard layer under enamel",
+  "options": [
+   "hard layer under enamel",
+   "clean teeth with a toothbrush",
+   "pointed teeth for tearing",
+   "hard white outer layer"
+  ],
+  "explanation": "'dentine' means hard layer under enamel.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4285008",
+  "question": "___ makes holes in teeth.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "medium",
+  "answer": "decay",
+  "options": [
+   "decay",
+   "cutting",
+   "cavity",
+   "fluoride"
+  ],
+  "explanation": "The word is 'decay': Decay makes holes in teeth.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4285009",
+  "question": "What does 'plaque' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "sticky germ layer on teeth",
+  "options": [
+   "sticky germ layer on teeth",
+   "pulling food apart with force",
+   "flat teeth behind canines",
+   "front teeth for cutting"
+  ],
+  "explanation": "'plaque' means sticky germ layer on teeth.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4285010",
+  "question": "Which word means 'big back teeth for grinding'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "molars",
+  "options": [
+   "molars",
+   "tearing",
+   "pulp",
+   "enamel"
+  ],
+  "explanation": "big back teeth for grinding — that is 'molars'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4285011",
+  "question": "What does 'fluoride' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "mineral that strengthens enamel",
+  "options": [
+   "mineral that strengthens enamel",
+   "tiny thread that feels pain",
+   "doctor for teeth",
+   "slicing food into small pieces"
+  ],
+  "explanation": "'fluoride' means mineral that strengthens enamel.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4285012",
+  "question": "Which word means 'pulling food apart with force'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "tearing",
+  "options": [
+   "tearing",
+   "molars",
+   "cavity",
+   "enamel"
+  ],
+  "explanation": "pulling food apart with force — that is 'tearing'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4285013",
+  "question": "What does 'incisors' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "front teeth for cutting",
+  "options": [
+   "front teeth for cutting",
+   "big back teeth for grinding",
+   "mineral that strengthens enamel",
+   "flat teeth behind canines"
+  ],
+  "explanation": "'incisors' means front teeth for cutting.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH4285014",
+  "question": "Which word means 'pointed teeth for tearing'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "canines",
+  "options": [
+   "canines",
+   "incisors",
+   "root",
+   "cavity"
+  ],
+  "explanation": "pointed teeth for tearing — that is 'canines'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285015",
+  "question": "___ makes food easy to swallow.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "medium",
+  "answer": "cutting",
+  "options": [
+   "cutting",
+   "decay",
+   "tearing",
+   "canines"
+  ],
+  "explanation": "The word is 'cutting': Cutting makes food easy to swallow.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285016",
+  "question": "Which word means 'rotting of tooth by germs'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "decay",
+  "options": [
+   "decay",
+   "cutting",
+   "cavity",
+   "fluoride"
+  ],
+  "explanation": "rotting of tooth by germs — that is 'decay'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4285017",
+  "question": "___ grind the cassava.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "medium",
+  "answer": "molars",
+  "options": [
+   "molars",
+   "tearing",
+   "pulp",
+   "enamel"
+  ],
+  "explanation": "The word is 'molars': Molars grind the cassava.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4285018",
+  "question": "What does 'brush' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "clean teeth with a toothbrush",
+  "options": [
+   "clean teeth with a toothbrush",
+   "flat teeth behind canines",
+   "soft centre with blood vessels",
+   "doctor for teeth"
+  ],
+  "explanation": "'brush' means clean teeth with a toothbrush.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4285019",
+  "question": "Which word means 'mineral that strengthens enamel'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "The Teeth",
+  "difficulty": "easy",
+  "answer": "fluoride",
+  "options": [
+   "fluoride",
+   "pulp",
+   "canines",
+   "dentine"
+  ],
+  "explanation": "mineral that strengthens enamel — that is 'fluoride'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4285000",
+  "question": "Which word means 'a ventilated improved pit latrine with a pipe'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "VIP latrine",
+  "options": [
+   "VIP latrine",
+   "smell",
+   "latrine",
+   "wash hands"
+  ],
+  "explanation": "a ventilated improved pit latrine with a pipe — that is 'VIP latrine'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4285001",
+  "question": "Our home has a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "medium",
+  "answer": "pit latrine",
+  "options": [
+   "pit latrine",
+   "compound",
+   "wash hands",
+   "germs"
+  ],
+  "explanation": "The word is 'pit latrine': Our home has a pit latrine.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4285002",
+  "question": "Clear the ___ so water flows.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "medium",
+  "answer": "drainage",
+  "options": [
+   "drainage",
+   "flies",
+   "disease",
+   "contamination"
+  ],
+  "explanation": "The word is 'drainage': Clear the drainage so water flows.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4285003",
+  "question": "What does 'compound' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "the area around a home or school",
+  "options": [
+   "the area around a home or school",
+   "diarrhoea with blood from germs",
+   "keeping our surroundings clean to stop disease",
+   "a ventilated improved pit latrine with a pipe"
+  ],
+  "explanation": "'compound' means the area around a home or school.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285004",
+  "question": "___ attracts flies if left open.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "medium",
+  "answer": "rubbish",
+  "options": [
+   "rubbish",
+   "dysentery",
+   "smell",
+   "flies"
+  ],
+  "explanation": "The word is 'rubbish': Rubbish attracts flies if left open.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4285005",
+  "question": "What does 'drainage' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "channels that carry rain water away",
+  "options": [
+   "channels that carry rain water away",
+   "a container for collecting rubbish",
+   "a simple toilet with a hole in the ground",
+   "a lid that closes the latrine hole"
+  ],
+  "explanation": "'drainage' means channels that carry rain water away.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4285006",
+  "question": "What does 'cover' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "a lid that closes the latrine hole",
+  "options": [
+   "a lid that closes the latrine hole",
+   "waste like peelings, paper, plastic",
+   "a container for collecting rubbish",
+   "diarrhoea with blood from germs"
+  ],
+  "explanation": "'cover' means a lid that closes the latrine hole.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285007",
+  "question": "The school has a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "medium",
+  "answer": "VIP latrine",
+  "options": [
+   "VIP latrine",
+   "smell",
+   "latrine",
+   "wash hands"
+  ],
+  "explanation": "The word is 'VIP latrine': The school has a VIP latrine.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4285008",
+  "question": "What does 'smell' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "bad odour from waste",
+  "options": [
+   "bad odour from waste",
+   "a ventilated improved pit latrine with a pipe",
+   "a lid that closes the latrine hole",
+   "a container for collecting rubbish"
+  ],
+  "explanation": "'smell' means bad odour from waste.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4285009",
+  "question": "What does 'germs' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "tiny living things that cause illness",
+  "options": [
+   "tiny living things that cause illness",
+   "a container for collecting rubbish",
+   "the area around a home or school",
+   "clean hands with soap and water"
+  ],
+  "explanation": "'germs' means tiny living things that cause illness.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH4285010",
+  "question": "Which word means 'a simple toilet with a hole in the ground'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "pit latrine",
+  "options": [
+   "pit latrine",
+   "compound",
+   "wash hands",
+   "germs"
+  ],
+  "explanation": "a simple toilet with a hole in the ground — that is 'pit latrine'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4285011",
+  "question": "Which word means 'insects that carry germs from waste'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "flies",
+  "options": [
+   "flies",
+   "VIP latrine",
+   "drainage",
+   "dustbin"
+  ],
+  "explanation": "insects that carry germs from waste — that is 'flies'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4285012",
+  "question": "Which word means 'bad odour from waste'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "smell",
+  "options": [
+   "smell",
+   "flies",
+   "dustbin",
+   "sanitation"
+  ],
+  "explanation": "bad odour from waste — that is 'smell'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4285013",
+  "question": "Which word means 'keeping our surroundings clean to stop disease'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "sanitation",
+  "options": [
+   "sanitation",
+   "dysentery",
+   "latrine",
+   "cover"
+  ],
+  "explanation": "keeping our surroundings clean to stop disease — that is 'sanitation'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4285014",
+  "question": "Which word means 'when dirt or germs get into water or food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "contamination",
+  "options": [
+   "contamination",
+   "germs",
+   "VIP latrine",
+   "wash hands"
+  ],
+  "explanation": "when dirt or germs get into water or food — that is 'contamination'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4285015",
+  "question": "What does 'pit latrine' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "a simple toilet with a hole in the ground",
+  "options": [
+   "a simple toilet with a hole in the ground",
+   "the area around a home or school",
+   "an illness that makes the body unwell",
+   "a container for collecting rubbish"
+  ],
+  "explanation": "'pit latrine' means a simple toilet with a hole in the ground.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4285016",
+  "question": "What does 'dysentery' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "diarrhoea with blood from germs",
+  "options": [
+   "diarrhoea with blood from germs",
+   "clean hands with soap and water",
+   "a toilet for safe waste disposal",
+   "the area around a home or school"
+  ],
+  "explanation": "'dysentery' means diarrhoea with blood from germs.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4285017",
+  "question": "What does 'sanitation' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "keeping our surroundings clean to stop disease",
+  "options": [
+   "keeping our surroundings clean to stop disease",
+   "a container for collecting rubbish",
+   "channels that carry rain water away",
+   "tiny living things that cause illness"
+  ],
+  "explanation": "'sanitation' means keeping our surroundings clean to stop disease.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4285018",
+  "question": "Good ___ prevents cholera.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "medium",
+  "answer": "sanitation",
+  "options": [
+   "sanitation",
+   "dysentery",
+   "latrine",
+   "cover"
+  ],
+  "explanation": "The word is 'sanitation': Good sanitation prevents cholera.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4285019",
+  "question": "Which word means 'a severe diarrhoea disease from dirty water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Sanitation",
+  "difficulty": "easy",
+  "answer": "cholera",
+  "options": [
+   "cholera",
+   "cover",
+   "flies",
+   "smell"
+  ],
+  "explanation": "a severe diarrhoea disease from dirty water — that is 'cholera'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4358000",
+  "question": "Which word means 'to put a lid on food, water, or latrines'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "cover",
+  "options": [
+   "cover",
+   "malaria",
+   "vector",
+   "mosquito"
+  ],
+  "explanation": "to put a lid on food, water, or latrines — that is 'cover'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4358001",
+  "question": "___ gives fever, chills, and headache.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "medium",
+  "answer": "malaria",
+  "options": [
+   "malaria",
+   "bite",
+   "cover",
+   "hygiene"
+  ],
+  "explanation": "The word is 'malaria': Malaria gives fever, chills, and headache.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4358002",
+  "question": "What does 'bush' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "thick grass and shrubs where vectors hide",
+  "options": [
+   "thick grass and shrubs where vectors hide",
+   "a disease caused by a germ carried by mosquitoes",
+   "to put a lid on food, water, or latrines",
+   "the act of a mosquito piercing skin to suck blood"
+  ],
+  "explanation": "'bush' means thick grass and shrubs where vectors hide.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4358003",
+  "question": "What does 'anopheles' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "the type of mosquito that carries malaria",
+  "options": [
+   "the type of mosquito that carries malaria",
+   "still water that does not flow, where mosquitoes lay eggs",
+   "using chemicals to kill adult vectors",
+   "a fly that bites and causes sleeping sickness"
+  ],
+  "explanation": "'anopheles' means the type of mosquito that carries malaria.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4358004",
+  "question": "Which word means 'a common fly that lands on food and waste'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "housefly",
+  "options": [
+   "housefly",
+   "bite",
+   "lice",
+   "cockroach"
+  ],
+  "explanation": "a common fly that lands on food and waste — that is 'housefly'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4358005",
+  "question": "Which word means 'the type of mosquito that carries malaria'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "anopheles",
+  "options": [
+   "anopheles",
+   "tsetse fly",
+   "stagnant water",
+   "lice"
+  ],
+  "explanation": "the type of mosquito that carries malaria — that is 'anopheles'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4358006",
+  "question": "A mosquito is a ___ because it spreads malaria.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "medium",
+  "answer": "vector",
+  "options": [
+   "vector",
+   "stagnant water",
+   "housefly",
+   "drainage"
+  ],
+  "explanation": "The word is 'vector': A mosquito is a vector because it spreads malaria.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4358007",
+  "question": "Which word means 'still water that does not flow, where mosquitoes lay eggs'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "stagnant water",
+  "options": [
+   "stagnant water",
+   "vector",
+   "hygiene",
+   "lice"
+  ],
+  "explanation": "still water that does not flow, where mosquitoes lay eggs — that is 'stagnant water'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4358008",
+  "question": "A mosquito ___ can pass plasmodium into your body.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "medium",
+  "answer": "bite",
+  "options": [
+   "bite",
+   "mosquito",
+   "tsetse fly",
+   "lice"
+  ],
+  "explanation": "The word is 'bite': A mosquito bite can pass plasmodium into your body.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4358009",
+  "question": "Old tins and tyre tracks hold ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "medium",
+  "answer": "stagnant water",
+  "options": [
+   "stagnant water",
+   "vector",
+   "hygiene",
+   "lice"
+  ],
+  "explanation": "The word is 'stagnant water': Old tins and tyre tracks hold stagnant water.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4358010",
+  "question": "What does 'mosquito' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "a small flying insect that bites and sucks blood",
+  "options": [
+   "a small flying insect that bites and sucks blood",
+   "the type of mosquito that carries malaria",
+   "the tiny germ that causes malaria",
+   "a treated mosquito net hung over a bed"
+  ],
+  "explanation": "'mosquito' means a small flying insect that bites and sucks blood.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4358011",
+  "question": "What does 'housefly' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "a common fly that lands on food and waste",
+  "options": [
+   "a common fly that lands on food and waste",
+   "a system to remove waste water so it does not stand still",
+   "still water that does not flow, where mosquitoes lay eggs",
+   "a flat, brown insect that runs fast in dirty places"
+  ],
+  "explanation": "'housefly' means a common fly that lands on food and waste.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4358012",
+  "question": "Which word means 'a system to remove waste water so it does not stand still'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "drainage",
+  "options": [
+   "drainage",
+   "cover",
+   "spraying",
+   "bush"
+  ],
+  "explanation": "a system to remove waste water so it does not stand still — that is 'drainage'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4358013",
+  "question": "What does 'malaria' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "a disease caused by a germ carried by mosquitoes",
+  "options": [
+   "a disease caused by a germ carried by mosquitoes",
+   "a treated mosquito net hung over a bed",
+   "the tiny germ that causes malaria",
+   "still water that does not flow, where mosquitoes lay eggs"
+  ],
+  "explanation": "'malaria' means a disease caused by a germ carried by mosquitoes.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4358014",
+  "question": "___ food to keep houseflies away.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "medium",
+  "answer": "cover",
+  "options": [
+   "cover",
+   "malaria",
+   "vector",
+   "mosquito"
+  ],
+  "explanation": "The word is 'cover': Cover food to keep houseflies away.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4358015",
+  "question": "Which word means 'using chemicals to kill adult vectors'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "spraying",
+  "options": [
+   "spraying",
+   "bite",
+   "housefly",
+   "cover"
+  ],
+  "explanation": "using chemicals to kill adult vectors — that is 'spraying'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4358016",
+  "question": "Washing hands and keeping the compound clean is good ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "medium",
+  "answer": "hygiene",
+  "options": [
+   "hygiene",
+   "mosquito",
+   "housefly",
+   "bush"
+  ],
+  "explanation": "The word is 'hygiene': Washing hands and keeping the compound clean is good hygiene.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4358017",
+  "question": "A ___ walked on the uncovered matooke.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "medium",
+  "answer": "housefly",
+  "options": [
+   "housefly",
+   "bite",
+   "lice",
+   "cockroach"
+  ],
+  "explanation": "The word is 'housefly': A housefly walked on the uncovered matooke.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4358018",
+  "question": "Which word means 'a small flying insect that bites and sucks blood'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "mosquito",
+  "options": [
+   "mosquito",
+   "stagnant water",
+   "plasmodium",
+   "drainage"
+  ],
+  "explanation": "a small flying insect that bites and sucks blood — that is 'mosquito'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4358019",
+  "question": "Which word means 'a treated mosquito net hung over a bed'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Vectors and Diseases",
+  "difficulty": "easy",
+  "answer": "net",
+  "options": [
+   "net",
+   "tsetse fly",
+   "housefly",
+   "plasmodium"
+  ],
+  "explanation": "a treated mosquito net hung over a bed — that is 'net'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4398000",
+  "question": "Which word means 'little room needed'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "small space",
+  "options": [
+   "small space",
+   "income",
+   "manure",
+   "quick"
+  ],
+  "explanation": "little room needed — that is 'small space'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4398001",
+  "question": "Which word means 'special rabbit food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "pellets",
+  "options": [
+   "pellets",
+   "manure",
+   "fur",
+   "snuffles"
+  ],
+  "explanation": "special rabbit food — that is 'pellets'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4398002",
+  "question": "Which word means 'the part of the head for hearing'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "ear",
+  "options": [
+   "ear",
+   "angora",
+   "californian",
+   "dry"
+  ],
+  "explanation": "the part of the head for hearing — that is 'ear'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4398003",
+  "question": "Which word means 'clean liquid to drink'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "water",
+  "options": [
+   "water",
+   "hutch",
+   "new zealand",
+   "snuffles"
+  ],
+  "explanation": "clean liquid to drink — that is 'water'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4398004",
+  "question": "What does 'pellets' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "special rabbit food",
+  "options": [
+   "special rabbit food",
+   "written notes about the farm",
+   "clean liquid to drink",
+   "money earned from selling"
+  ],
+  "explanation": "'pellets' means special rabbit food.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4398005",
+  "question": "What does 'quick' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "fast, in a short time",
+  "options": [
+   "fast, in a short time",
+   "free from dirt",
+   "not wet",
+   "animal flesh used as food"
+  ],
+  "explanation": "'quick' means fast, in a short time.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH4398006",
+  "question": "What does 'californian' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "a rabbit breed with coloured ears",
+  "options": [
+   "a rabbit breed with coloured ears",
+   "a white rabbit breed for meat",
+   "a rabbit breed with long fur",
+   "written notes about the farm"
+  ],
+  "explanation": "'californian' means a rabbit breed with coloured ears.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4398007",
+  "question": "___ causes diarrhoea.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "medium",
+  "answer": "coccidiosis",
+  "options": [
+   "coccidiosis",
+   "income",
+   "medicine",
+   "pellets"
+  ],
+  "explanation": "The word is 'coccidiosis': Coccidiosis causes diarrhoea.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4398008",
+  "question": "Keep the hutch ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "medium",
+  "answer": "dry",
+  "options": [
+   "dry",
+   "ear canker",
+   "fur",
+   "water"
+  ],
+  "explanation": "The word is 'dry': Keep the hutch dry.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4398009",
+  "question": "What does 'coccidiosis' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "a stomach disease in rabbits",
+  "options": [
+   "a stomach disease in rabbits",
+   "a group of animals with same traits",
+   "a white rabbit breed for meat",
+   "fast, in a short time"
+  ],
+  "explanation": "'coccidiosis' means a stomach disease in rabbits.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4398010",
+  "question": "Which word means 'an animal doctor'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "vet",
+  "options": [
+   "vet",
+   "fur",
+   "coccidiosis",
+   "small space"
+  ],
+  "explanation": "an animal doctor — that is 'vet'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4398011",
+  "question": "What does 'hutch' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "a house for rabbits",
+  "options": [
+   "a house for rabbits",
+   "a rabbit breed with coloured ears",
+   "fast, in a short time",
+   "green plants rabbits eat"
+  ],
+  "explanation": "'hutch' means a house for rabbits.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4398012",
+  "question": "Which word means 'a rabbit cold with runny nose'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "snuffles",
+  "options": [
+   "snuffles",
+   "manure",
+   "medicine",
+   "angora"
+  ],
+  "explanation": "a rabbit cold with runny nose — that is 'snuffles'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4398013",
+  "question": "Which word means 'animal flesh used as food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "meat",
+  "options": [
+   "meat",
+   "income",
+   "coccidiosis",
+   "dry"
+  ],
+  "explanation": "animal flesh used as food — that is 'meat'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4398014",
+  "question": "Which word means 'fast, in a short time'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "quick",
+  "options": [
+   "quick",
+   "records",
+   "dry",
+   "ear"
+  ],
+  "explanation": "fast, in a short time — that is 'quick'.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH4398015",
+  "question": "Rabbits bring ___ to the family.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "medium",
+  "answer": "income",
+  "options": [
+   "income",
+   "vet",
+   "californian",
+   "quick"
+  ],
+  "explanation": "The word is 'income': Rabbits bring income to the family.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH4398016",
+  "question": "Rabbits need fresh ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "medium",
+  "answer": "water",
+  "options": [
+   "water",
+   "hutch",
+   "new zealand",
+   "snuffles"
+  ],
+  "explanation": "The word is 'water': Rabbits need fresh water.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4398017",
+  "question": "Which word means 'a house for rabbits'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "hutch",
+  "options": [
+   "hutch",
+   "medicine",
+   "clean",
+   "meat"
+  ],
+  "explanation": "a house for rabbits — that is 'hutch'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4398018",
+  "question": "What does 'clean' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "free from dirt",
+  "options": [
+   "free from dirt",
+   "animal waste used as fertiliser",
+   "a rabbit breed with long fur",
+   "clean liquid to drink"
+  ],
+  "explanation": "'clean' means free from dirt.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4398019",
+  "question": "What does 'new zealand' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Keeping Rabbits",
+  "difficulty": "easy",
+  "answer": "a white rabbit breed for meat",
+  "options": [
+   "a white rabbit breed for meat",
+   "special rabbit food",
+   "a group of animals with same traits",
+   "a house for rabbits"
+  ],
+  "explanation": "'new zealand' means a white rabbit breed for meat.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ }
+]

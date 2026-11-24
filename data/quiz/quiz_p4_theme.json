@@ -1,0 +1,3202 @@
+[
+ {
+  "id": "TH4124000",
+  "question": "Which word means 'shaped like a circle'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "round",
+  "options": [
+   "round",
+   "kind",
+   "thin",
+   "rough"
+  ],
+  "explanation": "shaped like a circle — that is 'round'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4124001",
+  "question": "What does 'soft' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "easy to press",
+  "options": [
+   "easy to press",
+   "three sided",
+   "darkest colour",
+   "firm, not soft"
+  ],
+  "explanation": "'soft' means easy to press.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4124002",
+  "question": "What does 'tall' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "high in height",
+  "options": [
+   "high in height",
+   "level, not raised",
+   "the hue of something",
+   "very pretty"
+  ],
+  "explanation": "'tall' means high in height.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4124003",
+  "question": "What does 'oval' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "egg shaped",
+  "options": [
+   "egg shaped",
+   "easy to press",
+   "nice, caring",
+   "colour of soil"
+  ],
+  "explanation": "'oval' means egg shaped.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4124004",
+  "question": "Which word means 'having great length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "long",
+  "options": [
+   "long",
+   "soft",
+   "hard",
+   "flat"
+  ],
+  "explanation": "having great length — that is 'long'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4124005",
+  "question": "What does 'colour' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "the hue of something",
+  "options": [
+   "the hue of something",
+   "having great length",
+   "not smooth",
+   "firm, not soft"
+  ],
+  "explanation": "'colour' means the hue of something.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4124006",
+  "question": "The book is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "medium",
+  "answer": "rectangular",
+  "options": [
+   "rectangular",
+   "brown",
+   "colour",
+   "hard"
+  ],
+  "explanation": "The word is 'rectangular': The book is rectangular.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4124007",
+  "question": "Which word means 'small in height'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "short",
+  "options": [
+   "short",
+   "smooth",
+   "hard",
+   "good"
+  ],
+  "explanation": "small in height — that is 'short'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4124008",
+  "question": "Which word means 'even surface'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "smooth",
+  "options": [
+   "smooth",
+   "colour",
+   "long",
+   "kind"
+  ],
+  "explanation": "even surface — that is 'smooth'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4124009",
+  "question": "The shirt has a bright ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "medium",
+  "answer": "colour",
+  "options": [
+   "colour",
+   "brown",
+   "smooth",
+   "kind"
+  ],
+  "explanation": "The word is 'colour': The shirt has a bright colour.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4124010",
+  "question": "What does 'smooth' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "even surface",
+  "options": [
+   "even surface",
+   "nice, caring",
+   "three sided",
+   "not thick, slender"
+  ],
+  "explanation": "'smooth' means even surface.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4124011",
+  "question": "Which word means 'darkest colour'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "black",
+  "options": [
+   "black",
+   "soft",
+   "kind",
+   "long"
+  ],
+  "explanation": "darkest colour — that is 'black'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4124012",
+  "question": "What does 'kind' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "nice, caring",
+  "options": [
+   "nice, caring",
+   "even surface",
+   "having great length",
+   "four sides with right angles"
+  ],
+  "explanation": "'kind' means nice, caring.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH4124013",
+  "question": "She looks ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "medium",
+  "answer": "smart",
+  "options": [
+   "smart",
+   "heavy",
+   "round",
+   "flat"
+  ],
+  "explanation": "The word is 'smart': She looks smart.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4124014",
+  "question": "He is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "medium",
+  "answer": "kind",
+  "options": [
+   "kind",
+   "rough",
+   "long",
+   "good"
+  ],
+  "explanation": "The word is 'kind': He is kind.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH4124015",
+  "question": "Which word means 'easy to press'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "soft",
+  "options": [
+   "soft",
+   "short",
+   "smart",
+   "thin"
+  ],
+  "explanation": "easy to press — that is 'soft'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4124016",
+  "question": "The soil is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "medium",
+  "answer": "brown",
+  "options": [
+   "brown",
+   "rectangular",
+   "soft",
+   "short"
+  ],
+  "explanation": "The word is 'brown': The soil is brown.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4124017",
+  "question": "What does 'round' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "shaped like a circle",
+  "options": [
+   "shaped like a circle",
+   "having great length",
+   "small in height",
+   "not smooth"
+  ],
+  "explanation": "'round' means shaped like a circle.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4124018",
+  "question": "What does 'hard' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "easy",
+  "answer": "firm, not soft",
+  "options": [
+   "firm, not soft",
+   "even surface",
+   "three sided",
+   "having great length"
+  ],
+  "explanation": "'hard' means firm, not soft.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4124019",
+  "question": "The rock is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Describing People and Objects",
+  "difficulty": "medium",
+  "answer": "hard",
+  "options": [
+   "hard",
+   "tall",
+   "heavy",
+   "good"
+  ],
+  "explanation": "The word is 'hard': The rock is hard.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4162000",
+  "question": "The latrine is ___ the kitchen.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "medium",
+  "answer": "behind",
+  "options": [
+   "behind",
+   "hospital",
+   "bridge",
+   "next to"
+  ],
+  "explanation": "The word is 'behind': The latrine is behind the kitchen.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4162001",
+  "question": "Which word means 'on the other side of'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "across",
+  "options": [
+   "across",
+   "signpost",
+   "far",
+   "bridge"
+  ],
+  "explanation": "on the other side of — that is 'across'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4162002",
+  "question": "Which word means 'a drawing of places from above'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "map",
+  "options": [
+   "map",
+   "corner",
+   "next to",
+   "straight"
+  ],
+  "explanation": "a drawing of places from above — that is 'map'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4162003",
+  "question": "What does 'next to' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "beside",
+  "options": [
+   "beside",
+   "a way over a river or valley",
+   "on the other side of",
+   "a drawing of places from above"
+  ],
+  "explanation": "'next to' means beside.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4162004",
+  "question": "Which word means 'where people buy and sell'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "market",
+  "options": [
+   "market",
+   "bridge",
+   "corner",
+   "hospital"
+  ],
+  "explanation": "where people buy and sell — that is 'market'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4162005",
+  "question": "Which word means 'close to'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "near",
+  "options": [
+   "near",
+   "route",
+   "straight",
+   "bridge"
+  ],
+  "explanation": "close to — that is 'near'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4162006",
+  "question": "What does 'far' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "a long way from",
+  "options": [
+   "a long way from",
+   "close to",
+   "a sign showing the way",
+   "facing each other"
+  ],
+  "explanation": "'far' means a long way from.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4162007",
+  "question": "The mosque is ___ the church.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "medium",
+  "answer": "opposite",
+  "options": [
+   "opposite",
+   "bridge",
+   "signpost",
+   "far"
+  ],
+  "explanation": "The word is 'opposite': The mosque is opposite the church.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH4162008",
+  "question": "What does 'junction' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "where three or more roads meet",
+  "options": [
+   "where three or more roads meet",
+   "change direction",
+   "the path you follow",
+   "where sick people go"
+  ],
+  "explanation": "'junction' means where three or more roads meet.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH4162009",
+  "question": "What does 'near' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "close to",
+  "options": [
+   "close to",
+   "where three or more roads meet",
+   "a sign showing the way",
+   "the other side"
+  ],
+  "explanation": "'near' means close to.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4162010",
+  "question": "What does 'across' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "on the other side of",
+  "options": [
+   "on the other side of",
+   "a sign showing the way",
+   "change direction",
+   "in the centre"
+  ],
+  "explanation": "'across' means on the other side of.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4162011",
+  "question": "What does 'middle' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "in the centre",
+  "options": [
+   "in the centre",
+   "the side of your heart",
+   "forward without turning",
+   "a place of worship"
+  ],
+  "explanation": "'middle' means in the centre.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4162012",
+  "question": "What does 'left' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "the side of your heart",
+  "options": [
+   "the side of your heart",
+   "facing each other",
+   "in the centre",
+   "a sign showing the way"
+  ],
+  "explanation": "'left' means the side of your heart.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4162013",
+  "question": "The hospital is ___ from our home.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "medium",
+  "answer": "far",
+  "options": [
+   "far",
+   "route",
+   "map",
+   "middle"
+  ],
+  "explanation": "The word is 'far': The hospital is far from our home.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4162014",
+  "question": "What does 'corner' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "where two roads meet",
+  "options": [
+   "where two roads meet",
+   "at the back of",
+   "a long way from",
+   "a place of worship"
+  ],
+  "explanation": "'corner' means where two roads meet.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4162015",
+  "question": "Which word means 'forward without turning'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "straight",
+  "options": [
+   "straight",
+   "junction",
+   "middle",
+   "signpost"
+  ],
+  "explanation": "forward without turning — that is 'straight'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4162016",
+  "question": "Which word means 'in the centre'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "middle",
+  "options": [
+   "middle",
+   "map",
+   "left",
+   "opposite"
+  ],
+  "explanation": "in the centre — that is 'middle'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4162017",
+  "question": "___ left at the big tree.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "medium",
+  "answer": "turn",
+  "options": [
+   "turn",
+   "far",
+   "across",
+   "behind"
+  ],
+  "explanation": "The word is 'turn': Turn left at the big tree.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4162018",
+  "question": "Which word means 'at the back of'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "easy",
+  "answer": "behind",
+  "options": [
+   "behind",
+   "hospital",
+   "bridge",
+   "next to"
+  ],
+  "explanation": "at the back of — that is 'behind'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4162019",
+  "question": "Turn ___ at the junction.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "Giving Directions",
+  "difficulty": "medium",
+  "answer": "left",
+  "options": [
+   "left",
+   "behind",
+   "hospital",
+   "middle"
+  ],
+  "explanation": "The word is 'left': Turn left at the junction.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4162000",
+  "question": "Which word means 'sweet plant foods'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "fruits",
+  "options": [
+   "fruits",
+   "tea",
+   "thirsty",
+   "hot"
+  ],
+  "explanation": "sweet plant foods — that is 'fruits'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4162001",
+  "question": "What does 'angry' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "feeling mad",
+  "options": [
+   "feeling mad",
+   "feeling sorrow",
+   "not well, sick",
+   "not wanting to work"
+  ],
+  "explanation": "'angry' means feeling mad.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4162002",
+  "question": "What does 'foods' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "things we eat",
+  "options": [
+   "things we eat",
+   "feeling low temperature",
+   "needing rest",
+   "looking at books"
+  ],
+  "explanation": "'foods' means things we eat.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4162003",
+  "question": "Which word means 'feeling mad'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "angry",
+  "options": [
+   "angry",
+   "dancing",
+   "hot",
+   "tired"
+  ],
+  "explanation": "feeling mad — that is 'angry'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4162004",
+  "question": "Which word means 'liquids we drink'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "drinks",
+  "options": [
+   "drinks",
+   "ill",
+   "soda",
+   "scared"
+  ],
+  "explanation": "liquids we drink — that is 'drinks'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4162005",
+  "question": "What does 'lazy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "not wanting to work",
+  "options": [
+   "not wanting to work",
+   "needing food",
+   "making music with voice",
+   "needing water"
+  ],
+  "explanation": "'lazy' means not wanting to work.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4162006",
+  "question": "What does 'happy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "feeling joy",
+  "options": [
+   "feeling joy",
+   "preparing food",
+   "to like one thing more",
+   "needing rest"
+  ],
+  "explanation": "'happy' means feeling joy.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4162007",
+  "question": "What does 'ill' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "not well, sick",
+  "options": [
+   "not well, sick",
+   "sweet plant foods",
+   "to take pleasure in",
+   "feeling sorrow"
+  ],
+  "explanation": "'ill' means not well, sick.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH4162008",
+  "question": "What does 'drinks' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "liquids we drink",
+  "options": [
+   "liquids we drink",
+   "needing rest",
+   "to like one thing more",
+   "not well, sick"
+  ],
+  "explanation": "'drinks' means liquids we drink.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4162009",
+  "question": "Which word means 'preparing food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "cooking",
+  "options": [
+   "cooking",
+   "playing",
+   "fruits",
+   "foods"
+  ],
+  "explanation": "preparing food — that is 'cooking'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4162010",
+  "question": "I feel ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "medium",
+  "answer": "happy",
+  "options": [
+   "happy",
+   "lazy",
+   "soda",
+   "unhappy"
+  ],
+  "explanation": "The word is 'happy': I feel happy.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4162011",
+  "question": "What does 'worried' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "feeling anxious",
+  "options": [
+   "feeling anxious",
+   "preparing food",
+   "things we eat",
+   "to like one thing more"
+  ],
+  "explanation": "'worried' means feeling anxious.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4162012",
+  "question": "Which word means 'feeling anxious'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "worried",
+  "options": [
+   "worried",
+   "milk",
+   "soda",
+   "lazy"
+  ],
+  "explanation": "feeling anxious — that is 'worried'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4162013",
+  "question": "Children like ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "medium",
+  "answer": "playing",
+  "options": [
+   "playing",
+   "fruits",
+   "foods",
+   "hungry"
+  ],
+  "explanation": "The word is 'playing': Children like playing.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4162014",
+  "question": "What does 'dancing' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "moving to music",
+  "options": [
+   "moving to music",
+   "feeling mad",
+   "feeling fear",
+   "feeling low temperature"
+  ],
+  "explanation": "'dancing' means moving to music.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4162015",
+  "question": "Which word means 'sweet fizzy drink'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "soda",
+  "options": [
+   "soda",
+   "worried",
+   "thirsty",
+   "singing"
+  ],
+  "explanation": "sweet fizzy drink — that is 'soda'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4162016",
+  "question": "I ___ reading.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "medium",
+  "answer": "enjoy",
+  "options": [
+   "enjoy",
+   "scared",
+   "dancing",
+   "prefer"
+  ],
+  "explanation": "The word is 'enjoy': I enjoy reading.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4162017",
+  "question": "They are ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "medium",
+  "answer": "hungry",
+  "options": [
+   "hungry",
+   "enjoy",
+   "sad",
+   "tea"
+  ],
+  "explanation": "The word is 'hungry': They are hungry.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4162018",
+  "question": "Which word means 'not well, sick'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "ill",
+  "options": [
+   "ill",
+   "soda",
+   "playing",
+   "enjoy"
+  ],
+  "explanation": "not well, sick — that is 'ill'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH4162019",
+  "question": "What does 'reading' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 1",
+  "unit": "What I Like and How I Feel",
+  "difficulty": "easy",
+  "answer": "looking at books",
+  "options": [
+   "looking at books",
+   "feeling high temperature",
+   "feeling mad",
+   "liquids we drink"
+  ],
+  "explanation": "'reading' means looking at books.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4222000",
+  "question": "That is **___** — shouting at Teacher.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "rude",
+  "options": [
+   "rude",
+   "quarrel",
+   "ask",
+   "cheat"
+  ],
+  "explanation": "The word is 'rude': That is **rude** — shouting at Teacher.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4222001",
+  "question": "May we **___** this mango?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "share",
+  "options": [
+   "share",
+   "borrow",
+   "steal",
+   "kind"
+  ],
+  "explanation": "The word is 'share': May we **share** this mango?",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4222002",
+  "question": "Yes, I will **___** you my ruler.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "lend",
+  "options": [
+   "lend",
+   "rude",
+   "welcome",
+   "steal"
+  ],
+  "explanation": "The word is 'lend': Yes, I will **lend** you my ruler.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4222003",
+  "question": "___ me, may I pass?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "excuse",
+  "options": [
+   "excuse",
+   "welcome",
+   "lend",
+   "pardon"
+  ],
+  "explanation": "The word is 'excuse': Excuse me, may I pass?",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4222004",
+  "question": "Which word means 'to take what is not yours'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "steal",
+  "options": [
+   "steal",
+   "borrow",
+   "quarrel",
+   "lend"
+  ],
+  "explanation": "to take what is not yours — that is 'steal'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4222005",
+  "question": "Which word means 'to assist someone'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "help",
+  "options": [
+   "help",
+   "pardon",
+   "honest",
+   "welcome"
+  ],
+  "explanation": "to assist someone — that is 'help'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4222006",
+  "question": "What does 'please' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "a polite word when asking",
+  "options": [
+   "a polite word when asking",
+   "to break rules to win",
+   "to argue loudly",
+   "to give something for a short time"
+  ],
+  "explanation": "'please' means a polite word when asking.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4222007",
+  "question": "I am **___** when I make a mistake.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "honest",
+  "options": [
+   "honest",
+   "excuse",
+   "ask",
+   "help"
+  ],
+  "explanation": "The word is 'honest': I am **honest** when I make a mistake.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4222008",
+  "question": "Which word means 'a friendly greeting'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "welcome",
+  "options": [
+   "welcome",
+   "borrow",
+   "lie",
+   "help"
+  ],
+  "explanation": "a friendly greeting — that is 'welcome'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4222009",
+  "question": "What does 'share' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "to give a part of yours",
+  "options": [
+   "to give a part of yours",
+   "to pay attention",
+   "to argue loudly",
+   "to take what is not yours"
+  ],
+  "explanation": "'share' means to give a part of yours.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4222010",
+  "question": "___? I did not hear you.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "pardon",
+  "options": [
+   "pardon",
+   "borrow",
+   "respect",
+   "excuse"
+  ],
+  "explanation": "The word is 'pardon': Pardon? I did not hear you.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4222011",
+  "question": "Which word means 'to say what is not true'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "lie",
+  "options": [
+   "lie",
+   "cheat",
+   "respect",
+   "ask"
+  ],
+  "explanation": "to say what is not true — that is 'lie'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4222012",
+  "question": "What does 'sorry' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "to show regret",
+  "options": [
+   "to show regret",
+   "to put a question",
+   "to pay attention",
+   "to assist someone"
+  ],
+  "explanation": "'sorry' means to show regret.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4222013",
+  "question": "I will **___** Teacher for a book.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "ask",
+  "options": [
+   "ask",
+   "thank",
+   "fight",
+   "share"
+  ],
+  "explanation": "The word is 'ask': I will **ask** Teacher for a book.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4222014",
+  "question": "I **___** when Teacher speaks.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "listen",
+  "options": [
+   "listen",
+   "rude",
+   "sorry",
+   "forgive"
+  ],
+  "explanation": "The word is 'listen': I **listen** when Teacher speaks.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4222015",
+  "question": "What does 'borrow' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "to take something for a short time",
+  "options": [
+   "to take something for a short time",
+   "to give a part of yours",
+   "to argue loudly",
+   "not caring"
+  ],
+  "explanation": "'borrow' means to take something for a short time.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4222016",
+  "question": "What does 'steal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "to take what is not yours",
+  "options": [
+   "to take what is not yours",
+   "to treat others well",
+   "to stop being angry",
+   "a friendly greeting"
+  ],
+  "explanation": "'steal' means to take what is not yours.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4222017",
+  "question": "Which word means 'to treat others well'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "respect",
+  "options": [
+   "respect",
+   "greet",
+   "share",
+   "lend"
+  ],
+  "explanation": "to treat others well — that is 'respect'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4222018",
+  "question": "___ may I have some water?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "medium",
+  "answer": "please",
+  "options": [
+   "please",
+   "quarrel",
+   "rude",
+   "lend"
+  ],
+  "explanation": "The word is 'please': Please may I have some water?",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4222019",
+  "question": "What does 'rude' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Behaviour",
+  "difficulty": "easy",
+  "answer": "not polite",
+  "options": [
+   "not polite",
+   "to assist someone",
+   "not caring",
+   "to put a question"
+  ],
+  "explanation": "'rude' means not polite.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4288000",
+  "question": "We buy maize flour by the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "kilogramme",
+  "options": [
+   "kilogramme",
+   "pay",
+   "packet",
+   "item"
+  ],
+  "explanation": "The word is 'kilogramme': We buy maize flour by the kilogramme.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH4288001",
+  "question": "Which word means 'unit for liquid volume'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "litre",
+  "options": [
+   "litre",
+   "some",
+   "salt",
+   "a few"
+  ],
+  "explanation": "unit for liquid volume — that is 'litre'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4288002",
+  "question": "What does 'much' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "large amount for uncountable things",
+  "options": [
+   "large amount for uncountable things",
+   "to get something by paying money",
+   "costing little money",
+   "Ugandan money units"
+  ],
+  "explanation": "'much' means large amount for uncountable things.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4288003",
+  "question": "What does 'some' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "an amount of something (positive)",
+  "options": [
+   "an amount of something (positive)",
+   "unit for liquid volume",
+   "a place where things are sold",
+   "a thing you can buy"
+  ],
+  "explanation": "'some' means an amount of something (positive).",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4288004",
+  "question": "I ___ posho at the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "buy",
+  "options": [
+   "buy",
+   "some",
+   "cheap",
+   "salt"
+  ],
+  "explanation": "The word is 'buy': I buy posho at the market.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4288005",
+  "question": "The bananas are ___ today.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "cheap",
+  "options": [
+   "cheap",
+   "litre",
+   "some",
+   "metre"
+  ],
+  "explanation": "The word is 'cheap': The bananas are cheap today.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4288006",
+  "question": "Which word means 'to give something for money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "sell",
+  "options": [
+   "sell",
+   "bottle",
+   "pay",
+   "any"
+  ],
+  "explanation": "to give something for money — that is 'sell'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4288007",
+  "question": "Which word means 'sweet white grains for tea'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "sugar",
+  "options": [
+   "sugar",
+   "any",
+   "packet",
+   "item"
+  ],
+  "explanation": "sweet white grains for tea — that is 'sugar'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4288008",
+  "question": "Which word means 'an amount in questions or negatives'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "any",
+  "options": [
+   "any",
+   "cost",
+   "expensive",
+   "packet"
+  ],
+  "explanation": "an amount in questions or negatives — that is 'any'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4288009",
+  "question": "Which word means 'the money you pay for something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "price",
+  "options": [
+   "price",
+   "some",
+   "pay",
+   "kilogramme"
+  ],
+  "explanation": "the money you pay for something — that is 'price'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4288010",
+  "question": "How ___ sugar do you want?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "much",
+  "options": [
+   "much",
+   "expensive",
+   "salt",
+   "some"
+  ],
+  "explanation": "The word is 'much': How much sugar do you want?",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4288011",
+  "question": "That phone is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "expensive",
+  "options": [
+   "expensive",
+   "kilogramme",
+   "sell",
+   "cheap"
+  ],
+  "explanation": "The word is 'expensive': That phone is expensive.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4288012",
+  "question": "What does 'pay' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "to give money for something",
+  "options": [
+   "to give money for something",
+   "a container with a narrow neck",
+   "sweet white grains for tea",
+   "unit for liquid volume"
+  ],
+  "explanation": "'pay' means to give money for something.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4288013",
+  "question": "Do you have ___ salt?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "any",
+  "options": [
+   "any",
+   "cost",
+   "expensive",
+   "packet"
+  ],
+  "explanation": "The word is 'any': Do you have any salt?",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4288014",
+  "question": "Which word means 'costing a lot of money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "expensive",
+  "options": [
+   "expensive",
+   "kilogramme",
+   "sell",
+   "cheap"
+  ],
+  "explanation": "costing a lot of money — that is 'expensive'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4288015",
+  "question": "The ___ is two thousand shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "price",
+  "options": [
+   "price",
+   "some",
+   "pay",
+   "kilogramme"
+  ],
+  "explanation": "The word is 'price': The price is two thousand shillings.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH4288016",
+  "question": "What does 'item' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "a thing you can buy",
+  "options": [
+   "a thing you can buy",
+   "a place where things are sold",
+   "an amount of something (positive)",
+   "to give money for something"
+  ],
+  "explanation": "'item' means a thing you can buy.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH4288017",
+  "question": "I will buy ___ mangoes.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "a few",
+  "options": [
+   "a few",
+   "shop",
+   "money",
+   "pay"
+  ],
+  "explanation": "The word is 'a few': I will buy a few mangoes.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4288018",
+  "question": "Which word means 'unit for weight (1000 grams)'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "easy",
+  "answer": "kilogramme",
+  "options": [
+   "kilogramme",
+   "pay",
+   "packet",
+   "item"
+  ],
+  "explanation": "unit for weight (1000 grams) — that is 'kilogramme'.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH4288019",
+  "question": "This ___ is a bar of soap.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Buying and Selling",
+  "difficulty": "medium",
+  "answer": "item",
+  "options": [
+   "item",
+   "metre",
+   "money",
+   "packet"
+  ],
+  "explanation": "The word is 'item': This item is a bar of soap.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH4250000",
+  "question": "What does 'cooking' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "preparing food",
+  "options": [
+   "preparing food",
+   "the early part of the day",
+   "past of go",
+   "past of am/is for singular"
+  ],
+  "explanation": "'cooking' means preparing food.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4250001",
+  "question": "What does 'spent' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "used time doing something",
+  "options": [
+   "used time doing something",
+   "during the time that",
+   "the time we eat the midday meal",
+   "later than something"
+  ],
+  "explanation": "'spent' means used time doing something.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4250002",
+  "question": "Which word means 'near the end of a period'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "late",
+  "options": [
+   "late",
+   "before",
+   "afternoon",
+   "spent"
+  ],
+  "explanation": "near the end of a period — that is 'late'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4250003",
+  "question": "Which word means 'the time after midday until evening'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "afternoon",
+  "options": [
+   "afternoon",
+   "while",
+   "night",
+   "reading"
+  ],
+  "explanation": "the time after midday until evening — that is 'afternoon'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4250004",
+  "question": "Which word means 'the day before today'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "yesterday",
+  "options": [
+   "yesterday",
+   "evening",
+   "early",
+   "break time"
+  ],
+  "explanation": "the day before today — that is 'yesterday'.",
+  "hint": "It starts with 'Y'.",
+  "image": null
+ },
+ {
+  "id": "TH4250005",
+  "question": "What does 'reading' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "looking at a book",
+  "options": [
+   "looking at a book",
+   "doing a game",
+   "the day before today",
+   "earlier than something"
+  ],
+  "explanation": "'reading' means looking at a book.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4250006",
+  "question": "They **___** to the borehole.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "went",
+  "options": [
+   "went",
+   "playing",
+   "evening",
+   "was"
+  ],
+  "explanation": "The word is 'went': They **went** to the borehole.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4250007",
+  "question": "What does 'lunch time' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "the time we eat the midday meal",
+  "options": [
+   "the time we eat the midday meal",
+   "the time after midday until evening",
+   "doing a game",
+   "past of am/is for singular"
+  ],
+  "explanation": "'lunch time' means the time we eat the midday meal.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4250008",
+  "question": "What does 'yesterday' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "the day before today",
+  "options": [
+   "the day before today",
+   "the dark time after evening",
+   "the time when the sun goes down",
+   "the time after midday until evening"
+  ],
+  "explanation": "'yesterday' means the day before today.",
+  "hint": "It starts with 'Y'.",
+  "image": null
+ },
+ {
+  "id": "TH4250009",
+  "question": "We played **___** lunch.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "after",
+  "options": [
+   "after",
+   "yesterday",
+   "reading",
+   "break time"
+  ],
+  "explanation": "The word is 'after': We played **after** lunch.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4250010",
+  "question": "Which word means 'the middle of the day when the sun is high'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "midday",
+  "options": [
+   "midday",
+   "was",
+   "night",
+   "after"
+  ],
+  "explanation": "the middle of the day when the sun is high — that is 'midday'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4250011",
+  "question": "What does 'midday' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "the middle of the day when the sun is high",
+  "options": [
+   "the middle of the day when the sun is high",
+   "doing a game",
+   "earlier than something",
+   "the early part of the day"
+  ],
+  "explanation": "'midday' means the middle of the day when the sun is high.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4250012",
+  "question": "Which word means 'near the start of a period'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "early",
+  "options": [
+   "early",
+   "playing",
+   "were",
+   "was"
+  ],
+  "explanation": "near the start of a period — that is 'early'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4250013",
+  "question": "I was reading **___** it was **raining**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "while",
+  "options": [
+   "while",
+   "lunch time",
+   "after",
+   "late"
+  ],
+  "explanation": "The word is 'while': I was reading **while** it was **raining**.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4250014",
+  "question": "Mother was **___** matoke.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "cooking",
+  "options": [
+   "cooking",
+   "afternoon",
+   "were",
+   "break time"
+  ],
+  "explanation": "The word is 'cooking': Mother was **cooking** matoke.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4250015",
+  "question": "It was **___** heavily.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "medium",
+  "answer": "raining",
+  "options": [
+   "raining",
+   "before",
+   "yesterday",
+   "late"
+  ],
+  "explanation": "The word is 'raining': It was **raining** heavily.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4250016",
+  "question": "Which word means 'past of go'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "went",
+  "options": [
+   "went",
+   "playing",
+   "evening",
+   "was"
+  ],
+  "explanation": "past of go — that is 'went'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4250017",
+  "question": "Which word means 'preparing food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "cooking",
+  "options": [
+   "cooking",
+   "afternoon",
+   "were",
+   "break time"
+  ],
+  "explanation": "preparing food — that is 'cooking'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4250018",
+  "question": "Which word means 'used time doing something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "spent",
+  "options": [
+   "spent",
+   "yesterday",
+   "night",
+   "late"
+  ],
+  "explanation": "used time doing something — that is 'spent'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4250019",
+  "question": "Which word means 'earlier than something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 2",
+  "unit": "Time",
+  "difficulty": "easy",
+  "answer": "before",
+  "options": [
+   "before",
+   "late",
+   "spent",
+   "went"
+  ],
+  "explanation": "earlier than something — that is 'before'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH4398000",
+  "question": "Which word means 'the month after this one'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "next month",
+  "options": [
+   "next month",
+   "visit",
+   "arrive",
+   "shall not"
+  ],
+  "explanation": "the month after this one — that is 'next month'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4398001",
+  "question": "Which word means 'occasionally'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "sometimes",
+  "options": [
+   "sometimes",
+   "calendar",
+   "tomorrow",
+   "shall not"
+  ],
+  "explanation": "occasionally — that is 'sometimes'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4398002",
+  "question": "Which word means 'the number of the day'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "date",
+  "options": [
+   "date",
+   "notebook",
+   "will",
+   "next week"
+  ],
+  "explanation": "the number of the day — that is 'date'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4398003",
+  "question": "You ___ read a book.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "medium",
+  "answer": "will",
+  "options": [
+   "will",
+   "sometimes",
+   "next week",
+   "lend"
+  ],
+  "explanation": "The word is 'will': You will read a book.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4398004",
+  "question": "We shall visit the garden ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "medium",
+  "answer": "next week",
+  "options": [
+   "next week",
+   "arrive",
+   "next month",
+   "will"
+  ],
+  "explanation": "The word is 'next week': We shall visit the garden next week.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4398005",
+  "question": "Which word means 'one of twelve parts of a year'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "month",
+  "options": [
+   "month",
+   "next month",
+   "date",
+   "sometimes"
+  ],
+  "explanation": "one of twelve parts of a year — that is 'month'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4398006",
+  "question": "Which word means 'most of the time'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "usually",
+  "options": [
+   "usually",
+   "will",
+   "borrow",
+   "diary"
+  ],
+  "explanation": "most of the time — that is 'usually'.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH4398007",
+  "question": "What does 'diary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "a book for daily notes",
+  "options": [
+   "a book for daily notes",
+   "the week after this one",
+   "a 24‑hour period",
+   "negative future for you, he, she, they"
+  ],
+  "explanation": "'diary' means a book for daily notes.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4398008",
+  "question": "What does 'next week' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "the week after this one",
+  "options": [
+   "the week after this one",
+   "a short written reminder",
+   "the year after this one",
+   "to reach a place"
+  ],
+  "explanation": "'next week' means the week after this one.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4398009",
+  "question": "What does 'revise' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "to study again",
+  "options": [
+   "to study again",
+   "most of the time",
+   "future verb for you, he, she, they",
+   "the week after this one"
+  ],
+  "explanation": "'revise' means to study again.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4398010",
+  "question": "What does 'arrive' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "to reach a place",
+  "options": [
+   "to reach a place",
+   "the day after today",
+   "to go see someone or a place",
+   "occasionally"
+  ],
+  "explanation": "'arrive' means to reach a place.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4398011",
+  "question": "They will come ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "medium",
+  "answer": "next year",
+  "options": [
+   "next year",
+   "next week",
+   "arrive",
+   "play"
+  ],
+  "explanation": "The word is 'next year': They will come next year.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4398012",
+  "question": "Monday is the first ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "medium",
+  "answer": "day",
+  "options": [
+   "day",
+   "arrive",
+   "notebook",
+   "visit"
+  ],
+  "explanation": "The word is 'day': Monday is the first day.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH4398013",
+  "question": "He goes to the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "medium",
+  "answer": "library",
+  "options": [
+   "library",
+   "borrow",
+   "date",
+   "note"
+  ],
+  "explanation": "The word is 'library': He goes to the library.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4398014",
+  "question": "Which word means 'negative future for I and we'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "shall not",
+  "options": [
+   "shall not",
+   "will",
+   "will not",
+   "next week"
+  ],
+  "explanation": "negative future for I and we — that is 'shall not'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4398015",
+  "question": "Which word means 'future verb for I and we'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "shall",
+  "options": [
+   "shall",
+   "lend",
+   "month",
+   "will not"
+  ],
+  "explanation": "future verb for I and we — that is 'shall'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4398016",
+  "question": "What does 'shall not' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "negative future for I and we",
+  "options": [
+   "negative future for I and we",
+   "to take something for a short time",
+   "the number of the day",
+   "shows days, weeks, months"
+  ],
+  "explanation": "'shall not' means negative future for I and we.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4398017",
+  "question": "What does 'tomorrow' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "the day after today",
+  "options": [
+   "the day after today",
+   "to give something for a short time",
+   "occasionally",
+   "negative future for you, he, she, they"
+  ],
+  "explanation": "'tomorrow' means the day after today.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH4398018",
+  "question": "Shall we ___ the garden?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "medium",
+  "answer": "visit",
+  "options": [
+   "visit",
+   "sometimes",
+   "arrive",
+   "next week"
+  ],
+  "explanation": "The word is 'visit': Shall we visit the garden?",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4398019",
+  "question": "What does 'lend' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Expression of the Future",
+  "difficulty": "easy",
+  "answer": "to give something for a short time",
+  "options": [
+   "to give something for a short time",
+   "future verb for you, he, she, they",
+   "to move toward the speaker",
+   "negative future for you, he, she, they"
+  ],
+  "explanation": "'lend' means to give something for a short time.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4377000",
+  "question": "What does 'election' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "the process of voting to choose leaders",
+  "options": [
+   "the process of voting to choose leaders",
+   "a person who trains and guides the team",
+   "special clothes worn for a performance",
+   "a position or job in a school or organisation"
+  ],
+  "explanation": "'election' means the process of voting to choose leaders.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4377001",
+  "question": "What does 'actor' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "a person who performs in a play",
+  "options": [
+   "a person who performs in a play",
+   "better than all others; superlative of good",
+   "a student chosen to help the teacher in class",
+   "a person who has the right to vote"
+  ],
+  "explanation": "'actor' means a person who performs in a play.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH4377002",
+  "question": "The ___ checks the score carefully.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "referee",
+  "options": [
+   "referee",
+   "stand",
+   "head girl",
+   "monitor"
+  ],
+  "explanation": "The word is 'referee': The referee checks the score carefully.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4377003",
+  "question": "The house ___ wears a red badge.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "captain",
+  "options": [
+   "captain",
+   "candidate",
+   "volleyball",
+   "best"
+  ],
+  "explanation": "The word is 'captain': The house captain wears a red badge.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4377004",
+  "question": "Our team hopes to ___ the match.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "win",
+  "options": [
+   "win",
+   "post",
+   "stand",
+   "sing"
+  ],
+  "explanation": "The word is 'win': Our team hopes to win the match.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH4377005",
+  "question": "We play ___ on the sand court.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "volleyball",
+  "options": [
+   "volleyball",
+   "recite",
+   "stand",
+   "head girl"
+  ],
+  "explanation": "The word is 'volleyball': We play volleyball on the sand court.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4377006",
+  "question": "What does 'monitor' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "a student chosen to help the teacher in class",
+  "options": [
+   "a student chosen to help the teacher in class",
+   "a person who has the right to vote",
+   "an official who makes sure rules are followed",
+   "to not win a game or contest"
+  ],
+  "explanation": "'monitor' means a student chosen to help the teacher in class.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH4377007",
+  "question": "Which word means 'to work to get votes before an election'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "campaign",
+  "options": [
+   "campaign",
+   "head boy",
+   "candidate",
+   "sing"
+  ],
+  "explanation": "to work to get votes before an election — that is 'campaign'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4377008",
+  "question": "What does 'festival' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "a special event with many performances",
+  "options": [
+   "a special event with many performances",
+   "to make musical sounds with the voice",
+   "to make a choice in an election",
+   "to offer yourself as a candidate in an election"
+  ],
+  "explanation": "'festival' means a special event with many performances.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4377009",
+  "question": "The school ___ is fair and peaceful.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "election",
+  "options": [
+   "election",
+   "actor",
+   "stand",
+   "football"
+  ],
+  "explanation": "The word is 'election': The school election is fair and peaceful.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH4377010",
+  "question": "What does 'sing' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "to make musical sounds with the voice",
+  "options": [
+   "to make musical sounds with the voice",
+   "a position or job in a school or organisation",
+   "a person who has the right to vote",
+   "a person who guides or directs others"
+  ],
+  "explanation": "'sing' means to make musical sounds with the voice.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH4377011",
+  "question": "What does 'head boy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "the senior boy student leader",
+  "options": [
+   "the senior boy student leader",
+   "to make a choice in an election",
+   "to say a poem or speech from memory",
+   "to work to get votes before an election"
+  ],
+  "explanation": "'head boy' means the senior boy student leader.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH4377012",
+  "question": "The cultural ___ lasts three days.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "festival",
+  "options": [
+   "festival",
+   "actor",
+   "recite",
+   "election"
+  ],
+  "explanation": "The word is 'festival': The cultural festival lasts three days.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH4377013",
+  "question": "The ___ blows the whistle loudly.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "coach",
+  "options": [
+   "coach",
+   "actor",
+   "prefect",
+   "elect"
+  ],
+  "explanation": "The word is 'coach': The coach blows the whistle loudly.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH4377014",
+  "question": "What does 'lose' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "to not win a game or contest",
+  "options": [
+   "to not win a game or contest",
+   "a person who performs in a play",
+   "a person who takes part in a game",
+   "a special event with many performances"
+  ],
+  "explanation": "'lose' means to not win a game or contest.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH4377015",
+  "question": "What does 'recite' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "to say a poem or speech from memory",
+  "options": [
+   "to say a poem or speech from memory",
+   "a leader of a sports team or house",
+   "a position or job in a school or organisation",
+   "special clothes worn for a performance"
+  ],
+  "explanation": "'recite' means to say a poem or speech from memory.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4377016",
+  "question": "What does 'netball' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "a game where players throw a ball through a high ring",
+  "options": [
+   "a game where players throw a ball through a high ring",
+   "a person who guides or directs others",
+   "a special event with many performances",
+   "to make musical sounds with the voice"
+  ],
+  "explanation": "'netball' means a game where players throw a ball through a high ring.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH4377017",
+  "question": "Which word means 'to make a choice in an election'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "vote",
+  "options": [
+   "vote",
+   "monitor",
+   "elect",
+   "sing"
+  ],
+  "explanation": "to make a choice in an election — that is 'vote'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH4377018",
+  "question": "Amina will ___ a poem at the concert.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "medium",
+  "answer": "recite",
+  "options": [
+   "recite",
+   "monitor",
+   "volleyball",
+   "campaign"
+  ],
+  "explanation": "The word is 'recite': Amina will recite a poem at the concert.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH4377019",
+  "question": "Which word means 'the senior boy student leader'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P4",
+  "term": "Term 3",
+  "unit": "Democracy",
+  "difficulty": "easy",
+  "answer": "head boy",
+  "options": [
+   "head boy",
+   "elect",
+   "recite",
+   "prefect"
+  ],
+  "explanation": "the senior boy student leader — that is 'head boy'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ }
+]

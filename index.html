@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Ask Teacher — Primary School AI</title>
+<meta name="description" content="Offline English teacher for Ugandan primary school children. Ask questions and practise quizzes from your school books.">
+<meta name="theme-color" content="#2E7D32">
+<link rel="manifest" href="./manifest.json">
+<link rel="icon" href="./icons/icon-192.png">
+<link rel="apple-touch-icon" href="./icons/icon-192.png">
+<link rel="stylesheet" href="./styles.css">
+<script type="importmap">
+{ "imports": { "onnxruntime-common": "./vendor/ort/ort.bundle.min.mjs", "onnxruntime-web": "./vendor/ort/ort.bundle.min.mjs" } }
+</script>
+</head>
+<body>
+<header class="topbar">
+  <h1>Ask Teacher</h1>
+  <span id="statusDot" class="status-dot off" title="AI status"></span>
+  <span id="statusText" class="status-text">AI not ready</span>
+</header>
+
+<main>
+  <!-- First-run model download -->
+  <section id="modelBox" class="model-box">
+    <p id="modelInfo">To use the teacher, download the AI first. You need internet only this one time. Size about 140MB.</p>
+    <div id="downloadProgress" class="progress" hidden>
+      <div id="downloadBar" class="progress-bar"></div>
+    </div>
+    <p id="downloadLabel" class="download-label" hidden></p>
+    <button id="downloadBtn" class="btn primary" type="button">Get the teacher (about 140MB)</button>
+  </section>
+
+  <!-- Home: two big mode cards -->
+  <section id="homeWrap">
+    <button id="askModeBtn" class="mode-card" type="button">
+      <span class="mode-emoji" aria-hidden="true">💬</span>
+      <span class="mode-title">Ask a question</span>
+      <span class="mode-sub">Ask in English. The teacher answers from your school books.</span>
+    </button>
+    <button id="practiceModeBtn" class="mode-card green" type="button">
+      <span class="mode-emoji" aria-hidden="true">✏️</span>
+      <span class="mode-title">Practise</span>
+      <span class="mode-sub">Answer questions. Get harder ones when you are right.</span>
+    </button>
+  </section>
+
+  <!-- Ask mode -->
+  <section id="askWrap" hidden>
+    <div class="card">
+      <label class="card-label" for="askInput">Ask in English</label>
+      <textarea id="askInput" rows="3" placeholder="Example: What is a noun?" aria-label="Ask in English"></textarea>
+      <div class="card-actions">
+        <button id="askBtn" class="btn primary" type="button">Ask the teacher</button>
+        <button id="askBackBtn" class="btn" type="button">Back</button>
+      </div>
+    </div>
+    <section id="answerWrap" class="card answer" hidden>
+      <p id="answerText" class="answer-text"></p>
+      <div id="sourceWrap" class="source-wrap">
+        <p class="source-title">From the book:</p>
+        <ul id="sourceList" class="source-list"></ul>
+      </div>
+      <div class="card-actions">
+        <button id="speakBtn" class="btn" type="button">Listen</button>
+        <button id="copyBtn" class="btn" type="button">Copy</button>
+      </div>
+    </section>
+    <p id="askHint" class="hint">Try: "What is a noun?" · "Why do plants need sunlight?" · "What is 12 x 8?"</p>
+  </section>
+
+  <!-- Practice mode -->
+  <section id="practiceWrap" hidden>
+    <div class="card">
+      <div class="picker-row">
+        <label class="picker-label">Grade
+          <select id="gradeSel" aria-label="Grade">
+            <option value="P1">P1</option>
+            <option value="P2">P2</option>
+            <option value="P3">P3</option>
+            <option value="P4">P4</option>
+            <option value="P5">P5</option>
+            <option value="P6">P6</option>
+            <option value="P7">P7</option>
+          </select>
+        </label>
+        <label class="picker-label">Subject
+          <select id="subjectSel" aria-label="Subject">
+            <option value="English">English</option>
+            <option value="Math">Maths</option>
+            <option value="Science">Science</option>
+            <option value="Social">Social Studies</option>
+          </select>
+        </label>
+      </div>
+      <div class="card-actions">
+        <button id="startBtn" class="btn primary" type="button">Start practising</button>
+        <button id="practiceBackBtn" class="btn" type="button">Back</button>
+      </div>
+      <p class="hint">Your level is saved on this phone only.</p>
+    </div>
+
+    <section id="quizWrap" hidden>
+      <div class="quiz-head">
+        <span id="quizMeta" class="quiz-meta"></span>
+        <span id="quizStars" class="quiz-stars" aria-label="Streak"></span>
+      </div>
+      <p id="quizPassage" class="quiz-passage" hidden></p>
+      <div class="card question-card">
+        <p id="quizQuestion" class="quiz-question"></p>
+        <div id="quizAnswerArea"></div>
+        <div class="card-actions">
+          <button id="checkBtn" class="btn primary" type="button">Check my answer</button>
+        </div>
+      </div>
+      <section id="quizResult" class="card result-card" hidden>
+        <p id="quizVerdict" class="verdict"></p>
+        <p id="quizCorrect" class="quiz-correct"></p>
+        <div id="quizStepsWrap">
+          <p class="steps-title">How to get it:</p>
+          <ol id="quizSteps" class="steps-list"></ol>
+        </div>
+        <div class="card-actions">
+          <button id="simplerBtn" class="btn" type="button">Say it simpler</button>
+          <button id="nextBtn" class="btn primary" type="button">Next question</button>
+        </div>
+        <p id="simplerText" class="simpler-text" hidden></p>
+      </section>
+    </section>
+  </section>
+
+  <p id="modelLine" class="hint"></p>
+</main>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,5202 @@
+[
+ {
+  "id": "TH3132000",
+  "question": "Which word means 'take one number away from another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "tens",
+   "remain",
+   "place value"
+  ],
+  "explanation": "take one number away from another — that is 'subtract'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3132001",
+  "question": "We ___ 1 to the tens column.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "carry",
+  "options": [
+   "carry",
+   "ones",
+   "place value",
+   "total"
+  ],
+  "explanation": "The word is 'carry': We carry 1 to the tens column.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3132002",
+  "question": "Which word means 'single units'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "ones",
+  "options": [
+   "ones",
+   "remain",
+   "total",
+   "add"
+  ],
+  "explanation": "single units — that is 'ones'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3132003",
+  "question": "What does 'subtract' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "take one number away from another",
+  "options": [
+   "take one number away from another",
+   "rearrange groups when adding",
+   "take one group from the next column",
+   "move extra value to next column"
+  ],
+  "explanation": "'subtract' means take one number away from another.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3132004",
+  "question": "Which word means 'rearrange groups when adding'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "regroup",
+  "options": [
+   "regroup",
+   "difference",
+   "hundreds",
+   "thousands"
+  ],
+  "explanation": "rearrange groups when adding — that is 'regroup'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3132005",
+  "question": "We ___ 5 from 9 to get 4.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "tens",
+   "remain",
+   "place value"
+  ],
+  "explanation": "The word is 'subtract': We subtract 5 from 9 to get 4.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3132006",
+  "question": "In 2,345 the ___ of 3 is hundreds.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "place value",
+  "options": [
+   "place value",
+   "difference",
+   "sum",
+   "borrow"
+  ],
+  "explanation": "The word is 'place value': In 2,345 the place value of 3 is hundreds.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3132007",
+  "question": "What does 'regroup' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "rearrange groups when adding",
+  "options": [
+   "rearrange groups when adding",
+   "what is left after subtracting",
+   "take one number away from another",
+   "groups of one thousand"
+  ],
+  "explanation": "'regroup' means rearrange groups when adding.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3132008",
+  "question": "What does 'remain' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "what is left after subtracting",
+  "options": [
+   "what is left after subtracting",
+   "groups of one hundred",
+   "move extra value to next column",
+   "the value of a digit by its position"
+  ],
+  "explanation": "'remain' means what is left after subtracting.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3132009",
+  "question": "The ___ cost is 4,023 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "total",
+  "options": [
+   "total",
+   "remain",
+   "regroup",
+   "add"
+  ],
+  "explanation": "The word is 'total': The total cost is 4,023 shillings.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3132010",
+  "question": "What does 'difference' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "the result of subtracting",
+  "options": [
+   "the result of subtracting",
+   "put numbers together",
+   "the result of adding",
+   "take one number away from another"
+  ],
+  "explanation": "'difference' means the result of subtracting.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3132011",
+  "question": "What does 'total' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "the final amount after adding",
+  "options": [
+   "the final amount after adding",
+   "rearrange groups when adding",
+   "the result of adding",
+   "groups of ten"
+  ],
+  "explanation": "'total' means the final amount after adding.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3132012",
+  "question": "Which word means 'take one group from the next column'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "borrow",
+  "options": [
+   "borrow",
+   "remain",
+   "add",
+   "thousands"
+  ],
+  "explanation": "take one group from the next column — that is 'borrow'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3132013",
+  "question": "What does 'ones' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "single units",
+  "options": [
+   "single units",
+   "put numbers together",
+   "the final amount after adding",
+   "groups of one hundred"
+  ],
+  "explanation": "'ones' means single units.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3132014",
+  "question": "The ___ of 2 and 4 is 6.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "sum",
+  "options": [
+   "sum",
+   "ones",
+   "carry",
+   "thousands"
+  ],
+  "explanation": "The word is 'sum': The sum of 2 and 4 is 6.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3132015",
+  "question": "The number 400 has four ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "hundreds",
+  "options": [
+   "hundreds",
+   "remain",
+   "carry",
+   "place value"
+  ],
+  "explanation": "The word is 'hundreds': The number 400 has four hundreds.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3132016",
+  "question": "Which word means 'move extra value to next column'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "carry",
+  "options": [
+   "carry",
+   "ones",
+   "place value",
+   "total"
+  ],
+  "explanation": "move extra value to next column — that is 'carry'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3132017",
+  "question": "What does 'carry' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "move extra value to next column",
+  "options": [
+   "move extra value to next column",
+   "the result of subtracting",
+   "take one number away from another",
+   "groups of one hundred"
+  ],
+  "explanation": "'carry' means move extra value to next column.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3132018",
+  "question": "What does 'hundreds' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "groups of one hundred",
+  "options": [
+   "groups of one hundred",
+   "take one number away from another",
+   "single units",
+   "move extra value to next column"
+  ],
+  "explanation": "'hundreds' means groups of one hundred.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3132019",
+  "question": "What does 'borrow' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "take one group from the next column",
+  "options": [
+   "take one group from the next column",
+   "the final amount after adding",
+   "groups of one thousand",
+   "the result of subtracting"
+  ],
+  "explanation": "'borrow' means take one group from the next column.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3128000",
+  "question": "Which word means 'the little number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "smallest",
+  "options": [
+   "smallest",
+   "estimate",
+   "greatest",
+   "compare"
+  ],
+  "explanation": "the little number — that is 'smallest'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3128001",
+  "question": "Which word means 'count forward by a fixed number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "skip count",
+  "options": [
+   "skip count",
+   "number line",
+   "sequence",
+   "order"
+  ],
+  "explanation": "count forward by a fixed number — that is 'skip count'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3128002",
+  "question": "Which word means 'look at two numbers to see which is bigger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "compare",
+  "options": [
+   "compare",
+   "greatest",
+   "nearest ten",
+   "estimate"
+  ],
+  "explanation": "look at two numbers to see which is bigger — that is 'compare'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3128003",
+  "question": "The ___ is add 4 each time.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "rule",
+  "options": [
+   "rule",
+   "pattern",
+   "number line",
+   "multiple"
+  ],
+  "explanation": "The word is 'rule': The rule is add 4 each time.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3128004",
+  "question": "What does 'compare' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "look at two numbers to see which is bigger",
+  "options": [
+   "look at two numbers to see which is bigger",
+   "an ordered list of numbers",
+   "make a good guess using rounding",
+   "the instruction that tells how the pattern grows"
+  ],
+  "explanation": "'compare' means look at two numbers to see which is bigger.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3128005",
+  "question": "Which word means 'the instruction that tells how the pattern grows'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "rule",
+  "options": [
+   "rule",
+   "pattern",
+   "number line",
+   "multiple"
+  ],
+  "explanation": "the instruction that tells how the pattern grows — that is 'rule'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3128006",
+  "question": "Which word means 'a number you get by skip counting'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "multiple",
+  "options": [
+   "multiple",
+   "sequence",
+   "about",
+   "skip count"
+  ],
+  "explanation": "a number you get by skip counting — that is 'multiple'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3128007",
+  "question": "The ___ 3,6,9 repeats adding 3.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "pattern",
+  "options": [
+   "pattern",
+   "nearest hundred",
+   "sequence",
+   "smallest"
+  ],
+  "explanation": "The word is 'pattern': The pattern 3,6,9 repeats adding 3.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3128008",
+  "question": "Which word means 'a line that shows numbers in order'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "number line",
+  "options": [
+   "number line",
+   "about",
+   "greatest",
+   "round off"
+  ],
+  "explanation": "a line that shows numbers in order — that is 'number line'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3128009",
+  "question": "What does 'sequence' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "an ordered list of numbers",
+  "options": [
+   "an ordered list of numbers",
+   "the closest multiple of ten",
+   "count forward by a fixed number",
+   "the little number"
+  ],
+  "explanation": "'sequence' means an ordered list of numbers.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3128010",
+  "question": "Which word means 'the biggest number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "greatest",
+  "options": [
+   "greatest",
+   "skip count",
+   "round off",
+   "rule"
+  ],
+  "explanation": "the biggest number — that is 'greatest'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3128011",
+  "question": "What does 'order' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "put things in a line from smallest to biggest",
+  "options": [
+   "put things in a line from smallest to biggest",
+   "an ordered list of numbers",
+   "a number you get by skip counting",
+   "change a number to a nearby easier number"
+  ],
+  "explanation": "'order' means put things in a line from smallest to biggest.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3128012",
+  "question": "2,500 is the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "nearest hundred",
+  "options": [
+   "nearest hundred",
+   "smallest",
+   "about",
+   "order"
+  ],
+  "explanation": "The word is 'nearest hundred': 2,500 is the nearest hundred.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3128013",
+  "question": "Which word means 'change a number to a nearby easier number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "round off",
+  "options": [
+   "round off",
+   "about",
+   "multiple",
+   "smallest"
+  ],
+  "explanation": "change a number to a nearby easier number — that is 'round off'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3128014",
+  "question": "What does 'multiple' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "a number you get by skip counting",
+  "options": [
+   "a number you get by skip counting",
+   "a repeated design in numbers",
+   "the closest multiple of one hundred",
+   "the closest multiple of ten"
+  ],
+  "explanation": "'multiple' means a number you get by skip counting.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3128015",
+  "question": "The cost is ___ 2,500 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "about",
+  "options": [
+   "about",
+   "compare",
+   "nearest ten",
+   "greatest"
+  ],
+  "explanation": "The word is 'about': The cost is about 2,500 shillings.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3128016",
+  "question": "What does 'nearest ten' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "the closest multiple of ten",
+  "options": [
+   "the closest multiple of ten",
+   "change a number to a nearby easier number",
+   "the instruction that tells how the pattern grows",
+   "look at two numbers to see which is bigger"
+  ],
+  "explanation": "'nearest ten' means the closest multiple of ten.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3128017",
+  "question": "Which word means 'a repeated design in numbers'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "pattern",
+  "options": [
+   "pattern",
+   "nearest hundred",
+   "sequence",
+   "smallest"
+  ],
+  "explanation": "a repeated design in numbers — that is 'pattern'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3128018",
+  "question": "We place the numbers on a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "number line",
+  "options": [
+   "number line",
+   "about",
+   "greatest",
+   "round off"
+  ],
+  "explanation": "The word is 'number line': We place the numbers on a number line.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3128019",
+  "question": "What does 'pattern' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "a repeated design in numbers",
+  "options": [
+   "a repeated design in numbers",
+   "the closest multiple of one hundred",
+   "close to a number but not exact",
+   "a number you get by skip counting"
+  ],
+  "explanation": "'pattern' means a repeated design in numbers.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3131000",
+  "question": "The ___ of one mango is 1,500 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "price",
+  "options": [
+   "price",
+   "cost",
+   "bank",
+   "buy"
+  ],
+  "explanation": "The word is 'price': The price of one mango is 1,500 shillings.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3131001",
+  "question": "The shopkeeper gave me 1,800 ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "change",
+  "options": [
+   "change",
+   "shilling",
+   "altogether",
+   "money"
+  ],
+  "explanation": "The word is 'change': The shopkeeper gave me 1,800 change.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3131002",
+  "question": "What does 'sell' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "to give something for money",
+  "options": [
+   "to give something for money",
+   "the total amount combined",
+   "take one number away from another",
+   "money given back after paying"
+  ],
+  "explanation": "'sell' means to give something for money.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3131003",
+  "question": "Which word means 'how much something is worth'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "value",
+  "options": [
+   "value",
+   "note",
+   "add",
+   "sell"
+  ],
+  "explanation": "how much something is worth — that is 'value'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH3131004",
+  "question": "Which word means 'coins and notes used to buy things'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "money",
+  "options": [
+   "money",
+   "buy",
+   "add",
+   "value"
+  ],
+  "explanation": "coins and notes used to buy things — that is 'money'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3131005",
+  "question": "What does 'shilling' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "the unit of Ugandan money",
+  "options": [
+   "the unit of Ugandan money",
+   "how much something is worth",
+   "take one number away from another",
+   "the whole amount altogether"
+  ],
+  "explanation": "'shilling' means the unit of Ugandan money.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3131006",
+  "question": "What does 'total' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "the whole amount altogether",
+  "options": [
+   "the whole amount altogether",
+   "coins and notes used to buy things",
+   "the unit of Ugandan money",
+   "a paper piece of money"
+  ],
+  "explanation": "'total' means the whole amount altogether.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3131007",
+  "question": "We ___ 1,000 from 5,000 to get 4,000.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "problem",
+   "altogether",
+   "bank"
+  ],
+  "explanation": "The word is 'subtract': We subtract 1,000 from 5,000 to get 4,000.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3131008",
+  "question": "Which word means 'to give something for money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "sell",
+  "options": [
+   "sell",
+   "bank",
+   "note",
+   "problem"
+  ],
+  "explanation": "to give something for money — that is 'sell'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3131009",
+  "question": "What does 'subtract' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "take one number away from another",
+  "options": [
+   "take one number away from another",
+   "to give something for money",
+   "the amount of money for one item",
+   "the unit of Ugandan money"
+  ],
+  "explanation": "'subtract' means take one number away from another.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3131010",
+  "question": "Which word means 'the price you pay for something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "cost",
+  "options": [
+   "cost",
+   "note",
+   "problem",
+   "value"
+  ],
+  "explanation": "the price you pay for something — that is 'cost'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3131011",
+  "question": "What does 'bank' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a place that keeps money safe",
+  "options": [
+   "a place that keeps money safe",
+   "money given back after paying",
+   "how much something is worth",
+   "put numbers together"
+  ],
+  "explanation": "'bank' means a place that keeps money safe.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3131012",
+  "question": "Which word means 'the unit of Ugandan money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "shilling",
+  "options": [
+   "shilling",
+   "add",
+   "total",
+   "sell"
+  ],
+  "explanation": "the unit of Ugandan money — that is 'shilling'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3131013",
+  "question": "Which word means 'take one number away from another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "problem",
+   "altogether",
+   "bank"
+  ],
+  "explanation": "take one number away from another — that is 'subtract'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3131014",
+  "question": "Which word means 'money given back after paying'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "change",
+  "options": [
+   "change",
+   "shilling",
+   "altogether",
+   "money"
+  ],
+  "explanation": "money given back after paying — that is 'change'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3131015",
+  "question": "Which word means 'a place that keeps money safe'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "bank",
+  "options": [
+   "bank",
+   "cost",
+   "note",
+   "change"
+  ],
+  "explanation": "a place that keeps money safe — that is 'bank'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3131016",
+  "question": "Which word means 'the amount of money for one item'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "price",
+  "options": [
+   "price",
+   "cost",
+   "bank",
+   "buy"
+  ],
+  "explanation": "the amount of money for one item — that is 'price'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3131017",
+  "question": "What does 'money' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "coins and notes used to buy things",
+  "options": [
+   "coins and notes used to buy things",
+   "the total amount combined",
+   "the whole amount altogether",
+   "the price you pay for something"
+  ],
+  "explanation": "'money' means coins and notes used to buy things.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3131018",
+  "question": "Which word means 'the total amount combined'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "altogether",
+  "options": [
+   "altogether",
+   "sell",
+   "shilling",
+   "bank"
+  ],
+  "explanation": "the total amount combined — that is 'altogether'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3131019",
+  "question": "What does 'change' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "money given back after paying",
+  "options": [
+   "money given back after paying",
+   "the total amount combined",
+   "a paper piece of money",
+   "put numbers together"
+  ],
+  "explanation": "'change' means money given back after paying.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3189000",
+  "question": "Which word means 'a small unit of mass'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "gram",
+  "options": [
+   "gram",
+   "scale",
+   "kilometre",
+   "kilogram"
+  ],
+  "explanation": "a small unit of mass — that is 'gram'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3189001",
+  "question": "The cup holds two hundred ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "millilitre",
+  "options": [
+   "millilitre",
+   "centimetre",
+   "jug",
+   "litre"
+  ],
+  "explanation": "The word is 'millilitre': The cup holds two hundred millilitre.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189002",
+  "question": "Which word means 'to find how heavy something is'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "weigh",
+  "options": [
+   "weigh",
+   "gram",
+   "millilitre",
+   "scale"
+  ],
+  "explanation": "to find how heavy something is — that is 'weigh'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3189003",
+  "question": "What does 'kilogram' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a unit of mass",
+  "options": [
+   "a unit of mass",
+   "a large unit of length",
+   "a small unit of length",
+   "the amount a container can hold"
+  ],
+  "explanation": "'kilogram' means a unit of mass.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH3189004",
+  "question": "What does 'kilometre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a large unit of length",
+  "options": [
+   "a large unit of length",
+   "the amount a container can hold",
+   "a container for liquids",
+   "a small unit of length"
+  ],
+  "explanation": "'kilometre' means a large unit of length.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH3189005",
+  "question": "___ stays the same everywhere.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "mass",
+  "options": [
+   "mass",
+   "millilitre",
+   "kilometre",
+   "weigh"
+  ],
+  "explanation": "The word is 'mass': Mass stays the same everywhere.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189006",
+  "question": "What does 'millilitre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a small unit of capacity",
+  "options": [
+   "a small unit of capacity",
+   "a small unit of length",
+   "a unit of capacity",
+   "to find the size of something"
+  ],
+  "explanation": "'millilitre' means a small unit of capacity.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189007",
+  "question": "What does 'measure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "to find the size of something",
+  "options": [
+   "to find the size of something",
+   "a large unit of length",
+   "how long something is",
+   "a unit of mass"
+  ],
+  "explanation": "'measure' means to find the size of something.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189008",
+  "question": "What does 'litre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a unit of capacity",
+  "options": [
+   "a unit of capacity",
+   "the amount a container can hold",
+   "how long something is",
+   "a small unit of mass"
+  ],
+  "explanation": "'litre' means a unit of capacity.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3189009",
+  "question": "The book is twenty ___ wide.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "centimetre",
+  "options": [
+   "centimetre",
+   "jug",
+   "mass",
+   "millilitre"
+  ],
+  "explanation": "The word is 'centimetre': The book is twenty centimetre wide.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3189010",
+  "question": "We ___ the table with a tape.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "measure",
+  "options": [
+   "measure",
+   "litre",
+   "scale",
+   "kilogram"
+  ],
+  "explanation": "The word is 'measure': We measure the table with a tape.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189011",
+  "question": "What does 'metre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a unit of length",
+  "options": [
+   "a unit of length",
+   "a small unit of length",
+   "a small unit of mass",
+   "a large unit of length"
+  ],
+  "explanation": "'metre' means a unit of length.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189012",
+  "question": "Which word means 'to find the size of something'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "measure",
+  "options": [
+   "measure",
+   "litre",
+   "scale",
+   "kilogram"
+  ],
+  "explanation": "to find the size of something — that is 'measure'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189013",
+  "question": "Which word means 'a large unit of length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "kilometre",
+  "options": [
+   "kilometre",
+   "mass",
+   "weigh",
+   "measure"
+  ],
+  "explanation": "a large unit of length — that is 'kilometre'.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH3189014",
+  "question": "Which word means 'the amount of matter in an object'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "mass",
+  "options": [
+   "mass",
+   "millilitre",
+   "kilometre",
+   "weigh"
+  ],
+  "explanation": "the amount of matter in an object — that is 'mass'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189015",
+  "question": "Which word means 'a container for liquids'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "jug",
+  "options": [
+   "jug",
+   "centimetre",
+   "weigh",
+   "kilogram"
+  ],
+  "explanation": "a container for liquids — that is 'jug'.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH3189016",
+  "question": "Which word means 'a unit of mass'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "kilogram",
+  "options": [
+   "kilogram",
+   "metre",
+   "millilitre",
+   "gram"
+  ],
+  "explanation": "a unit of mass — that is 'kilogram'.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH3189017",
+  "question": "The ___ of the garden is five metre.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "length",
+  "options": [
+   "length",
+   "gram",
+   "scale",
+   "mass"
+  ],
+  "explanation": "The word is 'length': The length of the garden is five metre.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3189018",
+  "question": "Which word means 'a unit of length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "metre",
+  "options": [
+   "metre",
+   "millilitre",
+   "litre",
+   "length"
+  ],
+  "explanation": "a unit of length — that is 'metre'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3189019",
+  "question": "Which word means 'a unit of capacity'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "litre",
+  "options": [
+   "litre",
+   "centimetre",
+   "kilogram",
+   "gram"
+  ],
+  "explanation": "a unit of capacity — that is 'litre'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3209000",
+  "question": "What does 'record' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "write down",
+  "options": [
+   "write down",
+   "smallest amount",
+   "picture that stands for a number",
+   "give a response to a question"
+  ],
+  "explanation": "'record' means write down.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3209001",
+  "question": "What does 'tally' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "marks to count",
+  "options": [
+   "marks to count",
+   "lines with numbers or labels",
+   "picture that stands for a number",
+   "graph with pictures"
+  ],
+  "explanation": "'tally' means marks to count.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3209002",
+  "question": "We collect weather ___ every morning.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "data",
+  "options": [
+   "data",
+   "compare",
+   "count",
+   "tally"
+  ],
+  "explanation": "The word is 'data': We collect weather data every morning.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3209003",
+  "question": "What does 'symbol' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "picture that stands for a number",
+  "options": [
+   "picture that stands for a number",
+   "give a response to a question",
+   "chart with bars",
+   "largest amount"
+  ],
+  "explanation": "'symbol' means picture that stands for a number.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3209004",
+  "question": "Which word means 'chart with rows and columns'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "table",
+  "options": [
+   "table",
+   "count",
+   "data",
+   "axis"
+  ],
+  "explanation": "chart with rows and columns — that is 'table'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3209005",
+  "question": "Which word means 'information collected'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "data",
+  "options": [
+   "data",
+   "compare",
+   "count",
+   "tally"
+  ],
+  "explanation": "information collected — that is 'data'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3209006",
+  "question": "___ the tally marks in each column.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "count",
+  "options": [
+   "count",
+   "bar graph",
+   "tally",
+   "data"
+  ],
+  "explanation": "The word is 'count': Count the tally marks in each column.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3209007",
+  "question": "What does 'axis' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "lines with numbers or labels",
+  "options": [
+   "lines with numbers or labels",
+   "chart with bars",
+   "look at two things to see difference",
+   "picture that stands for a number"
+  ],
+  "explanation": "'axis' means lines with numbers or labels.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3209008",
+  "question": "What does 'table' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "chart with rows and columns",
+  "options": [
+   "chart with rows and columns",
+   "information collected",
+   "smallest amount",
+   "largest amount"
+  ],
+  "explanation": "'table' means chart with rows and columns.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3209009",
+  "question": "Which word means 'largest amount'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "most",
+  "options": [
+   "most",
+   "fewest",
+   "record",
+   "picture graph"
+  ],
+  "explanation": "largest amount — that is 'most'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3209010",
+  "question": "Which word means 'write down'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "record",
+  "options": [
+   "record",
+   "compare",
+   "axis",
+   "count"
+  ],
+  "explanation": "write down — that is 'record'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3209011",
+  "question": "What does 'data' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "information collected",
+  "options": [
+   "information collected",
+   "graph with pictures",
+   "look at two things to see difference",
+   "largest amount"
+  ],
+  "explanation": "'data' means information collected.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3209012",
+  "question": "The vertical ___ has numbers 0 to 5.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "axis",
+  "options": [
+   "axis",
+   "most",
+   "bar graph",
+   "table"
+  ],
+  "explanation": "The word is 'axis': The vertical axis has numbers 0 to 5.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3209013",
+  "question": "What does 'answer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "give a response to a question",
+  "options": [
+   "give a response to a question",
+   "information collected",
+   "graph with pictures",
+   "lines with numbers or labels"
+  ],
+  "explanation": "'answer' means give a response to a question.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3209014",
+  "question": "Use the data to ___ the question.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "answer",
+  "options": [
+   "answer",
+   "tally",
+   "symbol",
+   "table"
+  ],
+  "explanation": "The word is 'answer': Use the data to answer the question.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3209015",
+  "question": "One ___ equals two fruits on the graph.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "symbol",
+  "options": [
+   "symbol",
+   "record",
+   "tally",
+   "answer"
+  ],
+  "explanation": "The word is 'symbol': One symbol equals two fruits on the graph.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3209016",
+  "question": "The ___ shows sunny days are most.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "bar graph",
+  "options": [
+   "bar graph",
+   "axis",
+   "picture graph",
+   "symbol"
+  ],
+  "explanation": "The word is 'bar graph': The bar graph shows sunny days are most.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3209017",
+  "question": "The ___ shows sunny, cloudy, rainy days.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "table",
+  "options": [
+   "table",
+   "count",
+   "data",
+   "axis"
+  ],
+  "explanation": "The word is 'table': The table shows sunny, cloudy, rainy days.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3209018",
+  "question": "What does 'fewest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "smallest amount",
+  "options": [
+   "smallest amount",
+   "chart with rows and columns",
+   "lines with numbers or labels",
+   "marks to count"
+  ],
+  "explanation": "'fewest' means smallest amount.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3209019",
+  "question": "___ the mango and pineapple rows.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "compare",
+  "options": [
+   "compare",
+   "answer",
+   "axis",
+   "table"
+  ],
+  "explanation": "The word is 'compare': Compare the mango and pineapple rows.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3281000",
+  "question": "What does 'tens' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "the digit in the ten place",
+  "options": [
+   "the digit in the ten place",
+   "the answer when you multiply",
+   "the number two repeated",
+   "a number with two digits like 23"
+  ],
+  "explanation": "'tens' means the digit in the ten place.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281001",
+  "question": "What does 'twos' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "the number two repeated",
+  "options": [
+   "the number two repeated",
+   "the digit in the one place",
+   "to add equal groups together",
+   "the answer when you multiply"
+  ],
+  "explanation": "'twos' means the number two repeated.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281002",
+  "question": "Which word means 'sets of the same number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "groups",
+  "options": [
+   "groups",
+   "multiply",
+   "product",
+   "two-digit"
+  ],
+  "explanation": "sets of the same number — that is 'groups'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3281003",
+  "question": "What does 'groups' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "sets of the same number",
+  "options": [
+   "sets of the same number",
+   "to add equal groups together",
+   "the number two repeated",
+   "a chart that shows multiplication facts"
+  ],
+  "explanation": "'groups' means sets of the same number.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3281004",
+  "question": "What does 'two-digit' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a number with two digits like 23",
+  "options": [
+   "a number with two digits like 23",
+   "the digit in the ten place",
+   "a chart that shows multiplication facts",
+   "the number two repeated"
+  ],
+  "explanation": "'two-digit' means a number with two digits like 23.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281005",
+  "question": "The ___ of 3 × 4 is 12.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "product",
+  "options": [
+   "product",
+   "groups",
+   "twos",
+   "times table"
+  ],
+  "explanation": "The word is 'product': The product of 3 × 4 is 12.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3281006",
+  "question": "What does 'ones' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "the digit in the one place",
+  "options": [
+   "the digit in the one place",
+   "the number two repeated",
+   "to add equal groups together",
+   "a chart that shows multiplication facts"
+  ],
+  "explanation": "'ones' means the digit in the one place.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3281007",
+  "question": "Counting in ___: 2, 4, 6, 8.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "twos",
+  "options": [
+   "twos",
+   "tens",
+   "times table",
+   "two-digit"
+  ],
+  "explanation": "The word is 'twos': Counting in twos: 2, 4, 6, 8.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281008",
+  "question": "Amina uses the ___ to find 4 × 5.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "times table",
+  "options": [
+   "times table",
+   "multiply",
+   "twos",
+   "groups"
+  ],
+  "explanation": "The word is 'times table': Amina uses the times table to find 4 × 5.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281009",
+  "question": "23 is a ___ number.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "two-digit",
+  "options": [
+   "two-digit",
+   "multiply",
+   "ones",
+   "groups"
+  ],
+  "explanation": "The word is 'two-digit': 23 is a two-digit number.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281010",
+  "question": "Which word means 'a number with two digits like 23'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "two-digit",
+  "options": [
+   "two-digit",
+   "multiply",
+   "ones",
+   "groups"
+  ],
+  "explanation": "a number with two digits like 23 — that is 'two-digit'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281011",
+  "question": "Which word means 'a chart that shows multiplication facts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "times table",
+  "options": [
+   "times table",
+   "multiply",
+   "twos",
+   "groups"
+  ],
+  "explanation": "a chart that shows multiplication facts — that is 'times table'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281012",
+  "question": "Which word means 'the answer when you multiply'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "product",
+  "options": [
+   "product",
+   "groups",
+   "twos",
+   "times table"
+  ],
+  "explanation": "the answer when you multiply — that is 'product'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3281013",
+  "question": "Which word means 'the digit in the one place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "ones",
+  "options": [
+   "ones",
+   "times table",
+   "twos",
+   "tens"
+  ],
+  "explanation": "the digit in the one place — that is 'ones'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3281014",
+  "question": "We ___ 3 by 4 to get 12.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "multiply",
+  "options": [
+   "multiply",
+   "times table",
+   "twos",
+   "groups"
+  ],
+  "explanation": "The word is 'multiply': We multiply 3 by 4 to get 12.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3281015",
+  "question": "In 63, the ___ digit is 6.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "tens",
+  "options": [
+   "tens",
+   "twos",
+   "product",
+   "ones"
+  ],
+  "explanation": "The word is 'tens': In 63, the tens digit is 6.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281016",
+  "question": "Which word means 'the digit in the ten place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "tens",
+  "options": [
+   "tens",
+   "twos",
+   "product",
+   "ones"
+  ],
+  "explanation": "the digit in the ten place — that is 'tens'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3281017",
+  "question": "In 23, the ___ digit is 3.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "ones",
+  "options": [
+   "ones",
+   "times table",
+   "twos",
+   "tens"
+  ],
+  "explanation": "The word is 'ones': In 23, the ones digit is 3.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3281018",
+  "question": "What does 'multiply' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "to add equal groups together",
+  "options": [
+   "to add equal groups together",
+   "the number two repeated",
+   "the digit in the one place",
+   "the digit in the ten place"
+  ],
+  "explanation": "'multiply' means to add equal groups together.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3281019",
+  "question": "Which word means 'the number two repeated'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "twos",
+  "options": [
+   "twos",
+   "tens",
+   "times table",
+   "two-digit"
+  ],
+  "explanation": "the number two repeated — that is 'twos'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3246000",
+  "question": "Which word means 'pieces that are the same size'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "equal parts",
+  "options": [
+   "equal parts",
+   "left over",
+   "fraction",
+   "quarter"
+  ],
+  "explanation": "pieces that are the same size — that is 'equal parts'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3246001",
+  "question": "Two mangoes are ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "left over",
+  "options": [
+   "left over",
+   "equal parts",
+   "fraction",
+   "divide"
+  ],
+  "explanation": "The word is 'left over': Two mangoes are left over.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3246002",
+  "question": "One half is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "fraction",
+  "options": [
+   "fraction",
+   "quotient",
+   "group",
+   "third"
+  ],
+  "explanation": "The word is 'fraction': One half is a fraction.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3246003",
+  "question": "What does 'fraction' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "a part of a whole",
+  "options": [
+   "a part of a whole",
+   "the amount left over after dividing",
+   "pieces that are the same size",
+   "one of four equal parts"
+  ],
+  "explanation": "'fraction' means a part of a whole.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3246004",
+  "question": "A ___ of the paper.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "third",
+  "options": [
+   "third",
+   "quotient",
+   "fraction",
+   "divide"
+  ],
+  "explanation": "The word is 'third': A third of the paper.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3246005",
+  "question": "Which word means 'one of four equal parts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "quarter",
+  "options": [
+   "quarter",
+   "third",
+   "fraction",
+   "equal parts"
+  ],
+  "explanation": "one of four equal parts — that is 'quarter'.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH3246006",
+  "question": "They ___ the posho equally.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "share",
+  "options": [
+   "share",
+   "group",
+   "half",
+   "quotient"
+  ],
+  "explanation": "The word is 'share': They share the posho equally.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3246007",
+  "question": "Which word means 'to put things in equal sets'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "group",
+  "options": [
+   "group",
+   "equal",
+   "quarter",
+   "equal parts"
+  ],
+  "explanation": "to put things in equal sets — that is 'group'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3246008",
+  "question": "Which word means 'a part of a whole'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "fraction",
+  "options": [
+   "fraction",
+   "quotient",
+   "group",
+   "third"
+  ],
+  "explanation": "a part of a whole — that is 'fraction'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3246009",
+  "question": "Which word means 'the same in size or number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "equal",
+  "options": [
+   "equal",
+   "left over",
+   "quotient",
+   "quarter"
+  ],
+  "explanation": "the same in size or number — that is 'equal'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3246010",
+  "question": "We ___ the pencils in threes.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "group",
+  "options": [
+   "group",
+   "equal",
+   "quarter",
+   "equal parts"
+  ],
+  "explanation": "The word is 'group': We group the pencils in threes.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3246011",
+  "question": "Each child gets an ___ share.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "equal",
+  "options": [
+   "equal",
+   "left over",
+   "quotient",
+   "quarter"
+  ],
+  "explanation": "The word is 'equal': Each child gets an equal share.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3246012",
+  "question": "What does 'quarter' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "one of four equal parts",
+  "options": [
+   "one of four equal parts",
+   "one of three equal parts",
+   "one of two equal parts",
+   "a part of a whole"
+  ],
+  "explanation": "'quarter' means one of four equal parts.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH3246013",
+  "question": "Which word means 'not used up in equal groups'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "left over",
+  "options": [
+   "left over",
+   "equal parts",
+   "fraction",
+   "divide"
+  ],
+  "explanation": "not used up in equal groups — that is 'left over'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3246014",
+  "question": "What does 'equal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "the same in size or number",
+  "options": [
+   "the same in size or number",
+   "the answer in division",
+   "the amount left over after dividing",
+   "one of four equal parts"
+  ],
+  "explanation": "'equal' means the same in size or number.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3246015",
+  "question": "Which word means 'the answer in division'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "quotient",
+  "options": [
+   "quotient",
+   "divide",
+   "left over",
+   "third"
+  ],
+  "explanation": "the answer in division — that is 'quotient'.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH3246016",
+  "question": "The ___ is one egg.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "remainder",
+  "options": [
+   "remainder",
+   "share",
+   "equal",
+   "divide"
+  ],
+  "explanation": "The word is 'remainder': The remainder is one egg.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3246017",
+  "question": "We ___ the mangoes among friends.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "left over",
+   "group",
+   "share"
+  ],
+  "explanation": "The word is 'divide': We divide the mangoes among friends.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3246018",
+  "question": "The circle is cut into ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "equal parts",
+  "options": [
+   "equal parts",
+   "left over",
+   "fraction",
+   "quarter"
+  ],
+  "explanation": "The word is 'equal parts': The circle is cut into equal parts.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3246019",
+  "question": "Which word means 'to give each person a part'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "share",
+  "options": [
+   "share",
+   "group",
+   "half",
+   "quotient"
+  ],
+  "explanation": "to give each person a part — that is 'share'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3290000",
+  "question": "What does 'part' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "a piece of the whole",
+  "options": [
+   "a piece of the whole",
+   "shows the link between fraction and whole",
+   "the number the long hand points to",
+   "a device that shows time"
+  ],
+  "explanation": "'part' means a piece of the whole.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3290001",
+  "question": "Half ___ ten is five.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "of",
+  "options": [
+   "of",
+   "share",
+   "order",
+   "clock"
+  ],
+  "explanation": "The word is 'of': Half of ten is five.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3290002",
+  "question": "Which word means 'larger in size'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "bigger",
+  "options": [
+   "bigger",
+   "clock",
+   "compare",
+   "part"
+  ],
+  "explanation": "larger in size — that is 'bigger'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3290003",
+  "question": "What does 'order' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "arrange from smallest to biggest",
+  "options": [
+   "arrange from smallest to biggest",
+   "a device that shows time",
+   "the number the long hand points to",
+   "the complete amount"
+  ],
+  "explanation": "'order' means arrange from smallest to biggest.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3290004",
+  "question": "Which word means 'the number the long hand points to'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "minute",
+  "options": [
+   "minute",
+   "quarter",
+   "order",
+   "half past"
+  ],
+  "explanation": "the number the long hand points to — that is 'minute'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3290005",
+  "question": "Each ___ is equal.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "part",
+  "options": [
+   "part",
+   "of",
+   "order",
+   "minute"
+  ],
+  "explanation": "The word is 'part': Each part is equal.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3290006",
+  "question": "What does 'compare' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "to see which is larger or smaller",
+  "options": [
+   "to see which is larger or smaller",
+   "a piece of the whole",
+   "a part of a whole",
+   "larger in size"
+  ],
+  "explanation": "'compare' means to see which is larger or smaller.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3290007",
+  "question": "The ___ basket has twelve.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "whole",
+  "options": [
+   "whole",
+   "compare",
+   "minute",
+   "quarter"
+  ],
+  "explanation": "The word is 'whole': The whole basket has twelve.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3290008",
+  "question": "Which word means 'to divide equally'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "share",
+  "options": [
+   "share",
+   "compare",
+   "minute",
+   "whole"
+  ],
+  "explanation": "to divide equally — that is 'share'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3290009",
+  "question": "Which word means 'to see which is larger or smaller'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "compare",
+  "options": [
+   "compare",
+   "smaller",
+   "minute",
+   "order"
+  ],
+  "explanation": "to see which is larger or smaller — that is 'compare'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3290010",
+  "question": "Which word means 'less in size'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "smaller",
+  "options": [
+   "smaller",
+   "order",
+   "bigger",
+   "share"
+  ],
+  "explanation": "less in size — that is 'smaller'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3290011",
+  "question": "Which word means 'a piece of the whole'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "part",
+  "options": [
+   "part",
+   "of",
+   "order",
+   "minute"
+  ],
+  "explanation": "a piece of the whole — that is 'part'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3290012",
+  "question": "It is ___ four.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "half past",
+  "options": [
+   "half past",
+   "share",
+   "compare",
+   "clock"
+  ],
+  "explanation": "The word is 'half past': It is half past four.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3290013",
+  "question": "The ___ hand shows thirty.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "minute",
+  "options": [
+   "minute",
+   "quarter",
+   "order",
+   "half past"
+  ],
+  "explanation": "The word is 'minute': The minute hand shows thirty.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3290014",
+  "question": "What does 'of' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "shows the link between fraction and whole",
+  "options": [
+   "shows the link between fraction and whole",
+   "a part of a whole",
+   "the number the long hand points to",
+   "thirty minutes after the hour"
+  ],
+  "explanation": "'of' means shows the link between fraction and whole.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3290015",
+  "question": "We ___ the mangoes.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "share",
+  "options": [
+   "share",
+   "compare",
+   "minute",
+   "whole"
+  ],
+  "explanation": "The word is 'share': We share the mangoes.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3290016",
+  "question": "What does 'share' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "to divide equally",
+  "options": [
+   "to divide equally",
+   "to see which is larger or smaller",
+   "shows the link between fraction and whole",
+   "arrange from smallest to biggest"
+  ],
+  "explanation": "'share' means to divide equally.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3290017",
+  "question": "What does 'bigger' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "larger in size",
+  "options": [
+   "larger in size",
+   "a device that shows time",
+   "a piece of the whole",
+   "fifteen minutes past or to the hour"
+  ],
+  "explanation": "'bigger' means larger in size.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3290018",
+  "question": "Which word means 'shows the link between fraction and whole'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "of",
+  "options": [
+   "of",
+   "share",
+   "order",
+   "clock"
+  ],
+  "explanation": "shows the link between fraction and whole — that is 'of'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3290019",
+  "question": "What does 'hour' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "the number the short hand points to",
+  "options": [
+   "the number the short hand points to",
+   "a part of a whole",
+   "to divide equally",
+   "thirty minutes after the hour"
+  ],
+  "explanation": "'hour' means the number the short hand points to.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3379000",
+  "question": "What does 'add' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "put together",
+  "options": [
+   "put together",
+   "bottom number",
+   "one of four equal parts",
+   "equal in value"
+  ],
+  "explanation": "'add' means put together.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3379001",
+  "question": "What does 'problem' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a question to solve",
+  "options": [
+   "a question to solve",
+   "one of four equal parts",
+   "add, subtract, multiply or divide",
+   "the result"
+  ],
+  "explanation": "'problem' means a question to solve.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3379002",
+  "question": "One **___** is 2/7.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "fraction",
+  "options": [
+   "fraction",
+   "problem",
+   "altogether",
+   "subtract"
+  ],
+  "explanation": "The word is 'fraction': One **fraction** is 2/7.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3379003",
+  "question": "Which word means 'alike'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "same",
+  "options": [
+   "same",
+   "answer",
+   "operation",
+   "subtract"
+  ],
+  "explanation": "alike — that is 'same'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3379004",
+  "question": "What does 'denominator' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "bottom number",
+  "options": [
+   "bottom number",
+   "put together",
+   "the same amount",
+   "take away"
+  ],
+  "explanation": "'denominator' means bottom number.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3379005",
+  "question": "Which word means 'one of two equal parts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "half",
+  "options": [
+   "half",
+   "same",
+   "altogether",
+   "problem"
+  ],
+  "explanation": "one of two equal parts — that is 'half'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3379006",
+  "question": "Find the **___** by subtracting.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "difference",
+  "options": [
+   "difference",
+   "denominator",
+   "equal",
+   "problem"
+  ],
+  "explanation": "The word is 'difference': Find the **difference** by subtracting.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3379007",
+  "question": "What does 'quarter' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "one of four equal parts",
+  "options": [
+   "one of four equal parts",
+   "a question to solve",
+   "take away",
+   "bottom number"
+  ],
+  "explanation": "'quarter' means one of four equal parts.",
+  "hint": "It starts with 'Q'.",
+  "image": null
+ },
+ {
+  "id": "TH3379008",
+  "question": "Which word means 'how much more or less'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "difference",
+  "options": [
+   "difference",
+   "denominator",
+   "equal",
+   "problem"
+  ],
+  "explanation": "how much more or less — that is 'difference'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3379009",
+  "question": "What does 'equivalent' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "equal in value",
+  "options": [
+   "equal in value",
+   "put together",
+   "one of four equal parts",
+   "part of a whole"
+  ],
+  "explanation": "'equivalent' means equal in value.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3379010",
+  "question": "Which word means 'in total'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "altogether",
+  "options": [
+   "altogether",
+   "operation",
+   "denominator",
+   "subtract"
+  ],
+  "explanation": "in total — that is 'altogether'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3379011",
+  "question": "Which word means 'part of a whole'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "fraction",
+  "options": [
+   "fraction",
+   "problem",
+   "altogether",
+   "subtract"
+  ],
+  "explanation": "part of a whole — that is 'fraction'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3379012",
+  "question": "What does 'difference' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "how much more or less",
+  "options": [
+   "how much more or less",
+   "put together",
+   "a question to solve",
+   "alike"
+  ],
+  "explanation": "'difference' means how much more or less.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3379013",
+  "question": "We choose the **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "operation",
+  "options": [
+   "operation",
+   "denominator",
+   "equivalent",
+   "problem"
+  ],
+  "explanation": "The word is 'operation': We choose the **operation**.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3379014",
+  "question": "Which word means 'take away'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "equal",
+   "fraction",
+   "half"
+  ],
+  "explanation": "take away — that is 'subtract'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3379015",
+  "question": "In 3/5 the **___** is 5.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "denominator",
+  "options": [
+   "denominator",
+   "equal",
+   "altogether",
+   "difference"
+  ],
+  "explanation": "The word is 'denominator': In 3/5 the **denominator** is 5.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3379016",
+  "question": "One **___** is 1/2.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "half",
+  "options": [
+   "half",
+   "same",
+   "altogether",
+   "problem"
+  ],
+  "explanation": "The word is 'half': One **half** is 1/2.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3379017",
+  "question": "Which word means 'put together'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "add",
+  "options": [
+   "add",
+   "difference",
+   "quarter",
+   "subtract"
+  ],
+  "explanation": "put together — that is 'add'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3379018",
+  "question": "We read the **___** carefully.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "problem",
+  "options": [
+   "problem",
+   "difference",
+   "subtract",
+   "quarter"
+  ],
+  "explanation": "The word is 'problem': We read the **problem** carefully.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3379019",
+  "question": "Which word means 'a question to solve'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "problem",
+  "options": [
+   "problem",
+   "difference",
+   "subtract",
+   "quarter"
+  ],
+  "explanation": "a question to solve — that is 'problem'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3345000",
+  "question": "What does 'side' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "one edge of a shape",
+  "options": [
+   "one edge of a shape",
+   "the point where two sides meet",
+   "the form of an object",
+   "an angle that looks like the corner of a book"
+  ],
+  "explanation": "'side' means one edge of a shape.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3345001",
+  "question": "Which word means 'how far it is from one point to another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "distance",
+  "options": [
+   "distance",
+   "side",
+   "square",
+   "fold"
+  ],
+  "explanation": "how far it is from one point to another — that is 'distance'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3345002",
+  "question": "What does 'around' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "going all the way round",
+  "options": [
+   "going all the way round",
+   "the space between two lines that meet",
+   "the line where you can fold to make both halves match",
+   "bend one part over another"
+  ],
+  "explanation": "'around' means going all the way round.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3345003",
+  "question": "We walk the **___** of the garden.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "perimeter",
+  "options": [
+   "perimeter",
+   "right angle",
+   "square",
+   "half"
+  ],
+  "explanation": "The word is 'perimeter': We walk the **perimeter** of the garden.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3345004",
+  "question": "Which word means 'one edge of a shape'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "side",
+  "options": [
+   "side",
+   "around",
+   "mirror line",
+   "add"
+  ],
+  "explanation": "one edge of a shape — that is 'side'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3345005",
+  "question": "Measure **___** the mat to get the perimeter.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "around",
+  "options": [
+   "around",
+   "side",
+   "shape",
+   "square"
+  ],
+  "explanation": "The word is 'around': Measure **around** the mat to get the perimeter.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3345006",
+  "question": "What does 'half' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "one of two equal parts",
+  "options": [
+   "one of two equal parts",
+   "one edge of a shape",
+   "the space between two lines that meet",
+   "the line where you can fold to make both halves match"
+  ],
+  "explanation": "'half' means one of two equal parts.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3345007",
+  "question": "Which word means 'the line where you can fold to make both halves match'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "mirror line",
+  "options": [
+   "mirror line",
+   "square",
+   "same",
+   "around"
+  ],
+  "explanation": "the line where you can fold to make both halves match — that is 'mirror line'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3345008",
+  "question": "A **square** is a **___** with four equal sides.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "shape",
+  "options": [
+   "shape",
+   "fold",
+   "add",
+   "same"
+  ],
+  "explanation": "The word is 'shape': A **square** is a **shape** with four equal sides.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3345009",
+  "question": "Which word means 'the point where two sides meet'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "corner",
+  "options": [
+   "corner",
+   "angle",
+   "distance",
+   "around"
+  ],
+  "explanation": "the point where two sides meet — that is 'corner'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3345010",
+  "question": "Which word means 'one of two equal parts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "half",
+  "options": [
+   "half",
+   "right angle",
+   "angle",
+   "side"
+  ],
+  "explanation": "one of two equal parts — that is 'half'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3345011",
+  "question": "What does 'shape' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "the form of an object",
+  "options": [
+   "the form of an object",
+   "put numbers together to find the total",
+   "exactly alike",
+   "the distance all around a shape"
+  ],
+  "explanation": "'shape' means the form of an object.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3345012",
+  "question": "Which word means 'exactly alike'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "same",
+  "options": [
+   "same",
+   "perimeter",
+   "side",
+   "right angle"
+  ],
+  "explanation": "exactly alike — that is 'same'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3345013",
+  "question": "**___** all the sides to find the perimeter.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "add",
+  "options": [
+   "add",
+   "around",
+   "shape",
+   "square"
+  ],
+  "explanation": "The word is 'add': **Add** all the sides to find the perimeter.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3345014",
+  "question": "What does 'angle' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "the space between two lines that meet",
+  "options": [
+   "the space between two lines that meet",
+   "how far it is from one point to another",
+   "the distance all around a shape",
+   "going all the way round"
+  ],
+  "explanation": "'angle' means the space between two lines that meet.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3345015",
+  "question": "The tile is a **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "square",
+  "options": [
+   "square",
+   "side",
+   "same",
+   "distance"
+  ],
+  "explanation": "The word is 'square': The tile is a **square**.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3345016",
+  "question": "What does 'corner' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "the point where two sides meet",
+  "options": [
+   "the point where two sides meet",
+   "the form of an object",
+   "one edge of a shape",
+   "exactly alike"
+  ],
+  "explanation": "'corner' means the point where two sides meet.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3345017",
+  "question": "Which word means 'the distance all around a shape'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "perimeter",
+  "options": [
+   "perimeter",
+   "right angle",
+   "square",
+   "half"
+  ],
+  "explanation": "the distance all around a shape — that is 'perimeter'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3345018",
+  "question": "Which word means 'the form of an object'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "shape",
+  "options": [
+   "shape",
+   "fold",
+   "add",
+   "same"
+  ],
+  "explanation": "the form of an object — that is 'shape'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3345019",
+  "question": "A **___** is 90 degrees.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "right angle",
+  "options": [
+   "right angle",
+   "half",
+   "same",
+   "distance"
+  ],
+  "explanation": "The word is 'right angle': A **right angle** is 90 degrees.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3322000",
+  "question": "Which word means 'a device that shows time'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "clock",
+  "options": [
+   "clock",
+   "graph",
+   "millilitre",
+   "scale"
+  ],
+  "explanation": "a device that shows time — that is 'clock'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3322001",
+  "question": "What does 'kilogram' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a unit for weight",
+  "options": [
+   "a unit for weight",
+   "to find how much or how many",
+   "information collected as numbers",
+   "a unit of time, 60 seconds"
+  ],
+  "explanation": "'kilogram' means a unit for weight.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH3322002",
+  "question": "Which word means 'the amount of medicine to take at one time'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "dose",
+  "options": [
+   "dose",
+   "kilogram",
+   "hour",
+   "measure"
+  ],
+  "explanation": "the amount of medicine to take at one time — that is 'dose'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3322003",
+  "question": "What does 'measure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "to find how much or how many",
+  "options": [
+   "to find how much or how many",
+   "used when minutes are after half past",
+   "a picture that shows data with bars or lines",
+   "a written note of each patient's illness"
+  ],
+  "explanation": "'measure' means to find how much or how many.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3322004",
+  "question": "Which word means 'a unit for weight'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "kilogram",
+  "options": [
+   "kilogram",
+   "graph",
+   "table",
+   "most"
+  ],
+  "explanation": "a unit for weight — that is 'kilogram'.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH3322005",
+  "question": "What does 'most' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "the greatest amount or number",
+  "options": [
+   "the greatest amount or number",
+   "a grid with rows and columns for data",
+   "the amount of medicine to take at one time",
+   "a unit of time, 60 minutes"
+  ],
+  "explanation": "'most' means the greatest amount or number.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3322006",
+  "question": "The **___** hand moves slowly.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "hour",
+  "options": [
+   "hour",
+   "most",
+   "kilogram",
+   "table"
+  ],
+  "explanation": "The word is 'hour': The **hour** hand moves slowly.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3322007",
+  "question": "The baby weighs 4 **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "kilogram",
+  "options": [
+   "kilogram",
+   "graph",
+   "table",
+   "most"
+  ],
+  "explanation": "The word is 'kilogram': The baby weighs 4 **kilogram**.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH3322008",
+  "question": "The **___** is 5 millilitre.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "dose",
+  "options": [
+   "dose",
+   "kilogram",
+   "hour",
+   "measure"
+  ],
+  "explanation": "The word is 'dose': The **dose** is 5 millilitre.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3322009",
+  "question": "What does 'minute' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a unit of time, 60 seconds",
+  "options": [
+   "a unit of time, 60 seconds",
+   "used when minutes are before half past",
+   "a unit for weight",
+   "a grid with rows and columns for data"
+  ],
+  "explanation": "'minute' means a unit of time, 60 seconds.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3322010",
+  "question": "Look at the **___** on the wall.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "clock",
+  "options": [
+   "clock",
+   "graph",
+   "millilitre",
+   "scale"
+  ],
+  "explanation": "The word is 'clock': Look at the **clock** on the wall.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3322011",
+  "question": "The **___** hand moves fast.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "minute",
+  "options": [
+   "minute",
+   "most",
+   "dose",
+   "hour"
+  ],
+  "explanation": "The word is 'minute': The **minute** hand moves fast.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3322012",
+  "question": "What does 'scale' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a tool that shows numbers for weight or volume",
+  "options": [
+   "a tool that shows numbers for weight or volume",
+   "a unit of time, 60 seconds",
+   "a small unit for liquid",
+   "a grid with rows and columns for data"
+  ],
+  "explanation": "'scale' means a tool that shows numbers for weight or volume.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3322013",
+  "question": "What does 'dose' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "the amount of medicine to take at one time",
+  "options": [
+   "the amount of medicine to take at one time",
+   "a small unit for liquid",
+   "a unit of time, 60 seconds",
+   "the greatest amount or number"
+  ],
+  "explanation": "'dose' means the amount of medicine to take at one time.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3322014",
+  "question": "The syringe holds 5 **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "millilitre",
+  "options": [
+   "millilitre",
+   "scale",
+   "table",
+   "past"
+  ],
+  "explanation": "The word is 'millilitre': The syringe holds 5 **millilitre**.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3322015",
+  "question": "What does 'past' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "used when minutes are before half past",
+  "options": [
+   "used when minutes are before half past",
+   "a picture that shows data with bars or lines",
+   "used when minutes are after half past",
+   "a unit for weight"
+  ],
+  "explanation": "'past' means used when minutes are before half past.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3322016",
+  "question": "Which word means 'a grid with rows and columns for data'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "table",
+  "options": [
+   "table",
+   "most",
+   "to",
+   "record"
+  ],
+  "explanation": "a grid with rows and columns for data — that is 'table'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3322017",
+  "question": "What does 'data' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "information collected as numbers",
+  "options": [
+   "information collected as numbers",
+   "the amount of medicine to take at one time",
+   "a unit of time, 60 minutes",
+   "a small unit for liquid"
+  ],
+  "explanation": "'data' means information collected as numbers.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3322018",
+  "question": "Which word means 'a unit of time, 60 seconds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "minute",
+  "options": [
+   "minute",
+   "most",
+   "dose",
+   "hour"
+  ],
+  "explanation": "a unit of time, 60 seconds — that is 'minute'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3322019",
+  "question": "It is 20 **___** 3.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "past",
+  "options": [
+   "past",
+   "millilitre",
+   "record",
+   "dose"
+  ],
+  "explanation": "The word is 'past': It is 20 **past** 3.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3326000",
+  "question": "What does 'metre' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "unit of length",
+  "options": [
+   "unit of length",
+   "a box shape with 6 square faces",
+   "guess a close number",
+   "how long something is"
+  ],
+  "explanation": "'metre' means unit of length.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3326001",
+  "question": "What does 'groups' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "sets of same number",
+  "options": [
+   "sets of same number",
+   "add equal groups",
+   "a shape with two circular faces",
+   "where edges meet"
+  ],
+  "explanation": "'groups' means sets of same number.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3326002",
+  "question": "The ___ of 5 and 2 is 10.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "product",
+  "options": [
+   "product",
+   "estimate",
+   "solid",
+   "altogether"
+  ],
+  "explanation": "The word is 'product': The product of 5 and 2 is 10.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3326003",
+  "question": "We ___ the table with a tape.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "measure",
+  "options": [
+   "measure",
+   "product",
+   "cylinder",
+   "face"
+  ],
+  "explanation": "The word is 'measure': We measure the table with a tape.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3326004",
+  "question": "Which word means 'unit of length'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "metre",
+  "options": [
+   "metre",
+   "face",
+   "about",
+   "edge"
+  ],
+  "explanation": "unit of length — that is 'metre'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3326005",
+  "question": "A tin is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "cylinder",
+  "options": [
+   "cylinder",
+   "problem",
+   "corner",
+   "edge"
+  ],
+  "explanation": "The word is 'cylinder': A tin is a cylinder.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3326006",
+  "question": "What does 'cylinder' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a shape with two circular faces",
+  "options": [
+   "a shape with two circular faces",
+   "a flat side of a solid",
+   "where two faces meet",
+   "unit of length"
+  ],
+  "explanation": "'cylinder' means a shape with two circular faces.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3326007",
+  "question": "The tree is ___ 4 metres tall.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "about",
+  "options": [
+   "about",
+   "measure",
+   "length",
+   "multiply"
+  ],
+  "explanation": "The word is 'about': The tree is about 4 metres tall.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3326008",
+  "question": "We have 12 apples ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "altogether",
+  "options": [
+   "altogether",
+   "product",
+   "length",
+   "cube"
+  ],
+  "explanation": "The word is 'altogether': We have 12 apples altogether.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3326009",
+  "question": "We ___ 3 by 4 to get 12.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "multiply",
+  "options": [
+   "multiply",
+   "face",
+   "problem",
+   "cube"
+  ],
+  "explanation": "The word is 'multiply': We multiply 3 by 4 to get 12.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3326010",
+  "question": "Which word means 'a shape with two circular faces'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "cylinder",
+  "options": [
+   "cylinder",
+   "problem",
+   "corner",
+   "edge"
+  ],
+  "explanation": "a shape with two circular faces — that is 'cylinder'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3326011",
+  "question": "What does 'product' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "answer of multiplication",
+  "options": [
+   "answer of multiplication",
+   "unit of length",
+   "sets of same number",
+   "a box shape with 6 square faces"
+  ],
+  "explanation": "'product' means answer of multiplication.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3326012",
+  "question": "What does 'length' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "how long something is",
+  "options": [
+   "how long something is",
+   "sets of same number",
+   "total number",
+   "a shape with two circular faces"
+  ],
+  "explanation": "'length' means how long something is.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3326013",
+  "question": "What does 'measure' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "find exact size",
+  "options": [
+   "find exact size",
+   "unit of length",
+   "answer of multiplication",
+   "where two faces meet"
+  ],
+  "explanation": "'measure' means find exact size.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3326014",
+  "question": "Which word means 'where edges meet'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "corner",
+  "options": [
+   "corner",
+   "product",
+   "about",
+   "multiply"
+  ],
+  "explanation": "where edges meet — that is 'corner'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3326015",
+  "question": "The ___ asks for the total.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "problem",
+  "options": [
+   "problem",
+   "groups",
+   "cylinder",
+   "measure"
+  ],
+  "explanation": "The word is 'problem': The problem asks for the total.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3326016",
+  "question": "What does 'multiply' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "add equal groups",
+  "options": [
+   "add equal groups",
+   "a question to solve",
+   "where edges meet",
+   "a flat side of a solid"
+  ],
+  "explanation": "'multiply' means add equal groups.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3326017",
+  "question": "Which word means 'add equal groups'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "multiply",
+  "options": [
+   "multiply",
+   "face",
+   "problem",
+   "cube"
+  ],
+  "explanation": "add equal groups — that is 'multiply'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3326018",
+  "question": "Which word means 'sets of same number'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "groups",
+  "options": [
+   "groups",
+   "problem",
+   "cylinder",
+   "face"
+  ],
+  "explanation": "sets of same number — that is 'groups'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3326019",
+  "question": "The ___ of the bench is 2 metres.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "length",
+  "options": [
+   "length",
+   "multiply",
+   "measure",
+   "face"
+  ],
+  "explanation": "The word is 'length': The length of the bench is 2 metres.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3357000",
+  "question": "We **___** 4 × 500 to get 2000.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "multiply",
+  "options": [
+   "multiply",
+   "save",
+   "money",
+   "subtract"
+  ],
+  "explanation": "The word is 'multiply': We **multiply** 4 × 500 to get 2000.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3357001",
+  "question": "What does 'large numbers' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "numbers with many digits",
+  "options": [
+   "numbers with many digits",
+   "coins and notes we use to buy",
+   "a plan for using money",
+   "share equally into groups"
+  ],
+  "explanation": "'large numbers' means numbers with many digits.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3357002",
+  "question": "We **___** 2000 by 4 to get 500 each.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "save",
+   "hundreds",
+   "large numbers"
+  ],
+  "explanation": "The word is 'divide': We **divide** 2000 by 4 to get 500 each.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3357003",
+  "question": "What does 'multiply' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "repeated addition of equal groups",
+  "options": [
+   "repeated addition of equal groups",
+   "put numbers together",
+   "numbers with many digits",
+   "count by jumping a fixed amount"
+  ],
+  "explanation": "'multiply' means repeated addition of equal groups.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3357004",
+  "question": "Which word means 'share equally into groups'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "divide",
+  "options": [
+   "divide",
+   "save",
+   "hundreds",
+   "large numbers"
+  ],
+  "explanation": "share equally into groups — that is 'divide'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3357005",
+  "question": "What does 'thousands' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "groups of one thousand",
+  "options": [
+   "groups of one thousand",
+   "count by jumping a fixed amount",
+   "numbers with many digits",
+   "share equally into groups"
+  ],
+  "explanation": "'thousands' means groups of one thousand.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3357006",
+  "question": "What does 'save' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "keep money for later",
+  "options": [
+   "keep money for later",
+   "a plan for using money",
+   "think ahead what to do",
+   "coins and notes we use to buy"
+  ],
+  "explanation": "'save' means keep money for later.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3357007",
+  "question": "What does 'skip count' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "count by jumping a fixed amount",
+  "options": [
+   "count by jumping a fixed amount",
+   "a question to solve using maths",
+   "coins and notes we use to buy",
+   "share equally into groups"
+  ],
+  "explanation": "'skip count' means count by jumping a fixed amount.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3357008",
+  "question": "Amina will **___** 1000 shillings for a new pen.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "save",
+  "options": [
+   "save",
+   "budget",
+   "thousands",
+   "plan"
+  ],
+  "explanation": "The word is 'save': Amina will **save** 1000 shillings for a new pen.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3357009",
+  "question": "We **___** 2000 and 3000 to get 5000.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "add",
+  "options": [
+   "add",
+   "hundreds",
+   "subtract",
+   "pattern"
+  ],
+  "explanation": "The word is 'add': We **add** 2000 and 3000 to get 5000.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3357010",
+  "question": "We count **___**: 1000, 2000, 3000.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "thousands",
+  "options": [
+   "thousands",
+   "skip count",
+   "spend",
+   "add"
+  ],
+  "explanation": "The word is 'thousands': We count **thousands**: 1000, 2000, 3000.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3357011",
+  "question": "Which word means 'take one number from another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "subtract",
+  "options": [
+   "subtract",
+   "multiply",
+   "spend",
+   "add"
+  ],
+  "explanation": "take one number from another — that is 'subtract'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3357012",
+  "question": "Which word means 'a question to solve using maths'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "problem",
+  "options": [
+   "problem",
+   "divide",
+   "subtract",
+   "plan"
+  ],
+  "explanation": "a question to solve using maths — that is 'problem'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3357013",
+  "question": "We **___** by 100: 100, 200, 300.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "skip count",
+  "options": [
+   "skip count",
+   "plan",
+   "pattern",
+   "thousands"
+  ],
+  "explanation": "The word is 'skip count': We **skip count** by 100: 100, 200, 300.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3357014",
+  "question": "Which word means 'numbers with many digits'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "large numbers",
+  "options": [
+   "large numbers",
+   "thousands",
+   "divide",
+   "subtract"
+  ],
+  "explanation": "numbers with many digits — that is 'large numbers'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3357015",
+  "question": "What does 'divide' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "share equally into groups",
+  "options": [
+   "share equally into groups",
+   "think ahead what to do",
+   "numbers with many digits",
+   "coins and notes we use to buy"
+  ],
+  "explanation": "'divide' means share equally into groups.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3357016",
+  "question": "We count **___**: 100, 200, 300.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "hundreds",
+  "options": [
+   "hundreds",
+   "save",
+   "subtract",
+   "budget"
+  ],
+  "explanation": "The word is 'hundreds': We count **hundreds**: 100, 200, 300.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3357017",
+  "question": "Which word means 'groups of one hundred'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "hundreds",
+  "options": [
+   "hundreds",
+   "save",
+   "subtract",
+   "budget"
+  ],
+  "explanation": "groups of one hundred — that is 'hundreds'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3357018",
+  "question": "What does 'spend' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "use money to buy things",
+  "options": [
+   "use money to buy things",
+   "count by jumping a fixed amount",
+   "a regular way numbers change",
+   "repeated addition of equal groups"
+  ],
+  "explanation": "'spend' means use money to buy things.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3357019",
+  "question": "Which word means 'a plan for using money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "budget",
+  "options": [
+   "budget",
+   "plan",
+   "subtract",
+   "multiply"
+  ],
+  "explanation": "a plan for using money — that is 'budget'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ }
+]

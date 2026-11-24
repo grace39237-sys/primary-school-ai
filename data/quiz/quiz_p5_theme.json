@@ -1,0 +1,2802 @@
+[
+ {
+  "id": "TH5138000",
+  "question": "Which word means 'the front lights for night driving'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "headlights",
+  "options": [
+   "headlights",
+   "steering wheel",
+   "jack",
+   "safety"
+  ],
+  "explanation": "the front lights for night driving — that is 'headlights'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH5138001",
+  "question": "What does 'mechanic' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "a person who fixes vehicles",
+  "options": [
+   "a person who fixes vehicles",
+   "the parts that stop the vehicle",
+   "a liquid that lubricates the engine",
+   "the front lights for night driving"
+  ],
+  "explanation": "'mechanic' means a person who fixes vehicles.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5138002",
+  "question": "The **___** took two hours.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "medium",
+  "answer": "repair",
+  "options": [
+   "repair",
+   "spanner",
+   "brakes",
+   "jack"
+  ],
+  "explanation": "The word is 'repair': The **repair** took two hours.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5138003",
+  "question": "What does 'engine' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "the part that makes the vehicle move",
+  "options": [
+   "the part that makes the vehicle move",
+   "a thick oil for reducing friction",
+   "the mirror on the side of the vehicle",
+   "the inner rubber part of a tyre"
+  ],
+  "explanation": "'engine' means the part that makes the vehicle move.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH5138004",
+  "question": "What does 'headlights' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "the front lights for night driving",
+  "options": [
+   "the front lights for night driving",
+   "a place where vehicles are fixed",
+   "the front glass window",
+   "a tool for hitting nails"
+  ],
+  "explanation": "'headlights' means the front lights for night driving.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH5138005",
+  "question": "Hold the **___** with both hands.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "medium",
+  "answer": "steering wheel",
+  "options": [
+   "steering wheel",
+   "pliers",
+   "windscreen",
+   "jack"
+  ],
+  "explanation": "The word is 'steering wheel': Hold the **steering wheel** with both hands.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5138006",
+  "question": "Which word means 'a place where vehicles are fixed'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "garage",
+  "options": [
+   "garage",
+   "headlights",
+   "windscreen",
+   "screwdriver"
+  ],
+  "explanation": "a place where vehicles are fixed — that is 'garage'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH5138007",
+  "question": "Raise the car with a **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "medium",
+  "answer": "jack",
+  "options": [
+   "jack",
+   "repair",
+   "side mirror",
+   "brakes"
+  ],
+  "explanation": "The word is 'jack': Raise the car with a **jack**.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH5138008",
+  "question": "What does 'maintenance' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "regular care to keep a vehicle working",
+  "options": [
+   "regular care to keep a vehicle working",
+   "being protected from danger",
+   "to fix something that is broken",
+   "the mirror on the side of the vehicle"
+  ],
+  "explanation": "'maintenance' means regular care to keep a vehicle working.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5138009",
+  "question": "The **___** repairs the bus.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "medium",
+  "answer": "mechanic",
+  "options": [
+   "mechanic",
+   "repair",
+   "garage",
+   "pliers"
+  ],
+  "explanation": "The word is 'mechanic': The **mechanic** repairs the bus.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5138010",
+  "question": "What does 'jack' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "a tool that lifts a vehicle",
+  "options": [
+   "a tool that lifts a vehicle",
+   "to fix something that is broken",
+   "the round rubber part that touches the road",
+   "a liquid that lubricates the engine"
+  ],
+  "explanation": "'jack' means a tool that lifts a vehicle.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH5138011",
+  "question": "What does 'screwdriver' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "a tool for turning screws",
+  "options": [
+   "a tool for turning screws",
+   "to fix something that is broken",
+   "being protected from danger",
+   "the parts that stop the vehicle"
+  ],
+  "explanation": "'screwdriver' means a tool for turning screws.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5138012",
+  "question": "What does 'windscreen' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "the front glass window",
+  "options": [
+   "the front glass window",
+   "the parts that stop the vehicle",
+   "a tool for turning nuts and bolts",
+   "a place where vehicles are fixed"
+  ],
+  "explanation": "'windscreen' means the front glass window.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH5138013",
+  "question": "What does 'garage' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "a place where vehicles are fixed",
+  "options": [
+   "a place where vehicles are fixed",
+   "a tool for turning nuts and bolts",
+   "a tool for turning screws",
+   "a tool for gripping and bending"
+  ],
+  "explanation": "'garage' means a place where vehicles are fixed.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH5138014",
+  "question": "Turn on the **___** at dusk.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "medium",
+  "answer": "headlights",
+  "options": [
+   "headlights",
+   "steering wheel",
+   "jack",
+   "safety"
+  ],
+  "explanation": "The word is 'headlights': Turn on the **headlights** at dusk.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH5138015",
+  "question": "What does 'hammer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "a tool for hitting nails",
+  "options": [
+   "a tool for hitting nails",
+   "a tool for gripping and bending",
+   "a tool for turning nuts and bolts",
+   "being protected from danger"
+  ],
+  "explanation": "'hammer' means a tool for hitting nails.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH5138016",
+  "question": "Which word means 'to fix something that is broken'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "repair",
+  "options": [
+   "repair",
+   "spanner",
+   "brakes",
+   "jack"
+  ],
+  "explanation": "to fix something that is broken — that is 'repair'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5138017",
+  "question": "Which word means 'a tool for hitting nails'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "hammer",
+  "options": [
+   "hammer",
+   "engine",
+   "steering wheel",
+   "grease"
+  ],
+  "explanation": "a tool for hitting nails — that is 'hammer'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH5138018",
+  "question": "We take the car to the **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "medium",
+  "answer": "garage",
+  "options": [
+   "garage",
+   "headlights",
+   "windscreen",
+   "screwdriver"
+  ],
+  "explanation": "The word is 'garage': We take the car to the **garage**.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH5138019",
+  "question": "Which word means 'a tool that lifts a vehicle'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Vehicle Repair and Maintenance",
+  "difficulty": "easy",
+  "answer": "jack",
+  "options": [
+   "jack",
+   "repair",
+   "side mirror",
+   "brakes"
+  ],
+  "explanation": "a tool that lifts a vehicle — that is 'jack'.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH5196000",
+  "question": "The **___** about the new school made Peter happy.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "story",
+  "options": [
+   "story",
+   "magazine",
+   "news",
+   "cartoon"
+  ],
+  "explanation": "The word is 'story': The **story** about the new school made Peter happy.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5196001",
+  "question": "What does 'advertisement' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "a notice that tells people to buy something",
+  "options": [
+   "a notice that tells people to buy something",
+   "a regular section by the same writer",
+   "a written piece about one topic",
+   "a person who writes news stories"
+  ],
+  "explanation": "'advertisement' means a notice that tells people to buy something.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5196002",
+  "question": "Which word means 'a radio or TV programme that sends out news'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "broadcast",
+  "options": [
+   "broadcast",
+   "author",
+   "newspaper",
+   "story"
+  ],
+  "explanation": "a radio or TV programme that sends out news — that is 'broadcast'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH5196003",
+  "question": "Every **___** **who** buys the paper sees the **front page**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "reader",
+  "options": [
+   "reader",
+   "editor",
+   "story",
+   "poster"
+  ],
+  "explanation": "The word is 'reader': Every **reader** **who** buys the paper sees the **front page**.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5196004",
+  "question": "Which word means 'a regular section by the same writer'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "column",
+  "options": [
+   "column",
+   "reporter",
+   "journalist",
+   "story"
+  ],
+  "explanation": "a regular section by the same writer — that is 'column'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5196005",
+  "question": "The **___** chooses the best stories.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "editor",
+  "options": [
+   "editor",
+   "reader",
+   "author",
+   "poster"
+  ],
+  "explanation": "The word is 'editor': The **editor** chooses the best stories.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH5196006",
+  "question": "Which word means 'a written account of an event'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "story",
+  "options": [
+   "story",
+   "magazine",
+   "news",
+   "cartoon"
+  ],
+  "explanation": "a written account of an event — that is 'story'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5196007",
+  "question": "Which word means 'a book with stories and pictures that comes weekly or monthly'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "magazine",
+  "options": [
+   "magazine",
+   "newspaper",
+   "reader",
+   "publish"
+  ],
+  "explanation": "a book with stories and pictures that comes weekly or monthly — that is 'magazine'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5196008",
+  "question": "Which word means 'a person who reads a newspaper, magazine, or book'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "reader",
+  "options": [
+   "reader",
+   "editor",
+   "story",
+   "poster"
+  ],
+  "explanation": "a person who reads a newspaper, magazine, or book — that is 'reader'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5196009",
+  "question": "Amina likes the **___** with fashion pictures.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "magazine",
+  "options": [
+   "magazine",
+   "newspaper",
+   "reader",
+   "publish"
+  ],
+  "explanation": "The word is 'magazine': Amina likes the **magazine** with fashion pictures.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5196010",
+  "question": "Which word means 'the big title at the top of a page'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "headline",
+  "options": [
+   "headline",
+   "magazine",
+   "front page",
+   "article"
+  ],
+  "explanation": "the big title at the top of a page — that is 'headline'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH5196011",
+  "question": "Which word means 'the first page of a newspaper'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "front page",
+  "options": [
+   "front page",
+   "poster",
+   "news",
+   "cartoon"
+  ],
+  "explanation": "the first page of a newspaper — that is 'front page'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH5196012",
+  "question": "Kato reads the **___** every morning.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "newspaper",
+  "options": [
+   "newspaper",
+   "publish",
+   "article",
+   "news"
+  ],
+  "explanation": "The word is 'newspaper': Kato reads the **newspaper** every morning.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH5196013",
+  "question": "Peter reads an **___** about farming.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "article",
+  "options": [
+   "article",
+   "headline",
+   "front page",
+   "advertisement"
+  ],
+  "explanation": "The word is 'article': Peter reads an **article** about farming.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5196014",
+  "question": "What does 'editor' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "the person who checks and decides what goes in the paper",
+  "options": [
+   "the person who checks and decides what goes in the paper",
+   "the first page of a newspaper",
+   "the big title at the top of a page",
+   "to print and share a book, paper, or magazine"
+  ],
+  "explanation": "'editor' means the person who checks and decides what goes in the paper.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH5196015",
+  "question": "A **___** **which** announces the football match is on the tree.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "poster",
+  "options": [
+   "poster",
+   "editor",
+   "reporter",
+   "column"
+  ],
+  "explanation": "The word is 'poster': A **poster** **which** announces the football match is on the tree.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5196016",
+  "question": "Which word means 'new information about recent events'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "news",
+  "options": [
+   "news",
+   "front page",
+   "editor",
+   "author"
+  ],
+  "explanation": "new information about recent events — that is 'news'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH5196017",
+  "question": "Musa enjoys the sports **___** every Sunday.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "column",
+  "options": [
+   "column",
+   "reporter",
+   "journalist",
+   "story"
+  ],
+  "explanation": "The word is 'column': Musa enjoys the sports **column** every Sunday.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5196018",
+  "question": "What does 'cartoon' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "easy",
+  "answer": "a funny drawing that tells a story or joke",
+  "options": [
+   "a funny drawing that tells a story or joke",
+   "a person who reads a newspaper, magazine, or book",
+   "to print and share a book, paper, or magazine",
+   "a large printed notice put on a wall"
+  ],
+  "explanation": "'cartoon' means a funny drawing that tells a story or joke.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5196019",
+  "question": "The company will **___** the new **magazine** next month.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Print Media",
+  "difficulty": "medium",
+  "answer": "publish",
+  "options": [
+   "publish",
+   "reporter",
+   "broadcast",
+   "front page"
+  ],
+  "explanation": "The word is 'publish': The company will **publish** the new **magazine** next month.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5155000",
+  "question": "What does 'road' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "path for cars and people",
+  "options": [
+   "path for cars and people",
+   "place where buses stop",
+   "money you pay for the trip",
+   "to go from one place to another"
+  ],
+  "explanation": "'road' means path for cars and people.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5155001",
+  "question": "The ___ stops at the station.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "medium",
+  "answer": "driver",
+  "options": [
+   "driver",
+   "passenger",
+   "conductor",
+   "seat"
+  ],
+  "explanation": "The word is 'driver': The driver stops at the station.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5155002",
+  "question": "What does 'board' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "to get on the bus",
+  "options": [
+   "to get on the bus",
+   "to reach a place",
+   "place to sit on the bus",
+   "paper that lets you travel"
+  ],
+  "explanation": "'board' means to get on the bus.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH5155003",
+  "question": "Which word means 'person who checks tickets on the bus'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "conductor",
+  "options": [
+   "conductor",
+   "travel",
+   "arrive",
+   "luggage"
+  ],
+  "explanation": "person who checks tickets on the bus — that is 'conductor'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5155004",
+  "question": "Which word means 'person who drives the bus'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "driver",
+  "options": [
+   "driver",
+   "passenger",
+   "conductor",
+   "seat"
+  ],
+  "explanation": "person who drives the bus — that is 'driver'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5155005",
+  "question": "Which word means 'money you pay for the trip'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "fare",
+  "options": [
+   "fare",
+   "destination",
+   "wait",
+   "conductor"
+  ],
+  "explanation": "money you pay for the trip — that is 'fare'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH5155006",
+  "question": "Which word means 'person who rides the bus'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "passenger",
+  "options": [
+   "passenger",
+   "travel",
+   "conductor",
+   "luggage"
+  ],
+  "explanation": "person who rides the bus — that is 'passenger'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5155007",
+  "question": "Amina packs her ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "medium",
+  "answer": "luggage",
+  "options": [
+   "luggage",
+   "conductor",
+   "seat",
+   "passenger"
+  ],
+  "explanation": "The word is 'luggage': Amina packs her luggage.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH5155008",
+  "question": "What does 'journey' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "the trip from start to end",
+  "options": [
+   "the trip from start to end",
+   "to reach a place",
+   "to get on the bus",
+   "path for cars and people"
+  ],
+  "explanation": "'journey' means the trip from start to end.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH5155009",
+  "question": "Which word means 'free from danger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "safe",
+  "options": [
+   "safe",
+   "arrive",
+   "journey",
+   "destination"
+  ],
+  "explanation": "free from danger — that is 'safe'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5155010",
+  "question": "What does 'passenger' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "person who rides the bus",
+  "options": [
+   "person who rides the bus",
+   "place where buses stop",
+   "the trip from start to end",
+   "to stay until something happens"
+  ],
+  "explanation": "'passenger' means person who rides the bus.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5155011",
+  "question": "Which word means 'to reach a place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "arrive",
+  "options": [
+   "arrive",
+   "safe",
+   "travel",
+   "passenger"
+  ],
+  "explanation": "to reach a place — that is 'arrive'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5155012",
+  "question": "What does 'conductor' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "person who checks tickets on the bus",
+  "options": [
+   "person who checks tickets on the bus",
+   "person who rides the bus",
+   "person who drives the bus",
+   "time you leave"
+  ],
+  "explanation": "'conductor' means person who checks tickets on the bus.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5155013",
+  "question": "Look both ways on the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "medium",
+  "answer": "road",
+  "options": [
+   "road",
+   "arrival",
+   "seat",
+   "luggage"
+  ],
+  "explanation": "The word is 'road': Look both ways on the road.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5155014",
+  "question": "Kato will ___ the bus.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "medium",
+  "answer": "board",
+  "options": [
+   "board",
+   "departure",
+   "station",
+   "fare"
+  ],
+  "explanation": "The word is 'board': Kato will board the bus.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH5155015",
+  "question": "What does 'ticket' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "paper that lets you travel",
+  "options": [
+   "paper that lets you travel",
+   "place to sit on the bus",
+   "place you are going to",
+   "person who drives the bus"
+  ],
+  "explanation": "'ticket' means paper that lets you travel.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5155016",
+  "question": "What does 'luggage' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "bags you carry when you travel",
+  "options": [
+   "bags you carry when you travel",
+   "time you reach the place",
+   "to get on the bus",
+   "to go from one place to another"
+  ],
+  "explanation": "'luggage' means bags you carry when you travel.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH5155017",
+  "question": "Which word means 'to go from one place to another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "travel",
+  "options": [
+   "travel",
+   "seat",
+   "fare",
+   "road"
+  ],
+  "explanation": "to go from one place to another — that is 'travel'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5155018",
+  "question": "Which word means 'to get on the bus'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "board",
+  "options": [
+   "board",
+   "departure",
+   "station",
+   "fare"
+  ],
+  "explanation": "to get on the bus — that is 'board'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH5155019",
+  "question": "Which word means 'path for cars and people'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 1",
+  "unit": "Travelling",
+  "difficulty": "easy",
+  "answer": "road",
+  "options": [
+   "road",
+   "arrival",
+   "seat",
+   "luggage"
+  ],
+  "explanation": "path for cars and people — that is 'road'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5253000",
+  "question": "Which word means 'a spoken or written note left for someone'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "message",
+  "options": [
+   "message",
+   "letter",
+   "number",
+   "address"
+  ],
+  "explanation": "a spoken or written note left for someone — that is 'message'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5253001",
+  "question": "Write the ___ clearly on the envelope.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "medium",
+  "answer": "address",
+  "options": [
+   "address",
+   "internet",
+   "post office",
+   "stamp"
+  ],
+  "explanation": "The word is 'address': Write the address clearly on the envelope.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5253002",
+  "question": "Which word means 'a device for voice calls'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "telephone",
+  "options": [
+   "telephone",
+   "address",
+   "message",
+   "search"
+  ],
+  "explanation": "a device for voice calls — that is 'telephone'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5253003",
+  "question": "Which word means 'to cause something to go to someone'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "send",
+  "options": [
+   "send",
+   "post office",
+   "search",
+   "website"
+  ],
+  "explanation": "to cause something to go to someone — that is 'send'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5253004",
+  "question": "I want to ___ this parcel to my aunt.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "medium",
+  "answer": "send",
+  "options": [
+   "send",
+   "post office",
+   "search",
+   "website"
+  ],
+  "explanation": "The word is 'send': I want to send this parcel to my aunt.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5253005",
+  "question": "What does 'internet' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "the global network of computers",
+  "options": [
+   "the global network of computers",
+   "the sound a phone makes",
+   "to phone someone",
+   "to cause something to go to someone"
+  ],
+  "explanation": "'internet' means the global network of computers.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH5253006",
+  "question": "Which word means 'a flat paper cover for a letter'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "envelope",
+  "options": [
+   "envelope",
+   "send",
+   "website",
+   "search"
+  ],
+  "explanation": "a flat paper cover for a letter — that is 'envelope'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH5253007",
+  "question": "What does 'send' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "to cause something to go to someone",
+  "options": [
+   "to cause something to go to someone",
+   "electronic mail sent over the internet",
+   "a wrapped box or bag to send",
+   "the person who delivers mail"
+  ],
+  "explanation": "'send' means to cause something to go to someone.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5253008",
+  "question": "Which word means 'an electronic device for work'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "computer",
+  "options": [
+   "computer",
+   "ring",
+   "website",
+   "answer"
+  ],
+  "explanation": "an electronic device for work — that is 'computer'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5253009",
+  "question": "What does 'post office' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "the building where you send mail",
+  "options": [
+   "the building where you send mail",
+   "the digits you dial",
+   "the person who delivers mail",
+   "a spoken or written note left for someone"
+  ],
+  "explanation": "'post office' means the building where you send mail.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5253010",
+  "question": "Which word means 'the place where the mail goes'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "address",
+  "options": [
+   "address",
+   "internet",
+   "post office",
+   "stamp"
+  ],
+  "explanation": "the place where the mail goes — that is 'address'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5253011",
+  "question": "What does 'website' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "a page on the internet",
+  "options": [
+   "a page on the internet",
+   "the digits you dial",
+   "the person who delivers mail",
+   "an electronic device for work"
+  ],
+  "explanation": "'website' means a page on the internet.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH5253012",
+  "question": "What does 'call' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "to phone someone",
+  "options": [
+   "to phone someone",
+   "the sound a phone makes",
+   "a spoken or written note left for someone",
+   "a device for voice calls"
+  ],
+  "explanation": "'call' means to phone someone.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5253013",
+  "question": "What does 'stamp' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "a small paper you buy to mail",
+  "options": [
+   "a small paper you buy to mail",
+   "the global network of computers",
+   "electronic mail sent over the internet",
+   "to look for information online"
+  ],
+  "explanation": "'stamp' means a small paper you buy to mail.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5253014",
+  "question": "Which word means 'electronic mail sent over the internet'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "email",
+  "options": [
+   "email",
+   "message",
+   "internet",
+   "call"
+  ],
+  "explanation": "electronic mail sent over the internet — that is 'email'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH5253015",
+  "question": "Which word means 'to pick up the phone'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "answer",
+  "options": [
+   "answer",
+   "address",
+   "message",
+   "envelope"
+  ],
+  "explanation": "to pick up the phone — that is 'answer'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5253016",
+  "question": "Which word means 'the building where you send mail'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "post office",
+  "options": [
+   "post office",
+   "internet",
+   "postman",
+   "message"
+  ],
+  "explanation": "the building where you send mail — that is 'post office'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5253017",
+  "question": "Which word means 'the sound a phone makes'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "ring",
+  "options": [
+   "ring",
+   "internet",
+   "send",
+   "website"
+  ],
+  "explanation": "the sound a phone makes — that is 'ring'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5253018",
+  "question": "Which word means 'a written note'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "letter",
+  "options": [
+   "letter",
+   "post office",
+   "email",
+   "dial"
+  ],
+  "explanation": "a written note — that is 'letter'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH5253019",
+  "question": "What does 'email' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 2",
+  "unit": "Communication",
+  "difficulty": "easy",
+  "answer": "electronic mail sent over the internet",
+  "options": [
+   "electronic mail sent over the internet",
+   "a wrapped box or bag to send",
+   "the sound a phone makes",
+   "to phone someone"
+  ],
+  "explanation": "'email' means electronic mail sent over the internet.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH5386000",
+  "question": "What does 'speak' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "to say words aloud",
+  "options": [
+   "to say words aloud",
+   "a nation like Uganda",
+   "the official language of Uganda",
+   "a language spoken in central Uganda"
+  ],
+  "explanation": "'speak' means to say words aloud.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5386001",
+  "question": "What does 'language' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "a system of words used to communicate",
+  "options": [
+   "a system of words used to communicate",
+   "a nation like Uganda",
+   "the country you belong to",
+   "to gain knowledge"
+  ],
+  "explanation": "'language' means a system of words used to communicate.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH5386002",
+  "question": "Which word means 'a system of words used to communicate'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "language",
+  "options": [
+   "language",
+   "Ugandan",
+   "tribe",
+   "world"
+  ],
+  "explanation": "a system of words used to communicate — that is 'language'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH5386003",
+  "question": "Which word means 'human beings'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "people",
+  "options": [
+   "people",
+   "language",
+   "visit",
+   "country"
+  ],
+  "explanation": "human beings — that is 'people'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5386004",
+  "question": "What does 'Ugandan' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "a person from Uganda",
+  "options": [
+   "a person from Uganda",
+   "a language spoken in northern Uganda",
+   "to gain knowledge",
+   "a smaller area inside a region"
+  ],
+  "explanation": "'Ugandan' means a person from Uganda.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH5386005",
+  "question": "What does 'Ateso' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "a language spoken in eastern Uganda",
+  "options": [
+   "a language spoken in eastern Uganda",
+   "the official language of Uganda",
+   "a large part of the country",
+   "a system of words used to communicate"
+  ],
+  "explanation": "'Ateso' means a language spoken in eastern Uganda.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5386006",
+  "question": "She is a proud ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "medium",
+  "answer": "Ugandan",
+  "options": [
+   "Ugandan",
+   "tribe",
+   "speak",
+   "language"
+  ],
+  "explanation": "The word is 'Ugandan': She is a proud Ugandan.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH5386007",
+  "question": "What does 'region' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "a large part of the country",
+  "options": [
+   "a large part of the country",
+   "a language spoken in central Uganda",
+   "to go to a place for a short time",
+   "a group of people with shared culture"
+  ],
+  "explanation": "'region' means a large part of the country.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5386008",
+  "question": "What does 'district' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "a smaller area inside a region",
+  "options": [
+   "a smaller area inside a region",
+   "a group of people with shared culture",
+   "human beings",
+   "a large part of the country"
+  ],
+  "explanation": "'district' means a smaller area inside a region.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5386009",
+  "question": "Her ___ is Baganda.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "medium",
+  "answer": "tribe",
+  "options": [
+   "tribe",
+   "speak",
+   "Ugandan",
+   "English"
+  ],
+  "explanation": "The word is 'tribe': Her tribe is Baganda.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5386010",
+  "question": "She will ___ Kenya.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "medium",
+  "answer": "visit",
+  "options": [
+   "visit",
+   "Ugandan",
+   "English",
+   "travel"
+  ],
+  "explanation": "The word is 'visit': She will visit Kenya.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH5386011",
+  "question": "Which word means 'a large part of the country'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "region",
+  "options": [
+   "region",
+   "country",
+   "English",
+   "Acholi"
+  ],
+  "explanation": "a large part of the country — that is 'region'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5386012",
+  "question": "What does 'world' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "the earth and all its countries",
+  "options": [
+   "the earth and all its countries",
+   "a person from Uganda",
+   "a smaller area inside a region",
+   "a language spoken in eastern Uganda"
+  ],
+  "explanation": "'world' means the earth and all its countries.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH5386013",
+  "question": "He wants to see the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "medium",
+  "answer": "world",
+  "options": [
+   "world",
+   "learn",
+   "Luganda",
+   "country"
+  ],
+  "explanation": "The word is 'world': He wants to see the world.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH5386014",
+  "question": "He dreams to ___ far.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "medium",
+  "answer": "travel",
+  "options": [
+   "travel",
+   "Ugandan",
+   "learn",
+   "speak"
+  ],
+  "explanation": "The word is 'travel': He dreams to travel far.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5386015",
+  "question": "People ___ many languages.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "medium",
+  "answer": "speak",
+  "options": [
+   "speak",
+   "language",
+   "Ugandan",
+   "travel"
+  ],
+  "explanation": "The word is 'speak': People speak many languages.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5386016",
+  "question": "Which word means 'to gain knowledge'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "learn",
+  "options": [
+   "learn",
+   "Ateso",
+   "Luganda",
+   "people"
+  ],
+  "explanation": "to gain knowledge — that is 'learn'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH5386017",
+  "question": "Many people speak ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "medium",
+  "answer": "Luganda",
+  "options": [
+   "Luganda",
+   "region",
+   "English",
+   "district"
+  ],
+  "explanation": "The word is 'Luganda': Many people speak Luganda.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH5386018",
+  "question": "Which word means 'a language spoken in northern Uganda'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "Acholi",
+  "options": [
+   "Acholi",
+   "English",
+   "Ateso",
+   "region"
+  ],
+  "explanation": "a language spoken in northern Uganda — that is 'Acholi'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5386019",
+  "question": "What does 'English' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Culture",
+  "difficulty": "easy",
+  "answer": "the official language of Uganda",
+  "options": [
+   "the official language of Uganda",
+   "a group of people with shared culture",
+   "to say words aloud",
+   "a language spoken in central Uganda"
+  ],
+  "explanation": "'English' means the official language of Uganda.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH5379000",
+  "question": "The suspect stayed in a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "cell",
+  "options": [
+   "cell",
+   "court",
+   "security",
+   "police post"
+  ],
+  "explanation": "The word is 'cell': The suspect stayed in a cell.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5379001",
+  "question": "Which word means 'freedom from conflict'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "peace",
+  "options": [
+   "peace",
+   "thief",
+   "police station",
+   "offence"
+  ],
+  "explanation": "freedom from conflict — that is 'peace'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5379002",
+  "question": "Which word means 'pointed sticks'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "arrows",
+  "options": [
+   "arrows",
+   "thief",
+   "peace",
+   "handcuffs"
+  ],
+  "explanation": "pointed sticks — that is 'arrows'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5379003",
+  "question": "Which word means 'prison room'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "cell",
+  "options": [
+   "cell",
+   "court",
+   "security",
+   "police post"
+  ],
+  "explanation": "prison room — that is 'cell'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5379004",
+  "question": "What does 'village' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "small community",
+  "options": [
+   "small community",
+   "person who decides cases",
+   "pointed sticks",
+   "formal account"
+  ],
+  "explanation": "'village' means small community.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH5379005",
+  "question": "The ___ hears cases.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "court",
+  "options": [
+   "court",
+   "handcuffs",
+   "crime",
+   "arrows"
+  ],
+  "explanation": "The word is 'court': The court hears cases.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5379006",
+  "question": "What does 'police station' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "main police building",
+  "options": [
+   "main police building",
+   "small police office",
+   "person who decides cases",
+   "prison room"
+  ],
+  "explanation": "'police station' means main police building.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5379007",
+  "question": "Which word means 'person who steals'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "thief",
+  "options": [
+   "thief",
+   "report",
+   "crime",
+   "safe"
+  ],
+  "explanation": "person who steals — that is 'thief'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5379008",
+  "question": "What does 'judge' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "person who decides cases",
+  "options": [
+   "person who decides cases",
+   "lower court official",
+   "pointed sticks",
+   "small police office"
+  ],
+  "explanation": "'judge' means person who decides cases.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH5379009",
+  "question": "Which word means 'national military'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "army",
+  "options": [
+   "army",
+   "thief",
+   "report",
+   "judge"
+  ],
+  "explanation": "national military — that is 'army'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5379010",
+  "question": "Which word means 'tell authorities'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "report",
+  "options": [
+   "report",
+   "handcuffs",
+   "judge",
+   "police station"
+  ],
+  "explanation": "tell authorities — that is 'report'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH5379011",
+  "question": "The ___ was theft.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "offence",
+  "options": [
+   "offence",
+   "magistrate",
+   "security",
+   "army"
+  ],
+  "explanation": "The word is 'offence': The offence was theft.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH5379012",
+  "question": "The ___ is in town.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "police station",
+  "options": [
+   "police station",
+   "report",
+   "handcuffs",
+   "offender"
+  ],
+  "explanation": "The word is 'police station': The police station is in town.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5379013",
+  "question": "What does 'safe' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "free from harm",
+  "options": [
+   "free from harm",
+   "act of catching suspect",
+   "prison room",
+   "place for trials"
+  ],
+  "explanation": "'safe' means free from harm.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5379014",
+  "question": "What does 'offender' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "person who commits offence",
+  "options": [
+   "person who commits offence",
+   "a crime",
+   "free from harm",
+   "metal rings for wrists"
+  ],
+  "explanation": "'offender' means person who commits offence.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH5379015",
+  "question": "What does 'gun' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "firearm",
+  "options": [
+   "firearm",
+   "pointed sticks",
+   "lower court official",
+   "free from harm"
+  ],
+  "explanation": "'gun' means firearm.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH5379016",
+  "question": "The ___ lawyer spoke.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "medium",
+  "answer": "defence",
+  "options": [
+   "defence",
+   "village",
+   "report",
+   "security"
+  ],
+  "explanation": "The word is 'defence': The defence lawyer spoke.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5379017",
+  "question": "Which word means 'firearm'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "gun",
+  "options": [
+   "gun",
+   "offender",
+   "police post",
+   "arrest"
+  ],
+  "explanation": "firearm — that is 'gun'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH5379018",
+  "question": "What does 'defence' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "legal protection",
+  "options": [
+   "legal protection",
+   "a crime",
+   "pointed sticks",
+   "main police building"
+  ],
+  "explanation": "'defence' means legal protection.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5379019",
+  "question": "Which word means 'small community'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Peace and Security",
+  "difficulty": "easy",
+  "answer": "village",
+  "options": [
+   "village",
+   "offence",
+   "army",
+   "cell"
+  ],
+  "explanation": "small community — that is 'village'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH5343000",
+  "question": "What does 'pin' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "secret number for the card",
+  "options": [
+   "secret number for the card",
+   "paper showing account activity",
+   "take money out of an account",
+   "paper order to pay money"
+  ],
+  "explanation": "'pin' means secret number for the card.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5343001",
+  "question": "She inserts her ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "medium",
+  "answer": "ATM card",
+  "options": [
+   "ATM card",
+   "pass book",
+   "teller",
+   "money"
+  ],
+  "explanation": "The word is 'ATM card': She inserts her ATM card.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5343002",
+  "question": "What does 'money' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "coins and notes used to buy",
+  "options": [
+   "coins and notes used to buy",
+   "a place where people keep money",
+   "a book of cheques for paying",
+   "plastic card for the machine"
+  ],
+  "explanation": "'money' means coins and notes used to buy.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5343003",
+  "question": "Which word means 'the person who helps you at the counter'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "teller",
+  "options": [
+   "teller",
+   "machine",
+   "ATM card",
+   "savings"
+  ],
+  "explanation": "the person who helps you at the counter — that is 'teller'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5343004",
+  "question": "Which word means 'secret number for the card'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "pin",
+  "options": [
+   "pin",
+   "bank",
+   "deposit",
+   "credit"
+  ],
+  "explanation": "secret number for the card — that is 'pin'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5343005",
+  "question": "Amina goes to the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "medium",
+  "answer": "bank",
+  "options": [
+   "bank",
+   "ATM card",
+   "cashier",
+   "withdraw"
+  ],
+  "explanation": "The word is 'bank': Amina goes to the bank.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH5343006",
+  "question": "He fills a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "medium",
+  "answer": "deposit form",
+  "options": [
+   "deposit form",
+   "bank",
+   "cashier",
+   "credit"
+  ],
+  "explanation": "The word is 'deposit form': He fills a deposit form.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5343007",
+  "question": "Which word means 'plastic card for the machine'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "ATM card",
+  "options": [
+   "ATM card",
+   "pass book",
+   "teller",
+   "money"
+  ],
+  "explanation": "plastic card for the machine — that is 'ATM card'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5343008",
+  "question": "The ___ beeps.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "medium",
+  "answer": "machine",
+  "options": [
+   "machine",
+   "deposit form",
+   "cheque",
+   "statement"
+  ],
+  "explanation": "The word is 'machine': The machine beeps.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5343009",
+  "question": "Which word means 'a book of cheques for paying'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "cheque book",
+  "options": [
+   "cheque book",
+   "account",
+   "balance",
+   "savings"
+  ],
+  "explanation": "a book of cheques for paying — that is 'cheque book'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5343010",
+  "question": "Which word means 'paper to fill when taking money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "withdraw form",
+  "options": [
+   "withdraw form",
+   "cheque",
+   "balance",
+   "ATM card"
+  ],
+  "explanation": "paper to fill when taking money — that is 'withdraw form'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH5343011",
+  "question": "The ___ smiles.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "medium",
+  "answer": "teller",
+  "options": [
+   "teller",
+   "machine",
+   "ATM card",
+   "savings"
+  ],
+  "explanation": "The word is 'teller': The teller smiles.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH5343012",
+  "question": "What does 'machine' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "the ATM device",
+  "options": [
+   "the ATM device",
+   "the person who gives or takes cash",
+   "paper to fill when taking money",
+   "money added to account"
+  ],
+  "explanation": "'machine' means the ATM device.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH5343013",
+  "question": "Which word means 'money kept for later'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "savings",
+  "options": [
+   "savings",
+   "withdraw",
+   "balance",
+   "bank manager"
+  ],
+  "explanation": "money kept for later — that is 'savings'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH5343014",
+  "question": "She makes a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "medium",
+  "answer": "deposit",
+  "options": [
+   "deposit",
+   "bank manager",
+   "withdraw form",
+   "withdraw"
+  ],
+  "explanation": "The word is 'deposit': She makes a deposit.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5343015",
+  "question": "Which word means 'paper order to pay money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "cheque",
+  "options": [
+   "cheque",
+   "withdraw",
+   "bank",
+   "pass book"
+  ],
+  "explanation": "paper order to pay money — that is 'cheque'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH5343016",
+  "question": "Which word means 'a small book that shows your money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "pass book",
+  "options": [
+   "pass book",
+   "bank",
+   "bank manager",
+   "cashier"
+  ],
+  "explanation": "a small book that shows your money — that is 'pass book'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH5343017",
+  "question": "What does 'account' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "a record of money you keep",
+  "options": [
+   "a record of money you keep",
+   "paper showing account activity",
+   "money kept for later",
+   "a book of cheques for paying"
+  ],
+  "explanation": "'account' means a record of money you keep.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH5343018",
+  "question": "What does 'deposit' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "put money into an account",
+  "options": [
+   "put money into an account",
+   "a small book that shows your money",
+   "coins and notes used to buy",
+   "money added to account"
+  ],
+  "explanation": "'deposit' means put money into an account.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH5343019",
+  "question": "Which word means 'the person who gives or takes cash'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P5",
+  "term": "Term 3",
+  "unit": "Services",
+  "difficulty": "easy",
+  "answer": "cashier",
+  "options": [
+   "cashier",
+   "statement",
+   "money",
+   "machine"
+  ],
+  "explanation": "the person who gives or takes cash — that is 'cashier'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ }
+]

@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "TH6190000",
+  "question": "What does 'junction' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "where two or more roads meet",
+  "options": [
+   "where two or more roads meet",
+   "not paying enough attention",
+   "crashes that cause injury or damage",
+   "a minibus that carries passengers"
+  ],
+  "explanation": "'junction' means where two or more roads meet.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH6190001",
+  "question": "Which word means 'a person riding a bicycle'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "cyclist",
+  "options": [
+   "cyclist",
+   "taxi",
+   "right",
+   "crossroad"
+  ],
+  "explanation": "a person riding a bicycle — that is 'cyclist'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6190002",
+  "question": "What does 'obey' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "to follow a rule or instruction",
+  "options": [
+   "to follow a rule or instruction",
+   "a marked place for pedestrians to cross",
+   "the direction opposite to right",
+   "a small path beside the main road"
+  ],
+  "explanation": "'obey' means to follow a rule or instruction.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6190003",
+  "question": "Which word means 'a hard hat that protects the head'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "helmet",
+  "options": [
+   "helmet",
+   "motorist",
+   "pedestrian",
+   "roundabout"
+  ],
+  "explanation": "a hard hat that protects the head — that is 'helmet'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6190004",
+  "question": "Which word means 'a person walking on the road'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "pedestrian",
+  "options": [
+   "pedestrian",
+   "roundabout",
+   "island",
+   "traffic jam"
+  ],
+  "explanation": "a person walking on the road — that is 'pedestrian'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6190005",
+  "question": "The **___** **say** you **must** stop at red.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "rules",
+  "options": [
+   "rules",
+   "rail crossing",
+   "heavy",
+   "traffic lights"
+  ],
+  "explanation": "The word is 'rules': The **rules** **say** you **must** stop at red.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6190006",
+  "question": "**___** vehicles **need** more space to stop.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "heavy",
+  "options": [
+   "heavy",
+   "traffic lights",
+   "cyclist",
+   "crossroad"
+  ],
+  "explanation": "The word is 'heavy': **Heavy** vehicles **need** more space to stop.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6190007",
+  "question": "The ___ stops at the stage for passengers.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "taxi",
+  "options": [
+   "taxi",
+   "left",
+   "highway code",
+   "side path"
+  ],
+  "explanation": "The word is 'taxi': The taxi stops at the stage for passengers.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6190008",
+  "question": "Pedestrians **use** the **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "side path",
+  "options": [
+   "side path",
+   "bus",
+   "police",
+   "taxi"
+  ],
+  "explanation": "The word is 'side path': Pedestrians **use** the **side path**.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6190009",
+  "question": "Every **motorist** **must** know the **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "highway code",
+  "options": [
+   "highway code",
+   "cyclist",
+   "zebra crossing",
+   "heavy"
+  ],
+  "explanation": "The word is 'highway code': Every **motorist** **must** know the **highway code**.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6190010",
+  "question": "What does 'cyclist' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "a person riding a bicycle",
+  "options": [
+   "a person riding a bicycle",
+   "paying attention to avoid danger",
+   "many vehicles stuck close together",
+   "a hard hat that protects the head"
+  ],
+  "explanation": "'cyclist' means a person riding a bicycle.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6190011",
+  "question": "What does 'traffic' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "vehicles moving on the road",
+  "options": [
+   "vehicles moving on the road",
+   "a light that tells road users what to do",
+   "a raised area in the road for pedestrians to wait",
+   "a permit that allows a person to drive"
+  ],
+  "explanation": "'traffic' means vehicles moving on the road.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6190012",
+  "question": "What does 'speed' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "how fast a vehicle moves",
+  "options": [
+   "how fast a vehicle moves",
+   "where the road crosses a railway line",
+   "raised bumps that slow down vehicles",
+   "the direction opposite to right"
+  ],
+  "explanation": "'speed' means how fast a vehicle moves.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6190013",
+  "question": "All road users **must** **___** **traffic lights**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "obey",
+  "options": [
+   "obey",
+   "signal",
+   "bus",
+   "left"
+  ],
+  "explanation": "The word is 'obey': All road users **must** **obey** **traffic lights**.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6190014",
+  "question": "The ___ shows the speed limit.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "signpost",
+  "options": [
+   "signpost",
+   "pedestrian",
+   "highway code",
+   "left"
+  ],
+  "explanation": "The word is 'signpost': The signpost shows the speed limit.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6190015",
+  "question": "Cars **move** slowly at the **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "medium",
+  "answer": "roundabout",
+  "options": [
+   "roundabout",
+   "first aid",
+   "bus",
+   "careless"
+  ],
+  "explanation": "The word is 'roundabout': Cars **move** slowly at the **roundabout**.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6190016",
+  "question": "What does 'side path' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "a small path beside the main road",
+  "options": [
+   "a small path beside the main road",
+   "a large vehicle that carries many people",
+   "not heavy, like a car or motorcycle",
+   "a junction where two roads cross"
+  ],
+  "explanation": "'side path' means a small path beside the main road.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6190017",
+  "question": "What does 'crossroad' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "a junction where two roads cross",
+  "options": [
+   "a junction where two roads cross",
+   "paying attention to avoid danger",
+   "a person walking on the road",
+   "a permit that allows a person to drive"
+  ],
+  "explanation": "'crossroad' means a junction where two roads cross.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6190018",
+  "question": "Which word means 'signals that control traffic flow'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "traffic lights",
+  "options": [
+   "traffic lights",
+   "speed",
+   "careful",
+   "zebra crossing"
+  ],
+  "explanation": "signals that control traffic flow — that is 'traffic lights'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6190019",
+  "question": "Which word means 'a small path beside the main road'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Safety on the Road",
+  "difficulty": "easy",
+  "answer": "side path",
+  "options": [
+   "side path",
+   "bus",
+   "police",
+   "taxi"
+  ],
+  "explanation": "a small path beside the main road — that is 'side path'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6115000",
+  "question": "Which word means 'the main ideas a speaker gives in a debate'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "points",
+  "options": [
+   "points",
+   "persuade",
+   "proposer",
+   "secretary"
+  ],
+  "explanation": "the main ideas a speaker gives in a debate — that is 'points'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6115001",
+  "question": "Which word means 'ideas or thoughts that people share'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "views",
+  "options": [
+   "views",
+   "point of order",
+   "team",
+   "respect"
+  ],
+  "explanation": "ideas or thoughts that people share — that is 'views'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH6115002",
+  "question": "Which word means 'the person who checks how long each speaker talks'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "timekeeper",
+  "options": [
+   "timekeeper",
+   "opinion",
+   "even though",
+   "point of information"
+  ],
+  "explanation": "the person who checks how long each speaker talks — that is 'timekeeper'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6115003",
+  "question": "What does 'roles' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "the jobs each person does in a debate",
+  "options": [
+   "the jobs each person does in a debate",
+   "the people who listen to the debate and may ask questions",
+   "the people who give speeches in a debate",
+   "sure of yourself and your ideas"
+  ],
+  "explanation": "'roles' means the jobs each person does in a debate.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6115004",
+  "question": "Amina offered a ___ during the speech.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "medium",
+  "answer": "point of information",
+  "options": [
+   "point of information",
+   "speakers",
+   "although",
+   "views"
+  ],
+  "explanation": "The word is 'point of information': Amina offered a point of information during the speech.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6115005",
+  "question": "What does 'argue' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "to give reasons for or against something",
+  "options": [
+   "to give reasons for or against something",
+   "a set of reasons to support a point of view",
+   "the main ideas a speaker gives in a debate",
+   "the speaker who argues against the motion"
+  ],
+  "explanation": "'argue' means to give reasons for or against something.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6115006",
+  "question": "What does 'speakers' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "the people who give speeches in a debate",
+  "options": [
+   "the people who give speeches in a debate",
+   "the person who controls the debate and keeps order",
+   "happening now or at the present time",
+   "a short question or comment offered to the speaker"
+  ],
+  "explanation": "'speakers' means the people who give speeches in a debate.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6115007",
+  "question": "Which word means 'to give a short version of the main points'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "summarise",
+  "options": [
+   "summarise",
+   "motion",
+   "roles",
+   "debate"
+  ],
+  "explanation": "to give a short version of the main points — that is 'summarise'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6115008",
+  "question": "Peter served as ___ and took notes.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "medium",
+  "answer": "secretary",
+  "options": [
+   "secretary",
+   "speakers",
+   "chairperson",
+   "point of inquiry"
+  ],
+  "explanation": "The word is 'secretary': Peter served as secretary and took notes.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6115009",
+  "question": "Which word means 'showing polite regard for others'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "respect",
+  "options": [
+   "respect",
+   "point of inquiry",
+   "point of order",
+   "opposer"
+  ],
+  "explanation": "showing polite regard for others — that is 'respect'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6115010",
+  "question": "What does 'confident' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "sure of yourself and your ideas",
+  "options": [
+   "sure of yourself and your ideas",
+   "the jobs each person does in a debate",
+   "coming before something else",
+   "the person who checks how long each speaker talks"
+  ],
+  "explanation": "'confident' means sure of yourself and your ideas.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6115011",
+  "question": "What does 'although' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "used to introduce a contrasting idea",
+  "options": [
+   "used to introduce a contrasting idea",
+   "a question to the chairperson for clarification",
+   "the speaker who supports the motion",
+   "to give reasons for or against something"
+  ],
+  "explanation": "'although' means used to introduce a contrasting idea.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6115012",
+  "question": "What does 'opposer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "the speaker who argues against the motion",
+  "options": [
+   "the speaker who argues against the motion",
+   "what you think or believe about something",
+   "sure of yourself and your ideas",
+   "facts or examples that support an argument"
+  ],
+  "explanation": "'opposer' means the speaker who argues against the motion.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6115013",
+  "question": "Which word means 'the speaker who supports the motion'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "proposer",
+  "options": [
+   "proposer",
+   "secretary",
+   "timekeeper",
+   "judge"
+  ],
+  "explanation": "the speaker who supports the motion — that is 'proposer'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6115014",
+  "question": "Which word means 'a short question or comment offered to the speaker'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "point of information",
+  "options": [
+   "point of information",
+   "speakers",
+   "although",
+   "views"
+  ],
+  "explanation": "a short question or comment offered to the speaker — that is 'point of information'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6115015",
+  "question": "We must show ___ to every speaker.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "medium",
+  "answer": "respect",
+  "options": [
+   "respect",
+   "point of inquiry",
+   "point of order",
+   "opposer"
+  ],
+  "explanation": "The word is 'respect': We must show respect to every speaker.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6115016",
+  "question": "Kato raised a ___ when the timekeeper forgot the bell.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "medium",
+  "answer": "point of order",
+  "options": [
+   "point of order",
+   "argue",
+   "secretary",
+   "views"
+  ],
+  "explanation": "The word is 'point of order': Kato raised a point of order when the timekeeper forgot the bell.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6115017",
+  "question": "What does 'opinion' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "what you think or believe about something",
+  "options": [
+   "what you think or believe about something",
+   "a formal discussion where two sides speak for and against a motion",
+   "used to introduce a contrasting idea",
+   "the people who listen to the debate and may ask questions"
+  ],
+  "explanation": "'opinion' means what you think or believe about something.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6115018",
+  "question": "Which word means 'the person who decides which side wins'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "judge",
+  "options": [
+   "judge",
+   "persuade",
+   "confident",
+   "proposer"
+  ],
+  "explanation": "the person who decides which side wins — that is 'judge'.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH6115019",
+  "question": "What does 'judge' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Debating",
+  "difficulty": "easy",
+  "answer": "the person who decides which side wins",
+  "options": [
+   "the person who decides which side wins",
+   "speaking smoothly without long pauses",
+   "happening now or at the present time",
+   "to give reasons for or against something"
+  ],
+  "explanation": "'judge' means the person who decides which side wins.",
+  "hint": "It starts with 'J'.",
+  "image": null
+ },
+ {
+  "id": "TH6193000",
+  "question": "Which word means 'a person connected by blood or marriage'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "relative",
+  "options": [
+   "relative",
+   "clan",
+   "planned",
+   "love"
+  ],
+  "explanation": "a person connected by blood or marriage — that is 'relative'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6193001",
+  "question": "What does 'triplets' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "three babies born at the same time to the same mother",
+  "options": [
+   "three babies born at the same time to the same mother",
+   "a sister who shares only one parent with you",
+   "able to be controlled or handled easily",
+   "a child of your uncle or auntie"
+  ],
+  "explanation": "'triplets' means three babies born at the same time to the same mother.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6193002",
+  "question": "Which word means 'the husband of your mother who is not your birth father'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "stepfather",
+  "options": [
+   "stepfather",
+   "bride",
+   "brother-in-law",
+   "manageable"
+  ],
+  "explanation": "the husband of your mother who is not your birth father — that is 'stepfather'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6193003",
+  "question": "Which word means 'the ceremony where two people get married'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "wedding",
+  "options": [
+   "wedding",
+   "father-in-law",
+   "brother-in-law",
+   "marriage"
+  ],
+  "explanation": "the ceremony where two people get married — that is 'wedding'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH6193004",
+  "question": "Which word means 'decided beforehand; not by accident'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "planned",
+  "options": [
+   "planned",
+   "triplets",
+   "support",
+   "sister-in-law"
+  ],
+  "explanation": "decided beforehand; not by accident — that is 'planned'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6193005",
+  "question": "What does 'wedding' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "the ceremony where two people get married",
+  "options": [
+   "the ceremony where two people get married",
+   "deep care and affection",
+   "the legal union of two people as partners",
+   "the wife of your father who is not your birth mother"
+  ],
+  "explanation": "'wedding' means the ceremony where two people get married.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH6193006",
+  "question": "Our ___ totem is the lion; we do not eat lion meat.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "clan",
+  "options": [
+   "clan",
+   "father-in-law",
+   "love",
+   "care"
+  ],
+  "explanation": "The word is 'clan': Our clan totem is the lion; we do not eat lion meat.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6193007",
+  "question": "What does 'groom' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "the man getting married",
+  "options": [
+   "the man getting married",
+   "the wife of your father who is not your birth mother",
+   "decided beforehand; not by accident",
+   "the woman getting married"
+  ],
+  "explanation": "'groom' means the man getting married.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH6193008",
+  "question": "My ___ drives a boda boda in Kampala.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "uncle",
+  "options": [
+   "uncle",
+   "bride",
+   "niece",
+   "step sister"
+  ],
+  "explanation": "The word is 'uncle': My uncle drives a boda boda in Kampala.",
+  "hint": "It starts with 'U'.",
+  "image": null
+ },
+ {
+  "id": "TH6193009",
+  "question": "Which word means 'a group of families with a common ancestor'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "clan",
+  "options": [
+   "clan",
+   "father-in-law",
+   "love",
+   "care"
+  ],
+  "explanation": "a group of families with a common ancestor — that is 'clan'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6193010",
+  "question": "My ___ sings in the church choir.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "niece",
+  "options": [
+   "niece",
+   "father-in-law",
+   "groom",
+   "relative"
+  ],
+  "explanation": "The word is 'niece': My niece sings in the church choir.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH6193011",
+  "question": "___ makes a family stay together in hard times.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "love",
+  "options": [
+   "love",
+   "groom",
+   "clan",
+   "wedding"
+  ],
+  "explanation": "The word is 'love': Love makes a family stay together in hard times.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6193012",
+  "question": "My ___ helps with homework.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "step sister",
+  "options": [
+   "step sister",
+   "father-in-law",
+   "step brother",
+   "mother-in-law"
+  ],
+  "explanation": "The word is 'step sister': My step sister helps with homework.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6193013",
+  "question": "My ___ shares my room.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "step brother",
+  "options": [
+   "step brother",
+   "stepmother",
+   "father-in-law",
+   "planned"
+  ],
+  "explanation": "The word is 'step brother': My step brother shares my room.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6193014",
+  "question": "Which word means 'a sister of your father or mother'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "auntie",
+  "options": [
+   "auntie",
+   "half-brother",
+   "sister-in-law",
+   "care"
+  ],
+  "explanation": "a sister of your father or mother — that is 'auntie'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6193015",
+  "question": "My ___ Peter goes to my school.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "cousin",
+  "options": [
+   "cousin",
+   "mother-in-law",
+   "half-brother",
+   "father-in-law"
+  ],
+  "explanation": "The word is 'cousin': My cousin Peter goes to my school.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6193016",
+  "question": "What does 'grandparent' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "a parent of your father or mother",
+  "options": [
+   "a parent of your father or mother",
+   "a person connected by blood or marriage",
+   "able to be controlled or handled easily",
+   "the legal union of two people as partners"
+  ],
+  "explanation": "'grandparent' means a parent of your father or mother.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH6193017",
+  "question": "My ___ lives with his mother in Jinja.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "medium",
+  "answer": "half-brother",
+  "options": [
+   "half-brother",
+   "twins",
+   "manageable",
+   "benefit"
+  ],
+  "explanation": "The word is 'half-brother': My half-brother lives with his mother in Jinja.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6193018",
+  "question": "Which word means 'a son of your brother or sister'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "nephew",
+  "options": [
+   "nephew",
+   "half-brother",
+   "clan",
+   "half-sister"
+  ],
+  "explanation": "a son of your brother or sister — that is 'nephew'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH6193019",
+  "question": "What does 'step sister' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 1",
+  "unit": "Family Relationships",
+  "difficulty": "easy",
+  "answer": "a daughter of your stepmother or stepfather from another relationship",
+  "options": [
+   "a daughter of your stepmother or stepfather from another relationship",
+   "a sister who shares only one parent with you",
+   "looking after someone's needs",
+   "being reliable and doing your duty"
+  ],
+  "explanation": "'step sister' means a daughter of your stepmother or stepfather from another relationship.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6233000",
+  "question": "What does 'baking tin' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "a metal container for baking in",
+  "options": [
+   "a metal container for baking in",
+   "rough paper for rubbing wood smooth",
+   "a person who makes things from wood",
+   "a piece of clothing"
+  ],
+  "explanation": "'baking tin' means a metal container for baking in.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6233001",
+  "question": "Which word means 'to give food to animals'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "feed",
+  "options": [
+   "feed",
+   "carpenter",
+   "bread",
+   "care"
+  ],
+  "explanation": "to give food to animals — that is 'feed'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6233002",
+  "question": "Which word means 'a living creature like a cow, goat, chicken'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "animal",
+  "options": [
+   "animal",
+   "stitch",
+   "thread",
+   "saw"
+  ],
+  "explanation": "a living creature like a cow, goat, chicken — that is 'animal'.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6233003",
+  "question": "What does 'ingredients' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "the items used in a recipe",
+  "options": [
+   "the items used in a recipe",
+   "a machine that sews quickly",
+   "a metal container for baking in",
+   "a sweet baked dessert"
+  ],
+  "explanation": "'ingredients' means the items used in a recipe.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6233004",
+  "question": "What does 'baker' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "a person who bakes bread and cakes",
+  "options": [
+   "a person who bakes bread and cakes",
+   "a soft yellow fat made from milk",
+   "a piece of clothing",
+   "wood cut into planks for building"
+  ],
+  "explanation": "'baker' means a person who bakes bread and cakes.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6233005",
+  "question": "Which word means 'one loop of thread in sewing'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "stitch",
+  "options": [
+   "stitch",
+   "wood",
+   "slice",
+   "flour"
+  ],
+  "explanation": "one loop of thread in sewing — that is 'stitch'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6233006",
+  "question": "The ___ wakes early.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "medium",
+  "answer": "baker",
+  "options": [
+   "baker",
+   "thread",
+   "tailor",
+   "carpenter"
+  ],
+  "explanation": "The word is 'baker': The baker wakes early.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6233007",
+  "question": "What does 'bread' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "a staple food made from dough",
+  "options": [
+   "a staple food made from dough",
+   "a living creature like a cow, goat, chicken",
+   "to look after something well",
+   "strong and well, not ill"
+  ],
+  "explanation": "'bread' means a staple food made from dough.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6233008",
+  "question": "The ___ is hot.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "medium",
+  "answer": "oven",
+  "options": [
+   "oven",
+   "care",
+   "sew",
+   "tailor"
+  ],
+  "explanation": "The word is 'oven': The oven is hot.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6233009",
+  "question": "We ___ the chickens maize.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "medium",
+  "answer": "feed",
+  "options": [
+   "feed",
+   "carpenter",
+   "bread",
+   "care"
+  ],
+  "explanation": "The word is 'feed': We feed the chickens maize.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6233010",
+  "question": "Which word means 'a staple food made from dough'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "bread",
+  "options": [
+   "bread",
+   "care",
+   "saw",
+   "screwdriver"
+  ],
+  "explanation": "a staple food made from dough — that is 'bread'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6233011",
+  "question": "Which word means 'cloth material for making clothes'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "fabric",
+  "options": [
+   "fabric",
+   "wood",
+   "tailor",
+   "oven"
+  ],
+  "explanation": "cloth material for making clothes — that is 'fabric'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6233012",
+  "question": "Which word means 'a person who makes things from wood'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "carpenter",
+  "options": [
+   "carpenter",
+   "sew",
+   "fabric",
+   "baker"
+  ],
+  "explanation": "a person who makes things from wood — that is 'carpenter'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6233013",
+  "question": "What does 'veterinary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "a doctor for animals",
+  "options": [
+   "a doctor for animals",
+   "a plan or pattern for a garment",
+   "to give food to animals",
+   "strong and well, not ill"
+  ],
+  "explanation": "'veterinary' means a doctor for animals.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH6233014",
+  "question": "What does 'design' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "a plan or pattern for a garment",
+  "options": [
+   "a plan or pattern for a garment",
+   "to give food to animals",
+   "not healthy, ill",
+   "a sweet baked dessert"
+  ],
+  "explanation": "'design' means a plan or pattern for a garment.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6233015",
+  "question": "Which word means 'a soft yellow fat made from milk'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "butter",
+  "options": [
+   "butter",
+   "plane",
+   "carpenter",
+   "thread"
+  ],
+  "explanation": "a soft yellow fat made from milk — that is 'butter'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6233016",
+  "question": "What does 'care' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "to look after something well",
+  "options": [
+   "to look after something well",
+   "a living creature like a cow, goat, chicken",
+   "a tool to make wood smooth and flat",
+   "a soft yellow fat made from milk"
+  ],
+  "explanation": "'care' means to look after something well.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6233017",
+  "question": "What does 'healthy' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "strong and well, not ill",
+  "options": [
+   "strong and well, not ill",
+   "a person who makes things from wood",
+   "the hard material from trees",
+   "a doctor for animals"
+  ],
+  "explanation": "'healthy' means strong and well, not ill.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6233018",
+  "question": "Water fills the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "medium",
+  "answer": "trough",
+  "options": [
+   "trough",
+   "feed",
+   "wood",
+   "screwdriver"
+  ],
+  "explanation": "The word is 'trough': Water fills the trough.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6233019",
+  "question": "Which word means 'things like tables, chairs, beds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Occupations",
+  "difficulty": "easy",
+  "answer": "furniture",
+  "options": [
+   "furniture",
+   "healthy",
+   "garment",
+   "saw"
+  ],
+  "explanation": "things like tables, chairs, beds — that is 'furniture'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6231000",
+  "question": "What does 'hotel' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "a building where people sleep and eat",
+  "options": [
+   "a building where people sleep and eat",
+   "the person in charge of the whole hotel",
+   "the paper that shows how much to pay",
+   "the cook who prepares the meals"
+  ],
+  "explanation": "'hotel' means a building where people sleep and eat.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH6231001",
+  "question": "What does 'soup' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "a liquid dish, often served first",
+  "options": [
+   "a liquid dish, often served first",
+   "a room for two people",
+   "the cook who prepares the meals",
+   "a person staying at the hotel"
+  ],
+  "explanation": "'soup' means a liquid dish, often served first.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6231002",
+  "question": "Which word means 'the time you spend in a hotel'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "stay",
+  "options": [
+   "stay",
+   "menu",
+   "hotel",
+   "double"
+  ],
+  "explanation": "the time you spend in a hotel — that is 'stay'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6231003",
+  "question": "What does 'guest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "a person staying at the hotel",
+  "options": [
+   "a person staying at the hotel",
+   "forks, knives, and spoons",
+   "to give money for something",
+   "the time from evening to morning"
+  ],
+  "explanation": "'guest' means a person staying at the hotel.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH6231004",
+  "question": "They asked for a ___ room.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "medium",
+  "answer": "double",
+  "options": [
+   "double",
+   "manager",
+   "room",
+   "pay"
+  ],
+  "explanation": "The word is 'double': They asked for a double room.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6231005",
+  "question": "What does 'single' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "a room for one person",
+  "options": [
+   "a room for one person",
+   "to ask for food in a restaurant",
+   "the cook who prepares the meals",
+   "a place where meals are served"
+  ],
+  "explanation": "'single' means a room for one person.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6231006",
+  "question": "What does 'key' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "a small metal piece that opens the door",
+  "options": [
+   "a small metal piece that opens the door",
+   "forks, knives, and spoons",
+   "a liquid dish, often served first",
+   "to give money for something"
+  ],
+  "explanation": "'key' means a small metal piece that opens the door.",
+  "hint": "It starts with 'K'.",
+  "image": null
+ },
+ {
+  "id": "TH6231007",
+  "question": "The ___ asked for a towel.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "medium",
+  "answer": "customer",
+  "options": [
+   "customer",
+   "bill",
+   "booking",
+   "service"
+  ],
+  "explanation": "The word is 'customer': The customer asked for a towel.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6231008",
+  "question": "What does 'breakfast' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "the morning meal",
+  "options": [
+   "the morning meal",
+   "an arrangement to keep a room for you",
+   "the person in charge of the whole hotel",
+   "a cloth for drying the body"
+  ],
+  "explanation": "'breakfast' means the morning meal.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6231009",
+  "question": "What does 'customer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "a person who buys a service or product",
+  "options": [
+   "a person who buys a service or product",
+   "to give money for something",
+   "sweet food eaten after the main meal",
+   "forks, knives, and spoons"
+  ],
+  "explanation": "'customer' means a person who buys a service or product.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6231010",
+  "question": "What does 'bed' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "a piece of furniture for sleeping",
+  "options": [
+   "a piece of furniture for sleeping",
+   "help given by hotel staff",
+   "a person staying at the hotel",
+   "a room for two people"
+  ],
+  "explanation": "'bed' means a piece of furniture for sleeping.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH6231011",
+  "question": "Their ___ was three days.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "medium",
+  "answer": "stay",
+  "options": [
+   "stay",
+   "menu",
+   "hotel",
+   "double"
+  ],
+  "explanation": "The word is 'stay': Their stay was three days.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6231012",
+  "question": "What does 'chef' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "the cook who prepares the meals",
+  "options": [
+   "the cook who prepares the meals",
+   "forks, knives, and spoons",
+   "free from dirt",
+   "the paper that shows how much to pay"
+  ],
+  "explanation": "'chef' means the cook who prepares the meals.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6231013",
+  "question": "Which word means 'a person staying at the hotel'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "guest",
+  "options": [
+   "guest",
+   "towel",
+   "receptionist",
+   "reservation"
+  ],
+  "explanation": "a person staying at the hotel — that is 'guest'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH6231014",
+  "question": "We had chicken stew for ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "medium",
+  "answer": "dinner",
+  "options": [
+   "dinner",
+   "manager",
+   "guest",
+   "reservation"
+  ],
+  "explanation": "The word is 'dinner': We had chicken stew for dinner.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6231015",
+  "question": "What does 'cutlery' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "forks, knives, and spoons",
+  "options": [
+   "forks, knives, and spoons",
+   "the person at the front desk who welcomes guests",
+   "sweet food eaten after the main meal",
+   "help given by hotel staff"
+  ],
+  "explanation": "'cutlery' means forks, knives, and spoons.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6231016",
+  "question": "Which word means 'forks, knives, and spoons'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "cutlery",
+  "options": [
+   "cutlery",
+   "soup",
+   "clean",
+   "suite"
+  ],
+  "explanation": "forks, knives, and spoons — that is 'cutlery'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6231017",
+  "question": "What does 'receptionist' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "the person at the front desk who welcomes guests",
+  "options": [
+   "the person at the front desk who welcomes guests",
+   "a person staying at the hotel",
+   "the person in charge of the whole hotel",
+   "the paper that shows how much to pay"
+  ],
+  "explanation": "'receptionist' means the person at the front desk who welcomes guests.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6231018",
+  "question": "The table had clean ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "medium",
+  "answer": "cutlery",
+  "options": [
+   "cutlery",
+   "soup",
+   "clean",
+   "suite"
+  ],
+  "explanation": "The word is 'cutlery': The table had clean cutlery.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6231019",
+  "question": "What does 'pay' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 2",
+  "unit": "Hotels",
+  "difficulty": "easy",
+  "answer": "to give money for something",
+  "options": [
+   "to give money for something",
+   "a place where meals are served",
+   "the same as a booking",
+   "a room for one person"
+  ],
+  "explanation": "'pay' means to give money for something.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH6341000",
+  "question": "Which word means 'tags that give extra information'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "labels",
+  "options": [
+   "labels",
+   "foreign words",
+   "sounds",
+   "question"
+  ],
+  "explanation": "tags that give extra information — that is 'labels'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6341001",
+  "question": "What does 'abbreviations' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "short forms of words or phrases",
+  "options": [
+   "short forms of words or phrases",
+   "the spoken sounds of a word",
+   "another choice or option",
+   "go to a source for information"
+  ],
+  "explanation": "'abbreviations' means short forms of words or phrases.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6341002",
+  "question": "Which word means 'words from other languages used in English'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "foreign words",
+  "options": [
+   "foreign words",
+   "refer",
+   "difficult",
+   "labels"
+  ],
+  "explanation": "words from other languages used in English — that is 'foreign words'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH6341003",
+  "question": "Which word means 'a book that lists synonyms and opposites'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "thesaurus",
+  "options": [
+   "thesaurus",
+   "refer",
+   "check",
+   "stress"
+  ],
+  "explanation": "a book that lists synonyms and opposites — that is 'thesaurus'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6341004",
+  "question": "Which word means 'an alphabetical list at the back of a book'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "index",
+  "options": [
+   "index",
+   "opposite",
+   "abbreviations",
+   "labels"
+  ],
+  "explanation": "an alphabetical list at the back of a book — that is 'index'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH6341005",
+  "question": "She uses a ___ to check spelling.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "medium",
+  "answer": "dictionary",
+  "options": [
+   "dictionary",
+   "answer",
+   "check",
+   "index"
+  ],
+  "explanation": "The word is 'dictionary': She uses a dictionary to check spelling.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6341006",
+  "question": "The dictionary is a ___ tool.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "medium",
+  "answer": "reference",
+  "options": [
+   "reference",
+   "look up",
+   "answer",
+   "guide"
+  ],
+  "explanation": "The word is 'reference': The dictionary is a reference tool.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6341007",
+  "question": "What does 'alphabet' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "the letters A to Z in order",
+  "options": [
+   "the letters A to Z in order",
+   "a response to a question",
+   "a book or source used for information",
+   "the spoken sounds of a word"
+  ],
+  "explanation": "'alphabet' means the letters A to Z in order.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6341008",
+  "question": "They ___ new words.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "medium",
+  "answer": "learn",
+  "options": [
+   "learn",
+   "spelling",
+   "answer",
+   "word"
+  ],
+  "explanation": "The word is 'learn': They learn new words.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6341009",
+  "question": "Large is an ___ for big.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "medium",
+  "answer": "alternative",
+  "options": [
+   "alternative",
+   "check",
+   "thesaurus",
+   "learn"
+  ],
+  "explanation": "The word is 'alternative': Large is an alternative for big.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6341010",
+  "question": "She uses a ___ for synonyms.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "medium",
+  "answer": "thesaurus",
+  "options": [
+   "thesaurus",
+   "refer",
+   "check",
+   "stress"
+  ],
+  "explanation": "The word is 'thesaurus': She uses a thesaurus for synonyms.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH6341011",
+  "question": "She will ___ to the index.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "medium",
+  "answer": "refer",
+  "options": [
+   "refer",
+   "dictionary",
+   "learn",
+   "labels"
+  ],
+  "explanation": "The word is 'refer': She will refer to the index.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6341012",
+  "question": "Which word means 'examine something to make sure it is correct'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "check",
+  "options": [
+   "check",
+   "reference",
+   "abbreviations",
+   "pronounce"
+  ],
+  "explanation": "examine something to make sure it is correct — that is 'check'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH6341013",
+  "question": "What does 'synonym' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "a word with the same meaning",
+  "options": [
+   "a word with the same meaning",
+   "words from other languages used in English",
+   "a single unit of language",
+   "a sentence that asks for information"
+  ],
+  "explanation": "'synonym' means a word with the same meaning.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH6341014",
+  "question": "What does 'refer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "go to a source for information",
+  "options": [
+   "go to a source for information",
+   "a book that lists synonyms and opposites",
+   "the way a word is written",
+   "what a word tells you"
+  ],
+  "explanation": "'refer' means go to a source for information.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH6341015",
+  "question": "What does 'opposite' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "a word with the opposite meaning",
+  "options": [
+   "a word with the opposite meaning",
+   "words from other languages used in English",
+   "search for a word in a dictionary",
+   "the letters A to Z in order"
+  ],
+  "explanation": "'opposite' means a word with the opposite meaning.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH6341016",
+  "question": "What does 'look up' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "search for a word in a dictionary",
+  "options": [
+   "search for a word in a dictionary",
+   "words at the top of a dictionary page that show the first and last word",
+   "the way a word is written",
+   "a single unit of language"
+  ],
+  "explanation": "'look up' means search for a word in a dictionary.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH6341017",
+  "question": "Which word means 'a book that lists words and their meanings'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "dictionary",
+  "options": [
+   "dictionary",
+   "answer",
+   "check",
+   "index"
+  ],
+  "explanation": "a book that lists words and their meanings — that is 'dictionary'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH6341018",
+  "question": "What does 'alternative' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "another choice or option",
+  "options": [
+   "another choice or option",
+   "a word with the opposite meaning",
+   "hard to understand",
+   "tags that give extra information"
+  ],
+  "explanation": "'alternative' means another choice or option.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH6341019",
+  "question": "Which word means 'what a word tells you'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P6",
+  "term": "Term 3",
+  "unit": "Using a Dictionary",
+  "difficulty": "easy",
+  "answer": "meaning",
+  "options": [
+   "meaning",
+   "synonym",
+   "refer",
+   "acronym"
+  ],
+  "explanation": "what a word tells you — that is 'meaning'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ }
+]

@@ -1,0 +1,5202 @@
+[
+ {
+  "id": "TH3184000",
+  "question": "They pray in the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "church",
+  "options": [
+   "church",
+   "hospital",
+   "school",
+   "neighbour"
+  ],
+  "explanation": "The word is 'church': They pray in the church.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3184001",
+  "question": "Which word means 'Christian religious leader'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "priest",
+  "options": [
+   "priest",
+   "relative",
+   "imam",
+   "clan"
+  ],
+  "explanation": "Christian religious leader — that is 'priest'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3184002",
+  "question": "A good ___ serves everyone.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "leader",
+  "options": [
+   "leader",
+   "school",
+   "councillor",
+   "clan"
+  ],
+  "explanation": "The word is 'leader': A good leader serves everyone.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3184003",
+  "question": "Which word means 'place to get clean water'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "water source",
+  "options": [
+   "water source",
+   "clan",
+   "visitor",
+   "family"
+  ],
+  "explanation": "place to get clean water — that is 'water source'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3184004",
+  "question": "Which word means 'person who lives near you'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "neighbour",
+  "options": [
+   "neighbour",
+   "leader",
+   "relative",
+   "water source"
+  ],
+  "explanation": "person who lives near you — that is 'neighbour'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3184005",
+  "question": "Which word means 'family member'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "relative",
+  "options": [
+   "relative",
+   "imam",
+   "family",
+   "hospital"
+  ],
+  "explanation": "family member — that is 'relative'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3184006",
+  "question": "What does 'elder' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "older person who gives advice",
+  "options": [
+   "older person who gives advice",
+   "path for walking and driving",
+   "place to buy and sell",
+   "Muslim religious leader"
+  ],
+  "explanation": "'elder' means older person who gives advice.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3184007",
+  "question": "What does 'chief' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "traditional leader of village",
+  "options": [
+   "traditional leader of village",
+   "building for Christian worship",
+   "place for sick people",
+   "family member"
+  ],
+  "explanation": "'chief' means traditional leader of village.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3184008",
+  "question": "Which word means 'large family group'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "clan",
+  "options": [
+   "clan",
+   "councillor",
+   "leader",
+   "chief"
+  ],
+  "explanation": "large family group — that is 'clan'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3184009",
+  "question": "Which word means 'head of village council'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "chairperson",
+  "options": [
+   "chairperson",
+   "leader",
+   "school",
+   "road"
+  ],
+  "explanation": "head of village council — that is 'chairperson'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3184010",
+  "question": "The ___ keeps peace.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "chief",
+  "options": [
+   "chief",
+   "school",
+   "councillor",
+   "market"
+  ],
+  "explanation": "The word is 'chief': The chief keeps peace.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3184011",
+  "question": "Which word means 'traditional leader of village'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "chief",
+  "options": [
+   "chief",
+   "school",
+   "councillor",
+   "market"
+  ],
+  "explanation": "traditional leader of village — that is 'chief'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3184012",
+  "question": "Which word means 'place where children learn'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "school",
+  "options": [
+   "school",
+   "hospital",
+   "chairperson",
+   "relative"
+  ],
+  "explanation": "place where children learn — that is 'school'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3184013",
+  "question": "The nurse works at the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "hospital",
+  "options": [
+   "hospital",
+   "road",
+   "priest",
+   "parent"
+  ],
+  "explanation": "The word is 'hospital': The nurse works at the hospital.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3184014",
+  "question": "Which word means 'path for walking and driving'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "road",
+  "options": [
+   "road",
+   "school",
+   "hospital",
+   "visitor"
+  ],
+  "explanation": "path for walking and driving — that is 'road'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3184015",
+  "question": "What does 'school' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "place where children learn",
+  "options": [
+   "place where children learn",
+   "person who comes to visit",
+   "large family group",
+   "head of village council"
+  ],
+  "explanation": "'school' means place where children learn.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3184016",
+  "question": "The ___ opens the meeting.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "chairperson",
+  "options": [
+   "chairperson",
+   "leader",
+   "school",
+   "road"
+  ],
+  "explanation": "The word is 'chairperson': The chairperson opens the meeting.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3184017",
+  "question": "Which word means 'person who guides others'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "leader",
+  "options": [
+   "leader",
+   "school",
+   "councillor",
+   "clan"
+  ],
+  "explanation": "person who guides others — that is 'leader'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3184018",
+  "question": "The ___ connects the village.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "medium",
+  "answer": "road",
+  "options": [
+   "road",
+   "school",
+   "hospital",
+   "visitor"
+  ],
+  "explanation": "The word is 'road': The road connects the village.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3184019",
+  "question": "Which word means 'person who comes to visit'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Home and Community",
+  "difficulty": "easy",
+  "answer": "visitor",
+  "options": [
+   "visitor",
+   "clan",
+   "market",
+   "mosque"
+  ],
+  "explanation": "person who comes to visit — that is 'visitor'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH3125000",
+  "question": "What does 'swamp' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "wet land with grass and reeds",
+  "options": [
+   "wet land with grass and reeds",
+   "a drawing that shows places from above",
+   "a small place where families live near each other",
+   "a line that shows where an area ends"
+  ],
+  "explanation": "'swamp' means wet land with grass and reeds.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3125001",
+  "question": "What does 'south' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "the direction towards the bottom of a map",
+  "options": [
+   "the direction towards the bottom of a map",
+   "the direction where the sun rises",
+   "a small part of a village or town",
+   "a small place where families live near each other"
+  ],
+  "explanation": "'south' means the direction towards the bottom of a map.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3125002",
+  "question": "What does 'road' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "a path for vehicles and people",
+  "options": [
+   "a path for vehicles and people",
+   "fresh water that flows in a channel",
+   "a line that shows where an area ends",
+   "a part of a town or city like a sub-county"
+  ],
+  "explanation": "'road' means a path for vehicles and people.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3125003",
+  "question": "What does 'valley' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "low land between hills",
+  "options": [
+   "low land between hills",
+   "a group of parishes with one local government",
+   "wet land with grass and reeds",
+   "a group of villages that work together"
+  ],
+  "explanation": "'valley' means low land between hills.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH3125004",
+  "question": "What does 'east' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "the direction where the sun rises",
+  "options": [
+   "the direction where the sun rises",
+   "a part of a town or city like a sub-county",
+   "a group of parishes with one local government",
+   "a big area thick with trees"
+  ],
+  "explanation": "'east' means the direction where the sun rises.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3125005",
+  "question": "The murram ___ connects the village to town.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "road",
+  "options": [
+   "road",
+   "map",
+   "district",
+   "east"
+  ],
+  "explanation": "The word is 'road': The murram road connects the village to town.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3125006",
+  "question": "The river marks the ___ between two parishes.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "boundary",
+  "options": [
+   "boundary",
+   "west",
+   "village",
+   "district"
+  ],
+  "explanation": "The word is 'boundary': The river marks the boundary between two parishes.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3125007",
+  "question": "Which word means 'fresh water that flows in a channel'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "river",
+  "options": [
+   "river",
+   "zone",
+   "division",
+   "lake"
+  ],
+  "explanation": "fresh water that flows in a channel — that is 'river'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3125008",
+  "question": "The road goes down into the ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "valley",
+  "options": [
+   "valley",
+   "north",
+   "parish",
+   "zone"
+  ],
+  "explanation": "The word is 'valley': The road goes down into the valley.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH3125009",
+  "question": "Our ___ has ten houses and a shop.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "zone",
+  "options": [
+   "zone",
+   "map",
+   "hill",
+   "lake"
+  ],
+  "explanation": "The word is 'zone': Our zone has ten houses and a shop.",
+  "hint": "It starts with 'Z'.",
+  "image": null
+ },
+ {
+  "id": "TH3125010",
+  "question": "What does 'district' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "a big area made of many sub-counties",
+  "options": [
+   "a big area made of many sub-counties",
+   "a drawing that shows places from above",
+   "wet land with grass and reeds",
+   "a line that shows where an area ends"
+  ],
+  "explanation": "'district' means a big area made of many sub-counties.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3125011",
+  "question": "Which word means 'the way you go to reach a place'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "direction",
+  "options": [
+   "direction",
+   "forest",
+   "boundary",
+   "west"
+  ],
+  "explanation": "the way you go to reach a place — that is 'direction'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3125012",
+  "question": "Which word means 'a drawing that shows places from above'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "map",
+  "options": [
+   "map",
+   "division",
+   "river",
+   "zone"
+  ],
+  "explanation": "a drawing that shows places from above — that is 'map'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3125013",
+  "question": "What does 'lake' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "a large body of water surrounded by land",
+  "options": [
+   "a large body of water surrounded by land",
+   "a part of a town or city like a sub-county",
+   "a group of parishes with one local government",
+   "a path for vehicles and people"
+  ],
+  "explanation": "'lake' means a large body of water surrounded by land.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3125014",
+  "question": "What does 'direction' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "the way you go to reach a place",
+  "options": [
+   "the way you go to reach a place",
+   "a small part of a village or town",
+   "a drawing that shows places from above",
+   "the direction towards the top of a map"
+  ],
+  "explanation": "'direction' means the way you go to reach a place.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3125015",
+  "question": "The ___ floods in the rain season.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "swamp",
+  "options": [
+   "swamp",
+   "zone",
+   "hill",
+   "north"
+  ],
+  "explanation": "The word is 'swamp': The swamp floods in the rain season.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3125016",
+  "question": "Which word means 'a small place where families live near each other'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "village",
+  "options": [
+   "village",
+   "division",
+   "district",
+   "valley"
+  ],
+  "explanation": "a small place where families live near each other — that is 'village'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH3125017",
+  "question": "The market is ___ of the borehole.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "south",
+  "options": [
+   "south",
+   "district",
+   "map",
+   "zone"
+  ],
+  "explanation": "The word is 'south': The market is south of the borehole.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3125018",
+  "question": "Amina walks to her ___ school.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "medium",
+  "answer": "village",
+  "options": [
+   "village",
+   "division",
+   "district",
+   "valley"
+  ],
+  "explanation": "The word is 'village': Amina walks to her village school.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH3125019",
+  "question": "Which word means 'a big area made of many sub-counties'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Our Sub-County / Division",
+  "difficulty": "easy",
+  "answer": "district",
+  "options": [
+   "district",
+   "swamp",
+   "road",
+   "sub-county"
+  ],
+  "explanation": "a big area made of many sub-counties — that is 'district'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3149000",
+  "question": "A boda boda is ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "transport",
+  "options": [
+   "transport",
+   "nurse",
+   "trader",
+   "tools"
+  ],
+  "explanation": "The word is 'transport': A boda boda is transport.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3149001",
+  "question": "The ___ is busy on Saturdays.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "market",
+  "options": [
+   "market",
+   "trade",
+   "money",
+   "services"
+  ],
+  "explanation": "The word is 'market': The market is busy on Saturdays.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3149002",
+  "question": "Which word means 'a difficult problem'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "challenge",
+  "options": [
+   "challenge",
+   "services",
+   "nurse",
+   "money"
+  ],
+  "explanation": "a difficult problem — that is 'challenge'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3149003",
+  "question": "What does 'trader' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "person who buys and sells goods",
+  "options": [
+   "person who buys and sells goods",
+   "plants grown for food",
+   "coins and notes used to buy",
+   "work that helps others like haircuts"
+  ],
+  "explanation": "'trader' means person who buys and sells goods.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3149004",
+  "question": "Using a tarp is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "solution",
+  "options": [
+   "solution",
+   "trade",
+   "weather",
+   "transport"
+  ],
+  "explanation": "The word is 'solution': Using a tarp is a solution.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3149005",
+  "question": "Which word means 'sun, rain, wind each day'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "weather",
+  "options": [
+   "weather",
+   "farmer",
+   "animals",
+   "trading"
+  ],
+  "explanation": "sun, rain, wind each day — that is 'weather'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3149006",
+  "question": "He saves ___ for tools.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "money",
+  "options": [
+   "money",
+   "farmer",
+   "market",
+   "economic activity"
+  ],
+  "explanation": "The word is 'money': He saves money for tools.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3149007",
+  "question": "Farming is an ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "economic activity",
+  "options": [
+   "economic activity",
+   "trade",
+   "trading",
+   "weather"
+  ],
+  "explanation": "The word is 'economic activity': Farming is an economic activity.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3149008",
+  "question": "Which word means 'person who cares for sick people'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "nurse",
+  "options": [
+   "nurse",
+   "services",
+   "challenge",
+   "tools"
+  ],
+  "explanation": "person who cares for sick people — that is 'nurse'.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3149009",
+  "question": "Which word means 'a talk to learn from someone'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "interview",
+  "options": [
+   "interview",
+   "services",
+   "occupation",
+   "economic activity"
+  ],
+  "explanation": "a talk to learn from someone — that is 'interview'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH3149010",
+  "question": "The ___ gives medicine.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "nurse",
+  "options": [
+   "nurse",
+   "services",
+   "challenge",
+   "tools"
+  ],
+  "explanation": "The word is 'nurse': The nurse gives medicine.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3149011",
+  "question": "What does 'challenge' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a difficult problem",
+  "options": [
+   "a difficult problem",
+   "a talk to learn from someone",
+   "livestock like cows and goats",
+   "items used to do work"
+  ],
+  "explanation": "'challenge' means a difficult problem.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3149012",
+  "question": "___ brings goods to buyers.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "trading",
+  "options": [
+   "trading",
+   "transport",
+   "trader",
+   "crops"
+  ],
+  "explanation": "The word is 'trading': Trading brings goods to buyers.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3149013",
+  "question": "A saw and hammer are ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "tools",
+  "options": [
+   "tools",
+   "transport",
+   "work",
+   "solution"
+  ],
+  "explanation": "The word is 'tools': A saw and hammer are tools.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3149014",
+  "question": "What does 'teacher' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "person who teaches children",
+  "options": [
+   "person who teaches children",
+   "the act of buying and selling",
+   "person who buys and sells goods",
+   "buying and selling things"
+  ],
+  "explanation": "'teacher' means person who teaches children.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3149015",
+  "question": "What does 'services' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "work that helps others like haircuts",
+  "options": [
+   "work that helps others like haircuts",
+   "person who grows crops and raises animals",
+   "livestock like cows and goats",
+   "work done for pay"
+  ],
+  "explanation": "'services' means work that helps others like haircuts.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3149016",
+  "question": "Which word means 'place where people buy and sell'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "market",
+  "options": [
+   "market",
+   "trade",
+   "money",
+   "services"
+  ],
+  "explanation": "place where people buy and sell — that is 'market'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3149017",
+  "question": "What does 'weather' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "sun, rain, wind each day",
+  "options": [
+   "sun, rain, wind each day",
+   "a talk to learn from someone",
+   "activity that uses effort",
+   "work done for pay"
+  ],
+  "explanation": "'weather' means sun, rain, wind each day.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3149018",
+  "question": "Which word means 'a type of work people do'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "occupation",
+  "options": [
+   "occupation",
+   "crops",
+   "teacher",
+   "market"
+  ],
+  "explanation": "a type of work people do — that is 'occupation'.",
+  "hint": "It starts with 'O'.",
+  "image": null
+ },
+ {
+  "id": "TH3149019",
+  "question": "What does 'money' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Livelihood in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "coins and notes used to buy",
+  "options": [
+   "coins and notes used to buy",
+   "buying and selling things",
+   "a way to fix a problem",
+   "person who cares for sick people"
+  ],
+  "explanation": "'money' means coins and notes used to buy.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3186000",
+  "question": "What does 'trading' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "buying and selling goods at markets",
+  "options": [
+   "buying and selling goods at markets",
+   "make free from dirt or rubbish",
+   "unwanted materials thrown away",
+   "put seeds or seedlings in soil to grow"
+  ],
+  "explanation": "'trading' means buying and selling goods at markets.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3186001",
+  "question": "Which word means 'growing crops for food and sale'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "farming",
+  "options": [
+   "farming",
+   "plant",
+   "tourism",
+   "building"
+  ],
+  "explanation": "growing crops for food and sale — that is 'farming'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3186002",
+  "question": "What does 'building' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "making houses, schools, roads",
+  "options": [
+   "making houses, schools, roads",
+   "the top layer of ground where plants grow",
+   "put seeds or seedlings in soil to grow",
+   "human beings who live and work here"
+  ],
+  "explanation": "'building' means making houses, schools, roads.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3186003",
+  "question": "Which word means 'dry waste like paper, plastic, tins'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "rubbish",
+  "options": [
+   "rubbish",
+   "waste",
+   "brick making",
+   "plants"
+  ],
+  "explanation": "dry waste like paper, plastic, tins — that is 'rubbish'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3186004",
+  "question": "___ build houses and schools.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "people",
+  "options": [
+   "people",
+   "building",
+   "rubbish",
+   "conserve"
+  ],
+  "explanation": "The word is 'people': People build houses and schools.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3186005",
+  "question": "Which word means 'keep safe from harm'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "protect",
+  "options": [
+   "protect",
+   "air",
+   "people",
+   "conserve"
+  ],
+  "explanation": "keep safe from harm — that is 'protect'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3186006",
+  "question": "What does 'pollution' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "dirty air, water, or soil that harms life",
+  "options": [
+   "dirty air, water, or soil that harms life",
+   "the invisible gas we breathe",
+   "buying and selling goods at markets",
+   "growing crops for food and sale"
+  ],
+  "explanation": "'pollution' means dirty air, water, or soil that harms life.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3186007",
+  "question": "What does 'protect' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "keep safe from harm",
+  "options": [
+   "keep safe from harm",
+   "make free from dirt or rubbish",
+   "letting animals eat grass in fields",
+   "the top layer of ground where plants grow"
+  ],
+  "explanation": "'protect' means keep safe from harm.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3186008",
+  "question": "Which word means 'buying and selling goods at markets'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "trading",
+  "options": [
+   "trading",
+   "grazing",
+   "fishing",
+   "protect"
+  ],
+  "explanation": "buying and selling goods at markets — that is 'trading'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3186009",
+  "question": "What does 'people' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "human beings who live and work here",
+  "options": [
+   "human beings who live and work here",
+   "structures like homes, shops, schools",
+   "dry waste like paper, plastic, tins",
+   "the top layer of ground where plants grow"
+  ],
+  "explanation": "'people' means human beings who live and work here.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3186010",
+  "question": "___ give us shelter.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "buildings",
+  "options": [
+   "buildings",
+   "tourism",
+   "farming",
+   "fishing"
+  ],
+  "explanation": "The word is 'buildings': Buildings give us shelter.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3186011",
+  "question": "What does 'animals' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "living creatures like goats, cows, birds",
+  "options": [
+   "living creatures like goats, cows, birds",
+   "catching fish from lakes and rivers",
+   "use carefully so it lasts long",
+   "visitors coming to see nature and culture"
+  ],
+  "explanation": "'animals' means living creatures like goats, cows, birds.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3186012",
+  "question": "Which word means 'catching fish from lakes and rivers'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "fishing",
+  "options": [
+   "fishing",
+   "waste",
+   "trading",
+   "plants"
+  ],
+  "explanation": "catching fish from lakes and rivers — that is 'fishing'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3186013",
+  "question": "What does 'tourism' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "visitors coming to see nature and culture",
+  "options": [
+   "visitors coming to see nature and culture",
+   "use carefully so it lasts long",
+   "living things like trees, crops, grass",
+   "buying and selling goods at markets"
+  ],
+  "explanation": "'tourism' means visitors coming to see nature and culture.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3186014",
+  "question": "Which word means 'use carefully so it lasts long'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "conserve",
+  "options": [
+   "conserve",
+   "animals",
+   "protect",
+   "rubbish"
+  ],
+  "explanation": "use carefully so it lasts long — that is 'conserve'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3186015",
+  "question": "My father does ___ of maize.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "farming",
+  "options": [
+   "farming",
+   "plant",
+   "tourism",
+   "building"
+  ],
+  "explanation": "The word is 'farming': My father does farming of maize.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3186016",
+  "question": "What does 'conserve' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "use carefully so it lasts long",
+  "options": [
+   "use carefully so it lasts long",
+   "dry waste like paper, plastic, tins",
+   "living things like trees, crops, grass",
+   "making bricks from soil for building"
+  ],
+  "explanation": "'conserve' means use carefully so it lasts long.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3186017",
+  "question": "Plastic ___ blocks the drainage.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "waste",
+  "options": [
+   "waste",
+   "rubbish",
+   "building",
+   "air"
+  ],
+  "explanation": "The word is 'waste': Plastic waste blocks the drainage.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3186018",
+  "question": "We ___ trees by not cutting them.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "protect",
+  "options": [
+   "protect",
+   "air",
+   "people",
+   "conserve"
+  ],
+  "explanation": "The word is 'protect': We protect trees by not cutting them.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3186019",
+  "question": "Which word means 'living things like trees, crops, grass'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 1",
+  "unit": "Environment in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "plants",
+  "options": [
+   "plants",
+   "plant",
+   "pollution",
+   "fishing"
+  ],
+  "explanation": "living things like trees, crops, grass — that is 'plants'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3269000",
+  "question": "What does 'harvest' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "gather ripe crops",
+  "options": [
+   "gather ripe crops",
+   "say what will happen later",
+   "put seeds in soil to grow",
+   "water falling from the sky"
+  ],
+  "explanation": "'harvest' means gather ripe crops.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3269001",
+  "question": "We ___ the next season weather.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "predict",
+  "options": [
+   "predict",
+   "sun",
+   "week",
+   "harvest"
+  ],
+  "explanation": "The word is 'predict': We predict the next season weather.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3269002",
+  "question": "What does 'fish' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "catch fish from water",
+  "options": [
+   "catch fish from water",
+   "write down information",
+   "how hot or cold the air is",
+   "a board showing daily weather"
+  ],
+  "explanation": "'fish' means catch fish from water.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3269003",
+  "question": "Which word means 'gather ripe crops'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "harvest",
+  "options": [
+   "harvest",
+   "build",
+   "predict",
+   "wind"
+  ],
+  "explanation": "gather ripe crops — that is 'harvest'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3269004",
+  "question": "Which word means 'water falling from the sky'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "rain",
+  "options": [
+   "rain",
+   "farmer",
+   "cloud",
+   "wind"
+  ],
+  "explanation": "water falling from the sky — that is 'rain'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3269005",
+  "question": "What does 'thermometer' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a tool that shows temperature",
+  "options": [
+   "a tool that shows temperature",
+   "person who grows crops",
+   "the condition of the air each day",
+   "the bright star that gives light and heat"
+  ],
+  "explanation": "'thermometer' means a tool that shows temperature.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3269006",
+  "question": "Which word means 'go from one place to another'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "travel",
+  "options": [
+   "travel",
+   "weather chart",
+   "rain gauge",
+   "thermometer"
+  ],
+  "explanation": "go from one place to another — that is 'travel'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3269007",
+  "question": "What does 'plant' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "put seeds in soil to grow",
+  "options": [
+   "put seeds in soil to grow",
+   "write down information",
+   "go from one place to another",
+   "strong wind with heavy rain"
+  ],
+  "explanation": "'plant' means put seeds in soil to grow.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3269008",
+  "question": "What does 'storm' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "strong wind with heavy rain",
+  "options": [
+   "strong wind with heavy rain",
+   "say what will happen later",
+   "moving air",
+   "the bright star that gives light and heat"
+  ],
+  "explanation": "'storm' means strong wind with heavy rain.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3269009",
+  "question": "They ___ in the lake.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "fish",
+  "options": [
+   "fish",
+   "plant",
+   "rain gauge",
+   "build"
+  ],
+  "explanation": "The word is 'fish': They fish in the lake.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3269010",
+  "question": "What does 'temperature' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "how hot or cold the air is",
+  "options": [
+   "how hot or cold the air is",
+   "go from one place to another",
+   "water falling from the sky",
+   "make something like a house"
+  ],
+  "explanation": "'temperature' means how hot or cold the air is.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3269011",
+  "question": "Which word means 'moving air'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "wind",
+  "options": [
+   "wind",
+   "plant",
+   "sun",
+   "harvest"
+  ],
+  "explanation": "moving air — that is 'wind'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3269012",
+  "question": "What does 'predict' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "say what will happen later",
+  "options": [
+   "say what will happen later",
+   "a tool that shows temperature",
+   "how hot or cold the air is",
+   "make something like a house"
+  ],
+  "explanation": "'predict' means say what will happen later.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3269013",
+  "question": "What does 'weather' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "the condition of the air each day",
+  "options": [
+   "the condition of the air each day",
+   "without water or moisture",
+   "a tool that catches rain to measure it",
+   "a time of year with similar weather"
+  ],
+  "explanation": "'weather' means the condition of the air each day.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3269014",
+  "question": "Which word means 'a tool that catches rain to measure it'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "rain gauge",
+  "options": [
+   "rain gauge",
+   "storm",
+   "predict",
+   "thermometer"
+  ],
+  "explanation": "a tool that catches rain to measure it — that is 'rain gauge'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3269015",
+  "question": "The ___ reads 28 degrees.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "thermometer",
+  "options": [
+   "thermometer",
+   "sun",
+   "rain",
+   "fish"
+  ],
+  "explanation": "The word is 'thermometer': The thermometer reads 28 degrees.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3269016",
+  "question": "Which word means 'seven days'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "week",
+  "options": [
+   "week",
+   "dry",
+   "weather",
+   "weather chart"
+  ],
+  "explanation": "seven days — that is 'week'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3269017",
+  "question": "We ___ beans in the garden.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "plant",
+  "options": [
+   "plant",
+   "cloud",
+   "weather",
+   "rain"
+  ],
+  "explanation": "The word is 'plant': We plant beans in the garden.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3269018",
+  "question": "We study weather for a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "week",
+  "options": [
+   "week",
+   "dry",
+   "weather",
+   "weather chart"
+  ],
+  "explanation": "The word is 'week': We study weather for a week.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3269019",
+  "question": "Which word means 'white or grey mass in the sky'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Environment and Weather in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "cloud",
+  "options": [
+   "cloud",
+   "weather chart",
+   "rain",
+   "sun"
+  ],
+  "explanation": "white or grey mass in the sky — that is 'cloud'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3272000",
+  "question": "What does 'seed' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "the small part of a plant that grows into a new plant",
+  "options": [
+   "the small part of a plant that grows into a new plant",
+   "animals that live in water and have fins",
+   "a home built by birds to lay eggs",
+   "a living thing that grows in soil and has leaves"
+  ],
+  "explanation": "'seed' means the small part of a plant that grows into a new plant.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3272001",
+  "question": "What does 'living things' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "things that grow, breathe, and need food",
+  "options": [
+   "things that grow, breathe, and need food",
+   "the top layer of ground where plants grow",
+   "a living creature that moves and breathes",
+   "a large area covered with trees"
+  ],
+  "explanation": "'living things' means things that grow, breathe, and need food.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3272002",
+  "question": "Which word means 'small animals with six legs'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "insects",
+  "options": [
+   "insects",
+   "feed",
+   "shelter",
+   "cattle"
+  ],
+  "explanation": "small animals with six legs — that is 'insects'.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH3272003",
+  "question": "Worms live in the **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "soil",
+  "options": [
+   "soil",
+   "living things",
+   "shelter",
+   "sunlight"
+  ],
+  "explanation": "The word is 'soil': Worms live in the **soil**.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3272004",
+  "question": "What does 'animal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "a living creature that moves and breathes",
+  "options": [
+   "a living creature that moves and breathes",
+   "the natural home of an animal or plant",
+   "light from the sun that plants use to make food",
+   "wet land with water and grass"
+  ],
+  "explanation": "'animal' means a living creature that moves and breathes.",
+  "hint": "It starts with 'A'.",
+  "image": null
+ },
+ {
+  "id": "TH3272005",
+  "question": "What does 'cattle' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "cows and bulls kept for milk and meat",
+  "options": [
+   "cows and bulls kept for milk and meat",
+   "the natural home of an animal or plant",
+   "a place that protects from weather and danger",
+   "a living creature that moves and breathes"
+  ],
+  "explanation": "'cattle' means cows and bulls kept for milk and meat.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3272006",
+  "question": "Which word means 'to give food or nutrients'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "feed",
+  "options": [
+   "feed",
+   "shelter",
+   "growth",
+   "goats"
+  ],
+  "explanation": "to give food or nutrients — that is 'feed'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3272007",
+  "question": "What does 'insects' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "small animals with six legs",
+  "options": [
+   "small animals with six legs",
+   "the process of getting bigger",
+   "cows and bulls kept for milk and meat",
+   "a living thing that grows in soil and has leaves"
+  ],
+  "explanation": "'insects' means small animals with six legs.",
+  "hint": "It starts with 'I'.",
+  "image": null
+ },
+ {
+  "id": "TH3272008",
+  "question": "Which word means 'animals with horns that give milk and meat'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "goats",
+  "options": [
+   "goats",
+   "growth",
+   "cattle",
+   "sunlight"
+  ],
+  "explanation": "animals with horns that give milk and meat — that is 'goats'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3272009",
+  "question": "Which word means 'the natural home of an animal or plant'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "habitat",
+  "options": [
+   "habitat",
+   "insects",
+   "sunlight",
+   "goats"
+  ],
+  "explanation": "the natural home of an animal or plant — that is 'habitat'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3272010",
+  "question": "Which word means 'the process of getting bigger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "growth",
+  "options": [
+   "growth",
+   "feed",
+   "shelter",
+   "swamp"
+  ],
+  "explanation": "the process of getting bigger — that is 'growth'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3272011",
+  "question": "Which word means 'a place that protects from weather and danger'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "shelter",
+  "options": [
+   "shelter",
+   "insects",
+   "seed",
+   "swamp"
+  ],
+  "explanation": "a place that protects from weather and danger — that is 'shelter'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3272012",
+  "question": "Which word means 'animals that live in water and have fins'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "fish",
+  "options": [
+   "fish",
+   "plant",
+   "birds",
+   "animal"
+  ],
+  "explanation": "animals that live in water and have fins — that is 'fish'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3272013",
+  "question": "Which word means 'a living thing that grows in soil and has leaves'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "plant",
+  "options": [
+   "plant",
+   "birds",
+   "nest",
+   "swamp"
+  ],
+  "explanation": "a living thing that grows in soil and has leaves — that is 'plant'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3272014",
+  "question": "The mango **___** gives us fruit.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "plant",
+  "options": [
+   "plant",
+   "birds",
+   "nest",
+   "swamp"
+  ],
+  "explanation": "The word is 'plant': The mango **plant** gives us fruit.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3272015",
+  "question": "What does 'water' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "liquid that living things need to survive",
+  "options": [
+   "liquid that living things need to survive",
+   "the small part of a plant that grows into a new plant",
+   "the process of getting bigger",
+   "animals that live in water and have fins"
+  ],
+  "explanation": "'water' means liquid that living things need to survive.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3272016",
+  "question": "What does 'habitat' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "the natural home of an animal or plant",
+  "options": [
+   "the natural home of an animal or plant",
+   "a living creature that moves and breathes",
+   "things that grow, breathe, and need food",
+   "the top layer of ground where plants grow"
+  ],
+  "explanation": "'habitat' means the natural home of an animal or plant.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3272017",
+  "question": "What does 'feed' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "to give food or nutrients",
+  "options": [
+   "to give food or nutrients",
+   "animals that live in water and have fins",
+   "a place that protects from weather and danger",
+   "light from the sun that plants use to make food"
+  ],
+  "explanation": "'feed' means to give food or nutrients.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3272018",
+  "question": "What does 'birds' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "animals with feathers and wings",
+  "options": [
+   "animals with feathers and wings",
+   "the process of getting bigger",
+   "small animals with six legs",
+   "a large area covered with trees"
+  ],
+  "explanation": "'birds' means animals with feathers and wings.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3272019",
+  "question": "Which word means 'light from the sun that plants use to make food'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Living Things in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "sunlight",
+  "options": [
+   "sunlight",
+   "cattle",
+   "habitat",
+   "shelter"
+  ],
+  "explanation": "light from the sun that plants use to make food — that is 'sunlight'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3261000",
+  "question": "___ holds roots firm.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "soil",
+  "options": [
+   "soil",
+   "beans",
+   "germination",
+   "leaves"
+  ],
+  "explanation": "The word is 'soil': Soil holds roots firm.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3261001",
+  "question": "Which word means 'liquid plants drink'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "water",
+  "options": [
+   "water",
+   "sweet potato",
+   "fruit",
+   "beans"
+  ],
+  "explanation": "liquid plants drink — that is 'water'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3261002",
+  "question": "Which word means 'protein rich seeds'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "beans",
+  "options": [
+   "beans",
+   "fruit",
+   "banana",
+   "roots"
+  ],
+  "explanation": "protein rich seeds — that is 'beans'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3261003",
+  "question": "___ is boiled.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "sweet potato",
+  "options": [
+   "sweet potato",
+   "soil",
+   "care",
+   "water"
+  ],
+  "explanation": "The word is 'sweet potato': Sweet potato is boiled.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3261004",
+  "question": "What does 'germination' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "seed starting to sprout",
+  "options": [
+   "seed starting to sprout",
+   "sweet part with seeds inside",
+   "yellow grain ground into flour",
+   "green parts that make food"
+  ],
+  "explanation": "'germination' means seed starting to sprout.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3261005",
+  "question": "Which word means 'yellow grain ground into flour'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "maize",
+  "options": [
+   "maize",
+   "plant",
+   "leaves",
+   "sweet potato"
+  ],
+  "explanation": "yellow grain ground into flour — that is 'maize'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3261006",
+  "question": "___ are cooked in a pot.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "beans",
+  "options": [
+   "beans",
+   "fruit",
+   "banana",
+   "roots"
+  ],
+  "explanation": "The word is 'beans': Beans are cooked in a pot.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3261007",
+  "question": "___ feeds the leaves.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "sunlight",
+  "options": [
+   "sunlight",
+   "cassava",
+   "water",
+   "fruit"
+  ],
+  "explanation": "The word is 'sunlight': Sunlight feeds the leaves.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3261008",
+  "question": "What does 'water' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "liquid plants drink",
+  "options": [
+   "liquid plants drink",
+   "sweet part with seeds inside",
+   "main stalk that carries water",
+   "tiny pieces that grow new plants"
+  ],
+  "explanation": "'water' means liquid plants drink.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3261009",
+  "question": "___ means watering and weeding.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "care",
+  "options": [
+   "care",
+   "stem",
+   "roots",
+   "maize"
+  ],
+  "explanation": "The word is 'care': Care means watering and weeding.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3261010",
+  "question": "What does 'pawpaw' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "soft orange fruit",
+  "options": [
+   "soft orange fruit",
+   "part that holds plant in soil",
+   "tiny plant beginning",
+   "living thing with roots, stem, leaves"
+  ],
+  "explanation": "'pawpaw' means soft orange fruit.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3261011",
+  "question": "Which word means 'long fruit cooked as matooke'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "banana",
+  "options": [
+   "banana",
+   "sweet potato",
+   "leaves",
+   "maize"
+  ],
+  "explanation": "long fruit cooked as matooke — that is 'banana'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3261012",
+  "question": "What does 'fruit' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "sweet part with seeds inside",
+  "options": [
+   "sweet part with seeds inside",
+   "looking after the plant",
+   "soft orange fruit",
+   "bright part that makes fruit"
+  ],
+  "explanation": "'fruit' means sweet part with seeds inside.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3261013",
+  "question": "The ___ hold the plant firm.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "roots",
+  "options": [
+   "roots",
+   "soil",
+   "mango",
+   "plant"
+  ],
+  "explanation": "The word is 'roots': The roots hold the plant firm.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3261014",
+  "question": "___ is soft and sweet.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "pawpaw",
+  "options": [
+   "pawpaw",
+   "cassava",
+   "seed",
+   "leaves"
+  ],
+  "explanation": "The word is 'pawpaw': Pawpaw is soft and sweet.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3261015",
+  "question": "What does 'growth' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "getting bigger and stronger",
+  "options": [
+   "getting bigger and stronger",
+   "green parts that make food",
+   "orange root vegetable",
+   "tiny plant beginning"
+  ],
+  "explanation": "'growth' means getting bigger and stronger.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3261016",
+  "question": "___ becomes matooke.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "banana",
+  "options": [
+   "banana",
+   "sweet potato",
+   "leaves",
+   "maize"
+  ],
+  "explanation": "The word is 'banana': Banana becomes matooke.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3261017",
+  "question": "What does 'cassava' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "root crop used for flour",
+  "options": [
+   "root crop used for flour",
+   "protein rich seeds",
+   "bright part that makes fruit",
+   "getting bigger and stronger"
+  ],
+  "explanation": "'cassava' means root crop used for flour.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3261018",
+  "question": "What does 'mango' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "easy",
+  "answer": "sweet yellow fruit",
+  "options": [
+   "sweet yellow fruit",
+   "seed starting to sprout",
+   "orange root vegetable",
+   "root crop used for flour"
+  ],
+  "explanation": "'mango' means sweet yellow fruit.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3261019",
+  "question": "___ helps seeds swell.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Common Plants",
+  "difficulty": "medium",
+  "answer": "water",
+  "options": [
+   "water",
+   "sweet potato",
+   "fruit",
+   "beans"
+  ],
+  "explanation": "The word is 'water': Water helps seeds swell.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3266000",
+  "question": "Which word means 'a planned task to help'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "project",
+  "options": [
+   "project",
+   "save",
+   "people",
+   "wants"
+  ],
+  "explanation": "a planned task to help — that is 'project'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3266001",
+  "question": "___ eggs brings money.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "selling",
+  "options": [
+   "selling",
+   "essential items",
+   "price",
+   "buying"
+  ],
+  "explanation": "The word is 'selling': Selling eggs brings money.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3266002",
+  "question": "Which word means 'many trees together'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "forest",
+  "options": [
+   "forest",
+   "plan",
+   "land",
+   "shillings"
+  ],
+  "explanation": "many trees together — that is 'forest'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3266003",
+  "question": "___ build houses.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "people",
+  "options": [
+   "people",
+   "forest",
+   "conserve",
+   "price"
+  ],
+  "explanation": "The word is 'people': People build houses.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3266004",
+  "question": "Which word means 'things we use to live'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "resources",
+  "options": [
+   "resources",
+   "saving",
+   "money",
+   "water"
+  ],
+  "explanation": "things we use to live — that is 'resources'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3266005",
+  "question": "Which word means 'Uganda's money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "shillings",
+  "options": [
+   "shillings",
+   "selling",
+   "wants",
+   "saving"
+  ],
+  "explanation": "Uganda's money — that is 'shillings'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3266006",
+  "question": "Which word means 'ground for farming'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "land",
+  "options": [
+   "land",
+   "future",
+   "time",
+   "selling"
+  ],
+  "explanation": "ground for farming — that is 'land'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3266007",
+  "question": "What does 'essential items' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "basic things we need",
+  "options": [
+   "basic things we need",
+   "Uganda's money",
+   "things we must have",
+   "men, women, children who work"
+  ],
+  "explanation": "'essential items' means basic things we need.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3266008",
+  "question": "___ a mango costs 500 shillings.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "buying",
+  "options": [
+   "buying",
+   "plan",
+   "future",
+   "shillings"
+  ],
+  "explanation": "The word is 'buying': Buying a mango costs 500 shillings.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3266009",
+  "question": "Which word means 'use carefully so it lasts'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "conserve",
+  "options": [
+   "conserve",
+   "selling",
+   "money",
+   "saving"
+  ],
+  "explanation": "use carefully so it lasts — that is 'conserve'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3266010",
+  "question": "What does 'future' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "the time coming after now",
+  "options": [
+   "the time coming after now",
+   "giving something for money",
+   "ground for farming",
+   "Uganda's money"
+  ],
+  "explanation": "'future' means the time coming after now.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3266011",
+  "question": "What does 'money' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "coins and notes for buying",
+  "options": [
+   "coins and notes for buying",
+   "giving something for money",
+   "getting something by paying",
+   "a plan for money"
+  ],
+  "explanation": "'money' means coins and notes for buying.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3266012",
+  "question": "What does 'price' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "how much something costs",
+  "options": [
+   "how much something costs",
+   "hours and minutes we have",
+   "a plan for money",
+   "clean liquid we drink"
+  ],
+  "explanation": "'price' means how much something costs.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3266013",
+  "question": "___ include food and shelter.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "needs",
+  "options": [
+   "needs",
+   "wants",
+   "forest",
+   "buying"
+  ],
+  "explanation": "The word is 'needs': Needs include food and shelter.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3266014",
+  "question": "He has 2000 ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "shillings",
+  "options": [
+   "shillings",
+   "selling",
+   "wants",
+   "saving"
+  ],
+  "explanation": "The word is 'shillings': He has 2000 shillings.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3266015",
+  "question": "What does 'time' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "hours and minutes we have",
+  "options": [
+   "hours and minutes we have",
+   "keep money for later",
+   "getting something by paying",
+   "a planned task to help"
+  ],
+  "explanation": "'time' means hours and minutes we have.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3266016",
+  "question": "Their ___ cleans the well.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "medium",
+  "answer": "project",
+  "options": [
+   "project",
+   "save",
+   "people",
+   "wants"
+  ],
+  "explanation": "The word is 'project': Their project cleans the well.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3266017",
+  "question": "Which word means 'the time coming after now'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "future",
+  "options": [
+   "future",
+   "price",
+   "needs",
+   "conserve"
+  ],
+  "explanation": "the time coming after now — that is 'future'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3266018",
+  "question": "What does 'shillings' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "Uganda's money",
+  "options": [
+   "Uganda's money",
+   "basic things we need",
+   "keep money for later",
+   "a list of steps"
+  ],
+  "explanation": "'shillings' means Uganda's money.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3266019",
+  "question": "Which word means 'giving something for money'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 2",
+  "unit": "Managing Resources",
+  "difficulty": "easy",
+  "answer": "selling",
+  "options": [
+   "selling",
+   "essential items",
+   "price",
+   "buying"
+  ],
+  "explanation": "giving something for money — that is 'selling'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3355000",
+  "question": "Posho and beans are good **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "food",
+  "options": [
+   "food",
+   "harmony",
+   "peace",
+   "polite"
+  ],
+  "explanation": "The word is 'food': Posho and beans are good **food**.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3355001",
+  "question": "What does 'report' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "tell a leader about a problem",
+  "options": [
+   "tell a leader about a problem",
+   "being kept safe from harm",
+   "living together happily",
+   "leader of the village"
+  ],
+  "explanation": "'report' means tell a leader about a problem.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3355002",
+  "question": "Which word means 'older respected person'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "elder",
+  "options": [
+   "elder",
+   "education",
+   "care",
+   "peace"
+  ],
+  "explanation": "older respected person — that is 'elder'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3355003",
+  "question": "We **___** to understand.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "talk",
+  "options": [
+   "talk",
+   "care",
+   "forgive",
+   "needs"
+  ],
+  "explanation": "The word is 'talk': We **talk** to understand.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3355004",
+  "question": "We want ___ in our home.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "peace",
+  "options": [
+   "peace",
+   "listen",
+   "care",
+   "education"
+  ],
+  "explanation": "The word is 'peace': We want peace in our home.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3355005",
+  "question": "What does 'education' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "going to school to learn",
+  "options": [
+   "going to school to learn",
+   "showing good manners",
+   "love and looking after",
+   "person living near you"
+  ],
+  "explanation": "'education' means going to school to learn.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3355006",
+  "question": "Which word means 'leader of the village'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "chairperson",
+  "options": [
+   "chairperson",
+   "request",
+   "talk",
+   "harmony"
+  ],
+  "explanation": "leader of the village — that is 'chairperson'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3355007",
+  "question": "The **___** helps solve disputes.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "chairperson",
+  "options": [
+   "chairperson",
+   "request",
+   "talk",
+   "harmony"
+  ],
+  "explanation": "The word is 'chairperson': The **chairperson** helps solve disputes.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3355008",
+  "question": "What does 'food' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "what we eat to grow",
+  "options": [
+   "what we eat to grow",
+   "asking politely",
+   "no fighting, calm",
+   "a safe place to sleep"
+  ],
+  "explanation": "'food' means what we eat to grow.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3355009",
+  "question": "Kato will ___ his friend.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "forgive",
+  "options": [
+   "forgive",
+   "forgiveness",
+   "food",
+   "neighbour"
+  ],
+  "explanation": "The word is 'forgive': Kato will forgive his friend.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3355010",
+  "question": "Our house gives us **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "shelter",
+  "options": [
+   "shelter",
+   "harmony",
+   "education",
+   "talk"
+  ],
+  "explanation": "The word is 'shelter': Our house gives us **shelter**.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3355011",
+  "question": "Say please to be ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "polite",
+  "options": [
+   "polite",
+   "report",
+   "listen",
+   "respect"
+  ],
+  "explanation": "The word is 'polite': Say please to be polite.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3355012",
+  "question": "We enjoy ___ in our village.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "harmony",
+  "options": [
+   "harmony",
+   "neighbour",
+   "shelter",
+   "listen"
+  ],
+  "explanation": "The word is 'harmony': We enjoy harmony in our village.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3355013",
+  "question": "Which word means 'treat others well'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "respect",
+  "options": [
+   "respect",
+   "education",
+   "neighbour",
+   "listen"
+  ],
+  "explanation": "treat others well — that is 'respect'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3355014",
+  "question": "Grandmother gives good **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "care",
+  "options": [
+   "care",
+   "protection",
+   "respect",
+   "share"
+  ],
+  "explanation": "The word is 'care': Grandmother gives good **care**.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3355015",
+  "question": "Which word means 'what we eat to grow'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "food",
+  "options": [
+   "food",
+   "harmony",
+   "peace",
+   "polite"
+  ],
+  "explanation": "what we eat to grow — that is 'food'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3355016",
+  "question": "What does 'share' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "give part of what you have",
+  "options": [
+   "give part of what you have",
+   "going to school to learn",
+   "showing good manners",
+   "hear with care"
+  ],
+  "explanation": "'share' means give part of what you have.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3355017",
+  "question": "Which word means 'things every child must have'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "child rights",
+  "options": [
+   "child rights",
+   "neighbour",
+   "care",
+   "food"
+  ],
+  "explanation": "things every child must have — that is 'child rights'.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3355018",
+  "question": "Which word means 'give part of what you have'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "share",
+  "options": [
+   "share",
+   "listen",
+   "protection",
+   "needs"
+  ],
+  "explanation": "give part of what you have — that is 'share'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3355019",
+  "question": "What does 'request' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Keeping Peace in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "asking politely",
+  "options": [
+   "asking politely",
+   "stop being angry",
+   "give part of what you have",
+   "speak to solve a problem"
+  ],
+  "explanation": "'request' means asking politely.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3335000",
+  "question": "What does 'tradition' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "a belief or practice passed down",
+  "options": [
+   "a belief or practice passed down",
+   "a female child",
+   "ideas about what is good",
+   "a usual way people do things"
+  ],
+  "explanation": "'tradition' means a belief or practice passed down.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3335001",
+  "question": "What does 'music' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "sounds made by singing or instruments",
+  "options": [
+   "sounds made by singing or instruments",
+   "a belief or practice passed down",
+   "way of life of a group",
+   "the same for everyone"
+  ],
+  "explanation": "'music' means sounds made by singing or instruments.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3335002",
+  "question": "Birth ___ welcome a baby.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "rites",
+  "options": [
+   "rites",
+   "music",
+   "gender",
+   "help"
+  ],
+  "explanation": "The word is 'rites': Birth rites welcome a baby.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3335003",
+  "question": "Which word means 'a male child'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "boy",
+  "options": [
+   "boy",
+   "preservation",
+   "culture",
+   "dance"
+  ],
+  "explanation": "a male child — that is 'boy'.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3335004",
+  "question": "Which word means 'to treat others kindly'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "respect",
+  "options": [
+   "respect",
+   "dress",
+   "help",
+   "tradition"
+  ],
+  "explanation": "to treat others kindly — that is 'respect'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3335005",
+  "question": "The ___ fetches water for the family.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "boy",
+  "options": [
+   "boy",
+   "preservation",
+   "culture",
+   "dance"
+  ],
+  "explanation": "The word is 'boy': The boy fetches water for the family.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3335006",
+  "question": "What does 'gender' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "being a boy or a girl",
+  "options": [
+   "being a boy or a girl",
+   "to give part to others",
+   "words people use to talk",
+   "ideas about what is good"
+  ],
+  "explanation": "'gender' means being a boy or a girl.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3335007",
+  "question": "What does 'culture' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "way of life of a group",
+  "options": [
+   "way of life of a group",
+   "a male child",
+   "tales told to teach or entertain",
+   "the same for everyone"
+  ],
+  "explanation": "'culture' means way of life of a group.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3335008",
+  "question": "Greeting elders is a ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "custom",
+  "options": [
+   "custom",
+   "rites",
+   "dress",
+   "boy"
+  ],
+  "explanation": "The word is 'custom': Greeting elders is a custom.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3335009",
+  "question": "The children learn a harvest ___.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "dance",
+  "options": [
+   "dance",
+   "equal",
+   "dress",
+   "respect"
+  ],
+  "explanation": "The word is 'dance': The children learn a harvest dance.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3335010",
+  "question": "What does 'equal' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "the same for everyone",
+  "options": [
+   "the same for everyone",
+   "a belief or practice passed down",
+   "moving body to rhythm",
+   "a male child"
+  ],
+  "explanation": "'equal' means the same for everyone.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3335011",
+  "question": "They ___ the mangoes equally.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "share",
+  "options": [
+   "share",
+   "values",
+   "stories",
+   "tradition"
+  ],
+  "explanation": "The word is 'share': They share the mangoes equally.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3335012",
+  "question": "What does 'promotion' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "showing and sharing something widely",
+  "options": [
+   "showing and sharing something widely",
+   "being a boy or a girl",
+   "to treat others kindly",
+   "the same for everyone"
+  ],
+  "explanation": "'promotion' means showing and sharing something widely.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3335013",
+  "question": "Both get ___ turns in the game.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "medium",
+  "answer": "equal",
+  "options": [
+   "equal",
+   "music",
+   "rites",
+   "festivals"
+  ],
+  "explanation": "The word is 'equal': Both get equal turns in the game.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3335014",
+  "question": "What does 'food' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "what people eat to live",
+  "options": [
+   "what people eat to live",
+   "the same for everyone",
+   "keeping something safe for future",
+   "words people use to talk"
+  ],
+  "explanation": "'food' means what people eat to live.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3335015",
+  "question": "What does 'custom' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "a usual way people do things",
+  "options": [
+   "a usual way people do things",
+   "to give a hand",
+   "way of life of a group",
+   "keeping something safe for future"
+  ],
+  "explanation": "'custom' means a usual way people do things.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3335016",
+  "question": "Which word means 'words people use to talk'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "language",
+  "options": [
+   "language",
+   "values",
+   "share",
+   "culture"
+  ],
+  "explanation": "words people use to talk — that is 'language'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3335017",
+  "question": "What does 'dance' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "moving body to rhythm",
+  "options": [
+   "moving body to rhythm",
+   "tales told to teach or entertain",
+   "big celebrations with music and food",
+   "keeping something safe for future"
+  ],
+  "explanation": "'dance' means moving body to rhythm.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3335018",
+  "question": "Which word means 'what people eat to live'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "food",
+  "options": [
+   "food",
+   "tradition",
+   "preservation",
+   "festivals"
+  ],
+  "explanation": "what people eat to live — that is 'food'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3335019",
+  "question": "Which word means 'ideas about what is good'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Culture and Gender",
+  "difficulty": "easy",
+  "answer": "values",
+  "options": [
+   "values",
+   "tradition",
+   "preservation",
+   "share"
+  ],
+  "explanation": "ideas about what is good — that is 'values'.",
+  "hint": "It starts with 'V'.",
+  "image": null
+ },
+ {
+  "id": "TH3377000",
+  "question": "What does 'safe water' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "water that is clean and covered for drinking",
+  "options": [
+   "water that is clean and covered for drinking",
+   "a plan of things you do every day",
+   "keeping the place clean and safe from germs",
+   "a person who cares for patients and gives medicine"
+  ],
+  "explanation": "'safe water' means water that is clean and covered for drinking.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3377001",
+  "question": "What does 'wash' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "to clean with water and soap",
+  "options": [
+   "to clean with water and soap",
+   "a toilet pit for human waste",
+   "water that is clean and covered for drinking",
+   "moving your body to stay strong and healthy"
+  ],
+  "explanation": "'wash' means to clean with water and soap.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3377002",
+  "question": "What does 'rubbish' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "things we throw away like peelings and papers",
+  "options": [
+   "things we throw away like peelings and papers",
+   "a smaller place for check-ups and treatment",
+   "a toilet pit for human waste",
+   "keeping the place clean and safe from germs"
+  ],
+  "explanation": "'rubbish' means things we throw away like peelings and papers.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3377003",
+  "question": "What does 'latrine' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a toilet pit for human waste",
+  "options": [
+   "a toilet pit for human waste",
+   "to clean with water and soap",
+   "a small room where medicine is given out",
+   "a person who finds out what sickness you have"
+  ],
+  "explanation": "'latrine' means a toilet pit for human waste.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3377004",
+  "question": "What does 'exercise' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "moving your body to stay strong and healthy",
+  "options": [
+   "moving your body to stay strong and healthy",
+   "something you take to get well",
+   "sicknesses that spread from person to person",
+   "a smaller place for check-ups and treatment"
+  ],
+  "explanation": "'exercise' means moving your body to stay strong and healthy.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3377005",
+  "question": "What does 'medicine' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "something you take to get well",
+  "options": [
+   "something you take to get well",
+   "water that is clean and covered for drinking",
+   "an injection that stops you from getting sick",
+   "a smaller place for check-ups and treatment"
+  ],
+  "explanation": "'medicine' means something you take to get well.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3377006",
+  "question": "Sleeping under a **mosquito net** is **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "prevention",
+  "options": [
+   "prevention",
+   "exercise",
+   "clean water",
+   "routine"
+  ],
+  "explanation": "The word is 'prevention': Sleeping under a **mosquito net** is **prevention**.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3377007",
+  "question": "Which word means 'a big place where sick people get help'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "hospital",
+  "options": [
+   "hospital",
+   "dispensary",
+   "mosquito net",
+   "wash"
+  ],
+  "explanation": "a big place where sick people get help — that is 'hospital'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3377008",
+  "question": "The **___** has many beds.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "hospital",
+  "options": [
+   "hospital",
+   "dispensary",
+   "mosquito net",
+   "wash"
+  ],
+  "explanation": "The word is 'hospital': The **hospital** has many beds.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3377009",
+  "question": "What does 'doctor' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a person who finds out what sickness you have",
+  "options": [
+   "a person who finds out what sickness you have",
+   "sicknesses that spread from person to person",
+   "a net over the bed that keeps mosquitoes out",
+   "water that is boiled or treated so it has no germs"
+  ],
+  "explanation": "'doctor' means a person who finds out what sickness you have.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3377010",
+  "question": "The **___** is in a small bottle.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "medicine",
+  "options": [
+   "medicine",
+   "doctor",
+   "immunisation",
+   "sanitation"
+  ],
+  "explanation": "The word is 'medicine': The **medicine** is in a small bottle.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3377011",
+  "question": "Which word means 'sicknesses that spread from person to person'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "diseases",
+  "options": [
+   "diseases",
+   "sanitation",
+   "malaria",
+   "doctor"
+  ],
+  "explanation": "sicknesses that spread from person to person — that is 'diseases'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3377012",
+  "question": "What does 'nurse' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a person who cares for patients and gives medicine",
+  "options": [
+   "a person who cares for patients and gives medicine",
+   "a person who finds out what sickness you have",
+   "a smaller place for check-ups and treatment",
+   "water that is clean and covered for drinking"
+  ],
+  "explanation": "'nurse' means a person who cares for patients and gives medicine.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3377013",
+  "question": "We put **___** in the pit and burn it.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "rubbish",
+  "options": [
+   "rubbish",
+   "medicine",
+   "prevention",
+   "wash"
+  ],
+  "explanation": "The word is 'rubbish': We put **rubbish** in the pit and burn it.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3377014",
+  "question": "Good **___** means washing hands with soap.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "hygiene",
+  "options": [
+   "hygiene",
+   "malaria",
+   "diseases",
+   "routine"
+  ],
+  "explanation": "The word is 'hygiene': Good **hygiene** means washing hands with soap.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3377015",
+  "question": "The class **___** shows Science on Monday.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "timetable",
+  "options": [
+   "timetable",
+   "wash",
+   "latrine",
+   "dispensary"
+  ],
+  "explanation": "The word is 'timetable': The class **timetable** shows Science on Monday.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3377016",
+  "question": "What does 'timetable' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a written plan showing when to do each task",
+  "options": [
+   "a written plan showing when to do each task",
+   "moving your body to stay strong and healthy",
+   "sicknesses that spread from person to person",
+   "doing things to stop sickness before it starts"
+  ],
+  "explanation": "'timetable' means a written plan showing when to do each task.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3377017",
+  "question": "What does 'mosquito net' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a net over the bed that keeps mosquitoes out",
+  "options": [
+   "a net over the bed that keeps mosquitoes out",
+   "doing things to stop sickness before it starts",
+   "water that is boiled or treated so it has no germs",
+   "something you take to get well"
+  ],
+  "explanation": "'mosquito net' means a net over the bed that keeps mosquitoes out.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3377018",
+  "question": "Which word means 'a written plan showing when to do each task'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "timetable",
+  "options": [
+   "timetable",
+   "wash",
+   "latrine",
+   "dispensary"
+  ],
+  "explanation": "a written plan showing when to do each task — that is 'timetable'.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3377019",
+  "question": "What does 'dispensary' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Health in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "a small room where medicine is given out",
+  "options": [
+   "a small room where medicine is given out",
+   "doing things to stop sickness before it starts",
+   "a person who cares for patients and gives medicine",
+   "something you take to get well"
+  ],
+  "explanation": "'dispensary' means a small room where medicine is given out.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3335000",
+  "question": "We sleep on a **___** on the floor.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "mat",
+  "options": [
+   "mat",
+   "technology",
+   "natural",
+   "clay"
+  ],
+  "explanation": "The word is 'mat': We sleep on a **mat** on the floor.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3335001",
+  "question": "What does 'panga' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "big knife for cutting grass and branches",
+  "options": [
+   "big knife for cutting grass and branches",
+   "made by people, not found in nature",
+   "brush made of grass or twigs for sweeping",
+   "tool with a metal blade for digging soil"
+  ],
+  "explanation": "'panga' means big knife for cutting grass and branches.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3335002",
+  "question": "What does 'radio' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "machine that plays news and music",
+  "options": [
+   "machine that plays news and music",
+   "things used to make other things",
+   "thing with moving parts that does work",
+   "made by people, not found in nature"
+  ],
+  "explanation": "'radio' means machine that plays news and music.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3335003",
+  "question": "We use a **___** to clean the house.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "broom",
+  "options": [
+   "broom",
+   "artificial",
+   "phone",
+   "radio"
+  ],
+  "explanation": "The word is 'broom': We use a **broom** to clean the house.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3335004",
+  "question": "Which word means 'machine that plays news and music'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "radio",
+  "options": [
+   "radio",
+   "bicycle",
+   "instructions",
+   "artificial"
+  ],
+  "explanation": "machine that plays news and music — that is 'radio'.",
+  "hint": "It starts with 'R'.",
+  "image": null
+ },
+ {
+  "id": "TH3335005",
+  "question": "What does 'hoe' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "tool with a metal blade for digging soil",
+  "options": [
+   "tool with a metal blade for digging soil",
+   "things used to make other things",
+   "how something feels when you touch it",
+   "flat woven piece for sitting or sleeping"
+  ],
+  "explanation": "'hoe' means tool with a metal blade for digging soil.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3335006",
+  "question": "We use a **___** to clear the path.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "panga",
+  "options": [
+   "panga",
+   "wood",
+   "pot",
+   "technology"
+  ],
+  "explanation": "The word is 'panga': We use a **panga** to clear the path.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3335007",
+  "question": "What does 'natural' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "comes from nature, not made by people",
+  "options": [
+   "comes from nature, not made by people",
+   "soft, sticky earth used for making pots",
+   "container woven from strips of material",
+   "machine that plays news and music"
+  ],
+  "explanation": "'natural' means comes from nature, not made by people.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3335008",
+  "question": "What does 'plastic' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "light artificial material used for many things",
+  "options": [
+   "light artificial material used for many things",
+   "flat woven piece for sitting or sleeping",
+   "comes from nature, not made by people",
+   "steps that tell you how to do something"
+  ],
+  "explanation": "'plastic' means light artificial material used for many things.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3335009",
+  "question": "Which word means 'tool with a metal blade for digging soil'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "hoe",
+  "options": [
+   "hoe",
+   "pot",
+   "mat",
+   "plastic"
+  ],
+  "explanation": "tool with a metal blade for digging soil — that is 'hoe'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3335010",
+  "question": "Which word means 'big knife for cutting grass and branches'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "panga",
+  "options": [
+   "panga",
+   "wood",
+   "pot",
+   "technology"
+  ],
+  "explanation": "big knife for cutting grass and branches — that is 'panga'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3335011",
+  "question": "Which word means 'hard material from tree trunks and branches'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "wood",
+  "options": [
+   "wood",
+   "bicycle",
+   "panga",
+   "pot"
+  ],
+  "explanation": "hard material from tree trunks and branches — that is 'wood'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3335012",
+  "question": "What does 'phone' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "machine for talking to people far away",
+  "options": [
+   "machine for talking to people far away",
+   "steps that tell you how to do something",
+   "round container made of baked clay",
+   "how something feels when you touch it"
+  ],
+  "explanation": "'phone' means machine for talking to people far away.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3335013",
+  "question": "Which word means 'green plants that grow on the ground'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "grass",
+  "options": [
+   "grass",
+   "broom",
+   "panga",
+   "materials"
+  ],
+  "explanation": "green plants that grow on the ground — that is 'grass'.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3335014",
+  "question": "Father uses a **___** in the garden.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "hoe",
+  "options": [
+   "hoe",
+   "pot",
+   "mat",
+   "plastic"
+  ],
+  "explanation": "The word is 'hoe': Father uses a **hoe** in the garden.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3335015",
+  "question": "Wood is a ___ material.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "natural",
+  "options": [
+   "natural",
+   "basket",
+   "bicycle",
+   "machine"
+  ],
+  "explanation": "The word is 'natural': Wood is a natural material.",
+  "hint": "It starts with 'N'.",
+  "image": null
+ },
+ {
+  "id": "TH3335016",
+  "question": "The **pot** has a rough **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "medium",
+  "answer": "texture",
+  "options": [
+   "texture",
+   "basket",
+   "natural",
+   "bicycle"
+  ],
+  "explanation": "The word is 'texture': The **pot** has a rough **texture**.",
+  "hint": "It starts with 'T'.",
+  "image": null
+ },
+ {
+  "id": "TH3335017",
+  "question": "What does 'broom' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "brush made of grass or twigs for sweeping",
+  "options": [
+   "brush made of grass or twigs for sweeping",
+   "green plants that grow on the ground",
+   "hard material from tree trunks and branches",
+   "container woven from strips of material"
+  ],
+  "explanation": "'broom' means brush made of grass or twigs for sweeping.",
+  "hint": "It starts with 'B'.",
+  "image": null
+ },
+ {
+  "id": "TH3335018",
+  "question": "What does 'grass' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "green plants that grow on the ground",
+  "options": [
+   "green plants that grow on the ground",
+   "brush made of grass or twigs for sweeping",
+   "hard material from tree trunks and branches",
+   "made by people, not found in nature"
+  ],
+  "explanation": "'grass' means green plants that grow on the ground.",
+  "hint": "It starts with 'G'.",
+  "image": null
+ },
+ {
+  "id": "TH3335019",
+  "question": "Which word means 'strong, shiny material dug from the ground'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Basic Technology in Our Sub-County/Division",
+  "difficulty": "easy",
+  "answer": "metal",
+  "options": [
+   "metal",
+   "basket",
+   "natural",
+   "broom"
+  ],
+  "explanation": "strong, shiny material dug from the ground — that is 'metal'.",
+  "hint": "It starts with 'M'.",
+  "image": null
+ },
+ {
+  "id": "TH3391000",
+  "question": "What does 'solar power' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "energy caught from sunlight",
+  "options": [
+   "energy caught from sunlight",
+   "power from wires that runs lights and phones",
+   "hot flames that burn",
+   "turn the power off"
+  ],
+  "explanation": "'solar power' means energy caught from sunlight.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3391001",
+  "question": "Which word means 'using more than needed'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "waste",
+  "options": [
+   "waste",
+   "sun",
+   "heat",
+   "saving"
+  ],
+  "explanation": "using more than needed — that is 'waste'.",
+  "hint": "It starts with 'W'.",
+  "image": null
+ },
+ {
+  "id": "TH3391002",
+  "question": "Which word means 'hot flames that burn'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "fire",
+  "options": [
+   "fire",
+   "solar power",
+   "switch off",
+   "energy"
+  ],
+  "explanation": "hot flames that burn — that is 'fire'.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3391003",
+  "question": "What does 'light' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "brightness that helps us see",
+  "options": [
+   "brightness that helps us see",
+   "wood cut for burning",
+   "energy caught from sunlight",
+   "to put something to work"
+  ],
+  "explanation": "'light' means brightness that helps us see.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3391004",
+  "question": "What does 'dangers' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "things that can hurt you",
+  "options": [
+   "things that can hurt you",
+   "power from wires that runs lights and phones",
+   "energy caught from sunlight",
+   "brightness that helps us see"
+  ],
+  "explanation": "'dangers' means things that can hurt you.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ },
+ {
+  "id": "TH3391005",
+  "question": "Which word means 'brightness that helps us see'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "light",
+  "options": [
+   "light",
+   "fire",
+   "electricity",
+   "heat"
+  ],
+  "explanation": "brightness that helps us see — that is 'light'.",
+  "hint": "It starts with 'L'.",
+  "image": null
+ },
+ {
+  "id": "TH3391006",
+  "question": "Which word means 'from the sun'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "solar",
+  "options": [
+   "solar",
+   "care",
+   "power",
+   "switch off"
+  ],
+  "explanation": "from the sun — that is 'solar'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3391007",
+  "question": "Which word means 'strength or force to make things work'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "power",
+  "options": [
+   "power",
+   "switch off",
+   "waste",
+   "electricity"
+  ],
+  "explanation": "strength or force to make things work — that is 'power'.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3391008",
+  "question": "Which word means 'warmth that makes things hot'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "heat",
+  "options": [
+   "heat",
+   "panel",
+   "solar power",
+   "energy"
+  ],
+  "explanation": "warmth that makes things hot — that is 'heat'.",
+  "hint": "It starts with 'H'.",
+  "image": null
+ },
+ {
+  "id": "TH3391009",
+  "question": "Which word means 'keeping something for later, not wasting'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "saving",
+  "options": [
+   "saving",
+   "heat",
+   "light",
+   "power"
+  ],
+  "explanation": "keeping something for later, not wasting — that is 'saving'.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3391010",
+  "question": "What does 'sun' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "the big star that gives light and heat",
+  "options": [
+   "the big star that gives light and heat",
+   "energy caught from sunlight",
+   "turn the power off",
+   "not dirty, safe for air and land"
+  ],
+  "explanation": "'sun' means the big star that gives light and heat.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3391011",
+  "question": "Handle **fire** with **___**.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "care",
+  "options": [
+   "care",
+   "light",
+   "electricity",
+   "charcoal"
+  ],
+  "explanation": "The word is 'care': Handle **fire** with **care**.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3391012",
+  "question": "We buy ___ at the market.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "charcoal",
+  "options": [
+   "charcoal",
+   "heat",
+   "dangers",
+   "solar"
+  ],
+  "explanation": "The word is 'charcoal': We buy charcoal at the market.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3391013",
+  "question": "What does 'solar' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "from the sun",
+  "options": [
+   "from the sun",
+   "flat board that catches sunlight",
+   "hot flames that burn",
+   "power from wires that runs lights and phones"
+  ],
+  "explanation": "'solar' means from the sun.",
+  "hint": "It starts with 'S'.",
+  "image": null
+ },
+ {
+  "id": "TH3391014",
+  "question": "What does 'panel' mean?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "flat board that catches sunlight",
+  "options": [
+   "flat board that catches sunlight",
+   "hot flames that burn",
+   "warmth that makes things hot",
+   "using more than needed"
+  ],
+  "explanation": "'panel' means flat board that catches sunlight.",
+  "hint": "It starts with 'P'.",
+  "image": null
+ },
+ {
+  "id": "TH3391015",
+  "question": "Keep **___** away from dry grass.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "fire",
+  "options": [
+   "fire",
+   "solar power",
+   "switch off",
+   "energy"
+  ],
+  "explanation": "The word is 'fire': Keep **fire** away from dry grass.",
+  "hint": "It starts with 'F'.",
+  "image": null
+ },
+ {
+  "id": "TH3391016",
+  "question": "**Solar power** is **___** energy.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "clean",
+  "options": [
+   "clean",
+   "dangers",
+   "energy",
+   "power"
+  ],
+  "explanation": "The word is 'clean': **Solar power** is **clean** energy.",
+  "hint": "It starts with 'C'.",
+  "image": null
+ },
+ {
+  "id": "TH3391017",
+  "question": "Which word means 'the power to do work'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "energy",
+  "options": [
+   "energy",
+   "dangers",
+   "use",
+   "sun"
+  ],
+  "explanation": "the power to do work — that is 'energy'.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3391018",
+  "question": "The bulb uses ___ to shine.",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "medium",
+  "answer": "electricity",
+  "options": [
+   "electricity",
+   "fire",
+   "heat",
+   "sun"
+  ],
+  "explanation": "The word is 'electricity': The bulb uses electricity to shine.",
+  "hint": "It starts with 'E'.",
+  "image": null
+ },
+ {
+  "id": "TH3391019",
+  "question": "Which word means 'things that can hurt you'?",
+  "type": "multiple_choice",
+  "subject": "Theme",
+  "grade": "P3",
+  "term": "Term 3",
+  "unit": "Energy in Our Sub-County",
+  "difficulty": "easy",
+  "answer": "dangers",
+  "options": [
+   "dangers",
+   "clean",
+   "light",
+   "electricity"
+  ],
+  "explanation": "things that can hurt you — that is 'dangers'.",
+  "hint": "It starts with 'D'.",
+  "image": null
+ }
+]

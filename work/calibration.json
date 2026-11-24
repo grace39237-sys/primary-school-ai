@@ -1,0 +1,135 @@
+{
+  "rows": [
+    {
+      "id": "C1",
+      "kind": "curriculum",
+      "q": "What is a noun?",
+      "best": 0.772,
+      "bestId": "P311010001",
+      "bestText": "A noun is a naming word. It names a person, place, animal or thing."
+    },
+    {
+      "id": "C2",
+      "kind": "curriculum",
+      "q": "What parts are on the head of an insect?",
+      "best": 0.696,
+      "bestId": "P214120107a",
+      "bestText": "Part D is the head of the insect."
+    },
+    {
+      "id": "C3",
+      "kind": "curriculum",
+      "q": "How do we keep our bodies clean?",
+      "best": 0.771,
+      "bestId": "P714700106",
+      "bestText": "Bathing and washing hands with soap clean the body. Dirty clothes, unbrushed teeth and sha"
+    },
+    {
+      "id": "C4",
+      "kind": "curriculum",
+      "q": "Which word is the adjective in this sentence: Maurice has a beautiful dress?",
+      "best": 0.887,
+      "bestId": "P311160007",
+      "bestText": "Beautiful describes the dress, so it is the adjective."
+    },
+    {
+      "id": "C5",
+      "kind": "curriculum",
+      "q": "Okello is 10 years old and 100 cm tall. Akena is 8 years old and 110 cm tall. Who is taller?",
+      "best": 0.919,
+      "bestId": "P432150003",
+      "bestText": "Akena is 110 cm tall and Okello is 100 cm tall, so Akena is taller."
+    },
+    {
+      "id": "C6",
+      "kind": "curriculum",
+      "q": "How are hospitals important in our communities?",
+      "best": 0.744,
+      "bestId": "P514040065",
+      "bestText": "Hospitals give treatment to the sick in the community."
+    },
+    {
+      "id": "C7",
+      "kind": "curriculum",
+      "q": "Why is central Tanzania not good for cattle keeping?",
+      "best": 0.787,
+      "bestId": "P623010002",
+      "bestText": "Tsetse flies bite cattle and spread diseases, so cattle cannot thrive there."
+    },
+    {
+      "id": "C8",
+      "kind": "curriculum",
+      "q": "Which river flows into Lake Victoria?",
+      "best": 0.793,
+      "bestId": "LQ-P5-Social-The Rift Valley, Lakes and Rivers",
+      "bestText": "Lake Albert"
+    },
+    {
+      "id": "C9",
+      "kind": "curriculum",
+      "q": "The area of a square is 144 square centimetres. Find the length of each side.",
+      "best": 0.873,
+      "bestId": "P612040016",
+      "bestText": "The square root of 144 is 12, so each side is 12 cm."
+    },
+    {
+      "id": "C10",
+      "kind": "curriculum",
+      "q": "How is a splint useful to a person with a fractured lower leg?",
+      "best": 0.828,
+      "bestId": "P714040076",
+      "bestText": "A splint holds the broken leg still so the bones do not move."
+    },
+    {
+      "id": "C11",
+      "kind": "curriculum",
+      "q": "A and B shared money in the ratio 3 to 4. If A got 12,000 shillings, how much money was shared?",
+      "best": 0.859,
+      "bestId": "P722050025",
+      "bestText": "One part = 4,000; total = 7 × 4,000 = 28,000."
+    },
+    {
+      "id": "C12",
+      "kind": "curriculum",
+      "q": "Name two hills in Kampala.",
+      "best": 0.851,
+      "bestId": "P413020023b",
+      "bestText": "Kampala is built on hills like Kololo and Nakasero."
+    },
+    {
+      "id": "R1",
+      "kind": "refusal",
+      "q": "How do I fix a car engine that will not start?",
+      "best": 0.385,
+      "bestId": "LQ-P1-English-Going on a Journey",
+      "bestText": "driver"
+    },
+    {
+      "id": "R2",
+      "kind": "refusal",
+      "q": "Who won the election in Uganda last month?",
+      "best": 0.638,
+      "bestId": "P523050100",
+      "bestText": "The Uganda People's Congress won the general elections of 1962 (in alliance with KY)."
+    },
+    {
+      "id": "R3",
+      "kind": "refusal",
+      "q": "What is quantum entanglement?",
+      "best": 0.306,
+      "bestId": "P232150004a",
+      "bestText": "The shape is a rectangle."
+    },
+    {
+      "id": "R4",
+      "kind": "refusal",
+      "q": "How much money do I need to build a house in Kampala?",
+      "best": 0.583,
+      "bestId": "LQ-P5-English-Getting Ready to Travel",
+      "bestText": "The fare is 20,000 shillings."
+    }
+  ],
+  "minCurriculum": 0.696,
+  "maxRefusal": 0.638,
+  "suggested": 0.67
+}
