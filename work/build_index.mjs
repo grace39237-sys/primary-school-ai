@@ -19,6 +19,12 @@ env.allowLocalModels = false;
 
 const DATA = '/home/hatch/workspace/word-words-repo/data';
 const BOOKS = '/home/hatch/workspace/word-words-repo/books';
+// DL daily lesson plans (teacher material): Drive-latest copies, downloaded
+// 2026-11-25 and byte-verified against the Drive DL folder
+// (P*_DailyLesson.jsonl, plain names = upgrade1 content). The pilot1 files
+// on Drive are an UNAPPROVED trial — never use them as the source.
+// Local originals in dl-inspect/ (.fixed/.patched) are older/smaller.
+const DL_DIR = '/home/hatch/workspace/dl-inspect';
 const OUT = '/home/hatch/workspace/primary-school-ai/data';
 const LIMIT = Number(process.argv.find((a) => a.startsWith('--limit='))?.split('=')[1] || 0);
 const SKIP_EMBED = process.argv.includes('--skip-embed');
@@ -52,6 +58,110 @@ function parseBook(p) {
     else if (c === '}') { d--; if (d === 0) return JSON.parse(s.slice(start, j + 1)); }
   }
   throw new Error(`BOOK not closed in ${p}`);
+}
+
+// ---- DL daily-lesson parsing ----
+// One JSONL line = one lesson-day (900 per grade, 6,300 total). The
+// assistant message holds the plan in 3 markup variants (markdown PARTs,
+// === sections, bare PART headers) — so fields are read from a window
+// around the first 'Lesson_ID' occurrence with a tolerant field regex
+// (bold markers may sit before OR after the colon: '**Lesson_ID:**' vs
+// '**Lesson_ID**:'). The user message carries the requested slot as a
+// fallback (P{grade}_Term {term}_{subject}_{WWDD}).
+const DL_ALIASES = {
+  'literacy 1': 'Literacy I', 'literacy i': 'Literacy I',
+  'literacy 2': 'Literacy II', 'literacy ii': 'Literacy II',
+  'news': 'News', 'english': 'English', 'mathematics': 'Mathematics',
+  'integrated science': 'Integrated Science', 'science': 'Science',
+  'social studies': 'Social Studies', 'social': 'Social',
+  'christian religious education': 'Christian Religious Education',
+  'religious education': 'Christian Religious Education',
+};
+function normDlSubject(s) {
+  const t = String(s || '').trim().replace(/\s*\(.*?\)\s*$/, '').trim();
+  return DL_ALIASES[t.toLowerCase()] || t;
+}
+function dlField(win, name) {
+  // Bold markers may sit before the name, between name and colon
+  // ('**Lesson_ID**:') AND after the colon ('**Lesson_ID:**') — all three
+  // must be consumed, or the closing '**' leaks into the value (and
+  // Number('** 01') is NaN, which broke 4,590 lines in the first run).
+  const m = win.match(new RegExp(`\\*?\\*?${name}\\*?\\*?\\s*:\\s*\\*?\\*?\\s*(.+?)(?:\\n|$)`));
+  return m ? m[1].trim() : '';
+}
+// Multi-line field (Questions): value plus following lines until the next
+// field-like line or entry boundary, capped.
+function dlFieldMulti(win, name, cap = 300) {
+  const m = win.match(new RegExp(`\\*?\\*?${name}\\*?\\*?\\s*:\\s*\\*?\\*?\\s*([\\s\\S]*?)(?=\\n\\*?\\*?[A-Z][A-Za-z_]+\\*?\\*?\\s*:|\\n-{3,}|$)`));
+  if (!m) return '';
+  return m[1].replace(/\s+/g, ' ').trim().slice(0, cap);
+}
+function parseDlLine(line) {
+  const d = JSON.parse(line);
+  const user = (d.messages.find((m) => m.role === 'user') || {}).content || '';
+  const asst = (d.messages.find((m) => m.role === 'assistant') || {}).content || '';
+  const li = asst.indexOf('Lesson_ID');
+  const win = li >= 0 ? asst.slice(Math.max(0, li - 200), li + 1600) : '';
+  const um = user.match(/P(\d)_Term (\d+)_(.+)_(\d{2})(\d{2})/);
+  const gt = dlField(win, 'Grade_Term');
+  const termNum = (gt.match(/T(\d)/) || [])[1] || (um ? um[2] : '');
+  // Week/Day are digit strings; Day may carry a parenthetical day name
+  // ('3 (Wednesday)') — keep the name separately for the header.
+  const weekRaw = dlField(win, 'Week_Number');
+  const dayRaw = dlField(win, 'Day_Number');
+  const weekDigits = (weekRaw.match(/\d+/) || [])[0] || (um ? um[4] : '');
+  const dayDigits = (dayRaw.match(/\d+/) || [])[0] || (um ? um[5] : '');
+  const week = weekDigits ? String(Number(weekDigits)) : '';
+  const day = dayDigits ? String(Number(dayDigits)) : '';
+  const dayName = (dayRaw.match(/\(([^)]+)\)/) || [])[1] || '';
+  return {
+    lessonId: dlField(win, 'Lesson_ID'),
+    termNum, week, day, dayName,
+    subject: normDlSubject(dlField(win, 'Subject')) || (um ? normDlSubject(um[3]) : ''),
+    theme: dlField(win, 'Theme'),
+    objective: dlField(win, 'Learning_Objective'),
+    materials: dlField(win, 'Materials_Needed'),
+    duration: dlField(win, 'Lesson_Duration'),
+    languageFocus: dlField(win, 'Language_Focus'),
+    asst, user,
+  };
+}
+// The plan text kept in the index is a condensed, display-ready version:
+// metadata + per-activity core content/task/questions + lesson summary.
+// The full ~12KB plan text is NOT embedded: it would push index.json past
+// GitHub's 100 MB per-file push limit (measured 78.2 MB of plan text) and
+// no code path reads past the embedding/model truncation horizon anyway.
+// The full plans stay authoritative in the Drive DL folder. PART 1 (week
+// mapping) is dropped: its content IDs repeat in PART 2/3 and the chunk
+// label already carries grade/term/week/theme.
+function dlChunkText(p) {
+  const head = `${p.grade} ${p.subject} Term ${p.termNum} Week ${p.week} Day ${p.day}${p.dayName ? ` (${p.dayName})` : ''}: ${p.theme}.`;
+  const lines = [head];
+  if (p.objective) lines.push(`Objective: ${p.objective}`);
+  if (p.materials) lines.push(`Materials: ${p.materials}`);
+  if (p.duration) lines.push(`Duration: ${p.duration}`);
+  if (p.languageFocus) lines.push(`Language focus: ${p.languageFocus}`);
+  // PART 3 database entries: one activity per entry.
+  const acts = [];
+  for (const seg of p.asst.split(/DATABASE ENTRY:/).slice(1)) {
+    const core = dlField(seg, 'Core_Content');
+    const task = dlField(seg, 'Activity_Task');
+    const qs = dlFieldMulti(seg, 'Questions');
+    if (core || task) acts.push(`- ${core}${task ? `: ${task}` : ''}${qs ? ` Questions: ${qs}` : ''}`);
+  }
+  if (acts.length) lines.push('Activities:', ...acts);
+  const sm = p.asst.match(/(?:\*\*)?=== LESSON SUMMARY ===(?:\*\*)?\s*([\s\S]*?)\s*(?:\*\*)?=== END LESSON PLAN ===/);
+  if (sm) lines.push(sm[1].replace(/\s+/g, ' ').trim());
+  return lines.join('\n');
+}
+function dlSource(p) {
+  const parts = [];
+  if (p.objective) parts.push(`Objective: ${p.objective}`);
+  if (p.materials) parts.push(`Materials: ${p.materials}`);
+  if (p.duration) parts.push(`Duration: ${p.duration}`);
+  const sm = p.asst.match(/(?:\*\*)?=== LESSON SUMMARY ===(?:\*\*)?\s*([\s\S]*?)\s*(?:\*\*)?=== END LESSON PLAN ===/);
+  if (sm) parts.push(sm[1].replace(/\s+/g, ' ').trim());
+  return parts.join(' ').replace(/\s+/g, ' ').trim().slice(0, 1500);
 }
 
 // ---- 1. collect chunks ----
@@ -92,7 +202,7 @@ for (const [grade, words] of Object.entries(cw)) {
   }
 }
 
-let lessonN = 0, practiceN = 0;
+let lessonN = 0, practiceN = 0, flowN = 0;
 for (const f of fs.readdirSync(BOOKS).filter((x) => /^P[1-7]_.*\.html$/.test(x) && !x.includes('_teacher')).sort()) {
   const book = parseBook(path.join(BOOKS, f));
   const subject = normSubject(book.subject);
@@ -116,12 +226,61 @@ for (const f of fs.readdirSync(BOOKS).filter((x) => /^P[1-7]_.*\.html$/.test(x) 
           });
           practiceN++;
         }
+        // Full lesson sentences (v2.7): each flow option text is a story
+        // sentence. Counted from disk: 7,018 (the feasibility doc's 8,768
+        // is stale). The one-line 'lesson' summaries above are KEPT —
+        // they carry goal/remember/keywords for topic-level queries, while
+        // these sentences answer fact-level ones. Only 24 duplicate
+        // sentences exist across lessons (0.3%); all are kept, each tied
+        // to its own lesson via unit/id.
+        for (let si = 0; si < (l.flow || []).length; si++) {
+          const step = l.flow[si];
+          for (let oi = 0; oi < (step.opts || []).length; oi++) {
+            const t = ((step.opts[oi] || {}).t || '').trim();
+            if (!t) continue;
+            chunks.push({
+              kind: 'lesson-text', id: `LT-${grade}-${subject}-${l.title}-${si}-${oi}`.slice(0, 80), subject, grade,
+              unit: l.title, type: 'lesson', difficulty: 'easy',
+              text: `${l.title}. ${t}`, source: t,
+            });
+            flowN++;
+          }
+        }
       }
     }
   }
 }
 
-console.log(`chunks: quiz ${quizN} (no explanation: ${quizNoExpl}), class words ${cwN}, lessons ${lessonN}, lesson practice ${practiceN}, TOTAL ${chunks.length}`);
+// ---- 1b. DL daily lesson plans (teacher material, v2.7) ----
+let dlN = 0, dlFail = 0;
+for (let n = 1; n <= 7; n++) {
+  const grade = `P${n}`;
+  const file = path.join(DL_DIR, `${grade}_DailyLesson.drive.jsonl`);
+  const lines = fs.readFileSync(file, 'utf8').split('\n').filter(Boolean);
+  if (lines.length !== 900) throw new Error(`${grade} DL: expected 900 lines, got ${lines.length}`);
+  for (const ln of lines) {
+    const p = parseDlLine(ln);
+    p.grade = grade;
+    const week = Number(p.week), day = Number(p.day);
+    if (!p.lessonId || !p.termNum || !week || !day || !p.subject || !p.theme) {
+      dlFail++;
+      console.error(`DL parse fail ${grade}: ${p.user}`);
+      continue; // unlabelled line cannot be indexed; counted, not silent
+    }
+    const ww = String(week).padStart(2, '0'), dd = String(day).padStart(2, '0');
+    const subjCompact = p.subject.replace(/\s+/g, '');
+    chunks.push({
+      kind: 'dl', id: `DL-${grade}-T${p.termNum}-${subjCompact}-W${ww}D${dd}`,
+      subject: p.subject, grade, unit: `Term ${p.termNum} · Week ${week} Day ${day} · ${p.theme}`,
+      type: 'lesson', difficulty: 'easy',
+      text: dlChunkText(p), source: dlSource(p),
+    });
+    dlN++;
+  }
+}
+if (dlFail) console.log(`DL parse failures (skipped, listed above): ${dlFail}`);
+
+console.log(`chunks: quiz ${quizN} (no explanation: ${quizNoExpl}), class words ${cwN}, lessons ${lessonN}, lesson practice ${practiceN}, lesson sentences ${flowN}, DL plans ${dlN} (failed ${dlFail}), TOTAL ${chunks.length}`);
 
 // ---- 2. copy quiz JSONs for Practice mode ----
 fs.mkdirSync(path.join(OUT, 'quiz'), { recursive: true });
@@ -177,6 +336,7 @@ console.log(`DONE in ${totalS.toFixed(0)}s. index.json ${fs.statSync(path.join(O
 const report = {
   builtAt: new Date().toISOString(), totalChunks: list.length,
   quiz: quizN, quizNoExplanation: quizNoExpl, classWords: cwN, lessons: lessonN, lessonPractice: practiceN,
+  lessonText: flowN, dl: dlN, dlFailed: dlFail,
   limitedRun: LIMIT > 0, seconds: +totalS.toFixed(1),
   byKind: {}, bySubject: {}, byGrade: {},
 };

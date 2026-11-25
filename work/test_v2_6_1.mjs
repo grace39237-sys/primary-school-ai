@@ -3,7 +3,7 @@
 // Run from ~/workspace/primary-school-ai/work: node test_v2_6_1.mjs
 //
 // Covers:
-//   (1) version strings (APP_VERSION + SW cache bumped to v2.6.1; no
+//   (1) version strings (APP_VERSION + SW cache bumped to v2.7; no
 //       stale v2.6 version lines — the v2.2 lesson).
 //   (2) Bug 1 — KG gone from Ask (pickers.js, pure): a phone that saved
 //       'KG' under v2.4 migrates to 'all' on load and the stored value is
@@ -40,8 +40,8 @@ const ragJs = fs.readFileSync('../rag.js', 'utf8');
 const wordsJson = fs.readFileSync('../data/words.json', 'utf8');
 
 // (1) version strings
-t('ver: app.js APP_VERSION v2.6.1', appJs.includes("APP_VERSION = 'v2.6.1'"));
-t('ver: sw.js CACHE v2.6.1', swJs.includes("CACHE = 'primary-school-ai-v2.6.1'"));
+t('ver: app.js APP_VERSION v2.7', appJs.includes("APP_VERSION = 'v2.7'"));
+t('ver: sw.js CACHE v2.7', swJs.includes("CACHE = 'primary-school-ai-v2.7'"));
 t('ver: no stale v2.6 version lines',
   !appJs.includes("APP_VERSION = 'v2.6'") && !swJs.includes("CACHE = 'primary-school-ai-v2.6'"));
 

@@ -101,8 +101,8 @@ t('rw: empty dict -> []', relatedWords({}, fakeDict.adding).length === 0);
 t('rw: no duplicate labels', new Set(rw(fakeDict.adding, 5)).size === rw(fakeDict.adding, 5).length);
 
 // ---- (4) static checks ----
-t('ver: app.js APP_VERSION v2.6.1', appJs.includes("APP_VERSION = 'v2.6.1'"));
-t('ver: sw.js CACHE v2.6.1', swJs.includes("CACHE = 'primary-school-ai-v2.6.1'"));
+t('ver: app.js APP_VERSION v2.7', appJs.includes("APP_VERSION = 'v2.7'"));
+t('ver: sw.js CACHE v2.7', swJs.includes("CACHE = 'primary-school-ai-v2.7'"));
 t('fb: chooseOne marks the tapped button', appJs.includes("aria-pressed', b === btn ? 'true' : 'false'"));
 t('fb: chooseOne disables the other choices', /chooseOne[\s\S]{0,900}disabled = true/.test(appJs));
 t('fb: chooseOne shows Thinking… in the answer area', /chooseOne[\s\S]{0,900}answerText\.textContent = 'Thinking…/.test(appJs));

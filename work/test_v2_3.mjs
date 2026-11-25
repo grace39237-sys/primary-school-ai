@@ -99,8 +99,8 @@ const appJs = fs.readFileSync('../app.js', 'utf8');
 const vadJs = fs.readFileSync('../vad.js', 'utf8');
 const swJs = fs.readFileSync('../sw.js', 'utf8');
 const html = fs.readFileSync('../index.html', 'utf8');
-t('static: APP_VERSION v2.6.1', appJs.includes("const APP_VERSION = 'v2.6.1'"));
-t('static: SW cache primary-school-ai-v2.6.1', swJs.includes("const CACHE = 'primary-school-ai-v2.6.1'"));
+t('static: APP_VERSION v2.7', appJs.includes("const APP_VERSION = 'v2.7'"));
+t('static: SW cache primary-school-ai-v2.7', swJs.includes("const CACHE = 'primary-school-ai-v2.7'"));
 t('static: no stale v2.2.1 version strings', !appJs.includes('v2.2.1') && !swJs.includes('v2.2.1'));
 t('static: noise multiplier map { low: 3, mid: 6, high: 10 }',
   appJs.includes('const SENSITIVITY = { low: 3, mid: 6, high: 10 };'));

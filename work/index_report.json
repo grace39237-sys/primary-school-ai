@@ -1,34 +1,46 @@
 {
-  "builtAt": "2026-11-24T11:05:20.142Z",
-  "totalChunks": 54186,
-  "quiz": 44467,
+  "builtAt": "2026-11-25T08:57:20.091Z",
+  "totalChunks": 67151,
+  "quiz": 44114,
   "quizNoExplanation": 0,
   "classWords": 1677,
   "lessons": 1012,
   "lessonPractice": 7030,
+  "lessonText": 7018,
+  "dl": 6300,
+  "dlFailed": 0,
   "limitedRun": false,
-  "seconds": 819.9,
+  "seconds": 1903.1,
   "byKind": {
-    "quiz": 44467,
+    "quiz": 44114,
     "word": 1677,
     "lesson": 1012,
-    "lesson-qa": 7030
+    "lesson-qa": 7030,
+    "lesson-text": 7018,
+    "dl": 6300
   },
   "bySubject": {
-    "English": 8673,
-    "Math": 7341,
-    "Science": 21914,
-    "Social": 8581,
+    "English": 11332,
+    "Math": 9038,
+    "Science": 24113,
+    "Social": 9951,
     "Theme": 6000,
-    "Vocabulary": 1677
+    "Vocabulary": 1677,
+    "Mathematics": 1260,
+    "Literacy I": 540,
+    "Literacy II": 540,
+    "News": 540,
+    "Integrated Science": 720,
+    "Social Studies": 720,
+    "Christian Religious Education": 720
   },
   "byGrade": {
-    "P1": 5265,
-    "P2": 7449,
-    "P3": 8223,
-    "P4": 7008,
-    "P5": 7223,
-    "P6": 8209,
-    "P7": 10809
+    "P1": 6678,
+    "P2": 8892,
+    "P3": 10206,
+    "P4": 8879,
+    "P5": 9282,
+    "P6": 10081,
+    "P7": 13133
   }
 }
