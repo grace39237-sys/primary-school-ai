@@ -6,8 +6,8 @@
 //
 // Covers (static checks on the shipped files — app.js is DOM-bound and
 // cannot be imported in Node, as in test_v2_2–test_v2_5):
-//   (1) version strings (APP_VERSION + SW cache bumped to v2.6; no
-//       stale v2.5 version lines — the v2.2 lesson).
+//   (1) version strings (APP_VERSION + SW cache bumped to v2.6.1; no
+//       stale v2.6 version lines — the v2.2 lesson).
 //   (2) sticky pickers: a picker bar that is a direct child of
 //       practiceWrap (NOT inside the setup card — sticky is constrained
 //       to its parent, so a bar inside the short card would scroll away
@@ -45,10 +45,10 @@ const swJs = fs.readFileSync('../sw.js', 'utf8');
 const wordsJson = fs.readFileSync('../data/words.json', 'utf8');
 
 // (1) version strings
-t('ver: app.js APP_VERSION v2.6', appJs.includes("APP_VERSION = 'v2.6'"));
-t('ver: sw.js CACHE v2.6', swJs.includes("CACHE = 'primary-school-ai-v2.6'"));
-t('ver: no stale v2.5 version lines',
-  !appJs.includes("APP_VERSION = 'v2.5'") && !swJs.includes("primary-school-ai-v2.5"));
+t('ver: app.js APP_VERSION v2.6.1', appJs.includes("APP_VERSION = 'v2.6.1'"));
+t('ver: sw.js CACHE v2.6.1', swJs.includes("CACHE = 'primary-school-ai-v2.6.1'"));
+t('ver: no stale v2.6 version lines',
+  !appJs.includes("APP_VERSION = 'v2.6'") && !swJs.includes("primary-school-ai-v2.6'"));
 
 // (2) sticky pickers
 const iWrap = indexHtml.indexOf('id="practiceWrap"');

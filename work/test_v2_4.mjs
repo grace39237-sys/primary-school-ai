@@ -101,8 +101,8 @@ t('rw: empty dict -> []', relatedWords({}, fakeDict.adding).length === 0);
 t('rw: no duplicate labels', new Set(rw(fakeDict.adding, 5)).size === rw(fakeDict.adding, 5).length);
 
 // ---- (4) static checks ----
-t('ver: app.js APP_VERSION v2.6', appJs.includes("APP_VERSION = 'v2.6'"));
-t('ver: sw.js CACHE v2.6', swJs.includes("CACHE = 'primary-school-ai-v2.6'"));
+t('ver: app.js APP_VERSION v2.6.1', appJs.includes("APP_VERSION = 'v2.6.1'"));
+t('ver: sw.js CACHE v2.6.1', swJs.includes("CACHE = 'primary-school-ai-v2.6.1'"));
 t('fb: chooseOne marks the tapped button', appJs.includes("aria-pressed', b === btn ? 'true' : 'false'"));
 t('fb: chooseOne disables the other choices', /chooseOne[\s\S]{0,900}disabled = true/.test(appJs));
 t('fb: chooseOne shows Thinking… in the answer area', /chooseOne[\s\S]{0,900}answerText\.textContent = 'Thinking…/.test(appJs));
@@ -144,8 +144,9 @@ t('grade: not usable when best < 0.40', gradeHitsUsable([{ score: 0.39, chunk: {
 t('grade: not usable when empty', gradeHitsUsable([]) === false);
 t('grade: not usable when null', gradeHitsUsable(null) === false);
 t('grade: select exists in the Ask card', indexHtml.includes('id="askGradeSel"'));
-t('grade: options are All grades + KG + P1–P7',
-  ['value="all"', 'value="KG"', 'value="P1"', 'value="P3"', 'value="P7"'].every((o) => indexHtml.includes(o)));
+t('grade: options are All grades + P1–P7 (KG removed, v2.6.1 — Won cancelled kindergarten)',
+  ['value="all"', 'value="P1"', 'value="P3"', 'value="P7"'].every((o) => indexHtml.includes(o))
+  && !indexHtml.includes('value="KG"'));
 t('grade: same picker style as Practice (label wraps the select)',
   /picker-label[\s\S]{0,120}askGradeSel/.test(indexHtml));
 t('grade: persisted in localStorage', appJs.includes("psa-ask-grade"));

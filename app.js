@@ -17,6 +17,7 @@ import {
   RECORDS_KEY, RECENT_CORRECT_KEY,
 } from './records.js';
 import { normAnswer, checkAnswer, stepsOf, nextLevel, simplerBoardSteps, filterByTerm } from './practice.js';
+import { migrateAskGrade, isValidAskGrade, nextPracticePickers } from './pickers.js';
 
 // Same ONNX setup as the translator app: absolute wasmPaths (a relative
 // path doubles to vendor/ort/vendor/ort/ and 404s), 1 thread — GitHub
@@ -29,7 +30,7 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v2.6';
+const APP_VERSION = 'v2.6.1';
 // Two bands on the best retrieval cosine score (v2.2 — Won, 2026-11-24).
 // >= 0.67: clear — answer directly. 0.40–0.67: unclear — show 3 choices
 // from the retrieved chunks and let the student pick one. Below 0.40:
@@ -547,16 +548,20 @@ updateSensitivityUI();
 // first, so the answer usually comes from their own books. Saved on the
 // phone, like the noise setting. The single-word lookup stays
 // grade-agnostic (each word has exactly one grade entry, so filtering
-// would refuse words taught in other grades). KG has no chunks in the
-// index, so picking KG always falls back to all grades — still an answer,
-// never a refusal.
+// would refuse words taught in other grades).
+// v2.6.1: KG is gone — Won cancelled kindergarten, so the selector offers
+// All grades + P1–P7 only. A phone that saved 'KG' under v2.4 falls back
+// to 'all' on load (migrateAskGrade, pickers.js) and the stored value is
+// rewritten, the same one-time migration pattern as the v2.3 sensitivity
+// migration — the old value never comes back.
 let askGrade = 'all';
 try {
   const g = localStorage.getItem('psa-ask-grade');
-  if (g === 'all' || g === 'KG' || /^P[1-7]$/.test(g)) askGrade = g;
+  askGrade = migrateAskGrade(g);
+  if (g === 'KG') localStorage.setItem('psa-ask-grade', 'all');
 } catch (_) {}
 function setAskGrade(next) {
-  if (!(next === 'all' || next === 'KG' || /^P[1-7]$/.test(next))) return;
+  if (!isValidAskGrade(next)) return;
   askGrade = next;
   try { localStorage.setItem('psa-ask-grade', next); } catch (_) {}
   if (els.askGradeSel) els.askGradeSel.value = next;
@@ -767,24 +772,23 @@ function setLevel(key, difficulty, streak) {
 // picking it forces Subject to Word, shows the Level picker (1–20,
 // saved on the phone), and hides Term (words have no term). Picking
 // Subject Word for a grade also hides Term; quiz subjects show it.
+// v2.6.1: leaving Oxford restores the subject Oxford replaced — the old
+// code overwrote it with 'Word' and never put it back, so Oxford -> P3
+// left Subject stuck on Word with Term hidden. The transition lives in
+// nextPracticePickers (pickers.js, pure) so Node can test it.
 let oxfordLevel = 1;
 try {
   const n = Number(localStorage.getItem('psa-oxford-level'));
   if (n >= 1 && n <= 20) oxfordLevel = n;
 } catch (_) {}
+let pickerState = { wasOxford: false, preOxfordSubject: 'English' };
 function updatePracticePickers() {
-  const isOxford = els.gradeSel.value === 'Oxford';
-  const isWord = isOxford || els.subjectSel.value === 'Word';
-  if (isOxford) {
-    els.subjectSel.value = 'Word';
-    els.subjectSel.disabled = true;
-    els.oxfordLevelSelWrap.hidden = false;
-    els.termSelWrap.hidden = true;
-  } else {
-    els.subjectSel.disabled = false;
-    els.oxfordLevelSelWrap.hidden = true;
-    els.termSelWrap.hidden = isWord;
-  }
+  const next = nextPracticePickers(pickerState, els.gradeSel.value, els.subjectSel.value);
+  pickerState = { wasOxford: next.wasOxford, preOxfordSubject: next.preOxfordSubject };
+  els.subjectSel.value = next.subject;
+  els.subjectSel.disabled = next.subjectDisabled;
+  els.oxfordLevelSelWrap.hidden = next.levelHidden;
+  els.termSelWrap.hidden = next.termHidden;
   if (els.oxfordLevelSel) els.oxfordLevelSel.value = String(oxfordLevel);
 }
 els.gradeSel.addEventListener('change', onPracticePickerChange);

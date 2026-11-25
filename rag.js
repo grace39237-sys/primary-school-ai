@@ -49,8 +49,7 @@ export function search(queryVec, k = 5) {
 }
 
 // Grade-first search (v2.4): top k chunks from one grade only. Returns []
-// when the grade has no chunks in the index (KG has none — its words live
-// in the word list, which the single-word lookup answers grade-agnostic).
+// when the grade has no chunks in the index.
 export function searchInGrade(queryVec, grade, k = 5) {
   const idx = index;
   return searchChunks(queryVec, idx.chunks, idx.vecs, idx.dim, k, (c) => c.grade === grade);
