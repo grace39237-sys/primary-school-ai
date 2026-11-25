@@ -29,7 +29,7 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v2.5';
+const APP_VERSION = 'v2.6';
 // Two bands on the best retrieval cosine score (v2.2 — Won, 2026-11-24).
 // >= 0.67: clear — answer directly. 0.40–0.67: unclear — show 3 choices
 // from the retrieved chunks and let the student pick one. Below 0.40:
@@ -59,6 +59,7 @@ const els = {
   micBtn: $('micBtn'), listeningRow: $('listeningRow'),
   listeningStatus: $('listeningStatus'), sendBtn: $('sendBtn'),
   sensHighBtn: $('sensHighBtn'), sensMidBtn: $('sensMidBtn'), sensLowBtn: $('sensLowBtn'),
+  noiseRow: $('noiseRow'),
   askBoardWrap: $('askBoardWrap'),
   answerWrap: $('answerWrap'), answerText: $('answerText'),
   sourceWrap: $('sourceWrap'), sourceList: $('sourceList'),
@@ -72,7 +73,7 @@ const els = {
   quizPassage: $('quizPassage'), quizQuestion: $('quizQuestion'),
   quizAnswerArea: $('quizAnswerArea'), checkBtn: $('checkBtn'),
   quizResult: $('quizResult'), quizVerdict: $('quizVerdict'), quizCorrect: $('quizCorrect'),
-  simplerBtn: $('simplerBtn'), nextBtn: $('nextBtn'),
+  simplerBtn: $('simplerBtn'), nextBtn: $('nextBtn'), nextBtn2: $('nextBtn2'),
   practiceBoardWrap: $('practiceBoardWrap'),
   modelLine: $('modelLine'),
 };
@@ -569,8 +570,13 @@ let listening = false;
 function setListeningUI(on, text) {
   listening = on;
   els.micBtn.classList.toggle('listening', on);
-  els.micBtn.textContent = on ? '⏹ Stop' : '🎤 Speak';
+  els.micBtn.textContent = on ? '⏹ Stop' : '🎤 Voice';
   els.listeningRow.hidden = !on;
+  // Noise (v2.6): shown only while Voice input is active — the setting
+  // only matters while speaking. Hidden again when voice input ends
+  // (stopMic, leaving Ask, or a failed mic start all call this with
+  // false). The saved value and the v2.3 behaviour are untouched.
+  els.noiseRow.hidden = !on;
   if (text) els.listeningStatus.textContent = text;
 }
 
@@ -781,14 +787,16 @@ function updatePracticePickers() {
   }
   if (els.oxfordLevelSel) els.oxfordLevelSel.value = String(oxfordLevel);
 }
-els.gradeSel.addEventListener('change', updatePracticePickers);
-els.subjectSel.addEventListener('change', updatePracticePickers);
+els.gradeSel.addEventListener('change', onPracticePickerChange);
+els.subjectSel.addEventListener('change', onPracticePickerChange);
+els.termSel.addEventListener('change', onPracticePickerChange);
 els.oxfordLevelSel.addEventListener('change', () => {
   const n = Number(els.oxfordLevelSel.value);
   if (n >= 1 && n <= 20) {
     oxfordLevel = n;
     try { localStorage.setItem('psa-oxford-level', String(n)); } catch (_) {}
   }
+  onPracticePickerChange();
 });
 updatePracticePickers();
 
@@ -862,6 +870,7 @@ function renderQuestion(item) {
   const area = els.quizAnswerArea;
   area.innerHTML = '';
   els.checkBtn.disabled = false;
+  els.nextBtn2.hidden = true;
 
   if (item.type === 'multiple_choice') {
     const list = document.createElement('div');
@@ -933,6 +942,10 @@ function doCheck() {
   const item = current.item;
   const ok = checkAnswer(item, current.userAnswer);
   els.checkBtn.disabled = true;
+  // Second Next button (v2.6): right next to Check, so the child can go
+  // on without scrolling past the chalkboard. Hidden again by
+  // renderQuestion; the button under the board stays as well.
+  els.nextBtn2.hidden = false;
   // Mark the chosen options. The displayed text is stripped of markdown
   // markers (v2.4), so both sides are stripped before comparing — a
   // "**cold**" option must still match the "**cold**" answer.
@@ -983,7 +996,10 @@ async function nextQuestion() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-els.startBtn.addEventListener('click', async () => {
+// Start a quiz from the current pickers (v2.6): extracted from the old
+// inline Start handler so a picker change mid-quiz can use the same path
+// — reload the bank for the new selection, reset the run, show the quiz.
+async function startPractice() {
   // Practice needs no AI model — only the question bank. ("Say it simpler"
   // loads the model on demand.) Do not gate practising behind the download.
   try {
@@ -997,9 +1013,23 @@ els.startBtn.addEventListener('click', async () => {
   loadRecentCorrectMap();
   els.quizWrap.hidden = false;
   nextQuestion();
-});
+}
+
+// Picker change (v2.6): before Start it only updates the picker
+// interlock (Oxford forces Word, hides Term). While a quiz is running,
+// the same change reloads the bank and starts a fresh question from the
+// new selection, so the child never has to go back to change grade,
+// subject or term. updatePracticePickers runs first so the forced
+// subject (Oxford -> Word) is what loadBank reads.
+function onPracticePickerChange() {
+  updatePracticePickers();
+  if (!els.quizWrap.hidden) startPractice();
+}
+
+els.startBtn.addEventListener('click', startPractice);
 els.checkBtn.addEventListener('click', doCheck);
 els.nextBtn.addEventListener('click', nextQuestion);
+els.nextBtn2.addEventListener('click', nextQuestion);
 els.simplerBtn.addEventListener('click', async () => {
   if (!current) return;
   els.simplerBtn.disabled = true;

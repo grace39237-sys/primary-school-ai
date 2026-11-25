@@ -98,6 +98,17 @@ select {
 
 /* Practice */
 .picker-row { display: flex; gap: 12px; margin-bottom: 4px; }
+/* Picker bar (v2.6): stays visible at the top while solving — the setup
+   card used to scroll away on a phone once the quiz started, so the
+   child could not change grade/subject/term mid-quiz. Opaque white
+   background so the quiz does not show through; the bar is a direct
+   child of #practiceWrap (see index.html), because sticky is constrained
+   to its parent and the short setup card would carry it away. */
+.practice-pickers {
+  position: sticky; top: 0; z-index: 10;
+  background: #FFFFFF; padding: 8px 0 4px; margin-bottom: 12px;
+  border-bottom: 1px solid #DADCE0;
+}
 .picker-label { flex: 1; font-size: 14px; color: #5F6368; }
 .quiz-head { display: flex; align-items: center; justify-content: space-between; margin: 4px 0 8px; }
 .quiz-meta { font-size: 13px; color: #5F6368; }

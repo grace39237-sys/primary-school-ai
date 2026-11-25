@@ -198,8 +198,8 @@ t('data: oxford wordsByLevel filters by level', wordsByLevel(oxford, 1).length =
 t('data: oxford entries carry only w/def/ex/lv', oxford.every((e) => Object.keys(e).sort().join(',') === 'def,ex,lv,w'));
 
 // ---- (6) static checks ----
-t('ver: app.js APP_VERSION v2.5', appJs.includes("APP_VERSION = 'v2.5'"));
-t('ver: sw.js CACHE v2.5', swJs.includes("CACHE = 'primary-school-ai-v2.5'"));
+t('ver: app.js APP_VERSION v2.6', appJs.includes("APP_VERSION = 'v2.6'"));
+t('ver: sw.js CACHE v2.6', swJs.includes("CACHE = 'primary-school-ai-v2.6'"));
 t('ui: subject selector has Word', /<select id="subjectSel"[\s\S]{0,500}value="Word"/.test(indexHtml));
 t('ui: grade selector has Oxford', /<select id="gradeSel"[\s\S]{0,500}value="Oxford"/.test(indexHtml));
 t('ui: term selector exists with All terms + Term 1/2/3', indexHtml.includes('id="termSel"')

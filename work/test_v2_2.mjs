@@ -101,7 +101,7 @@ const appSrc = fs.readFileSync('../app.js', 'utf8');
 const html = fs.readFileSync('../index.html', 'utf8');
 const css = fs.readFileSync('../styles.css', 'utf8');
 const swSrc = fs.readFileSync('../sw.js', 'utf8');
-t('static: app version is v2.5', appSrc.includes("APP_VERSION = 'v2.5'")); // bumped 2026-11-25: v2.5 (was v2.4; v2.3 before that, so the browser fetches the fix, not a stale shell)
+t('static: app version is v2.6', appSrc.includes("APP_VERSION = 'v2.6'")); // bumped 2026-11-25: v2.6 (was v2.5; v2.4 before that, so the browser fetches the fix, not a stale shell)
 t('static: bands go through classifyBand', appSrc.includes('classifyBand(best'));
 t('static: no direct score comparison left in doAsk',
   !appSrc.includes('best.score <') && !appSrc.includes('best.score >'));
@@ -124,7 +124,7 @@ t('static: simpler prompt forbids greeting, asks for a rewrite',
 const ids = [...appSrc.matchAll(/\$\('([A-Za-z0-9_]+)'\)/g)].map((m) => m[1]);
 const missing = [...new Set(ids)].filter((id) => !html.includes(`id="${id}"`));
 t('static: all app.js element IDs exist in index.html', missing.length === 0, `missing: ${missing.join(', ')}`);
-t('static: sw cache is v2.5', swSrc.includes("primary-school-ai-v2.5")); // bumped 2026-11-25: same reason as the app version above
+t('static: sw cache is v2.6', swSrc.includes("primary-school-ai-v2.6")); // bumped 2026-11-25: same reason as the app version above
 t('static: sw lists choices.js in the shell', swSrc.includes("'./choices.js'"));
 t('static: sw never deletes transformers-cache', swSrc.includes("k.startsWith('primary-school-ai-')") && !swSrc.includes("caches.delete('transformers-cache')"));
 t('static: choice title styled, orphaned step rules gone',

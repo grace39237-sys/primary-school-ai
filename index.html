@@ -82,7 +82,7 @@
       </div>
       <div class="card-actions">
         <button id="askBtn" class="btn primary" type="button">Ask the teacher</button>
-        <button id="micBtn" class="btn" type="button">🎤 Speak</button>
+        <button id="micBtn" class="btn" type="button">🎤 Voice</button>
         <button id="askBackBtn" class="btn" type="button">Back</button>
       </div>
       <div id="listeningRow" class="listening-row" hidden>
@@ -90,13 +90,18 @@
         <span id="listeningStatus" class="listening-status">Listening… speak your question in English.</span>
         <button id="sendBtn" class="btn small" type="button">Send</button>
       </div>
-      <div class="sens-row" role="group" aria-label="Noise level">
-        <span>Noise</span>
-        <button id="sensHighBtn" type="button" aria-pressed="false">High</button>
-        <button id="sensMidBtn" type="button" aria-pressed="true">Medium</button>
-        <button id="sensLowBtn" type="button" aria-pressed="false">Low</button>
+      <!-- Noise (v2.6): hidden until Voice input is active — the setting
+           only matters while speaking, so it stays out of the way while
+           typing. setListeningUI toggles this wrapper. -->
+      <div id="noiseRow" hidden>
+        <div class="sens-row" role="group" aria-label="Noise level">
+          <span>Noise</span>
+          <button id="sensHighBtn" type="button" aria-pressed="false">High</button>
+          <button id="sensMidBtn" type="button" aria-pressed="true">Medium</button>
+          <button id="sensLowBtn" type="button" aria-pressed="false">Low</button>
+        </div>
+        <p class="hint">Quiet place: Low. Noisy place: High.</p>
       </div>
-      <p class="hint">Quiet place: Low. Noisy place: High.</p>
     </div>
     <!-- Unclear question: 3 choices from the books — the student picks one. -->
     <section id="choiceWrap" class="card" hidden>
@@ -132,7 +137,11 @@
 
   <!-- Practice mode -->
   <section id="practiceWrap" hidden>
-    <div class="card">
+    <!-- Picker bar (v2.6): a direct child of practiceWrap, NOT inside the
+         setup card — sticky is constrained to its parent, so a bar inside
+         the short card would scroll away with it. Stays visible at the
+         top while solving, so grade/subject/term can change mid-quiz. -->
+    <div id="practicePickers" class="practice-pickers">
       <div class="picker-row">
         <label class="picker-label">Grade
           <select id="gradeSel" aria-label="Grade">
@@ -190,8 +199,10 @@
           </select>
         </label>
       </div>
+    </div>
+    <div class="card">
       <div class="card-actions">
-        <button id="startBtn" class="btn primary" type="button">Start practising</button>
+        <button id="startBtn" class="btn primary" type="button">Start</button>
         <button id="practiceBackBtn" class="btn" type="button">Back</button>
       </div>
       <p class="hint">Your level is saved on this phone only.</p>
@@ -207,7 +218,8 @@
         <p id="quizQuestion" class="quiz-question"></p>
         <div id="quizAnswerArea"></div>
         <div class="card-actions">
-          <button id="checkBtn" class="btn primary" type="button">Check my answer</button>
+          <button id="checkBtn" class="btn primary" type="button">Check</button>
+          <button id="nextBtn2" class="btn primary" type="button" hidden>Next</button>
         </div>
       </div>
       <section id="quizResult" class="card result-card" hidden>
@@ -224,7 +236,7 @@
         </section>
         <div class="card-actions">
           <button id="simplerBtn" class="btn" type="button">Say it simpler</button>
-          <button id="nextBtn" class="btn primary" type="button">Next question</button>
+          <button id="nextBtn" class="btn primary" type="button">Next</button>
         </div>
       </section>
     </section>
