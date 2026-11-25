@@ -1,10 +1,11 @@
 // app.js — Ask Teacher UI + Ask (RAG) + Practice (teacher mode).
 import * as ort from 'onnxruntime-web';
-import { loadEmbedder, loadIndex, embedQuery, search } from './rag.js';
+import { loadEmbedder, loadIndex, embedQuery, search, searchInGrade } from './rag.js';
 import { loadGenerator, askTeacher, saySimpler } from './ai.js';
 import { loadASR, transcribe, hasLatin, ASR_MODEL_EN } from './asr.js';
-import { loadWords, lookupWord } from './words.js';
-import { classifyBand, distinctChoices } from './choices.js';
+import { loadWords, lookupWord, relatedWords } from './words.js';
+import { classifyBand, distinctChoices, relatedHits, gradeHitsUsable } from './choices.js';
+import { stripMarkdown } from './textutil.js';
 import { makeBoard } from './board.js';
 import { speak, ttsSupported } from './tts.js';
 import { VoiceCapture, legacySensitivityToNoiseLevel } from './vad.js';
@@ -21,7 +22,7 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v2.3';
+const APP_VERSION = 'v2.4';
 // Two bands on the best retrieval cosine score (v2.2 — Won, 2026-11-24).
 // >= 0.67: clear — answer directly. 0.40–0.67: unclear — show 3 choices
 // from the retrieved chunks and let the student pick one. Below 0.40:
@@ -39,18 +40,20 @@ const APP_VERSION = 'v2.3';
 const $ = (id) => document.getElementById(id);
 const els = {
   statusDot: $('statusDot'), statusText: $('statusText'),
+  topAskBtn: $('topAskBtn'), topPracticeBtn: $('topPracticeBtn'),
   modelBox: $('modelBox'), modelInfo: $('modelInfo'),
   downloadBtn: $('downloadBtn'), downloadProgress: $('downloadProgress'),
   downloadBar: $('downloadBar'), downloadLabel: $('downloadLabel'),
   homeWrap: $('homeWrap'), askModeBtn: $('askModeBtn'), practiceModeBtn: $('practiceModeBtn'),
   askWrap: $('askWrap'), askInput: $('askInput'), askBtn: $('askBtn'), askBackBtn: $('askBackBtn'),
+  askGradeSel: $('askGradeSel'),
   micBtn: $('micBtn'), listeningRow: $('listeningRow'),
   listeningStatus: $('listeningStatus'), sendBtn: $('sendBtn'),
   sensHighBtn: $('sensHighBtn'), sensMidBtn: $('sensMidBtn'), sensLowBtn: $('sensLowBtn'),
   askBoardWrap: $('askBoardWrap'),
   answerWrap: $('answerWrap'), answerText: $('answerText'),
   sourceWrap: $('sourceWrap'), sourceList: $('sourceList'),
-  speakBtn: $('speakBtn'), copyBtn: $('copyBtn'), askHint: $('askHint'),
+  speakBtn: $('speakBtn'), copyBtn: $('copyBtn'), moreBtn: $('moreBtn'), askHint: $('askHint'),
   choiceWrap: $('choiceWrap'), choiceList: $('choiceList'), choiceNoneBtn: $('choiceNoneBtn'),
   practiceWrap: $('practiceWrap'), gradeSel: $('gradeSel'), subjectSel: $('subjectSel'),
   startBtn: $('startBtn'), practiceBackBtn: $('practiceBackBtn'),
@@ -182,25 +185,35 @@ function showMode(mode) {
   els.homeWrap.hidden = mode !== 'home';
   els.askWrap.hidden = mode !== 'ask';
   els.practiceWrap.hidden = mode !== 'practice';
+  // Header switcher (v2.4): the button for the current mode is marked;
+  // on home neither is marked.
+  els.topAskBtn.setAttribute('aria-pressed', String(mode === 'ask'));
+  els.topPracticeBtn.setAttribute('aria-pressed', String(mode === 'practice'));
   if (mode !== 'ask') { stopMic(); askBoard.stop(); hideChoices(); }
   if (mode !== 'practice') practiceBoard.stop();
   if (mode === 'home') window.scrollTo({ top: 0 });
 }
 els.askModeBtn.addEventListener('click', () => showMode('ask'));
 els.practiceModeBtn.addEventListener('click', () => showMode('practice'));
+els.topAskBtn.addEventListener('click', () => showMode('ask'));
+els.topPracticeBtn.addEventListener('click', () => showMode('practice'));
 els.askBackBtn.addEventListener('click', () => showMode('home'));
 els.practiceBackBtn.addEventListener('click', () => showMode('home'));
 els.downloadBtn.addEventListener('click', () => ensureModels().catch(() => {}));
 
 // ---- Ask mode ----
+// Display side strips markdown markers (v2.4): the answer and the source
+// sentences come from chunks that write "**___**" / "**cold**", and the
+// model echoes context, so '**' can appear in generated answers too.
+// The data and the index are untouched.
 function showAnswer(text, sources) {
-  els.answerText.textContent = text;
+  els.answerText.textContent = stripMarkdown(text);
   els.sourceList.innerHTML = '';
   if (sources && sources.length) {
     els.sourceWrap.hidden = false;
     for (const s of sources) {
       const li = document.createElement('li');
-      li.textContent = s.chunk.source;
+      li.textContent = stripMarkdown(s.chunk.source);
       const meta = document.createElement('div');
       meta.className = 'src-meta';
       meta.textContent = `${s.chunk.subject} · ${s.chunk.grade}${s.chunk.unit ? ` · ${s.chunk.unit}` : ''}`;
@@ -210,6 +223,10 @@ function showAnswer(text, sources) {
   } else {
     els.sourceWrap.hidden = true;
   }
+  // 'More' is hidden by default: only a successful answer re-shows it
+  // (updateMoreButton, below). Refusals, word answers without related
+  // words, and errors never show it.
+  els.moreBtn.hidden = true;
   els.answerWrap.hidden = false;
 }
 
@@ -233,6 +250,8 @@ async function answerWithContext(q, context, displaySources) {
   const steps = shown.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
   for (const s of displaySources) steps.push(`From the book: ${s.chunk.source}`);
   askBoard.show(steps);
+  // A successful answer may have related items to explore (v2.4 'More').
+  await updateMoreButton();
 }
 
 function refuseAnswer() {
@@ -243,33 +262,75 @@ function refuseAnswer() {
 function showChoices(q, hits) {
   const choices = distinctChoices(hits, 3);
   if (!choices.length) { refuseAnswer(); return; }
+  // State for 'More': the top hits of this Ask (the child may explore
+  // the ones they did not pick, after answering one).
+  lastQuestion = q;
+  lastAskHits = hits;
+  showChoiceObjects(q, choices);
+}
+
+// The buttons for a set of already-built choices (from distinctChoices,
+// or related words for 'More'). Labels are stripped of markdown markers
+// (v2.4) before they are shown.
+function showChoiceObjects(q, choices) {
   pendingChoices = { question: q, choices };
   els.choiceList.innerHTML = '';
   for (const c of choices) {
     const b = document.createElement('button');
-    b.type = 'button'; b.className = 'opt-btn'; b.textContent = c.label;
-    b.addEventListener('click', () => chooseOne(c));
+    b.type = 'button'; b.className = 'opt-btn'; b.textContent = stripMarkdown(c.label);
+    b.setAttribute('aria-pressed', 'false');
+    b.addEventListener('click', () => chooseOne(c, b));
     els.choiceList.appendChild(b);
   }
+  // 'More' hides while choices are on screen; it comes back (if the
+  // answer has related items) once the child picks one — or taps
+  // 'None of these' while an answer is still displayed.
+  els.moreBtn.hidden = true;
   els.choiceWrap.hidden = false;
 }
 
-async function chooseOne(c) {
+async function chooseOne(c, btn) {
   if (!pendingChoices) return;
   const q = pendingChoices.question;
-  hideChoices();
+  pendingChoices = null; // one pick only — a second tap cannot re-fire
+  // Feedback at once (v2.4 — Won, 2026-11-25): the tapped choice stays
+  // marked (the green filled style), the others go quiet, and the answer
+  // area says 'Thinking…' while the model works — seconds on a phone.
+  // Before this, the choices vanished instantly and only a small status
+  // line at the top changed, so the tap looked dead.
+  if (els.choiceList) {
+    els.choiceList.querySelectorAll('.opt-btn').forEach((b) => {
+      b.disabled = true;
+      b.setAttribute('aria-pressed', b === btn ? 'true' : 'false');
+    });
+  }
   setStatus('busy', 'Thinking…');
+  els.answerText.textContent = 'Thinking…';
+  els.sourceWrap.hidden = true;
+  els.answerWrap.hidden = false;
   try {
-    await ensureModels();
-    // Answer from the chunk the child picked — its own full text (the
-    // curriculum question + answer), so a thin source line cannot starve
-    // the model. Only that chunk is shown as the source.
-    await answerWithContext(q, c.chunk.text || c.chunk.source, [c]);
+    if (c.word) {
+      // A related word from 'More': answer through the normal word
+      // lookup path (definition + example, no model call).
+      lastAnsweredChunk = null;
+      await showWordAnswer(c.word);
+    } else {
+      await ensureModels();
+      // Answer from the chunk the child picked — its own full text (the
+      // curriculum question + answer), so a thin source line cannot starve
+      // the model. Only that chunk is shown as the source.
+      lastAnsweredChunk = c.chunk;
+      await answerWithContext(q, c.chunk.text || c.chunk.source, [c]);
+    }
     setStatus('ready', 'Teacher is ready');
   } catch (e) {
     console.error(e);
     showAnswer(`Something went wrong: ${e.message}`, null);
     setStatus('ready', 'Teacher is ready');
+  } finally {
+    // The choices stay visible (with the pick marked) until the answer
+    // arrives — only then do they go away.
+    hideChoices();
   }
 }
 els.choiceNoneBtn.addEventListener('click', () => {
@@ -277,7 +338,65 @@ els.choiceNoneBtn.addEventListener('click', () => {
   // rephrased question. The input stays visible and editable.
   hideChoices();
   els.askInput.focus();
+  // If an answer is still displayed (the 'More' flow), its 'More'
+  // button comes back — the related items are still there to explore.
+  updateMoreButton();
 });
+
+// ---- 'More' on the Ask answer card (v2.4) ----
+// Shown after ANY successful answer, never hidden for lack of related
+// topics (Won, 2026-11-25). The only exception is a refusal — there is
+// no answer to relate to. RAG answers relate to the other top hits from
+// the same Ask; word answers relate to other words in the same grade +
+// subject (same unit first). A RAG answer with no other hits falls back
+// to words in the answered chunk's grade + subject.
+let lastQuestion = null; // the question behind the displayed answer
+let lastAskHits = null; // top hits of that Ask (RAG answers)
+let lastAnsweredChunk = null; // the chunk the answer came from
+let lastWordEntry = null; // the word entry (word answers)
+
+async function relatedChoices() {
+  if (lastAskHits) {
+    const rel = relatedHits(lastAskHits, lastAnsweredChunk);
+    if (rel.length) return distinctChoices(rel, 3);
+  }
+  const entry = lastWordEntry || (lastAnsweredChunk && lastAnsweredChunk.grade
+    ? { w: '', grade: lastAnsweredChunk.grade, subject: lastAnsweredChunk.subject, unit: lastAnsweredChunk.unit || '' }
+    : null);
+  if (!entry) return [];
+  try {
+    const dict = await loadWords();
+    return relatedWords(dict, entry, 3).map((e) => ({ word: e, label: e.w || e.word || '' }));
+  } catch (_) {
+    return [];
+  }
+}
+
+async function updateMoreButton() {
+  const rel = await relatedChoices();
+  els.moreBtn.hidden = !rel.length;
+}
+
+els.moreBtn.addEventListener('click', async () => {
+  const rel = await relatedChoices();
+  if (!rel.length) { els.moreBtn.hidden = true; return; }
+  if (!lastQuestion) return;
+  showChoiceObjects(lastQuestion, rel);
+});
+
+// A single word, answered straight from the word list — no model, no
+// retrieval (v2.1). Definition + example on the card and the board.
+// Shared by doAsk and by 'More' (tapping a related word).
+async function showWordAnswer(hit) {
+  const steps = hit.def.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
+  if (hit.ex) steps.push(`Example: ${hit.ex}`);
+  showAnswer(hit.def, hit.ex ? [{ chunk: { source: `Example: ${hit.ex}`, subject: hit.subject, grade: hit.grade, unit: hit.unit || '' } }] : null);
+  askBoard.show(steps);
+  lastWordEntry = hit;
+  lastAskHits = null;
+  lastAnsweredChunk = null;
+  await updateMoreButton();
+}
 
 async function doAsk() {
   const q = els.askInput.value.trim();
@@ -293,10 +412,8 @@ async function doAsk() {
     const dict = await loadWords();
     const hit = lookupWord(q, dict);
     if (hit) {
-      const steps = hit.def.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
-      if (hit.ex) steps.push(`Example: ${hit.ex}`);
-      showAnswer(hit.def, hit.ex ? [{ chunk: { source: `Example: ${hit.ex}`, subject: hit.subject, grade: hit.grade, unit: hit.unit || '' } }] : null);
-      askBoard.show(steps);
+      lastQuestion = q;
+      await showWordAnswer(hit);
       return;
     }
   } catch (_) {
@@ -311,7 +428,18 @@ async function doAsk() {
   setStatus('busy', 'Thinking…');
   try {
     const qvec = await embedQuery(q);
-    const hits = search(qvec, 5);
+    // Grade first (v2.4): the child's own grade's chunks are searched
+    // first; when nothing there scores >= 0.40, fall back to all grades,
+    // so a question about a topic taught in another grade still gets an
+    // answer instead of a refusal. The band logic below runs on whichever
+    // hits come back, and the source line shows the chunk's grade.
+    let hits;
+    if (askGrade === 'all') {
+      hits = search(qvec, 5);
+    } else {
+      hits = searchInGrade(qvec, askGrade, 5);
+      if (!gradeHitsUsable(hits)) hits = search(qvec, 5);
+    }
     const best = hits[0];
     const band = classifyBand(best ? best.score : NaN);
     if (band === 'refuse') {
@@ -329,6 +457,12 @@ async function doAsk() {
     }
     const top = hits.slice(0, 3);
     const context = top.map((h) => h.chunk.source).join(' ');
+    // State for 'More': the other top hits of this Ask. All 5 hits are
+    // kept — relatedHits caps the related list at 3.
+    lastQuestion = q;
+    lastAskHits = hits;
+    lastAnsweredChunk = top[0] ? top[0].chunk : null;
+    lastWordEntry = null;
     await answerWithContext(q, context, top);
     setStatus('ready', 'Teacher is ready');
   } catch (e) {
@@ -391,6 +525,27 @@ els.sensHighBtn.addEventListener('click', () => setSensitivity('high'));
 els.sensMidBtn.addEventListener('click', () => setSensitivity('mid'));
 els.sensLowBtn.addEventListener('click', () => setSensitivity('low'));
 updateSensitivityUI();
+
+// Ask grade filter (v2.4 — Won, 2026-11-25): search the child's own grade
+// first, so the answer usually comes from their own books. Saved on the
+// phone, like the noise setting. The single-word lookup stays
+// grade-agnostic (each word has exactly one grade entry, so filtering
+// would refuse words taught in other grades). KG has no chunks in the
+// index, so picking KG always falls back to all grades — still an answer,
+// never a refusal.
+let askGrade = 'all';
+try {
+  const g = localStorage.getItem('psa-ask-grade');
+  if (g === 'all' || g === 'KG' || /^P[1-7]$/.test(g)) askGrade = g;
+} catch (_) {}
+function setAskGrade(next) {
+  if (!(next === 'all' || next === 'KG' || /^P[1-7]$/.test(next))) return;
+  askGrade = next;
+  try { localStorage.setItem('psa-ask-grade', next); } catch (_) {}
+  if (els.askGradeSel) els.askGradeSel.value = next;
+}
+els.askGradeSel.addEventListener('change', () => setAskGrade(els.askGradeSel.value));
+if (els.askGradeSel) els.askGradeSel.value = askGrade;
 
 let capture = null;
 let listening = false;
@@ -550,8 +705,8 @@ function renderQuestion(item) {
   els.quizMeta.textContent = `${els.gradeSel.value} · ${els.subjectSel.value} · ${item.difficulty} · Level: ${lv.difficulty}`;
   els.quizStars.textContent = '★'.repeat(Math.min(5, lv.streak)) + '☆'.repeat(Math.max(0, 5 - Math.min(5, lv.streak)));
   els.quizPassage.hidden = !item.passage;
-  if (item.passage) els.quizPassage.textContent = item.passage;
-  els.quizQuestion.textContent = item.question;
+  if (item.passage) els.quizPassage.textContent = stripMarkdown(item.passage);
+  els.quizQuestion.textContent = stripMarkdown(item.question);
   els.quizResult.hidden = true;
   const area = els.quizAnswerArea;
   area.innerHTML = '';
@@ -562,7 +717,7 @@ function renderQuestion(item) {
     list.className = 'opt-list';
     for (const opt of item.options || []) {
       const b = document.createElement('button');
-      b.type = 'button'; b.className = 'opt-btn'; b.textContent = opt;
+      b.type = 'button'; b.className = 'opt-btn'; b.textContent = stripMarkdown(opt);
       b.setAttribute('aria-pressed', 'false');
       b.addEventListener('click', () => {
         list.querySelectorAll('.opt-btn').forEach((x) => x.setAttribute('aria-pressed', 'false'));
@@ -601,7 +756,7 @@ function renderQuestion(item) {
       });
       cb.value = opt;
       const lab = document.createElement('label');
-      lab.htmlFor = cb.id; lab.textContent = opt;
+      lab.htmlFor = cb.id; lab.textContent = stripMarkdown(opt);
       row.appendChild(cb); row.appendChild(lab);
       list.appendChild(row);
     }
@@ -627,16 +782,18 @@ function doCheck() {
   const item = current.item;
   const ok = checkAnswer(item, current.userAnswer);
   els.checkBtn.disabled = true;
-  // Mark the chosen options.
+  // Mark the chosen options. The displayed text is stripped of markdown
+  // markers (v2.4), so both sides are stripped before comparing — a
+  // "**cold**" option must still match the "**cold**" answer.
   els.quizAnswerArea.querySelectorAll('.opt-btn').forEach((b) => {
     b.disabled = true;
-    if (normAnswer(b.textContent) === normAnswer(item.answer)) b.classList.add('correct');
+    if (normAnswer(stripMarkdown(b.textContent)) === normAnswer(stripMarkdown(item.answer))) b.classList.add('correct');
     else if (b.getAttribute('aria-pressed') === 'true') b.classList.add('wrong');
   });
   els.quizAnswerArea.querySelectorAll('input').forEach((i) => { i.disabled = true; });
   els.quizVerdict.textContent = ok ? 'Correct! Well done!' : 'Not yet — look at the steps.';
   els.quizVerdict.className = `verdict ${ok ? 'good' : 'bad'}`;
-  els.quizCorrect.textContent = ok ? '' : `The answer is: ${item.answer}`;
+  els.quizCorrect.textContent = ok ? '' : `The answer is: ${stripMarkdown(item.answer)}`;
   const steps = stepsOf(item);
   els.quizResult.hidden = false;
   // Chalkboard ONLY: the same verified steps, one at a time. (v2.2 — the

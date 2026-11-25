@@ -9,7 +9,12 @@
 // Steps come ONLY from verified text — the Ask answer plus the source
 // sentences, or a quiz item's own explanation/hint (practice.js stepsOf).
 // The board never invents steps and never writes maths working.
+//
+// Display side strips markdown markers (v2.4): the quiz data writes
+// "**___**" and "**cold**", so every step is cleaned before it is shown
+// — the data itself is untouched.
 import { speak, stopSpeaking } from './tts.js';
+import { stripMarkdown } from './textutil.js';
 
 const STEP_GAP_MS = 900; // gap between steps while they appear
 const STEP_SPEAK_TIMEOUT_MS = 12000; // max wait for one spoken step
@@ -50,7 +55,7 @@ export function makeBoard(root) {
         if (myRun !== run) return; // stopped or replaced
         const li = document.createElement('li');
         li.className = 'board-step';
-        li.textContent = text;
+        li.textContent = stripMarkdown(text);
         list.appendChild(li);
         await new Promise((r) => setTimeout(r, STEP_GAP_MS));
         if (myRun !== run) return;

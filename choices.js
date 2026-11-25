@@ -21,6 +21,14 @@ export function classifyBand(score) {
   return 'refuse';
 }
 
+// Grade-first fallback (v2.4): the grade's own hits are used only when the
+// best one clears the refusal threshold — otherwise the caller falls back
+// to the all-grades search, so a question taught in another grade still
+// gets an answer instead of a refusal. Hits arrive best-first.
+export function gradeHitsUsable(hits) {
+  return !!(hits && hits.length && hits[0].score >= REFUSAL_THRESHOLD);
+}
+
 function normLabel(s) {
   return String(s || '').trim().toLowerCase().replace(/\s+/g, ' ');
 }
@@ -83,6 +91,23 @@ export function distinctChoices(hits, n = 3) {
     seen.add(key);
     seen.add(`id:${h.chunk.id}`);
     out.push({ chunk: h.chunk, label, score: h.score });
+  }
+  return out;
+}
+
+// 'More' on the answer card (v2.4): the other top hits from the same Ask,
+// so the child can explore further. The chunk just answered is excluded
+// (by id, and by object identity when the chunk has no id); at most n
+// hits, in score order. Pure — shared by app.js and the Node test.
+export function relatedHits(hits, answeredChunk, n = 3) {
+  const answeredId = answeredChunk && answeredChunk.id;
+  const out = [];
+  for (const h of hits || []) {
+    if (out.length >= n) break;
+    if (!h || !h.chunk) continue;
+    if (answeredId != null && h.chunk.id === answeredId) continue;
+    if (answeredChunk && h.chunk === answeredChunk) continue;
+    out.push(h);
   }
   return out;
 }

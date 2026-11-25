@@ -33,9 +33,14 @@ select {
 
 /* Top status */
 .topbar {
-  display: flex; align-items: center; gap: 8px;
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
   max-width: 640px; margin: 0 auto; padding: 14px 16px 4px;
 }
+/* Mode switcher in the header (v2.4): wraps to its own row on a narrow
+   phone, so title + status + two buttons never overflow. The button for
+   the current mode is filled green; on home neither is marked. */
+.top-switch { display: flex; gap: 8px; margin-left: auto; }
+.topbar .btn[aria-pressed="true"] { border-color: #2E7D32; background: #E8F5E9; }
 .status-dot { width: 10px; height: 10px; border-radius: 50%; background: #DADCE0; flex: none; }
 .status-dot.off { background: #DADCE0; }
 .status-dot.busy { background: #F9AB00; }

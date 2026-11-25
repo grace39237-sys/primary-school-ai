@@ -39,3 +39,25 @@ export function singularize(w) {
   if (/(sses|xes|zes|ches|shes)$/.test(s)) return s.slice(0, -2);
   return s.slice(0, -1);
 }
+
+// stripMarkdown — remove markdown markers from a display string, so the
+// child never sees literal '**' (v2.4, Won 2026-11-25). The quiz data's
+// own style writes "The air feels **___**." and "The air feels
+// **cold**." — and the model echoes context, so '**' can also appear in
+// generated answers. Display side only: the data and the index are
+// untouched, and '___' blanks are kept.
+//
+// Guards: the single-star rule only wraps ONE word containing a letter,
+// so maths ("3 * 4", "2 * 3 * 4") survives — the curriculum writes
+// multiplication with "x" anyway.
+export function stripMarkdown(text) {
+  if (text == null) return text;
+  let out = String(text);
+  out = out.replace(/\*\*([^*]+)\*\*/g, '$1'); // **bold** -> bold
+  out = out.replace(/(^|[\s(])\*([^*\s]*[A-Za-z][^*\s]*)\*(?=[\s).,;:!?]|$)/g, '$1$2'); // *word* -> word
+  out = out.replace(/`([^`]*)`/g, '$1'); // `code` -> code
+  out = out.replace(/^#{1,6}\s+/gm, ''); // # heading -> plain
+  out = out.replace(/\*\*/g, ''); // stray ** fragments
+  out = out.replace(/`/g, ''); // stray backticks
+  return out;
+}

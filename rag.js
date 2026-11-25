@@ -3,6 +3,7 @@
 // Index vectors are int8-quantized per chunk with a float32 scale stored in
 // index.json; cosine similarity is computed on dequantized values in JS.
 import { pipeline } from './vendor/transformers.web.min.js';
+import { searchChunks } from './retrieval.js';
 
 export const EMBED_MODEL = 'Xenova/all-MiniLM-L6-v2';
 
@@ -44,16 +45,13 @@ export async function embedQuery(text) {
 // dot product IS the cosine similarity.
 export function search(queryVec, k = 5) {
   const idx = index;
-  const { dim, count, chunks, vecs } = idx;
-  const scored = new Array(count);
-  for (let i = 0; i < count; i++) {
-    const scale = chunks[i].scale;
-    const base = i * dim;
-    let dot = 0;
-    for (let d = 0; d < dim; d++) dot += vecs[base + d] * queryVec[d];
-    scored[i] = dot * scale;
-  }
-  // Top-k by partial selection (simple full sort is fine at ~54k rows).
-  const order = scored.map((s, i) => i).sort((a, b) => scored[b] - scored[a]).slice(0, k);
-  return order.map((i) => ({ chunk: chunks[i], score: scored[i] }));
+  return searchChunks(queryVec, idx.chunks, idx.vecs, idx.dim, k);
+}
+
+// Grade-first search (v2.4): top k chunks from one grade only. Returns []
+// when the grade has no chunks in the index (KG has none — its words live
+// in the word list, which the single-word lookup answers grade-agnostic).
+export function searchInGrade(queryVec, grade, k = 5) {
+  const idx = index;
+  return searchChunks(queryVec, idx.chunks, idx.vecs, idx.dim, k, (c) => c.grade === grade);
 }

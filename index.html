@@ -19,6 +19,10 @@
   <h1>Ask Teacher</h1>
   <span id="statusDot" class="status-dot off" title="AI status"></span>
   <span id="statusText" class="status-text">AI not ready</span>
+  <nav class="top-switch" aria-label="Switch mode">
+    <button id="topAskBtn" class="btn small" type="button" aria-pressed="false">💬 Ask</button>
+    <button id="topPracticeBtn" class="btn small" type="button" aria-pressed="false">✏️ Practise</button>
+  </nav>
 </header>
 
 <main>
@@ -51,6 +55,21 @@
     <div class="card">
       <label class="card-label" for="askInput">Ask in English</label>
       <textarea id="askInput" rows="3" placeholder="Example: What is a noun?" aria-label="Ask in English"></textarea>
+      <div class="picker-row">
+        <label class="picker-label">Grade
+          <select id="askGradeSel" aria-label="Grade">
+            <option value="all">All grades</option>
+            <option value="KG">KG</option>
+            <option value="P1">P1</option>
+            <option value="P2">P2</option>
+            <option value="P3">P3</option>
+            <option value="P4">P4</option>
+            <option value="P5">P5</option>
+            <option value="P6">P6</option>
+            <option value="P7">P7</option>
+          </select>
+        </label>
+      </div>
       <div class="card-actions">
         <button id="askBtn" class="btn primary" type="button">Ask the teacher</button>
         <button id="micBtn" class="btn" type="button">🎤 Speak</button>
@@ -86,6 +105,7 @@
       <div class="card-actions">
         <button id="speakBtn" class="btn" type="button">Listen</button>
         <button id="copyBtn" class="btn" type="button">Copy</button>
+        <button id="moreBtn" class="btn" type="button" hidden>More</button>
       </div>
     </section>
     <!-- Chalkboard: the answer, step by step. Listen reads it aloud. -->

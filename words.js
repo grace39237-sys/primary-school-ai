@@ -42,3 +42,34 @@ export function lookupWord(q, dict) {
   if (key.endsWith('s') && d[key.slice(0, -1)]) return d[key.slice(0, -1)];
   return null;
 }
+
+// relatedWords — 'More' for a single-word dictionary answer (v2.4): other
+// words the child can explore, in this order — same unit first (only when
+// the answered word's unit is non-empty), then same grade + subject, then
+// same subject (any grade), then same grade (any subject). The answered
+// word itself is excluded, and the same word is never offered twice.
+// Pure — shared by app.js and the Node test. The dict is the words.json
+// map (keyed by lowercase word), so entries come from Object.values.
+export function relatedWords(dict, entry, n = 3) {
+  const list = Object.values(dict || {});
+  if (!entry || !list.length) return [];
+  const keyOf = (e) => `${e.w || e.word || ''}|${e.grade || ''}|${e.subject || ''}`;
+  const target = keyOf(entry);
+  const seen = new Set([target]);
+  const sameGS = (e) => (e.grade || '') === (entry.grade || '') && (e.subject || '') === (entry.subject || '');
+  const out = [];
+  const take = (pred) => {
+    for (const e of list) {
+      if (out.length >= n) return;
+      if (!e || seen.has(keyOf(e))) continue;
+      if (!pred(e)) continue;
+      seen.add(keyOf(e));
+      out.push(e);
+    }
+  };
+  if (entry.unit) take((e) => sameGS(e) && (e.unit || '') === entry.unit);
+  take(sameGS);
+  take((e) => (e.subject || '') === (entry.subject || ''));
+  take((e) => (e.grade || '') === (entry.grade || ''));
+  return out;
+}
