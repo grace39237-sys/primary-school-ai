@@ -119,6 +119,14 @@ export function simplerBoardSteps(modelText, steps) {
   return out;
 }
 
+// Filter a quiz bank by term (v2.5). 'all' (or anything unknown) keeps
+// the whole bank — a bad term value must never empty Practice.
+export function filterByTerm(bank, term) {
+  if (!term || term === 'all') return bank;
+  if (term !== 'Term 1' && term !== 'Term 2' && term !== 'Term 3') return bank;
+  return bank.filter((it) => it.term === term);
+}
+
 // Adaptive level transition. level = { difficulty, streak }.
 // Right: streak+1; two in a row moves one difficulty up (streak resets).
 // Wrong: streak resets, difficulty stays (the next question stays on the

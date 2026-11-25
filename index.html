@@ -48,6 +48,16 @@
       <span class="mode-title">Practise</span>
       <span class="mode-sub">Answer questions. Get harder ones when you are right.</span>
     </button>
+
+    <!-- My learning (v2.5): phone-only record — per-subject average score
+         + level + last practiced date, and recent questions to ask again.
+         No account, nothing leaves the phone. -->
+    <section id="myLearning" class="card">
+      <h2 class="card-label">My learning</h2>
+      <div id="learnSubjects"></div>
+      <div id="learnQuestions"></div>
+      <p id="learnEmpty" class="hint" hidden>Ask a question or practise — your learning will show up here.</p>
+    </section>
   </section>
 
   <!-- Ask mode -->
@@ -133,6 +143,7 @@
             <option value="P5">P5</option>
             <option value="P6">P6</option>
             <option value="P7">P7</option>
+            <option value="Oxford">Oxford</option>
           </select>
         </label>
         <label class="picker-label">Subject
@@ -141,6 +152,41 @@
             <option value="Math">Maths</option>
             <option value="Science">Science</option>
             <option value="Social">Social Studies</option>
+            <option value="Word">Word</option>
+          </select>
+        </label>
+      </div>
+      <div class="picker-row">
+        <label class="picker-label" id="termSelWrap">Term
+          <select id="termSel" aria-label="Term">
+            <option value="all">All terms</option>
+            <option value="Term 1">Term 1</option>
+            <option value="Term 2">Term 2</option>
+            <option value="Term 3">Term 3</option>
+          </select>
+        </label>
+        <label class="picker-label" id="oxfordLevelSelWrap" hidden>Level
+          <select id="oxfordLevelSel" aria-label="Oxford level">
+            <option value="1">Level 1</option>
+            <option value="2">Level 2</option>
+            <option value="3">Level 3</option>
+            <option value="4">Level 4</option>
+            <option value="5">Level 5</option>
+            <option value="6">Level 6</option>
+            <option value="7">Level 7</option>
+            <option value="8">Level 8</option>
+            <option value="9">Level 9</option>
+            <option value="10">Level 10</option>
+            <option value="11">Level 11</option>
+            <option value="12">Level 12</option>
+            <option value="13">Level 13</option>
+            <option value="14">Level 14</option>
+            <option value="15">Level 15</option>
+            <option value="16">Level 16</option>
+            <option value="17">Level 17</option>
+            <option value="18">Level 18</option>
+            <option value="19">Level 19</option>
+            <option value="20">Level 20</option>
           </select>
         </label>
       </div>

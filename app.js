@@ -9,7 +9,14 @@ import { stripMarkdown } from './textutil.js';
 import { makeBoard } from './board.js';
 import { speak, ttsSupported } from './tts.js';
 import { VoiceCapture, legacySensitivityToNoiseLevel } from './vad.js';
-import { normAnswer, checkAnswer, stepsOf, nextLevel, simplerBoardSteps } from './practice.js';
+import { loadOxfordWords } from './oxford.js';
+import { buildWordBank, wordsByLevel, wordsByGradeVocabulary } from './wordquiz.js';
+import {
+  emptyRecord, loadRecord, recordPracticeAnswer, recordAskQuestion,
+  summarize, todayStr, markCorrect, isRecentlyCorrect, pruneRecentCorrect,
+  RECORDS_KEY, RECENT_CORRECT_KEY,
+} from './records.js';
+import { normAnswer, checkAnswer, stepsOf, nextLevel, simplerBoardSteps, filterByTerm } from './practice.js';
 
 // Same ONNX setup as the translator app: absolute wasmPaths (a relative
 // path doubles to vendor/ort/vendor/ort/ and 404s), 1 thread — GitHub
@@ -22,7 +29,7 @@ if ('serviceWorker' in navigator) {
 }
 if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
 
-const APP_VERSION = 'v2.4';
+const APP_VERSION = 'v2.5';
 // Two bands on the best retrieval cosine score (v2.2 — Won, 2026-11-24).
 // >= 0.67: clear — answer directly. 0.40–0.67: unclear — show 3 choices
 // from the retrieved chunks and let the student pick one. Below 0.40:
@@ -45,6 +52,8 @@ const els = {
   downloadBtn: $('downloadBtn'), downloadProgress: $('downloadProgress'),
   downloadBar: $('downloadBar'), downloadLabel: $('downloadLabel'),
   homeWrap: $('homeWrap'), askModeBtn: $('askModeBtn'), practiceModeBtn: $('practiceModeBtn'),
+  myLearning: $('myLearning'), learnSubjects: $('learnSubjects'),
+  learnQuestions: $('learnQuestions'), learnEmpty: $('learnEmpty'),
   askWrap: $('askWrap'), askInput: $('askInput'), askBtn: $('askBtn'), askBackBtn: $('askBackBtn'),
   askGradeSel: $('askGradeSel'),
   micBtn: $('micBtn'), listeningRow: $('listeningRow'),
@@ -56,6 +65,8 @@ const els = {
   speakBtn: $('speakBtn'), copyBtn: $('copyBtn'), moreBtn: $('moreBtn'), askHint: $('askHint'),
   choiceWrap: $('choiceWrap'), choiceList: $('choiceList'), choiceNoneBtn: $('choiceNoneBtn'),
   practiceWrap: $('practiceWrap'), gradeSel: $('gradeSel'), subjectSel: $('subjectSel'),
+  termSel: $('termSel'), termSelWrap: $('termSelWrap'),
+  oxfordLevelSel: $('oxfordLevelSel'), oxfordLevelSelWrap: $('oxfordLevelSelWrap'),
   startBtn: $('startBtn'), practiceBackBtn: $('practiceBackBtn'),
   quizWrap: $('quizWrap'), quizMeta: $('quizMeta'), quizStars: $('quizStars'),
   quizPassage: $('quizPassage'), quizQuestion: $('quizQuestion'),
@@ -191,7 +202,7 @@ function showMode(mode) {
   els.topPracticeBtn.setAttribute('aria-pressed', String(mode === 'practice'));
   if (mode !== 'ask') { stopMic(); askBoard.stop(); hideChoices(); }
   if (mode !== 'practice') practiceBoard.stop();
-  if (mode === 'home') window.scrollTo({ top: 0 });
+  if (mode === 'home') { renderMyLearning(); window.scrollTo({ top: 0 }); }
 }
 els.askModeBtn.addEventListener('click', () => showMode('ask'));
 els.practiceModeBtn.addEventListener('click', () => showMode('practice'));
@@ -311,7 +322,9 @@ async function chooseOne(c, btn) {
   try {
     if (c.word) {
       // A related word from 'More': answer through the normal word
-      // lookup path (definition + example, no model call).
+      // lookup path (definition + example, no model call). The tapped
+      // word is recorded like an asked question.
+      saveRecord((rec) => recordAskQuestion(rec, c.word.w || c.word.word || '', todayStr()));
       lastAnsweredChunk = null;
       await showWordAnswer(c.word);
     } else {
@@ -401,6 +414,9 @@ async function showWordAnswer(hit) {
 async function doAsk() {
   const q = els.askInput.value.trim();
   if (!q) return;
+  // Every asked question goes into the phone-only record (v2.5), so the
+  // child can tap it on Home and ask it again.
+  saveRecord((rec) => recordAskQuestion(rec, q, todayStr()));
   stopMic();
   hideChoices();
   askBoard.clear();
@@ -636,6 +652,76 @@ els.copyBtn.addEventListener('click', async () => {
   setTimeout(() => { els.copyBtn.textContent = original; }, 1500);
 });
 
+// ---- Learning records, phone only (v2.5 — Won, 2026-11-25) ----
+// Per-subject average score + recent Ask questions, in localStorage
+// under 'psa-records'. No account, no server, no name picker — one
+// record per phone. Changing phones or clearing browser data erases
+// the record. The current level is NOT duplicated here: it already
+// lives in 'psa-level' and summarize() reads it from there.
+function saveRecord(mutator) {
+  try {
+    const rec = loadRecord(localStorage.getItem(RECORDS_KEY));
+    mutator(rec);
+    localStorage.setItem(RECORDS_KEY, JSON.stringify(rec));
+  } catch (_) {}
+}
+
+// Items answered correctly in the last 7 days (records.js): Practice
+// skips them so progress continues instead of looping the same
+// questions. Stored under 'psa-recent-correct' as { itemId: date }.
+let recentCorrect = {};
+function loadRecentCorrectMap() {
+  try {
+    const raw = localStorage.getItem(RECENT_CORRECT_KEY);
+    recentCorrect = pruneRecentCorrect(raw ? JSON.parse(raw) : {}, todayStr());
+  } catch (_) {
+    recentCorrect = {};
+  }
+  return recentCorrect;
+}
+function saveRecentCorrectMap() {
+  try { localStorage.setItem(RECENT_CORRECT_KEY, JSON.stringify(recentCorrect)); } catch (_) {}
+}
+loadRecentCorrectMap();
+
+// 'My learning' on Home: one row per practiced subject (average %,
+// current level, last practiced date) + recent questions to ask again.
+// Rendered every time Home shows, so it is always up to date.
+function renderMyLearning() {
+  if (!els.learnSubjects || !els.learnQuestions) return;
+  let rec = emptyRecord();
+  try { rec = loadRecord(localStorage.getItem(RECORDS_KEY)); } catch (_) {}
+  const rows = summarize(rec, getLevels());
+  els.learnSubjects.innerHTML = '';
+  for (const r of rows) {
+    const div = document.createElement('div');
+    div.className = 'learn-row';
+    const name = document.createElement('span');
+    name.className = 'learn-subject';
+    name.textContent = r.label;
+    const score = document.createElement('span');
+    score.className = 'learn-score';
+    score.textContent = `${r.pct}% · ${r.correct}/${r.total}`;
+    const meta = document.createElement('span');
+    meta.className = 'learn-meta';
+    meta.textContent = `Level: ${r.level}${r.last ? ` · ${r.last}` : ''}`;
+    div.appendChild(name); div.appendChild(score); div.appendChild(meta);
+    els.learnSubjects.appendChild(div);
+  }
+  els.learnQuestions.innerHTML = '';
+  for (const entry of rec.questions.slice(0, 8)) {
+    const b = document.createElement('button');
+    b.type = 'button'; b.className = 'opt-btn learn-q'; b.textContent = stripMarkdown(entry.q);
+    b.addEventListener('click', () => {
+      els.askInput.value = entry.q;
+      showMode('ask');
+      doAsk();
+    });
+    els.learnQuestions.appendChild(b);
+  }
+  els.learnEmpty.hidden = rows.length > 0 || rec.questions.length > 0;
+}
+
 // ---- Practice mode (teacher mode) ----
 const PRACTICE_TYPES = ['multiple_choice', 'true_false', 'fill_blank', 'comprehension', 'multi_select'];
 const DIFF_ORDER = ['easy', 'medium', 'hard'];
@@ -653,23 +739,78 @@ function getLevels() {
 function saveLevels(lv) {
   try { localStorage.setItem('psa-level', JSON.stringify(lv)); } catch (_) {}
 }
-function levelFor(subject) {
-  const lv = getLevels();
-  return lv[subject] || { difficulty: 'easy', streak: 0 };
+// The Practice track a level/score belongs to (v2.5). Quiz subjects
+// keep their own key ('English', 'Math', ...); grade words share the
+// 'Word' key across grades (the same as quiz subjects already share a
+// key across grades); Oxford has its own key so its level never
+// collides with the grade-word level.
+function practiceKey() {
+  return els.gradeSel.value === 'Oxford' ? 'Oxford' : els.subjectSel.value;
 }
-function setLevel(subject, difficulty, streak) {
+function levelFor(key) {
   const lv = getLevels();
-  lv[subject] = { difficulty, streak };
+  return lv[key] || { difficulty: 'easy', streak: 0 };
+}
+function setLevel(key, difficulty, streak) {
+  const lv = getLevels();
+  lv[key] = { difficulty, streak };
   saveLevels(lv);
 }
 
-async function loadBank(grade, subject) {
-  const key = `${grade}-${subject}`;
+// Picker interlock (v2.5): Oxford is a word track, not a grade —
+// picking it forces Subject to Word, shows the Level picker (1–20,
+// saved on the phone), and hides Term (words have no term). Picking
+// Subject Word for a grade also hides Term; quiz subjects show it.
+let oxfordLevel = 1;
+try {
+  const n = Number(localStorage.getItem('psa-oxford-level'));
+  if (n >= 1 && n <= 20) oxfordLevel = n;
+} catch (_) {}
+function updatePracticePickers() {
+  const isOxford = els.gradeSel.value === 'Oxford';
+  const isWord = isOxford || els.subjectSel.value === 'Word';
+  if (isOxford) {
+    els.subjectSel.value = 'Word';
+    els.subjectSel.disabled = true;
+    els.oxfordLevelSelWrap.hidden = false;
+    els.termSelWrap.hidden = true;
+  } else {
+    els.subjectSel.disabled = false;
+    els.oxfordLevelSelWrap.hidden = true;
+    els.termSelWrap.hidden = isWord;
+  }
+  if (els.oxfordLevelSel) els.oxfordLevelSel.value = String(oxfordLevel);
+}
+els.gradeSel.addEventListener('change', updatePracticePickers);
+els.subjectSel.addEventListener('change', updatePracticePickers);
+els.oxfordLevelSel.addEventListener('change', () => {
+  const n = Number(els.oxfordLevelSel.value);
+  if (n >= 1 && n <= 20) {
+    oxfordLevel = n;
+    try { localStorage.setItem('psa-oxford-level', String(n)); } catch (_) {}
+  }
+});
+updatePracticePickers();
+
+async function loadBank(grade, subject, term, oxLevel) {
+  const key = `${grade}-${subject}-${term}-${oxLevel || ''}`;
   if (bankKey === key) return;
-  const n = grade.slice(1);
-  const resp = await fetch(`./data/quiz/quiz_p${n}_${SUBJECT_FILE[subject]}.json`);
-  if (!resp.ok) throw new Error(`Could not load ${subject} questions (${resp.status})`);
-  bank = await resp.json();
+  if (subject === 'Word' && grade === 'Oxford') {
+    // Oxford words (v2.5): the picked level's words as meaning
+    // questions — "What does "word" mean?" with 4 definitions.
+    const ox = await loadOxfordWords();
+    bank = buildWordBank(wordsByLevel(ox, oxLevel), { subject: 'Word', grade: 'Oxford', idPrefix: 'oxford' });
+  } else if (subject === 'Word') {
+    // Class words for the grade (v2.5): the words.json 'Vocabulary'
+    // entries — the class words, already in this repo (no new file).
+    const dict = await loadWords();
+    bank = buildWordBank(wordsByGradeVocabulary(dict, grade), { subject: 'Word', grade, idPrefix: 'word' });
+  } else {
+    const n = grade.slice(1);
+    const resp = await fetch(`./data/quiz/quiz_p${n}_${SUBJECT_FILE[subject]}.json`);
+    if (!resp.ok) throw new Error(`Could not load ${subject} questions (${resp.status})`);
+    bank = filterByTerm(await resp.json(), term);
+  }
   bankKey = key;
 }
 
@@ -691,6 +832,12 @@ function pickQuestion(subject, opts = {}) {
     pool = bank.filter((it) => PRACTICE_TYPES.includes(it.type));
     recentIds = [];
   }
+  // v2.5: do not re-ask items answered correctly in the last 7 days
+  // (records.js) — progress continues instead of looping the same
+  // questions. When everything left was recently answered correctly,
+  // the pool stays as it is, so Practice never runs dry.
+  const fresh = pool.filter((it) => !isRecentlyCorrect(recentCorrect, it.id, todayStr()));
+  if (fresh.length) pool = fresh;
   const item = pool[Math.floor(Math.random() * pool.length)];
   recentIds.push(item.id);
   if (recentIds.length > 12) recentIds.shift();
@@ -701,8 +848,12 @@ function pickQuestion(subject, opts = {}) {
 function renderQuestion(item) {
   current = { item, userAnswer: null };
   practiceBoard.clear();
-  const lv = levelFor(els.subjectSel.value);
-  els.quizMeta.textContent = `${els.gradeSel.value} · ${els.subjectSel.value} · ${item.difficulty} · Level: ${lv.difficulty}`;
+  const lv = levelFor(practiceKey());
+  const grade = els.gradeSel.value;
+  const subject = els.subjectSel.value;
+  const extra = grade === 'Oxford' ? ` · Oxford Level ${oxfordLevel}`
+    : (subject !== 'Word' && els.termSel.value !== 'all' ? ` · ${els.termSel.value}` : '');
+  els.quizMeta.textContent = `${grade} · ${subject}${extra} · ${item.difficulty} · Level: ${lv.difficulty}`;
   els.quizStars.textContent = '★'.repeat(Math.min(5, lv.streak)) + '☆'.repeat(Math.max(0, 5 - Math.min(5, lv.streak)));
   els.quizPassage.hidden = !item.passage;
   if (item.passage) els.quizPassage.textContent = stripMarkdown(item.passage);
@@ -802,23 +953,31 @@ function doCheck() {
 
   // Adaptive: right → streak up, two in a row moves one level up;
   // wrong → stay on the same concept (unit), same or one level down.
-  const subject = els.subjectSel.value;
-  const lv = levelFor(subject);
+  const key = practiceKey();
+  const lv = levelFor(key);
   const nl = nextLevel(lv, ok);
-  setLevel(subject, nl.difficulty, nl.streak);
+  setLevel(key, nl.difficulty, nl.streak);
   if (ok) retryUnit = null; else retryUnit = item.unit || null;
+  // v2.5: every answered question goes into the phone-only record
+  // (per-subject average), and a correct answer is remembered for 7
+  // days so the question is not asked again for a while.
+  saveRecord((rec) => recordPracticeAnswer(rec, key, ok, todayStr()));
+  if (ok) {
+    recentCorrect = markCorrect(recentCorrect, item.id, todayStr());
+    saveRecentCorrectMap();
+  }
 }
 
 async function nextQuestion() {
-  const subject = els.subjectSel.value;
-  const lv = levelFor(subject);
+  const key = practiceKey();
+  const lv = levelFor(key);
   let item;
   if (retryUnit) {
     // Same concept, a different type if possible, same or easier level.
-    item = pickQuestion(subject, { unit: retryUnit, notType: current?.item.type });
+    item = pickQuestion(key, { unit: retryUnit, notType: current?.item.type });
     if (item.unit !== retryUnit) retryUnit = null;
   } else {
-    item = pickQuestion(subject, { difficulty: lv.difficulty });
+    item = pickQuestion(key, { difficulty: lv.difficulty });
   }
   renderQuestion(item);
   window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -828,13 +987,14 @@ els.startBtn.addEventListener('click', async () => {
   // Practice needs no AI model — only the question bank. ("Say it simpler"
   // loads the model on demand.) Do not gate practising behind the download.
   try {
-    await loadBank(els.gradeSel.value, els.subjectSel.value);
+    await loadBank(els.gradeSel.value, els.subjectSel.value, els.termSel.value, oxfordLevel);
   } catch (e) {
     alert(e.message);
     return;
   }
   recentIds = [];
   retryUnit = null;
+  loadRecentCorrectMap();
   els.quizWrap.hidden = false;
   nextQuestion();
 });

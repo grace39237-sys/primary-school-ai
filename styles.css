@@ -127,6 +127,20 @@ select {
 .quiz-correct { font-size: 16px; margin: 0 0 10px; }
 .choice-title { font-size: 16px; font-weight: 700; margin: 0 0 10px; }
 
+/* My learning (v2.5): phone-only record on Home. */
+#myLearning { background: #F8F9FA; }
+#myLearning h2 { font-size: 18px; color: #202124; margin: 0 0 8px; }
+.learn-row {
+  display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
+  padding: 8px 0; border-top: 1px solid #DADCE0; font-size: 15px;
+}
+.learn-row:first-child { border-top: 0; padding-top: 0; }
+.learn-subject { font-weight: 700; }
+.learn-score { color: #2E7D32; font-weight: 700; }
+.learn-meta { color: #5F6368; font-size: 13px; }
+#learnQuestions { display: flex; flex-direction: column; gap: 10px; margin-top: 10px; }
+.learn-q { font-size: 15px; min-height: 44px; padding: 10px 14px; }
+
 /* Voice input: mic button + listening row (Ask only) */
 #micBtn.listening { border-color: #D93025; background: #FCE8E6; color: #D93025; }
 .listening-row { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
