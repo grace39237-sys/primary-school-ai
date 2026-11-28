@@ -400,7 +400,7 @@
   "image": null
  },
  {
-  "id": "TH1155000",
+  "id": "TH1155000b",
   "question": "The ___ falls in dry season.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -420,7 +420,7 @@
   "image": null
  },
  {
-  "id": "TH1155001",
+  "id": "TH1155001b",
   "question": "The ___ is near the school.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -440,7 +440,7 @@
   "image": null
  },
  {
-  "id": "TH1155002",
+  "id": "TH1155002b",
   "question": "Which word means 'the colourful part of a plant'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -460,7 +460,7 @@
   "image": null
  },
  {
-  "id": "TH1155003",
+  "id": "TH1155003b",
   "question": "Which word means 'an animal that catches mice'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -480,7 +480,7 @@
   "image": null
  },
  {
-  "id": "TH1155004",
+  "id": "TH1155004b",
   "question": "We ___ water when thirsty.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -500,7 +500,7 @@
   "image": null
  },
  {
-  "id": "TH1155005",
+  "id": "TH1155005b",
   "question": "What does 'hen' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -520,7 +520,7 @@
   "image": null
  },
  {
-  "id": "TH1155006",
+  "id": "TH1155006b",
   "question": "Which word means 'an animal that gives milk and meat'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -540,7 +540,7 @@
   "image": null
  },
  {
-  "id": "TH1155007",
+  "id": "TH1155007b",
   "question": "The ___ barks at night.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -560,7 +560,7 @@
   "image": null
  },
  {
-  "id": "TH1155008",
+  "id": "TH1155008b",
   "question": "Which word means 'free from dirt and germs'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -580,7 +580,7 @@
   "image": null
  },
  {
-  "id": "TH1155009",
+  "id": "TH1155009b",
   "question": "Which word means 'clear liquid we need to live'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -600,7 +600,7 @@
   "image": null
  },
  {
-  "id": "TH1155010",
+  "id": "TH1155010b",
   "question": "Which word means 'a plant with long leaves and fruit'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -620,7 +620,7 @@
   "image": null
  },
  {
-  "id": "TH1155011",
+  "id": "TH1155011b",
   "question": "Our ___ is near the school.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -640,7 +640,7 @@
   "image": null
  },
  {
-  "id": "TH1155012",
+  "id": "TH1155012b",
   "question": "Which word means 'the place where we live'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -660,7 +660,7 @@
   "image": null
  },
  {
-  "id": "TH1155013",
+  "id": "TH1155013b",
   "question": "Which word means 'a big plant with a trunk'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -680,7 +680,7 @@
   "image": null
  },
  {
-  "id": "TH1155014",
+  "id": "TH1155014b",
   "question": "Which word means 'an animal that guards the home'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -700,7 +700,7 @@
   "image": null
  },
  {
-  "id": "TH1155015",
+  "id": "TH1155015b",
   "question": "What does 'clean' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -720,7 +720,7 @@
   "image": null
  },
  {
-  "id": "TH1155016",
+  "id": "TH1155016b",
   "question": "What does 'well' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -740,7 +740,7 @@
   "image": null
  },
  {
-  "id": "TH1155017",
+  "id": "TH1155017b",
   "question": "What does 'leaf' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -760,7 +760,7 @@
   "image": null
  },
  {
-  "id": "TH1155018",
+  "id": "TH1155018b",
   "question": "The ___ lays eggs.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -780,7 +780,7 @@
   "image": null
  },
  {
-  "id": "TH1155019",
+  "id": "TH1155019b",
   "question": "What does 'cat' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2068,14 +2068,14 @@
   "term": "Term 2",
   "unit": "Accidents and Safety",
   "difficulty": "easy",
-  "answer": "a sticky cover for a **cut**",
+  "answer": "a sticky cover for a cut",
   "options": [
-   "a sticky cover for a **cut**",
+   "a sticky cover for a cut",
    "a tool with a sharp edge for cutting",
    "hot flames that burn",
    "to feel pain in your body"
   ],
-  "explanation": "'plaster' means a sticky cover for a **cut**.",
+  "explanation": "'plaster' means a sticky cover for a cut.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -2091,7 +2091,7 @@
   "answer": "a tool with a sharp edge for cutting",
   "options": [
    "a tool with a sharp edge for cutting",
-   "red liquid that comes from a **cut**",
+   "red liquid that comes from a cut",
    "a path for cars and people",
    "has a thin edge that cuts easily"
   ],
@@ -2161,7 +2161,7 @@
  },
  {
   "id": "TH1203008",
-  "question": "We **___** the **road** at the zebra.",
+  "question": "We ___ the road at the zebra.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2175,7 +2175,7 @@
    "danger",
    "look"
   ],
-  "explanation": "The word is 'cross': We **cross** the **road** at the zebra.",
+  "explanation": "The word is 'cross': We cross the road at the zebra.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -2241,7 +2241,7 @@
  },
  {
   "id": "TH1203012",
-  "question": "We walk on the **___** to school.",
+  "question": "We walk on the ___ to school.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2255,7 +2255,7 @@
    "knife",
    "sharp"
   ],
-  "explanation": "The word is 'road': We walk on the **road** to school.",
+  "explanation": "The word is 'road': We walk on the road to school.",
   "hint": "It starts with 'R'.",
   "image": null
  },
@@ -2272,7 +2272,7 @@
   "options": [
    "to clean with water and soap",
    "hot flames that burn",
-   "red liquid that comes from a **cut**",
+   "red liquid that comes from a cut",
    "a path for cars and people"
   ],
   "explanation": "'wash' means to clean with water and soap.",
@@ -2281,7 +2281,7 @@
  },
  {
   "id": "TH1203014",
-  "question": "**___** the **cut** with clean water.",
+  "question": "___ the cut with clean water.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2295,7 +2295,7 @@
    "clean",
    "car"
   ],
-  "explanation": "The word is 'wash': **Wash** the **cut** with clean water.",
+  "explanation": "The word is 'wash': Wash the cut with clean water.",
   "hint": "It starts with 'W'.",
   "image": null
  },
@@ -2321,7 +2321,7 @@
  },
  {
   "id": "TH1203016",
-  "question": "Put a **___** on the **cut**.",
+  "question": "Put a ___ on the cut.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2335,7 +2335,7 @@
    "wash",
    "hurt"
   ],
-  "explanation": "The word is 'plaster': Put a **plaster** on the **cut**.",
+  "explanation": "The word is 'plaster': Put a plaster on the cut.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -2351,7 +2351,7 @@
   "answer": "to feel pain in your body",
   "options": [
    "to feel pain in your body",
-   "a sticky cover for a **cut**",
+   "a sticky cover for a cut",
    "free from dirt and germs",
    "something that can cause harm"
   ],
@@ -2381,7 +2381,7 @@
  },
  {
   "id": "TH1203019",
-  "question": "Which word means 'red liquid that comes from a **cut**'?",
+  "question": "Which word means 'red liquid that comes from a cut'?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2395,13 +2395,13 @@
    "cut",
    "look"
   ],
-  "explanation": "red liquid that comes from a **cut** — that is 'blood'.",
+  "explanation": "red liquid that comes from a cut — that is 'blood'.",
   "hint": "It starts with 'B'.",
   "image": null
  },
  {
   "id": "TH1214000",
-  "question": "The ___ walks to the river.",
+  "question": "A ___ of cattle walks to the river.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",

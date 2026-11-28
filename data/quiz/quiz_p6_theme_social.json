@@ -1,6 +1,6 @@
 [
  {
-  "id": "TH6190000",
+  "id": "TH6190000b",
   "question": "What does 'cultivation' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -20,7 +20,7 @@
   "image": null
  },
  {
-  "id": "TH6190001",
+  "id": "TH6190001b",
   "question": "Which word means 'the solid ground we live on and use for farming or building'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -51,16 +51,16 @@
   "answer": "export",
   "options": [
    "export",
-   "ocean",
-   "conservation",
-   "diamond"
+   "import",
+   "produce",
+   "mine"
   ],
   "explanation": "The word is 'export': Uganda **export**s **gold** and **copper** to earn foreign money.",
   "hint": "It starts with 'E'.",
   "image": null
  },
  {
-  "id": "TH6190003",
+  "id": "TH6190003b",
   "question": "What does 'mining' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -80,7 +80,7 @@
   "image": null
  },
  {
-  "id": "TH6190004",
+  "id": "TH6190004b",
   "question": "Smoking and sun-drying are **___** methods.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -100,7 +100,7 @@
   "image": null
  },
  {
-  "id": "TH6190005",
+  "id": "TH6190005b",
   "question": "Which word means 'a good result or advantage'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -120,7 +120,7 @@
   "image": null
  },
  {
-  "id": "TH6190006",
+  "id": "TH6190006b",
   "question": "Which word means 'a strong magnetic metal used to make steel'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -140,7 +140,7 @@
   "image": null
  },
  {
-  "id": "TH6190007",
+  "id": "TH6190007b",
   "question": "What does 'protect' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -160,7 +160,7 @@
   "image": null
  },
  {
-  "id": "TH6190008",
+  "id": "TH6190008b",
   "question": "Which word means 'cold-blooded water animals with gills and fins'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -180,7 +180,7 @@
   "image": null
  },
  {
-  "id": "TH6190009",
+  "id": "TH6190009b",
   "question": "Which word means 'preparing soil and growing crops on it'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -200,7 +200,7 @@
   "image": null
  },
  {
-  "id": "TH6190010",
+  "id": "TH6190010b",
   "question": "What does 'copper' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -220,7 +220,7 @@
   "image": null
  },
  {
-  "id": "TH6190011",
+  "id": "TH6190011b",
   "question": "What does 'solution' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -240,7 +240,7 @@
   "image": null
  },
  {
-  "id": "TH6190012",
+  "id": "TH6190012b",
   "question": "What does 'tourism' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -260,7 +260,7 @@
   "image": null
  },
  {
-  "id": "TH6190013",
+  "id": "TH6190013b",
   "question": "What does 'export' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -280,7 +280,7 @@
   "image": null
  },
  {
-  "id": "TH6190014",
+  "id": "TH6190014b",
   "question": "What does 'pollution' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -300,7 +300,7 @@
   "image": null
  },
  {
-  "id": "TH6190015",
+  "id": "TH6190015b",
   "question": "Which word means 'catching fish faster than they can breed'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -331,16 +331,16 @@
   "answer": "modern",
   "options": [
    "modern",
-   "drainage",
-   "solution",
-   "overfishing"
+   "traditional",
+   "commercial",
+   "industrial"
   ],
   "explanation": "The word is 'modern': **Modern** **fishing** uses motor boats and nylon nets.",
   "hint": "It starts with 'M'.",
   "image": null
  },
  {
-  "id": "TH6190017",
+  "id": "TH6190017b",
   "question": "Which word means 'keeping fish from spoiling so it lasts longer'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -372,7 +372,7 @@
   "options": [
    "conservation",
    "forest",
-   "sustainable",
+   "protection",
    "oil"
   ],
   "explanation": "The word is 'conservation': **Conservation** of **game parks** helps **wildlife** survive.",
@@ -391,9 +391,9 @@
   "answer": "protect",
   "options": [
    "protect",
-   "oil",
-   "tourism",
-   "pollution"
+   "guard",
+   "shield",
+   "defend"
   ],
   "explanation": "The word is 'protect': Laws **protect** **game parks** from poaching.",
   "hint": "It starts with 'P'.",
@@ -468,14 +468,14 @@
   "term": "Term 2",
   "unit": "Transport and Communication in East Africa",
   "difficulty": "easy",
-  "answer": "air",
+  "answer": "flight",
   "options": [
-   "air",
+   "flight",
    "danger",
    "whistle",
    "transport"
   ],
-  "explanation": "travel by aircraft through the sky — that is 'air'.",
+  "explanation": "travel by aircraft through the sky — that is 'flight'.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -1200,7 +1200,7 @@
   "image": null
  },
  {
-  "id": "TH6334000",
+  "id": "TH6334000b",
   "question": "What does 'pollution' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1220,7 +1220,7 @@
   "image": null
  },
  {
-  "id": "TH6334001",
+  "id": "TH6334001b",
   "question": "Which word means 'acting with care for consequences on others and nature'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1240,7 +1240,7 @@
   "image": null
  },
  {
-  "id": "TH6334002",
+  "id": "TH6334002b",
   "question": "Which word means 'harmful substances added to air, water or soil'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1260,7 +1260,7 @@
   "image": null
  },
  {
-  "id": "TH6334003",
+  "id": "TH6334003b",
   "question": "This ___ must fix the mistakes of the past.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1280,7 +1280,7 @@
   "image": null
  },
  {
-  "id": "TH6334004",
+  "id": "TH6334004b",
   "question": "We must respect ___ and not pollute the rivers.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1300,7 +1300,7 @@
   "image": null
  },
  {
-  "id": "TH6334005",
+  "id": "TH6334005b",
   "question": "What does 'community' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1320,7 +1320,7 @@
   "image": null
  },
  {
-  "id": "TH6334006",
+  "id": "TH6334006b",
   "question": "What does 'disease' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1340,7 +1340,7 @@
   "image": null
  },
  {
-  "id": "TH6334007",
+  "id": "TH6334007b",
   "question": "What does 'volunteer' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1360,7 +1360,7 @@
   "image": null
  },
  {
-  "id": "TH6334008",
+  "id": "TH6334008b",
   "question": "Proper ___ pipes keep the borehole water clean.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1380,7 +1380,7 @@
   "image": null
  },
  {
-  "id": "TH6334009",
+  "id": "TH6334009b",
   "question": "What does 'energy' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1400,7 +1400,7 @@
   "image": null
  },
  {
-  "id": "TH6334010",
+  "id": "TH6334010b",
   "question": "Which word means 'organised effort to promote a cause'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1420,7 +1420,7 @@
   "image": null
  },
  {
-  "id": "TH6334011",
+  "id": "TH6334011b",
   "question": "Amina became a ___ for the Saturday clean-up.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1440,7 +1440,7 @@
   "image": null
  },
  {
-  "id": "TH6334012",
+  "id": "TH6334012b",
   "question": "Which word means 'the physical world including plants, animals, landscapes'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1460,7 +1460,7 @@
   "image": null
  },
  {
-  "id": "TH6334013",
+  "id": "TH6334013b",
   "question": "Gully ___ has cut deep channels across the garden.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1480,7 +1480,7 @@
   "image": null
  },
  {
-  "id": "TH6334014",
+  "id": "TH6334014b",
   "question": "Our ___ gives us food, water and firewood.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1500,7 +1500,7 @@
   "image": null
  },
  {
-  "id": "TH6334015",
+  "id": "TH6334015b",
   "question": "What does 'damage' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1520,7 +1520,7 @@
   "image": null
  },
  {
-  "id": "TH6334016",
+  "id": "TH6334016b",
   "question": "Which word means 'long period with little or no rain'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1540,7 +1540,7 @@
   "image": null
  },
  {
-  "id": "TH6334017",
+  "id": "TH6334017b",
   "question": "What does 'clean' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1560,7 +1560,7 @@
   "image": null
  },
  {
-  "id": "TH6334018",
+  "id": "TH6334018b",
   "question": "What does 'solution' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1580,7 +1580,7 @@
   "image": null
  },
  {
-  "id": "TH6334019",
+  "id": "TH6334019b",
   "question": "Factory ___ turned the stream water brown and smelly.",
   "type": "multiple_choice",
   "subject": "Theme",

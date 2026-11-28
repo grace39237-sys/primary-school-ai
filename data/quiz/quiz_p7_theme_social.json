@@ -1861,7 +1861,7 @@
  },
  {
   "id": "TH7287013",
-  "question": "**Ethiopia** used **___** at the League of Nations; **Liberia** used treaties with Britain/France.",
+  "question": "Ethiopia used ___ at the League of Nations; Liberia used treaties with Britain/France.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -1875,7 +1875,7 @@
    "land",
    "marcus garvey"
   ],
-  "explanation": "The word is 'diplomacy': **Ethiopia** used **diplomacy** at the League of Nations; **Liberia** used treaties with Britain/France.",
+  "explanation": "The word is 'diplomacy': Ethiopia used diplomacy at the League of Nations; Liberia used treaties with Britain/France.",
   "hint": "It starts with 'D'.",
   "image": null
  },
@@ -2331,9 +2331,9 @@
   "answer": "organisation of african unity",
   "options": [
    "organisation of african unity",
-   "oau",
    "eac",
-   "disadvantage"
+   "disadvantage",
+   "au"
   ],
   "explanation": "The word is 'organisation of african unity': The Organisation of African Unity was formed in 1963.",
   "hint": "It starts with 'O'.",
@@ -2561,7 +2561,7 @@
  },
  {
   "id": "TH7351008",
-  "question": "A strong **___** creates jobs and funds services.",
+  "question": "A strong ___ creates jobs and funds services.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2575,7 +2575,7 @@
    "resource",
    "disease"
   ],
-  "explanation": "The word is 'economy': A strong **economy** creates jobs and funds services.",
+  "explanation": "The word is 'economy': A strong economy creates jobs and funds services.",
   "hint": "It starts with 'E'.",
   "image": null
  },
@@ -3091,9 +3091,9 @@
   "answer": "equality",
   "options": [
    "equality",
-   "children",
-   "world war",
-   "games"
+   "fairness",
+   "justice",
+   "respect"
   ],
   "explanation": "The word is 'equality': The law must treat everyone with equality.",
   "hint": "It starts with 'E'.",
@@ -3112,7 +3112,7 @@
   "options": [
    "country",
    "agency",
-   "children",
+   "organ",
    "objective"
   ],
   "explanation": "The word is 'country': Each Commonwealth country is independent.",
@@ -3171,9 +3171,9 @@
   "answer": "torture",
   "options": [
    "torture",
-   "meeting",
-   "member",
-   "trade"
+   "equality",
+   "security",
+   "assistance"
   ],
   "explanation": "The word is 'torture': Torture is banned by international law.",
   "hint": "It starts with 'T'.",

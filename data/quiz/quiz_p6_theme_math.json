@@ -2628,14 +2628,14 @@
   "term": "Term 2",
   "unit": "Money",
   "difficulty": "easy",
-  "answer": "to keep money by paying less",
+  "answer": "to keep money for future use",
   "options": [
-   "to keep money by paying less",
+   "to keep money for future use",
    "a reduction from the original price",
    "money lost when selling price is lower than buying price",
    "the new price after discount"
   ],
-  "explanation": "'save' means to keep money by paying less.",
+  "explanation": "'save' means to keep money for future use.",
   "hint": "It starts with 'S'.",
   "image": null
  },

@@ -801,7 +801,7 @@
  },
  {
   "id": "TH5184000",
-  "question": "We **___** the mangoes equally among the class.",
+  "question": "We ___ the mangoes equally among the class.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -815,7 +815,7 @@
    "answer",
    "add"
   ],
-  "explanation": "The word is 'share': We **share** the mangoes equally among the class.",
+  "explanation": "The word is 'share': We share the mangoes equally among the class.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -1908,14 +1908,14 @@
   "term": "Term 1",
   "unit": "Patterns and Sequences",
   "difficulty": "medium",
-  "answer": "pattern",
+  "answer": "rule",
   "options": [
    "pattern",
    "next",
    "term",
    "rule"
   ],
-  "explanation": "The word is 'pattern': The pattern is add 2.",
+  "explanation": "The word is 'rule': The rule is add 2.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -1937,26 +1937,6 @@
   ],
   "explanation": "'prime' means a number with exactly two factors: 1 and itself.",
   "hint": "It starts with 'P'.",
-  "image": null
- },
- {
-  "id": "TH5154017",
-  "question": "2 is a ___ factor.",
-  "type": "multiple_choice",
-  "subject": "Theme",
-  "grade": "P5",
-  "term": "Term 1",
-  "unit": "Patterns and Sequences",
-  "difficulty": "medium",
-  "answer": "common",
-  "options": [
-   "common",
-   "factor",
-   "prime",
-   "next"
-  ],
-  "explanation": "The word is 'common': 2 is a common factor.",
-  "hint": "It starts with 'C'.",
   "image": null
  },
  {
@@ -2275,7 +2255,7 @@
    "same bottom number",
    "look at differences"
   ],
-  "explanation": "'of' means means multiply.",
+  "explanation": "'of' means multiply.",
   "hint": "It starts with 'O'.",
   "image": null
  },
@@ -2401,7 +2381,7 @@
  },
  {
   "id": "TH5273000",
-  "question": "The **angle** of the triangle is **___**.",
+  "question": "The angle of the triangle is ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -2415,13 +2395,13 @@
    "protractor",
    "angle"
   ],
-  "explanation": "The word is 'acute': The **angle** of the triangle is **acute**.",
+  "explanation": "The word is 'acute': The angle of the triangle is acute.",
   "hint": "It starts with 'A'.",
   "image": null
  },
  {
   "id": "TH5273001",
-  "question": "We **___** the **angle** with a **protractor**.",
+  "question": "We ___ the angle with a protractor.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -2435,7 +2415,7 @@
    "perpendicular",
    "draw"
   ],
-  "explanation": "The word is 'measure': We **measure** the **angle** with a **protractor**.",
+  "explanation": "The word is 'measure': We measure the angle with a protractor.",
   "hint": "It starts with 'M'.",
   "image": null
  },
@@ -4121,7 +4101,7 @@
  },
  {
   "id": "TH5300006",
-  "question": "We **___** metre to centimetre by multiplying by 100.",
+  "question": "We ___ metre to centimetre by multiplying by 100.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -4135,13 +4115,13 @@
    "half",
    "height"
   ],
-  "explanation": "The word is 'convert': We **convert** metre to centimetre by multiplying by 100.",
+  "explanation": "The word is 'convert': We convert metre to centimetre by multiplying by 100.",
   "hint": "It starts with 'C'.",
   "image": null
  },
  {
   "id": "TH5300007",
-  "question": "We walk around the **___** of the school compound.",
+  "question": "We walk around the ___ of the school compound.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -4155,7 +4135,7 @@
    "height",
    "multiply"
   ],
-  "explanation": "The word is 'perimeter': We walk around the **perimeter** of the school compound.",
+  "explanation": "The word is 'perimeter': We walk around the perimeter of the school compound.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -4201,7 +4181,7 @@
  },
  {
   "id": "TH5300010",
-  "question": "The **___** of the room is 6 metre.",
+  "question": "The ___ of the room is 6 metre.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -4215,7 +4195,7 @@
    "square units",
    "sum"
   ],
-  "explanation": "The word is 'length': The **length** of the room is 6 metre.",
+  "explanation": "The word is 'length': The length of the room is 6 metre.",
   "hint": "It starts with 'L'.",
   "image": null
  },
@@ -4721,7 +4701,7 @@
  },
  {
   "id": "TH5345016",
-  "question": "___ 2y and 4y to get 6y.",
+  "question": "___ like terms 2y and 4y to get 6y.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",

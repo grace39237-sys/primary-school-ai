@@ -1939,16 +1939,16 @@
  },
  {
   "id": "P214140103",
-  "question": "Give one use of water to people: ____.",
+  "question": "Give one use of water at home: ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "drinking",
-  "explanation": "We drink water to stay alive.",
-  "hint": "We must drink it daily.",
+  "answer": "cooking",
+  "explanation": "We use water to cook food.",
+  "hint": "Boiling rice.",
   "image": null
  },
  {
@@ -2015,16 +2015,16 @@
  },
  {
   "id": "P214130201",
-  "question": "How is the sun useful to people? ____.",
+  "question": "How does the sun help plants? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Weather",
   "difficulty": "medium",
-  "answer": "The sun gives us light.",
-  "explanation": "The sun gives us light and heat every day.",
-  "hint": "It lights our day.",
+  "answer": "It gives light for photosynthesis",
+  "explanation": "Plants need sunlight to make food.",
+  "hint": "Green plants need light.",
   "image": null
  },
  {
@@ -3129,16 +3129,16 @@
  },
  {
   "id": "P214040303",
-  "question": "Name one fruit: ____.",
+  "question": "Name one fruit that is red when ripe: ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "answer": "mango",
-  "explanation": "A mango is a sweet fruit.",
-  "hint": "It is yellow inside.",
+  "answer": "apple",
+  "explanation": "Apples are red when ripe.",
+  "hint": "It grows on a tree.",
   "image": null
  },
  {
@@ -3199,30 +3199,30 @@
  },
  {
   "id": "P214140301",
-  "question": "Give one use of water to people (1): ____.",
+  "question": "State one way people use water: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "drinking",
-  "explanation": "We drink water to stay alive.",
-  "hint": "We must drink it daily.",
+  "answer": "washing",
+  "explanation": "We use water to wash our bodies, clothes, and dishes.",
+  "hint": "We clean with it.",
   "image": null
  },
  {
   "id": "P214140302",
-  "question": "Give one use of water to people (2): ____.",
+  "question": "State another way people use water: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "cooking",
-  "explanation": "We use water to cook food.",
-  "hint": "Food is cooked with it.",
+  "answer": "watering plants",
+  "explanation": "Water helps plants grow when we water them.",
+  "hint": "Plants need it.",
   "image": null
  },
  {
@@ -3549,16 +3549,16 @@
  },
  {
   "id": "P214040304",
-  "question": "Why do people eat food? ____.",
+  "question": "Why do we need to eat vegetables? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "medium",
-  "answer": "to get energy",
-  "explanation": "Food gives our bodies energy.",
-  "hint": "Food makes us strong.",
+  "answer": "to get vitamins",
+  "explanation": "Vegetables give us vitamins for health.",
+  "hint": "They keep us healthy.",
   "image": null
  },
  {
@@ -4124,7 +4124,7 @@
  },
  {
   "id": "P214020404",
-  "question": "Look at the three buildings. Which one is the church?",
+  "question": "Look at the buildings. Which one is the church?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P2",
@@ -4396,16 +4396,16 @@
  },
  {
   "id": "P214120408",
-  "question": "Name the young one of a lion: ____.",
+  "question": "Name the young one of a cow: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "medium",
-  "answer": "cub",
-  "explanation": "The young one of a lion is called a cub.",
-  "hint": "Baby lions.",
+  "answer": "calf",
+  "explanation": "A baby cow is called a calf.",
+  "hint": "Baby cows are calves.",
   "image": null
  },
  {
@@ -4933,7 +4933,7 @@
  },
  {
   "id": "P214030503",
-  "question": "How is the item below useful to people?",
+  "question": "How is toothpaste useful to people?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P2",
@@ -6711,7 +6711,7 @@
  },
  {
   "id": "P214060702",
-  "question": "Name one item we make at home for carrying things: basket. ____",
+  "question": "Name one item we make at home for carrying things. ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -7043,7 +7043,7 @@
  },
  {
   "id": "P214080702",
-  "question": "Name the accident caused by the thing below.",
+  "question": "Name the accident caused by fire.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P2",
@@ -7063,7 +7063,7 @@
  },
  {
   "id": "P214080703",
-  "question": "Name the accident caused by the thing below.",
+  "question": "Name the accident caused by a snake.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P2",
@@ -7894,7 +7894,7 @@
  },
  {
   "id": "P214130803",
-  "question": "Name the item below used to manage weather.",
+  "question": "Which item is worn on the head to protect from sunshine and rain?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P2",
@@ -7998,7 +7998,7 @@
  },
  {
   "id": "P214040803",
-  "question": "Name the food value got from the food stuff below.",
+  "question": "Name the food value got from chicken and eggs.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P2",
@@ -8018,7 +8018,7 @@
  },
  {
   "id": "P214040804",
-  "question": "Name the food value got from the food stuff below.",
+  "question": "Name the food value got from pineapple.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P2",
@@ -8276,16 +8276,16 @@
  },
  {
   "id": "P214130808",
-  "question": "Give any one use of wind to people. ____",
+  "question": "Give one use of wind for people: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "It is used for drying clothes.",
-  "explanation": "Wind blows over wet clothes and helps them dry fast.",
-  "hint": "It helps wet clothes dry.",
+  "answer": "Flying kites",
+  "explanation": "Wind lifts kites into the sky for fun.",
+  "hint": "Kites need wind.",
   "image": null
  },
  {
@@ -8372,16 +8372,16 @@
  },
  {
   "id": "P214120812",
-  "question": "Name the home of a fish. ____",
+  "question": "Name the home of a bird: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "answer": "water",
-  "explanation": "A fish lives in water.",
-  "hint": "Fish swim in it.",
+  "answer": "nest",
+  "explanation": "Birds build nests to lay eggs and raise their young.",
+  "hint": "Birds lay eggs there.",
   "image": null
  },
  {
@@ -8573,16 +8573,16 @@
  },
  {
   "id": "P214110901",
-  "question": "Write any one way of caring for plants. ____",
+  "question": "Write one way to care for plants: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Plants",
   "difficulty": "easy",
-  "answer": "Watering them.",
-  "explanation": "Plants need water to grow well.",
-  "hint": "Giving them water.",
+  "answer": "Weeding them",
+  "explanation": "Removing weeds helps plants get nutrients and sunlight.",
+  "hint": "Remove unwanted plants.",
   "image": null
  },
  {
@@ -8643,15 +8643,15 @@
  },
  {
   "id": "P214030904",
-  "question": "Mention the use of ears to people. ____",
+  "question": "What do we use our ears for? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "answer": "They are used for hearing.",
-  "explanation": "We hear sounds with our ears.",
+  "answer": "hearing",
+  "explanation": "Ears help us hear sounds.",
   "hint": "We hear with them.",
   "image": null
  },
@@ -8699,16 +8699,16 @@
  },
  {
   "id": "P214080901",
-  "question": "How can we prevent burns at home? ____",
+  "question": "How can we avoid getting burnt at home? ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Accidents and Safety",
   "difficulty": "easy",
-  "answer": "By keeping away from fire.",
-  "explanation": "Staying away from fire stops us from getting burnt.",
-  "hint": "Do not go near fire.",
+  "answer": "By not touching hot objects",
+  "explanation": "Hot things like stoves and irons can burn us if we touch them.",
+  "hint": "Stay away from hot things.",
   "image": null
  },
  {
@@ -8761,16 +8761,16 @@
  },
  {
   "id": "P214140902",
-  "question": "Why do we boil water for drinking? ____",
+  "question": "What does boiling water do to germs? ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "To kill germs.",
-  "explanation": "Boiling makes water very hot, and the heat kills the germs in it.",
-  "hint": "Heat destroys the germs.",
+  "answer": "It kills them",
+  "explanation": "Heating water to boiling destroys harmful germs.",
+  "hint": "Heat destroys germs.",
   "image": null
  },
  {
@@ -9298,7 +9298,7 @@
  },
  {
   "id": "P214010903",
-  "question": "Name one thing we use to keep places clean: broom. ____",
+  "question": "Name one thing we use to keep places clean. ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -9312,7 +9312,7 @@
  },
  {
   "id": "P214010904",
-  "question": "Name one thing we use to keep places clean: soap. ____",
+  "question": "Name one thing we use to keep places clean: ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -9382,16 +9382,16 @@
  },
  {
   "id": "P214020907",
-  "question": "Name any one type of family. ____",
+  "question": "Name a type of family that includes grandparents, uncles, and aunts: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "medium",
-  "answer": "nuclear family",
-  "explanation": "A nuclear family has a father, a mother and their children.",
-  "hint": "Father, mother and children only.",
+  "answer": "extended family",
+  "explanation": "An extended family includes many relatives living together.",
+  "hint": "Includes grandparents.",
   "image": null
  },
  {
@@ -9746,7 +9746,7 @@
  },
  {
   "id": "P214011301",
-  "question": "Name one item used to clean the school compound: ____.",
+  "question": "Which tool is used to sweep the school grounds? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -9754,7 +9754,7 @@
   "unit": "Our School and Neighbourhood",
   "difficulty": "easy",
   "answer": "broom",
-  "explanation": "We sweep the school compound with a broom.",
+  "explanation": "A broom is used to sweep the compound.",
   "hint": "We sweep with it.",
   "image": "P214011301img.jpg"
  },
@@ -9858,7 +9858,7 @@
  },
  {
   "id": "P214021201",
-  "question": "Give one basic need of people: ____.",
+  "question": "What is a basic need that people must have to survive? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -9866,8 +9866,8 @@
   "unit": "Our Home and Community",
   "difficulty": "easy",
   "answer": "food",
-  "explanation": "Food is a basic need because we cannot live without eating.",
-  "hint": "We eat it every day.",
+  "explanation": "Food gives energy and nutrients.",
+  "hint": "We eat it daily.",
   "image": null
  },
  {
@@ -10269,7 +10269,7 @@
  },
  {
   "id": "P214031209",
-  "question": "Circle two activities you do after waking up.",
+  "question": "Circle three activities you do after waking up.",
   "type": "multi_select",
   "subject": "Science",
   "grade": "P2",
@@ -10294,16 +10294,16 @@
  },
  {
   "id": "P214031301",
-  "question": "Write one way of taking care of your body: ____.",
+  "question": "Write one way to keep your body healthy: ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "answer": "bathing daily",
-  "explanation": "Bathing keeps our body clean and free from germs.",
-  "hint": "We use water and soap.",
+  "answer": "exercising regularly",
+  "explanation": "Exercise makes our body strong.",
+  "hint": "Running, jumping.",
   "image": null
  },
  {
@@ -10662,16 +10662,16 @@
  },
  {
   "id": "P214041301",
-  "question": "Name one fruit: ____.",
+  "question": "Name a fruit that is yellow and curved: ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "answer": "mango",
-  "explanation": "A mango is a sweet fruit that grows on a mango tree.",
-  "hint": "It is sweet and yellow.",
+  "answer": "banana",
+  "explanation": "Bananas are yellow and curved.",
+  "hint": "Monkeys like it.",
   "image": "P214041301img.jpg"
  },
  {
@@ -10970,16 +10970,16 @@
  },
  {
   "id": "P214061302",
-  "question": "Name one play material made from banana fibre: ____.",
+  "question": "Name one toy made from banana fibre: ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Things We Make",
   "difficulty": "easy",
-  "answer": "ball",
-  "explanation": "Children weave banana fibre into balls to play with.",
-  "hint": "Children kick it.",
+  "answer": "rope",
+  "explanation": "Children twist banana fibre into ropes for skipping and playing.",
+  "hint": "Used for skipping.",
   "image": "P214061302img.jpg"
  },
  {
@@ -11216,7 +11216,7 @@
  },
  {
   "id": "P214081302",
-  "question": "Name one item used to give first aid: ____.",
+  "question": "What do you put on a small cut to stop bleeding? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -11224,8 +11224,8 @@
   "unit": "Accidents and Safety",
   "difficulty": "easy",
   "answer": "plaster",
-  "explanation": "A plaster covers a cut to stop bleeding.",
-  "hint": "We stick it on a cut.",
+  "explanation": "A plaster covers a cut.",
+  "hint": "Stick it on.",
   "image": null
  },
  {
@@ -11258,7 +11258,7 @@
  },
  {
   "id": "P214081403",
-  "question": "Name one material found in the first aid box: ____.",
+  "question": "Which item is kept in a first aid box for small cuts? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -11266,8 +11266,8 @@
   "unit": "Accidents and Safety",
   "difficulty": "easy",
   "answer": "plaster",
-  "explanation": "Plasters are kept in the first aid box for small cuts.",
-  "hint": "We stick it on a cut.",
+  "explanation": "Plasters are stored in first aid boxes.",
+  "hint": "For cuts.",
   "image": null
  },
  {
@@ -12189,16 +12189,16 @@
  },
  {
   "id": "P214121301",
-  "question": "Name one product got from bees: ____.",
+  "question": "Name one product we get from bees: ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "answer": "honey",
-  "explanation": "Bees make honey, which people eat as a sweet food.",
-  "hint": "It is sweet and golden.",
+  "answer": "wax",
+  "explanation": "Bees produce wax used for candles.",
+  "hint": "It is used to make candles.",
   "image": null
  },
  {
@@ -12789,16 +12789,16 @@
  },
  {
   "id": "P214141001",
-  "question": "Give one use of water to people: ____.",
+  "question": "Give one use of water at home: ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "drinking",
-  "explanation": "People drink water every day to stay alive and healthy.",
-  "hint": "We take it into our bodies every day.",
+  "answer": "washing",
+  "explanation": "Water is used to wash clothes.",
+  "hint": "We use soap and water.",
   "image": null
  },
  {
@@ -12845,7 +12845,7 @@
  },
  {
   "id": "P214141301",
-  "question": "Give one use of water to people: ____.",
+  "question": "What is one way people use water every day? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P2",
@@ -12853,8 +12853,8 @@
   "unit": "Water",
   "difficulty": "easy",
   "answer": "drinking",
-  "explanation": "We must drink water every day to stay alive.",
-  "hint": "We take it into our bodies.",
+  "explanation": "We need water to drink for survival.",
+  "hint": "We consume it.",
   "image": null
  },
  {
@@ -12974,14 +12974,14 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "easy",
-  "explanation": "We use a broom to sweep the floor and keep the bedroom clean.",
+  "explanation": "Water is used for cleaning the bedroom.",
   "hint": "We use it to sweep the floor.",
   "image": null,
   "id": "P214020001b",
   "type": "true_false",
   "options": null,
   "question": "One item used in cleaning a bedroom is water. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -12998,9 +12998,9 @@
   "answer": "You can burn your skin.",
   "options": [
    "You can burn your skin.",
-   "Crossing at the zebra crossing.",
-   "not running on slippery floors",
-   "By keeping away from fire."
+   "You can spill it and slip.",
+   "You can hurt others.",
+   "You can damage things."
   ]
  },
  {
@@ -13032,10 +13032,10 @@
   "type": "multiple_choice",
   "answer": "washing our hands",
   "options": [
-   "To reduce pain.",
-   "to remove germs",
-   "for holding things",
-   "washing our hands"
+   "washing our hands",
+   "brushing teeth",
+   "combing hair",
+   "tying shoelaces"
   ]
  },
  {
@@ -13244,7 +13244,7 @@
   "options": [
    "unwanted plants",
    "watering them",
-   "orange tree",
+   "pine tree",
    "mango tree"
   ]
  },
@@ -13400,7 +13400,7 @@
   "id": "P214040001b",
   "type": "true_false",
   "options": null,
-  "question": "The picture shows fish over fire. Name this method of food preservation: posho. True or False?",
+  "question": "The picture shows fish over fire. The method of food preservation shown is posho. True or False?",
   "answer": "False"
  },
  {
@@ -13435,7 +13435,7 @@
   "id": "P214040002b",
   "type": "true_false",
   "options": null,
-  "question": "The picture shows the sun drying beans. Name this method of food preservation: drying. True or False?",
+  "question": "The picture shows the sun drying beans. The method of food preservation shown is drying. True or False?",
   "answer": "True"
  },
  {
@@ -13680,7 +13680,7 @@
   "id": "P214110004b",
   "type": "true_false",
   "options": null,
-  "question": "How do people care for their plants in the garden (1)? orange tree. True or False?",
+  "question": "One way people care for their plants in the garden is by using an orange tree. True or False?",
   "answer": "False"
  },
  {
@@ -13715,7 +13715,7 @@
   "id": "P214110005b",
   "type": "true_false",
   "options": null,
-  "question": "How do people care for their plants in the garden (2)? weeding. True or False?",
+  "question": "One way people care for their plants in the garden is weeding. True or False?",
   "answer": "True"
  },
  {
@@ -13744,14 +13744,14 @@
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "explanation": "Food gives our bodies energy to play and work.",
+  "explanation": "We eat food to stay healthy because it provides energy and nutrients for our bodies.",
   "hint": "Food makes us strong to play.",
   "image": null,
   "id": "P214040005b",
   "type": "true_false",
   "options": null,
-  "question": "We eat food (1) because to stay healthy. True or False?",
-  "answer": "False"
+  "question": "We eat food to stay healthy. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -13838,7 +13838,7 @@
   "answer": "keeping our surroundings clean",
   "options": [
    "keeping our surroundings clean",
-   "Keeping our homes clean.",
+   "Washing clothes.",
    "To remove food remains.",
    "for drying the body"
   ]
@@ -13945,7 +13945,7 @@
    "rain",
    "windy",
    "rainy",
-   "sunshine"
+   "rocks"
   ]
  },
  {
@@ -13977,7 +13977,7 @@
   "type": "multiple_choice",
   "answer": "sunshine",
   "options": [
-   "wind",
+   "windy",
    "floods",
    "rainy",
    "sunshine"
@@ -14012,7 +14012,7 @@
   "type": "multiple_choice",
   "answer": "ringworm",
   "options": [
-   "scabies",
+   "malaria",
    "ringworm",
    "immunisation",
    "bandage"
@@ -14573,7 +14573,7 @@
   "answer": "nuclear family",
   "options": [
    "washing plates",
-   "extended family",
+   "cooking",
    "providing food",
    "nuclear family"
   ]
@@ -14584,14 +14584,14 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "easy",
-  "explanation": "A nuclear family has a father, a mother and their children.",
+  "explanation": "Extended family is a type of family that includes relatives beyond the nuclear family, such as grandparents, aunts, uncles, and cousins.",
   "hint": "Father, mother and children.",
   "image": null,
   "id": "P214020004b",
   "type": "true_false",
   "options": null,
   "question": "One type of family in our communities is extended family. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -14654,7 +14654,7 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "easy",
-  "explanation": "Every family needs a house to live in.",
+  "explanation": "A family needs basic things like food, shelter, and clothing; a mother is a family member, not a basic need.",
   "hint": "Families need a home.",
   "image": null,
   "id": "P214020006b",
@@ -14782,7 +14782,7 @@
   "type": "multiple_choice",
   "answer": "baskets",
   "options": [
-   "rope",
+   "metal",
    "drums",
    "clay",
    "baskets"
@@ -14794,14 +14794,14 @@
   "term": "Term 2",
   "unit": "Things We Make",
   "difficulty": "easy",
-  "explanation": "Baskets are made from banana fibres.",
+  "explanation": "Rope can be made from banana fibres.",
   "hint": "We carry things in them.",
   "image": null,
   "id": "P214060006b",
   "type": "true_false",
   "options": null,
   "question": "One thing made from banana fibres is rope. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -15170,7 +15170,7 @@
    "The sun gives us light.",
    "Floods destroy houses and crops.",
    "It protects us from rain.",
-   "It helps crops to grow."
+   "It gives us darkness."
   ]
  },
  {
@@ -15290,7 +15290,7 @@
   "id": "P214120103b",
   "type": "true_false",
   "options": null,
-  "question": "A rat move from one place to another because giving them clean water. True or False?",
+  "question": "A rat moves from one place to another because it is given clean water. True or False?",
   "answer": "False"
  },
  {
@@ -15485,7 +15485,7 @@
    "drying",
    "spoon",
    "posho",
-   "plate"
+   "book"
   ]
  },
  {
@@ -15500,8 +15500,8 @@
   "id": "P214040102b",
   "type": "true_false",
   "options": null,
-  "question": "One item used when eating food is drying. True or False?",
-  "answer": "False"
+  "question": "One item used when eating food is a spoon. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -15552,10 +15552,10 @@
   "type": "multiple_choice",
   "answer": "sleeping under a mosquito net",
   "options": [
-   "It is used for feeling.",
-   "They are used for hearing.",
    "sleeping under a mosquito net",
-   "To keep our bodies clean."
+   "eating fruits",
+   "drinking water",
+   "wearing shoes"
   ]
  },
  {
@@ -15570,8 +15570,8 @@
   "id": "P214030104b",
   "type": "true_false",
   "options": null,
-  "question": "You can protect yourself from malaria by it is used for feeling. True or False?",
-  "answer": "False"
+  "question": "You can protect yourself from malaria by sleeping under a mosquito net. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -15657,10 +15657,10 @@
   "type": "multiple_choice",
   "answer": "thorax",
   "options": [
-   "lion",
-   "honey",
-   "snake",
-   "thorax"
+   "head",
+   "thorax",
+   "abdomen",
+   "leg"
   ]
  },
  {
@@ -15692,10 +15692,10 @@
   "type": "multiple_choice",
   "answer": "head",
   "options": [
-   "fry",
-   "spiracles",
-   "shoes",
-   "head"
+   "head",
+   "thorax",
+   "abdomen",
+   "antenna"
   ]
  },
  {
@@ -15728,9 +15728,9 @@
   "answer": "kraal",
   "options": [
    "kraal",
-   "flying",
-   "duck",
-   "nymph"
+   "barn",
+   "shed",
+   "pen"
   ]
  },
  {
@@ -15762,10 +15762,10 @@
   "type": "multiple_choice",
   "answer": "milk",
   "options": [
-   "spiracles",
    "milk",
-   "cat",
-   "elephant"
+   "meat",
+   "leather",
+   "beef"
   ]
  },
  {
@@ -16042,8 +16042,8 @@
   "type": "multiple_choice",
   "answer": "to get energy",
   "options": [
-   "To stay healthy.",
    "to get energy",
+   "to play games",
    "wash their hands",
    "It causes malnutrition."
   ]
@@ -16079,7 +16079,7 @@
   "options": [
    "plants",
    "market",
-   "animals",
+   "rocks",
    "proteins"
   ]
  },
@@ -16148,9 +16148,9 @@
   "answer": "covering food",
   "options": [
    "covering food",
-   "Washing hands.",
+   "leaving food open",
    "to grow",
-   "Covering it."
+   "storing in a dirty container"
   ]
  },
  {
@@ -16603,9 +16603,9 @@
   "answer": "water",
   "options": [
    "water",
-   "HIV/AIDS",
-   "mouth",
-   "hands"
+   "plastic",
+   "metal",
+   "wood"
   ]
  },
  {
@@ -16637,10 +16637,10 @@
   "type": "multiple_choice",
   "answer": "soap",
   "options": [
-   "water",
-   "hospital",
-   "immunisation",
-   "soap"
+   "soap",
+   "plastic",
+   "metal",
+   "wood"
   ]
  },
  {
@@ -16742,10 +16742,10 @@
   "type": "multiple_choice",
   "answer": "watering them",
   "options": [
-   "unwanted plants",
    "watering them",
-   "orange tree",
-   "mango tree"
+   "cutting them",
+   "ignoring them",
+   "breaking them"
   ]
  },
  {
@@ -16778,9 +16778,9 @@
   "answer": "mango tree",
   "options": [
    "mango tree",
-   "a hoe",
-   "orange tree",
-   "collecting rubbish"
+   "pine tree",
+   "acacia tree",
+   "eucalyptus tree"
   ]
  },
  {
@@ -16848,9 +16848,9 @@
   "answer": "ball",
   "options": [
    "ball",
-   "cups",
-   "belt",
-   "mat"
+   "plastic doll",
+   "wooden top",
+   "kite"
   ]
  },
  {
@@ -16882,10 +16882,10 @@
   "type": "multiple_choice",
   "answer": "bathing",
   "options": [
-   "HIV/AIDS",
-   "water",
-   "ears",
-   "bathing"
+   "bathing",
+   "eating food",
+   "sleeping",
+   "running"
   ]
  },
  {
@@ -16894,14 +16894,14 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "Bathing keeps our body clean.",
+  "explanation": "Cleaning your ears is an activity that helps keep your body clean.",
   "hint": "Wash your body with water.",
   "image": null,
   "id": "P214030117b",
   "type": "true_false",
   "options": null,
-  "question": "One activity you can do to keep your body clean is ears. True or False?",
-  "answer": "False"
+  "question": "One activity you can do to keep your body clean is cleaning your ears. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -16987,10 +16987,10 @@
   "type": "multiple_choice",
   "answer": "bricks",
   "options": [
-   "basket",
    "bricks",
-   "baskets",
-   "wood"
+   "paper",
+   "cloth",
+   "plastic"
   ]
  },
  {
@@ -17093,7 +17093,7 @@
   "answer": "drinking",
   "options": [
    "rain",
-   "washing",
+   "sleeping",
    "boiling",
    "drinking"
   ]
@@ -17104,14 +17104,14 @@
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "explanation": "We drink water to stay alive.",
+  "explanation": "Washing is a use of water for cleaning.",
   "hint": "We must drink it daily.",
   "image": null,
   "id": "P214140103b",
   "type": "true_false",
   "options": null,
   "question": "One use of water to people is washing. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -17234,7 +17234,7 @@
   "options": [
    "Floods destroy houses and crops.",
    "It protects us from rain.",
-   "It helps crops to grow.",
+   "It makes night.",
    "The sun gives us light."
   ]
  },
@@ -17244,14 +17244,14 @@
   "term": "Term 2",
   "unit": "Weather",
   "difficulty": "medium",
-  "explanation": "The sun gives us light and heat every day.",
+  "explanation": "The sun helps crops to grow by providing light and heat.",
   "hint": "It lights our day.",
   "image": null,
   "id": "P214130201b",
   "type": "true_false",
   "options": null,
   "question": "How is the sun useful to people? It helps crops to grow. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -17302,9 +17302,9 @@
   "type": "multiple_choice",
   "answer": "plate",
   "options": [
-   "pestle",
-   "mother",
-   "fishmonger",
+   "cup",
+   "spoon",
+   "bowl",
    "plate"
   ]
  },
@@ -17477,10 +17477,10 @@
   "type": "multiple_choice",
   "answer": "cutting down trees",
   "options": [
-   "burning bushes",
    "cutting down trees",
-   "our surroundings",
-   "sanitation"
+   "planting trees",
+   "cleaning rivers",
+   "protecting bushes"
   ]
  },
  {
@@ -17547,10 +17547,10 @@
   "type": "multiple_choice",
   "answer": "Legs help animals to move.",
   "options": [
-   "It carries luggage for people.",
-   "It is used for breathing.",
-   "By giving them clean water.",
-   "Legs help animals to move."
+   "Legs help animals to move.",
+   "Legs help animals to eat.",
+   "Legs help animals to sleep.",
+   "Legs help animals to breathe."
   ]
  },
  {
@@ -17582,10 +17582,10 @@
   "type": "multiple_choice",
   "answer": "It is used for sweeping.",
   "options": [
-   "A house gives us shelter.",
    "It is used for sweeping.",
-   "By spreading the beddings well.",
-   "To make them look smart."
+   "It is used for cooking.",
+   "It is used for washing clothes.",
+   "It is used for watering plants."
   ]
  },
  {
@@ -17690,7 +17690,7 @@
    "cut",
    "school",
    "fire",
-   "knife"
+   "bed"
   ]
  },
  {
@@ -17722,9 +17722,9 @@
   "type": "multiple_choice",
   "answer": "drinking",
   "options": [
-   "washing",
+   "sleeping",
    "jerrycan",
-   "cooking",
+   "eating",
    "drinking"
   ]
  },
@@ -17734,14 +17734,14 @@
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "explanation": "We drink water to stay alive.",
-  "hint": "We must drink it daily.",
+  "explanation": "We drink water every day to stay alive and healthy.",
+  "hint": "We need water daily.",
   "image": null,
   "id": "P214140201b",
   "type": "true_false",
   "options": null,
-  "question": "One use of water to people is washing. True or False?",
-  "answer": "False"
+  "question": "One use of water to people is drinking. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -17757,8 +17757,8 @@
   "type": "multiple_choice",
   "answer": "cooking",
   "options": [
-   "washing",
-   "drinking",
+   "sleeping",
+   "eating",
    "cooking",
    "borehole"
   ]
@@ -17792,7 +17792,7 @@
   "type": "multiple_choice",
   "answer": "washing",
   "options": [
-   "cooking",
+   "sleeping",
    "borehole",
    "rain",
    "washing"
@@ -17804,14 +17804,14 @@
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "explanation": "We use water to wash our bodies and clothes.",
+  "explanation": "We use water to cook our food.",
   "hint": "We wash with it.",
   "image": null,
   "id": "P214140203b",
   "type": "true_false",
   "options": null,
   "question": "One use of water to people is cooking. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -17932,10 +17932,10 @@
   "type": "multiple_choice",
   "answer": "water",
   "options": [
-   "toothpaste",
+   "food",
    "hospital",
    "water",
-   "soap"
+   "bed"
   ]
  },
  {
@@ -18037,10 +18037,10 @@
   "type": "multiple_choice",
   "answer": "the forest",
   "options": [
-   "white ants",
-   "They move.",
-   "a nest",
-   "the forest"
+   "the forest",
+   "the classroom",
+   "the kitchen",
+   "the road"
   ]
  },
  {
@@ -18144,7 +18144,7 @@
   "options": [
    "orange",
    "flower",
-   "flowers",
+   "root",
    "trowel"
   ]
  },
@@ -18180,7 +18180,7 @@
    "leaf",
    "orange",
    "beans",
-   "leaves"
+   "root"
   ]
  },
  {
@@ -18212,10 +18212,10 @@
   "type": "multiple_choice",
   "answer": "washing it",
   "options": [
-   "putting rubbish",
    "washing it",
-   "By washing it.",
-   "mopping them"
+   "tearing it",
+   "burning it",
+   "losing it"
   ]
  },
  {
@@ -18265,7 +18265,7 @@
   "id": "P214120208b",
   "type": "true_false",
   "options": null,
-  "question": "Animals move from one place to another (1) because to look for food. True or False?",
+  "question": "Animals move from one place to another to look for food. True or False?",
   "answer": "True"
  },
  {
@@ -18457,10 +18457,10 @@
   "type": "multiple_choice",
   "answer": "bedroom",
   "options": [
-   "plate",
    "bedroom",
+   "plate",
    "shelter",
-   "kitchen"
+   "tree"
   ]
  },
  {
@@ -18667,10 +18667,10 @@
   "type": "multiple_choice",
   "answer": "panga",
   "options": [
-   "flowers",
-   "watering",
+   "hoe",
+   "rake",
    "panga",
-   "planting"
+   "spade"
   ]
  },
  {
@@ -18702,10 +18702,10 @@
   "type": "multiple_choice",
   "answer": "hoe",
   "options": [
+   "panga",
+   "rake",
    "hoe",
-   "pineapple",
-   "weeding",
-   "leaves"
+   "spade"
   ]
  },
  {
@@ -18737,10 +18737,10 @@
   "type": "multiple_choice",
   "answer": "roots",
   "options": [
-   "watering",
-   "planting",
-   "water",
-   "roots"
+   "leaves",
+   "stem",
+   "roots",
+   "flowers"
   ]
  },
  {
@@ -18772,10 +18772,10 @@
   "type": "multiple_choice",
   "answer": "fruits",
   "options": [
+   "leaves",
+   "stem",
    "fruits",
-   "planting",
-   "hoe",
-   "trowel"
+   "roots"
   ]
  },
  {
@@ -18808,9 +18808,9 @@
   "answer": "drying",
   "options": [
    "drying",
-   "pineapple",
-   "mango",
-   "plate"
+   "cooking",
+   "washing",
+   "cutting"
   ]
  },
  {
@@ -18842,10 +18842,10 @@
   "type": "multiple_choice",
   "answer": "smoking",
   "options": [
-   "beans",
    "smoking",
-   "carbohydrates",
-   "plate"
+   "cooking",
+   "washing",
+   "peeling"
   ]
  },
  {
@@ -18869,18 +18869,18 @@
   "term": "Term 1",
   "unit": "Plants",
   "difficulty": "medium",
-  "explanation": "Part A is the stem that holds the plant upright.",
+  "explanation": "The stem is the main stalk that holds the plant upright.",
   "hint": "It stands above the ground.",
   "image": "P214110207img.jpg",
   "id": "P214110207a",
-  "question": "Name the part of the plant marked A (above the ground): ____.",
+  "question": "Name the part of the plant that is the main stalk above the ground: ____.",
   "type": "multiple_choice",
   "answer": "stem",
   "options": [
-   "digging",
-   "hoe",
-   "planting",
-   "stem"
+   "leaves",
+   "flowers",
+   "stem",
+   "fruit"
   ]
  },
  {
@@ -18912,10 +18912,10 @@
   "type": "multiple_choice",
   "answer": "roots",
   "options": [
-   "panga",
+   "stem",
+   "leaf",
    "roots",
-   "orange",
-   "water"
+   "flower"
   ]
  },
  {
@@ -18943,14 +18943,14 @@
   "hint": "We drink it.",
   "image": null,
   "id": "P214120213a",
-  "question": "Give one product got from a cow: ____.",
+  "question": "Give one product got from a cow without killing it: ____.",
   "type": "multiple_choice",
   "answer": "milk",
   "options": [
-   "duck",
-   "head",
    "milk",
-   "grasshopper"
+   "meat",
+   "leather",
+   "beef"
   ]
  },
  {
@@ -18982,10 +18982,10 @@
   "type": "multiple_choice",
   "answer": "eggs",
   "options": [
-   "nymph",
    "eggs",
-   "beak",
-   "cub"
+   "milk",
+   "wool",
+   "honey"
   ]
  },
  {
@@ -19019,8 +19019,8 @@
   "options": [
    "pots",
    "chair",
-   "cups",
-   "wood"
+   "wood",
+   "plastic"
   ]
  },
  {
@@ -19088,9 +19088,9 @@
   "answer": "Plants give us food.",
   "options": [
    "Plants give us food.",
-   "Plants give us shade.",
-   "cleaning them after use",
-   "They give us medicine."
+   "Plants give us milk.",
+   "Plants give us metal.",
+   "Plants give us plastic."
   ]
  },
  {
@@ -19370,7 +19370,7 @@
    "elephant",
    "tadpole",
    "lion",
-   "sty"
+   "giraffe"
   ]
  },
  {
@@ -19403,9 +19403,9 @@
   "answer": "fish",
   "options": [
    "fish",
-   "monkey",
-   "sty",
-   "moos"
+   "lion",
+   "eagle",
+   "monkey"
   ]
  },
  {
@@ -19420,7 +19420,7 @@
   "id": "P214120303b",
   "type": "true_false",
   "options": null,
-  "question": "One animal that lives in water is sty. True or False?",
+  "question": "One animal that lives in water is lion. True or False?",
   "answer": "False"
  },
  {
@@ -19437,10 +19437,10 @@
   "type": "multiple_choice",
   "answer": "bricks",
   "options": [
-   "basket",
-   "mats",
    "bricks",
-   "ball"
+   "paper",
+   "cloth",
+   "plastic"
   ]
  },
  {
@@ -19472,10 +19472,10 @@
   "type": "multiple_choice",
   "answer": "iron sheets",
   "options": [
-   "sisal fibres",
-   "playing football",
-   "banana fibre",
-   "iron sheets"
+   "iron sheets",
+   "paper",
+   "cloth",
+   "plastic"
   ]
  },
  {
@@ -19507,10 +19507,10 @@
   "type": "multiple_choice",
   "answer": "hen",
   "options": [
-   "beef",
    "hen",
-   "slithering",
-   "spiracles"
+   "eagle",
+   "vulture",
+   "ostrich"
   ]
  },
  {
@@ -19543,9 +19543,9 @@
   "answer": "duck",
   "options": [
    "duck",
-   "housefly",
-   "lion",
-   "meat"
+   "eagle",
+   "vulture",
+   "ostrich"
   ]
  },
  {
@@ -19580,7 +19580,7 @@
    "for picking up small things",
    "It is used for smelling.",
    "It is used for feeling.",
-   "look smart and kill germs"
+   "It is used for hearing."
   ]
  },
  {
@@ -19649,8 +19649,8 @@
   "options": [
    "To keep our bodies clean.",
    "to protect ourselves from mosquitoes",
-   "by keeping the home clean",
-   "for picking up small things"
+   "to stay warm",
+   "to avoid insect bites"
   ]
  },
  {
@@ -19665,7 +19665,7 @@
   "id": "P214030303b",
   "type": "true_false",
   "options": null,
-  "question": "We sleep under a mosquito net because to protect ourselves from mosquitoes. True or False?",
+  "question": "We sleep under a mosquito net to protect ourselves from mosquitoes. True or False?",
   "answer": "True"
  },
  {
@@ -19683,9 +19683,9 @@
   "answer": "bandage",
   "options": [
    "bandage",
-   "water",
-   "eyes",
-   "cough"
+   "textbook",
+   "toy",
+   "food"
   ]
  },
  {
@@ -19720,7 +19720,7 @@
    "carbohydrates",
    "garden",
    "milk",
-   "market"
+   "hospital"
   ]
  },
  {
@@ -19789,7 +19789,7 @@
   "options": [
    "carbohydrates",
    "smoking",
-   "banana",
+   "carrot",
    "mango"
   ]
  },
@@ -19857,10 +19857,10 @@
   "type": "multiple_choice",
   "answer": "Plants give us food.",
   "options": [
-   "They give us fruits.",
+   "They give us stones.",
    "Plants give us food.",
    "They protect the feet.",
-   "They give us medicine."
+   "They give us rocks."
   ]
  },
  {
@@ -19892,9 +19892,9 @@
   "type": "multiple_choice",
   "answer": "Plants give us shade.",
   "options": [
-   "They give us firewood.",
-   "They give us medicine.",
-   "They give us fruits.",
+   "They give us stones.",
+   "They give us fire.",
+   "They give us rocks.",
    "Plants give us shade."
   ]
  },
@@ -19904,14 +19904,14 @@
   "term": "Term 1",
   "unit": "Plants",
   "difficulty": "easy",
-  "explanation": "Plants give us shade from the hot sun.",
+  "explanation": "Plants give us medicine.",
   "hint": "We rest under trees.",
   "image": null,
   "id": "P214110302b",
   "type": "true_false",
   "options": null,
   "question": "One use of a plant to people is they give us medicine. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -19974,7 +19974,7 @@
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "explanation": "We use water to cook food.",
+  "explanation": "Boiling is a method of heating water, not a direct use of water like drinking or cooking.",
   "hint": "Food is cooked with it.",
   "image": null,
   "id": "P214140302b",
@@ -20069,8 +20069,8 @@
   "options": [
    "bandage",
    "fire",
-   "cut",
-   "cuts"
+   "cuts",
+   "bruise"
   ]
  },
  {
@@ -20208,9 +20208,9 @@
   "answer": "fish",
   "options": [
    "kennel",
-   "tadpole",
    "fish",
-   "beef"
+   "beef",
+   "stone"
   ]
  },
  {
@@ -20242,10 +20242,10 @@
   "type": "multiple_choice",
   "answer": "The sun gives us light.",
   "options": [
-   "It helps crops to grow.",
-   "Floods destroy houses and crops.",
    "The sun gives us light.",
-   "It protects us from rain."
+   "Floods destroy houses and crops.",
+   "It protects us from rain.",
+   "It makes the sky blue."
   ]
  },
  {
@@ -20401,7 +20401,7 @@
   "type": "true_false",
   "options": null,
   "question": "One danger of playing near fire places is a sudden bad happening. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -20464,13 +20464,13 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "easy",
-  "explanation": "A father protects the family from danger.",
-  "hint": "He keeps the family safe.",
+  "explanation": "Breastfeeding babies is a role of mothers, not fathers.",
+  "hint": "Mothers breastfeed babies.",
   "image": null,
   "id": "P214020303b",
   "type": "true_false",
   "options": null,
-  "question": "One role of a father in a family is by buying them. True or False?",
+  "question": "One role of a father in a family is breastfeeding babies.",
   "answer": "False"
  },
  {
@@ -20558,7 +20558,7 @@
   "answer": "by keeping the home clean",
   "options": [
    "by keeping the home clean",
-   "sleeping under a mosquito net",
+   "eating sweets",
    "It is used for feeling.",
    "to protect ourselves from mosquitoes"
   ]
@@ -20769,7 +20769,7 @@
   "options": [
    "It causes malnutrition.",
    "wash their hands",
-   "To stay healthy.",
+   "To play games.",
    "to get energy"
   ]
  },
@@ -20875,7 +20875,7 @@
    "cups",
    "nails",
    "mat",
-   "bricks"
+   "cars"
   ]
  },
  {
@@ -21048,7 +21048,7 @@
   "answer": "plates",
   "options": [
    "window",
-   "fork",
+   "bed",
    "roof",
    "plates"
   ]
@@ -21363,7 +21363,7 @@
   "answer": "malaria",
   "options": [
    "rabies",
-   "cholera",
+   "polio",
    "malaria",
    "HIV/AIDS"
   ]
@@ -21374,14 +21374,14 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "medium",
-  "explanation": "Malaria is a disease that can be cured with medicine.",
+  "explanation": "Cholera is a curable disease with proper treatment.",
   "hint": "Medicine cures it.",
   "image": null,
   "id": "P214030402b",
   "type": "true_false",
   "options": null,
   "question": "One curable disease is cholera. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -21573,9 +21573,9 @@
   "answer": "housefly",
   "options": [
    "housefly",
-   "barking",
-   "antenna",
-   "shoes"
+   "butterfly",
+   "ant",
+   "bee"
   ]
  },
  {
@@ -21607,10 +21607,10 @@
   "type": "multiple_choice",
   "answer": "hen",
   "options": [
-   "meat",
-   "fish",
-   "wing",
-   "hen"
+   "hen",
+   "eagle",
+   "vulture",
+   "ostrich"
   ]
  },
  {
@@ -21642,10 +21642,10 @@
   "type": "multiple_choice",
   "answer": "lion",
   "options": [
-   "sheep",
-   "legs",
    "lion",
-   "hen"
+   "cow",
+   "goat",
+   "chicken"
   ]
  },
  {
@@ -21678,9 +21678,9 @@
   "answer": "cassava",
   "options": [
    "cassava",
-   "orange",
+   "cotton",
    "trowel",
-   "maize"
+   "brick"
   ]
  },
  {
@@ -21715,7 +21715,7 @@
    "firewood",
    "roof",
    "water",
-   "bedroom"
+   "broom"
   ]
  },
  {
@@ -21724,14 +21724,14 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "easy",
-  "explanation": "A good house has a strong roof.",
+  "explanation": "A bedroom is a part of a good house.",
   "hint": "It covers the house.",
   "image": null,
   "id": "P214020401b",
   "type": "true_false",
   "options": null,
   "question": "One part of a good house is bedroom. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -21782,10 +21782,10 @@
   "type": "multiple_choice",
   "answer": "rubbish",
   "options": [
-   "dust",
    "rubbish",
    "sweeping",
-   "dustbin"
+   "dustbin",
+   "soap"
   ]
  },
  {
@@ -21854,7 +21854,7 @@
   "options": [
    "It protects us from rain.",
    "Floods destroy houses and crops.",
-   "It helps crops to grow.",
+   "It makes the sky blue.",
    "The sun gives us light."
   ]
  },
@@ -21905,7 +21905,7 @@
   "id": "P214030403b",
   "type": "true_false",
   "options": null,
-  "question": "We wash our hands after visiting a toilet because to remove germs. True or False?",
+  "question": "We wash our hands after visiting a toilet to remove germs. True or False?",
   "answer": "True"
  },
  {
@@ -21922,7 +21922,7 @@
   "type": "multiple_choice",
   "answer": "bricks",
   "options": [
-   "nails",
+   "shoes",
    "bricks",
    "bags",
    "basket"
@@ -21960,7 +21960,7 @@
    "fish",
    "dog",
    "housefly",
-   "swimming"
+   "cat"
   ]
  },
  {
@@ -22150,8 +22150,8 @@
   "id": "P214030404b",
   "type": "true_false",
   "options": null,
-  "question": "One person who works in a sick bay is personal hygiene. True or False?",
-  "answer": "False"
+  "question": "One person who works in a sick bay is a nurse. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -22529,13 +22529,13 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "medium",
-  "explanation": "The young one of a lion is called a cub.",
-  "hint": "Baby lions.",
+  "explanation": "A baby cow is called a calf.",
+  "hint": "Baby cows.",
   "image": null,
   "id": "P214120408b",
   "type": "true_false",
   "options": null,
-  "question": "The young one of a lion is cub. True or False?",
+  "question": "The young one of a cow is calf. True or False?",
   "answer": "True"
  },
  {
@@ -22632,21 +22632,6 @@
   "subject": "Science",
   "grade": "P2",
   "term": "Term 1",
-  "unit": "Animals and Insects",
-  "difficulty": "medium",
-  "explanation": "An insect has six legs.",
-  "hint": "Count them: six.",
-  "image": null,
-  "id": "P214120411b",
-  "type": "true_false",
-  "options": null,
-  "question": "How many legs does an insect have? head. True or False?",
-  "answer": "False"
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "medium",
   "explanation": "Houseflies spread cholera.",
@@ -22704,14 +22689,14 @@
   "term": "Term 2",
   "unit": "Accidents and Safety",
   "difficulty": "easy",
-  "explanation": "Falls are common accidents at school.",
+  "explanation": "Cuts are common accidents at school.",
   "hint": "Children can fall.",
   "image": null,
   "id": "P214080403b",
   "type": "true_false",
   "options": null,
   "question": "One common accident at school is cut. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -22903,9 +22888,9 @@
   "answer": "broom",
   "options": [
    "broom",
-   "window",
    "uncle",
-   "father"
+   "father",
+   "germs"
   ]
  },
  {
@@ -23148,9 +23133,9 @@
   "answer": "desk",
   "options": [
    "desk",
-   "broom",
-   "mopping",
-   "clock"
+   "teacher",
+   "pupil",
+   "plant"
   ]
  },
  {
@@ -23165,7 +23150,7 @@
   "id": "P214010501b",
   "type": "true_false",
   "options": null,
-  "question": "One example of a non-living thing in your classroom. is desk. True or False?",
+  "question": "One example of a non-living thing in your classroom is a desk.",
   "answer": "True"
  },
  {
@@ -23185,7 +23170,7 @@
    "burns",
    "bandage",
    "cuts",
-   "cut"
+   "bruises"
   ]
  },
  {
@@ -23200,7 +23185,7 @@
   "id": "P214080501b",
   "type": "true_false",
   "options": null,
-  "question": "Which common accident is caused by a razorblade? bandage. True or False?",
+  "question": "A common accident caused by a razorblade is a bandage.",
   "answer": "False"
  },
  {
@@ -23270,7 +23255,7 @@
   "id": "P214120501b",
   "type": "true_false",
   "options": null,
-  "question": "How are bees useful to people? to look for food. True or False?",
+  "question": "Bees are useful to people because they look for food.",
   "answer": "False"
  },
  {
@@ -23287,10 +23272,10 @@
   "type": "multiple_choice",
   "answer": "Covering food.",
   "options": [
-   "to grow",
-   "Covering it.",
-   "Washing hands.",
-   "Covering food."
+   "Covering food.",
+   "Leaving food open.",
+   "Touching food with dirty hands.",
+   "Storing food in a dirty container."
   ]
  },
  {
@@ -23325,7 +23310,7 @@
    "destroying crops",
    "rainy season",
    "sunny weather",
-   "dry season"
+   "planting time"
   ]
  },
  {
@@ -23341,7 +23326,7 @@
   "type": "true_false",
   "options": null,
   "question": "One season in a year. is dry season. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -23404,13 +23389,13 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "medium",
-  "explanation": "Polio attacks the legs and can make a child unable to walk well.",
+  "explanation": "Polio is the immunisable disease that makes children lame, not measles.",
   "hint": "Children are immunised against it with drops.",
   "image": null,
   "id": "P214030502b",
   "type": "true_false",
   "options": null,
-  "question": "Which immunisable disease makes children lame? hand. True or False?",
+  "question": "The immunisable disease that makes children lame is measles.",
   "answer": "False"
  },
  {
@@ -23471,21 +23456,6 @@
  {
   "subject": "Science",
   "grade": "P2",
-  "term": "Term 2",
-  "unit": "Water",
-  "difficulty": "easy",
-  "explanation": "Boiling makes water very hot, and the heat kills the germs in it.",
-  "hint": "Heat destroys the germs.",
-  "image": null,
-  "id": "P214140501b",
-  "type": "true_false",
-  "options": null,
-  "question": "We boil water for drinking because by boiling it. True or False?",
-  "answer": "False"
- },
- {
-  "subject": "Science",
-  "grade": "P2",
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
@@ -23533,9 +23503,9 @@
   "answer": "shoes",
   "options": [
    "hides",
-   "bags",
    "shoes",
-   "baskets"
+   "baskets",
+   "paper"
   ]
  },
  {
@@ -23551,7 +23521,7 @@
   "type": "true_false",
   "options": null,
   "question": "One thing made from animal skins. is bags. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -23567,10 +23537,10 @@
   "type": "multiple_choice",
   "answer": "umbrella",
   "options": [
-   "raincoat",
-   "clock",
    "umbrella",
-   "rainy"
+   "clock",
+   "sunhat",
+   "sweater"
   ]
  },
  {
@@ -23672,10 +23642,10 @@
   "type": "multiple_choice",
   "answer": "banana fibre",
   "options": [
-   "a rope",
    "banana fibre",
+   "a rope",
    "playing football",
-   "sisal fibres"
+   "water"
   ]
  },
  {
@@ -23684,14 +23654,14 @@
   "term": "Term 2",
   "unit": "Things We Make",
   "difficulty": "medium",
-  "explanation": "Banana fibre is strong and is used to make ropes and balls.",
+  "explanation": "Sisal fibres are strong and used to make ropes and balls.",
   "hint": "It comes from banana stems.",
   "image": null,
   "id": "P214060503b",
   "type": "true_false",
   "options": null,
   "question": "One material that can be used in the making of ropes and balls. is sisal fibres. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -23707,10 +23677,10 @@
   "type": "multiple_choice",
   "answer": "mango tree",
   "options": [
-   "orange tree",
    "mango tree",
    "a hoe",
-   "collecting rubbish"
+   "collecting rubbish",
+   "pine tree"
   ]
  },
  {
@@ -23742,10 +23712,10 @@
   "type": "multiple_choice",
   "answer": "drying",
   "options": [
-   "smoking",
    "drying",
    "beans",
-   "eggs"
+   "eggs",
+   "cooking"
   ]
  },
  {
@@ -23777,7 +23747,7 @@
   "type": "multiple_choice",
   "answer": "saucepan",
   "options": [
-   "soap",
+   "toothbrush",
    "grandmother",
    "clothes",
    "saucepan"
@@ -23830,7 +23800,7 @@
   "id": "P214020502b",
   "type": "true_false",
   "options": null,
-  "question": "Name another item found in the kitchen? child. True or False?",
+  "question": "One item found in the kitchen is child. True or False?",
   "answer": "False"
  },
  {
@@ -23894,21 +23864,6 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "First aid is quick help given to stop a hurt person from dying.",
-  "hint": "To stop the person from dying.",
-  "image": null,
-  "id": "P214030506b",
-  "type": "true_false",
-  "options": null,
-  "question": "Why do we give first aid to casualties? in the mouth. True or False?",
-  "answer": "False"
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Human Body and Health",
-  "difficulty": "easy",
   "explanation": "First aid also helps the hurt person feel less pain.",
   "hint": "To make the hurt person feel better.",
   "image": null,
@@ -23953,7 +23908,7 @@
   "answer": "posho",
   "options": [
    "posho",
-   "banana",
+   "book",
    "proteins",
    "plate"
   ]
@@ -24232,10 +24187,10 @@
   "type": "multiple_choice",
   "answer": "well",
   "options": [
-   "borehole",
-   "rivers",
    "well",
-   "drinking"
+   "drinking",
+   "mopping",
+   "cooking"
   ]
  },
  {
@@ -24250,7 +24205,7 @@
   "id": "P214140504b",
   "type": "true_false",
   "options": null,
-  "question": "One source of water in our area. is drinking. True or False?",
+  "question": "One source of water in our area is drinking. True or False?",
   "answer": "False"
  },
  {
@@ -24267,10 +24222,10 @@
   "type": "multiple_choice",
   "answer": "borehole",
   "options": [
-   "rain",
-   "well",
+   "borehole",
    "cooking",
-   "borehole"
+   "washing",
+   "bathing"
   ]
  },
  {
@@ -24285,7 +24240,7 @@
   "id": "P214140505b",
   "type": "true_false",
   "options": null,
-  "question": "Give another source of water in our area? borehole. True or False?",
+  "question": "Borehole is a source of water in our area. True or False?",
   "answer": "True"
  },
  {
@@ -24320,7 +24275,7 @@
   "id": "P214030508b",
   "type": "true_false",
   "options": null,
-  "question": "Which part of the body is used for writing? clinic. True or False?",
+  "question": "Clinic is a part of the body used for writing. True or False?",
   "answer": "False"
  },
  {
@@ -24355,7 +24310,7 @@
   "id": "P214030509b",
   "type": "true_false",
   "options": null,
-  "question": "Which part of the body is used for singing? mouth. True or False?",
+  "question": "Mouth is a part of the body used for singing. True or False?",
   "answer": "True"
  },
  {
@@ -24390,7 +24345,7 @@
   "id": "P214030510b",
   "type": "true_false",
   "options": null,
-  "question": "Which part of the body is used for walking? measles. True or False?",
+  "question": "Measles is a part of the body used for walking. True or False?",
   "answer": "False"
  },
  {
@@ -24425,7 +24380,7 @@
   "id": "P214120508b",
   "type": "true_false",
   "options": null,
-  "question": "The function of part B of the insect. is it is used for feeling. True or False?",
+  "question": "The function of part B of the insect is that it is used for feeling. True or False?",
   "answer": "True"
  },
  {
@@ -24460,7 +24415,7 @@
   "id": "P214120509b",
   "type": "true_false",
   "options": null,
-  "question": "The function of part D of the insect. is they are eaten as food. True or False?",
+  "question": "The function of part D of the insect is that they are eaten as food. True or False?",
   "answer": "False"
  },
  {
@@ -24495,7 +24450,7 @@
   "id": "P214130503b",
   "type": "true_false",
   "options": null,
-  "question": "Apart from sunny, give any other type of weather. (i) rainy. True or False?",
+  "question": "Rainy is a type of weather apart from sunny. True or False?",
   "answer": "True"
  },
  {
@@ -24524,13 +24479,13 @@
   "term": "Term 2",
   "unit": "Weather",
   "difficulty": "easy",
-  "explanation": "Windy weather is when moving air blows strongly.",
+  "explanation": "An umbrella is not a type of weather; it is a tool used for protection against rain or sun.",
   "hint": "Strong air blows in this weather.",
   "image": null,
   "id": "P214130504b",
   "type": "true_false",
   "options": null,
-  "question": "Give another type of weather apart from sunny? umbrella. True or False?",
+  "question": "Umbrella is a type of weather apart from sunny. True or False?",
   "answer": "False"
  },
  {
@@ -24543,14 +24498,14 @@
   "hint": "Its meat is called beef.",
   "image": null,
   "id": "P214120510a",
-  "question": "Name any one domestic animal that gives us meat. (i) ____",
+  "question": "Which domestic animal gives us beef?",
   "type": "multiple_choice",
   "answer": "cow",
   "options": [
-   "pig",
-   "bite",
    "cow",
-   "fish"
+   "pig",
+   "goat",
+   "chicken"
   ]
  },
  {
@@ -24565,7 +24520,7 @@
   "id": "P214120510b",
   "type": "true_false",
   "options": null,
-  "question": "One domestic animal that gives us meat. is cow. True or False?",
+  "question": "One domestic animal that gives us meat is cow. True or False?",
   "answer": "True"
  },
  {
@@ -24582,26 +24537,11 @@
   "type": "multiple_choice",
   "answer": "goat",
   "options": [
+   "goat",
    "puppy",
    "food",
-   "goat",
-   "sheep"
+   "cat"
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Animals and Insects",
-  "difficulty": "easy",
-  "explanation": "A goat is a domestic animal and its meat is eaten by people.",
-  "hint": "Its meat is called mutton.",
-  "image": null,
-  "id": "P214120511b",
-  "type": "true_false",
-  "options": null,
-  "question": "Name another domestic animal that gives us meat? sheep. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -24664,13 +24604,13 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Animals need clean water to drink to stay healthy.",
+  "explanation": "Legs helping animals move is a function of legs, not a way people care for domestic animals.",
   "hint": "Giving them water to drink.",
   "image": null,
   "id": "P214120513b",
   "type": "true_false",
   "options": null,
-  "question": "Write another way people care for domestic animals? Legs help animals to move. True or False?",
+  "question": "Legs help animals to move is a way people care for domestic animals. True or False?",
   "answer": "False"
  },
  {
@@ -24874,14 +24814,14 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "Malaria is a common disease spread by mosquitoes.",
+  "explanation": "Cough is a common disease in our community.",
   "hint": "It is spread by mosquitoes.",
   "image": null,
   "id": "P214030511b",
   "type": "true_false",
   "options": null,
-  "question": "One common disease in our community. is cough. True or False?",
-  "answer": "False"
+  "question": "One common disease in our community is cough.",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -24967,10 +24907,10 @@
   "type": "multiple_choice",
   "answer": "nuclear family",
   "options": [
-   "By working.",
-   "greeting elders",
    "nuclear family",
-   "cooking food"
+   "school class",
+   "football team",
+   "hospital ward"
   ]
  },
  {
@@ -25002,10 +24942,10 @@
   "type": "multiple_choice",
   "answer": "Cooking food for the family.",
   "options": [
-   "It protects us from rain.",
    "Cooking food for the family.",
-   "It is used for bathing.",
-   "by washing them after use"
+   "Going to work.",
+   "Driving a car.",
+   "Playing football."
   ]
  },
  {
@@ -25037,8 +24977,8 @@
   "type": "multiple_choice",
   "answer": "father",
   "options": [
-   "uncle",
    "father",
+   "teacher",
    "plates",
    "fishmonger"
   ]
@@ -25212,10 +25152,10 @@
   "type": "multiple_choice",
   "answer": "By polishing them.",
   "options": [
-   "By buying them.",
    "By polishing them.",
-   "helping with housework",
-   "sweeping the house"
+   "By throwing them away.",
+   "By leaving them in the rain.",
+   "By using them as a ball."
   ]
  },
  {
@@ -25247,10 +25187,10 @@
   "type": "multiple_choice",
   "answer": "By washing it.",
   "options": [
-   "By mopping it.",
    "By washing it.",
-   "By sweeping it.",
-   "treats sick children"
+   "By tearing it.",
+   "By burning it.",
+   "By losing it."
   ]
  },
  {
@@ -25282,10 +25222,10 @@
   "type": "multiple_choice",
   "answer": "By washing them.",
   "options": [
-   "sweeping the house",
    "By washing them.",
-   "protecting the family",
-   "helping with housework"
+   "By breaking them.",
+   "By leaving them dirty.",
+   "By throwing them."
   ]
  },
  {
@@ -25370,7 +25310,7 @@
   "id": "P214010508b",
   "type": "true_false",
   "options": null,
-  "question": "Name another item used to tell time in a classroom? bag. True or False?",
+  "question": "Another item used to tell time in a classroom is a bag. True or False?",
   "answer": "False"
  },
  {
@@ -25484,34 +25424,14 @@
   "term": "Term 2",
   "unit": "Accidents and Safety",
   "difficulty": "easy",
-  "explanation": "Burns happen at home when we touch fire or hot things.",
-  "hint": "It happens when you touch fire.",
-  "image": null,
-  "id": "P214080601a",
-  "question": "Give any one common accident at home. ____",
-  "type": "multiple_choice",
-  "answer": "burns",
-  "options": [
-   "nails",
-   "plaster",
-   "falls",
-   "burns"
-  ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 2",
-  "unit": "Accidents and Safety",
-  "difficulty": "easy",
-  "explanation": "Burns happen at home when we touch fire or hot things.",
+  "explanation": "Falls are a common accident at home.",
   "hint": "It happens when you touch fire.",
   "image": null,
   "id": "P214080601b",
   "type": "true_false",
   "options": null,
   "question": "One common accident at home. is falls. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -25615,7 +25535,7 @@
   "id": "P214140601b",
   "type": "true_false",
   "options": null,
-  "question": "One two uses of water at home. is drinking. True or False?",
+  "question": "One use of water at home is drinking. True or False?",
   "answer": "True"
  },
  {
@@ -25650,7 +25570,7 @@
   "id": "P214140602b",
   "type": "true_false",
   "options": null,
-  "question": "Write another use of water at home? borehole. True or False?",
+  "question": "Borehole is a use of water at home. True or False?",
   "answer": "False"
  },
  {
@@ -25704,7 +25624,7 @@
   "options": [
    "To help them grow well.",
    "It is used for cutting.",
-   "orange",
+   "It is used for sweeping.",
    "It is used for digging."
   ]
  },
@@ -25738,9 +25658,9 @@
   "answer": "banana",
   "options": [
    "banana",
-   "drying",
-   "pineapple",
-   "spoon"
+   "rice",
+   "beans",
+   "meat"
   ]
  },
  {
@@ -25790,7 +25710,7 @@
   "id": "P214140603b",
   "type": "true_false",
   "options": null,
-  "question": "One two natural sources of water. is well. True or False?",
+  "question": "A well is a natural source of water. True or False?",
   "answer": "False"
  },
  {
@@ -25825,7 +25745,7 @@
   "id": "P214140604b",
   "type": "true_false",
   "options": null,
-  "question": "Give another natural source of water? rivers. True or False?",
+  "question": "A river is a natural source of water. True or False?",
   "answer": "True"
  },
  {
@@ -25949,8 +25869,8 @@
   "options": [
    "extended family",
    "nuclear family",
-   "By working.",
-   "washing clothes"
+   "single-parent family",
+   "foster family"
   ]
  },
  {
@@ -26000,7 +25920,7 @@
   "id": "P214130604b",
   "type": "true_false",
   "options": null,
-  "question": "The importance of rainy weather to people. is floods destroy houses and crops. True or False?",
+  "question": "The importance of rainy weather to people is that floods destroy houses and crops. True or False?",
   "answer": "False"
  },
  {
@@ -26262,10 +26182,10 @@
   "type": "multiple_choice",
   "answer": "bricks",
   "options": [
-   "nails",
-   "shelter",
    "bricks",
-   "fishmonger"
+   "shelter",
+   "fishmonger",
+   "book"
   ]
  },
  {
@@ -26297,7 +26217,7 @@
   "type": "multiple_choice",
   "answer": "Covering it.",
   "options": [
-   "Washing hands.",
+   "Washing clothes.",
    "to grow",
    "get energy",
    "Covering it."
@@ -26344,14 +26264,14 @@
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "explanation": "People grow food crops in the garden.",
+  "explanation": "Eggs are a source of food.",
   "hint": "Crops grow there.",
   "image": null,
   "id": "P214040603b",
   "type": "true_false",
   "options": null,
   "question": "One source of food. is eggs. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -26624,14 +26544,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Living things can move from one place to another.",
+  "explanation": "Feeding is a characteristic of living things.",
   "hint": "They can change position.",
   "image": null,
   "id": "P214120609b",
   "type": "true_false",
   "options": null,
   "question": "One characteristic of living things. is they feed. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -26694,14 +26614,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Every insect has six legs.",
+  "explanation": "Insects have six legs.",
   "hint": "Count them: three on each side.",
   "image": null,
   "id": "P214120701b",
   "type": "true_false",
   "options": null,
-  "question": "How many legs does an insect have? flying. True or False?",
-  "answer": "False"
+  "question": "An insect has six legs. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -26735,7 +26655,7 @@
   "id": "P214020701b",
   "type": "true_false",
   "options": null,
-  "question": "The use of a sponge to people at home. is it is used for bathing. True or False?",
+  "question": "A sponge is used for bathing at home. True or False?",
   "answer": "True"
  },
  {
@@ -26770,7 +26690,7 @@
   "id": "P214060701b",
   "type": "true_false",
   "options": null,
-  "question": "The product got from cows which people use to make drums. is baskets. True or False?",
+  "question": "The product from cows that people use to make drums is baskets. True or False?",
   "answer": "False"
  },
  {
@@ -26805,7 +26725,7 @@
   "id": "P214080701b",
   "type": "true_false",
   "options": null,
-  "question": "Why is it dangerous to play with a razor blade? It can cut us. True or False?",
+  "question": "A razor blade can cut us. True or False?",
   "answer": "True"
  },
  {
@@ -26840,7 +26760,7 @@
   "id": "P214030702b",
   "type": "true_false",
   "options": null,
-  "question": "One thing you can do to prevent getting malaria. is to keep our bodies clean. True or False?",
+  "question": "One thing you can do to prevent getting malaria is to keep our bodies clean. True or False?",
   "answer": "False"
  },
  {
@@ -26875,7 +26795,7 @@
   "id": "P214110701b",
   "type": "true_false",
   "options": null,
-  "question": "One tool you can use to cut grass from the compound. is slasher. True or False?",
+  "question": "One tool you can use to cut grass from the compound is a slasher. True or False?",
   "answer": "True"
  },
  {
@@ -26893,8 +26813,8 @@
   "answer": "By boiling it.",
   "options": [
    "mopping the classroom",
-   "boiling",
    "By boiling it.",
+   "filtering",
    "To kill germs."
   ]
  },
@@ -26910,7 +26830,7 @@
   "id": "P214140701b",
   "type": "true_false",
   "options": null,
-  "question": "How can people make water safe for drinking? mopping the classroom. True or False?",
+  "question": "Mopping the classroom makes water safe for drinking. True or False?",
   "answer": "False"
  },
  {
@@ -26923,14 +26843,14 @@
   "hint": "It carries things.",
   "image": null,
   "id": "P214060702a",
-  "question": "Name one item we make at home for carrying things: basket. ____",
+  "question": "Name one item we make at home for carrying things.",
   "type": "multiple_choice",
   "answer": "basket",
   "options": [
    "basket",
    "bags",
-   "baskets",
-   "drums"
+   "drums",
+   "pots"
   ]
  },
  {
@@ -26945,7 +26865,7 @@
   "id": "P214060702b",
   "type": "true_false",
   "options": null,
-  "question": "One item we make at home for carrying things: basket. is basket. True or False?",
+  "question": "One item we make at home for carrying things is a basket. True or False?",
   "answer": "True"
  },
  {
@@ -26980,7 +26900,7 @@
   "id": "P214060703b",
   "type": "true_false",
   "options": null,
-  "question": "One round item we make at home for playing. is pots. True or False?",
+  "question": "One round item we make at home for playing is pots. True or False?",
   "answer": "False"
  },
  {
@@ -27050,7 +26970,7 @@
   "id": "P214060704b",
   "type": "true_false",
   "options": null,
-  "question": "One activity you can do using a ball. is a rope. True or False?",
+  "question": "One activity you can do using a ball is a rope. True or False?",
   "answer": "False"
  },
  {
@@ -27102,10 +27022,10 @@
   "type": "multiple_choice",
   "answer": "To remove germs.",
   "options": [
-   "To save life.",
-   "in the mouth",
-   "for holding things",
-   "To remove germs."
+   "To save water.",
+   "To remove germs.",
+   "To look clean.",
+   "To avoid soap."
   ]
  },
  {
@@ -27120,7 +27040,7 @@
   "id": "P214030703b",
   "type": "true_false",
   "options": null,
-  "question": "People wash their hands after using the toilet because for holding things. True or False?",
+  "question": "People wash their hands after using the toilet to hold things. True or False?",
   "answer": "False"
  },
  {
@@ -27139,7 +27059,7 @@
   "options": [
    "It causes malnutrition.",
    "To get energy.",
-   "To stay healthy.",
+   "To sleep.",
    "wash their hands"
   ]
  },
@@ -27155,7 +27075,7 @@
   "id": "P214040701b",
   "type": "true_false",
   "options": null,
-  "question": "One two reasons why people eat food. is to get energy. True or False?",
+  "question": "One reason why people eat food is to get energy. True or False?",
   "answer": "True"
  },
  {
@@ -27190,7 +27110,7 @@
   "id": "P214040702b",
   "type": "true_false",
   "options": null,
-  "question": "Give another reason why people eat food? Washing hands. True or False?",
+  "question": "Washing hands is a reason why people eat food. True or False?",
   "answer": "False"
  },
  {
@@ -27312,7 +27232,7 @@
   "type": "multiple_choice",
   "answer": "smoking",
   "options": [
-   "drying",
+   "boiling",
    "plants",
    "smoking",
    "vitamins"
@@ -27350,7 +27270,7 @@
    "dries our clothes",
    "Wearing a hat.",
    "It causes drought.",
-   "Using an umbrella."
+   "Wearing a sweater."
   ]
  },
  {
@@ -27387,21 +27307,6 @@
    "polio",
    "cholera"
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Human Body and Health",
-  "difficulty": "medium",
-  "explanation": "Polio is a disease children are immunised against.",
-  "hint": "It makes children lame.",
-  "image": null,
-  "id": "P214030705b",
-  "type": "true_false",
-  "options": null,
-  "question": "Name two immunisable diseases? hand. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -27452,7 +27357,7 @@
   "type": "multiple_choice",
   "answer": "By spreading the beddings well.",
   "options": [
-   "by washing them after use",
+   "by leaving them dirty",
    "It is used for bathing.",
    "By spreading the beddings well.",
    "A house gives us shelter."
@@ -27470,7 +27375,7 @@
   "id": "P214020704b",
   "type": "true_false",
   "options": null,
-  "question": "You can care for your bed at home by it is used for bathing. True or False?",
+  "question": "You can care for your bed at home by using it for bathing. True or False?",
   "answer": "False"
  },
  {
@@ -27558,7 +27463,7 @@
   "answer": "To remove food remains.",
   "options": [
    "By giving first aid.",
-   "for cleaning the teeth",
+   "to make them blue",
    "To remove food remains.",
    "sleeping under mosquito nets"
   ]
@@ -27575,7 +27480,7 @@
   "id": "P214030708b",
   "type": "true_false",
   "options": null,
-  "question": "People brush their teeth after every meal because to remove food remains. True or False?",
+  "question": "People brush their teeth after every meal to remove food remains. True or False?",
   "answer": "True"
  },
  {
@@ -27741,21 +27646,6 @@
  {
   "subject": "Science",
   "grade": "P2",
-  "term": "Term 2",
-  "unit": "Our Environment",
-  "difficulty": "easy",
-  "explanation": "Burning bushes kills plants and small animals.",
-  "hint": "Fire destroys plants.",
-  "image": null,
-  "id": "P214050702b",
-  "type": "true_false",
-  "options": null,
-  "question": "Write another activity that can damage our environment? our surroundings. True or False?",
-  "answer": "False"
- },
- {
-  "subject": "Science",
-  "grade": "P2",
   "term": "Term 1",
   "unit": "Plants",
   "difficulty": "easy",
@@ -27814,21 +27704,6 @@
   "term": "Term 1",
   "unit": "Plants",
   "difficulty": "easy",
-  "explanation": "Some plants are used as medicine to treat sickness.",
-  "hint": "They heal sickness.",
-  "image": null,
-  "id": "P214110708b",
-  "type": "true_false",
-  "options": null,
-  "question": "Write another use of plants to people? They give us food. True or False?",
-  "answer": "False"
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Plants",
-  "difficulty": "easy",
   "explanation": "Watering helps the plants in the school compound grow well.",
   "hint": "Giving them water.",
   "image": null,
@@ -27855,7 +27730,7 @@
   "id": "P214110709b",
   "type": "true_false",
   "options": null,
-  "question": "You can care for plants in the school compound by by watering them. True or False?",
+  "question": "You can care for plants in the school compound by watering them. True or False?",
   "answer": "True"
  },
  {
@@ -28065,7 +27940,7 @@
   "id": "P214040707b",
   "type": "true_false",
   "options": null,
-  "question": "People eat a balanced diet because to stay healthy. True or False?",
+  "question": "People eat a balanced diet to stay healthy. True or False?",
   "answer": "True"
  },
  {
@@ -28094,14 +27969,14 @@
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "medium",
-  "explanation": "Proteins are food values that build our bodies.",
+  "explanation": "Pineapple is a fruit that provides vitamins and is part of a balanced diet.",
   "hint": "They build the body.",
   "image": null,
   "id": "P214040708b",
   "type": "true_false",
   "options": null,
-  "question": "One two food values that make a balanced diet. is pineapple. True or False?",
-  "answer": "False"
+  "question": "Pineapple is a food value that makes a balanced diet. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -28294,7 +28169,7 @@
   "options": [
    "gloves",
    "eye",
-   "ears",
+   "hands",
    "immunisation"
   ]
  },
@@ -28450,8 +28325,8 @@
   "id": "P214030802b",
   "type": "true_false",
   "options": null,
-  "question": "One immunisable childhood disease. is eyes. True or False?",
-  "answer": "False"
+  "question": "One immunisable childhood disease is polio. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -28549,13 +28424,13 @@
   "term": "Term 1",
   "unit": "Plants",
   "difficulty": "easy",
-  "explanation": "Plants need water to grow well.",
-  "hint": "Giving them water.",
+  "explanation": "Plants need sunlight to make their own food through photosynthesis.",
+  "hint": "They grow towards the light.",
   "image": null,
   "id": "P214110801b",
   "type": "true_false",
   "options": null,
-  "question": "One way of caring for plants. is watering them. True or False?",
+  "question": "One way of caring for plants is giving them sunlight. True or False?",
   "answer": "True"
  },
  {
@@ -28870,7 +28745,7 @@
   "id": "P214120803b",
   "type": "true_false",
   "options": null,
-  "question": "One two ways of caring for domestic animals. is to get milk. True or False?",
+  "question": "One way of caring for domestic animals is to get milk. True or False?",
   "answer": "False"
  },
  {
@@ -28887,7 +28762,7 @@
   "type": "multiple_choice",
   "answer": "By housing them well.",
   "options": [
-   "giving them clean water",
+   "beating them",
    "They give us milk.",
    "to look for food",
    "By housing them well."
@@ -28960,7 +28835,7 @@
    "fire",
    "home",
    "It is safe.",
-   "save their lives"
+   "to play"
   ]
  },
  {
@@ -28993,7 +28868,7 @@
   "answer": "malaria",
   "options": [
    "mouth",
-   "flu",
+   "headache",
    "malaria",
    "teeth"
   ]
@@ -29010,7 +28885,7 @@
   "id": "P214030804b",
   "type": "true_false",
   "options": null,
-  "question": "One two common diseases in our community. is teeth. True or False?",
+  "question": "One common disease in our community is teeth. True or False?",
   "answer": "False"
  },
  {
@@ -29028,7 +28903,7 @@
   "answer": "cough",
   "options": [
    "water",
-   "scabies",
+   "itching",
    "cough",
    "bathing"
   ]
@@ -29150,7 +29025,7 @@
   "id": "P214120806b",
   "type": "true_false",
   "options": null,
-  "question": "Give another insect that spreads diseases to people? cat. True or False?",
+  "question": "A cat is an insect that spreads diseases to people. True or False?",
   "answer": "False"
  },
  {
@@ -29185,7 +29060,7 @@
   "id": "P214020804b",
   "type": "true_false",
   "options": null,
-  "question": "Which item do we use to pound groundnuts at home? mortar. True or False?",
+  "question": "Mortar is used to pound groundnuts at home. True or False?",
   "answer": "True"
  },
  {
@@ -29220,7 +29095,7 @@
   "id": "P214130804b",
   "type": "true_false",
   "options": null,
-  "question": "How is too much sunshine dangerous to people? dries our clothes. True or False?",
+  "question": "Drying clothes is a danger of too much sunshine. True or False?",
   "answer": "False"
  },
  {
@@ -29255,7 +29130,7 @@
   "id": "P214120807b",
   "type": "true_false",
   "options": null,
-  "question": "People keep hens at home because to get eggs. True or False?",
+  "question": "People keep hens at home to get eggs. True or False?",
   "answer": "True"
  },
  {
@@ -29290,7 +29165,7 @@
   "id": "P214130805b",
   "type": "true_false",
   "options": null,
-  "question": "Which type of weather do farmers need to dry harvested crops? destroying crops. True or False?",
+  "question": "Rain is the weather farmers need to dry harvested crops. True or False?",
   "answer": "False"
  },
  {
@@ -29325,7 +29200,7 @@
   "id": "P214130806b",
   "type": "true_false",
   "options": null,
-  "question": "Which type of weather do farmers need to harvest water? rainy weather. True or False?",
+  "question": "Rainy weather is the type of weather farmers need to harvest water. True or False?",
   "answer": "True"
  },
  {
@@ -29338,14 +29213,14 @@
   "hint": "Use a broom.",
   "image": null,
   "id": "P214010802a",
-  "question": "Write two ways of keeping your classroom clean. (i) ____",
+  "question": "Which of the following is a way to keep your classroom clean? (i) ____",
   "type": "multiple_choice",
   "answer": "By sweeping it.",
   "options": [
-   "By washing it.",
-   "By mopping it.",
    "By sweeping it.",
-   "sweeping around them"
+   "By sleeping in it.",
+   "By eating in it.",
+   "By drawing on walls."
   ]
  },
  {
@@ -29360,8 +29235,8 @@
   "id": "P214010802b",
   "type": "true_false",
   "options": null,
-  "question": "Write two ways of keeping your classroom clean? sweeping around them. True or False?",
-  "answer": "False"
+  "question": "Sweeping around them is a way to keep the classroom clean. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -29395,7 +29270,7 @@
   "id": "P214010803b",
   "type": "true_false",
   "options": null,
-  "question": "Write another way of keeping your classroom clean? By mopping it. True or False?",
+  "question": "Mopping the floor is a way to keep the classroom clean. True or False?",
   "answer": "True"
  },
  {
@@ -29412,26 +29287,11 @@
   "type": "multiple_choice",
   "answer": "They give us meat.",
   "options": [
-   "giving them clean water",
    "They give us meat.",
-   "They give us honey.",
-   "Goats give us milk."
+   "They give us water.",
+   "They give us stones.",
+   "They give us air."
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Animals and Insects",
-  "difficulty": "easy",
-  "explanation": "Animals like cows and goats give us meat to eat.",
-  "hint": "We eat it.",
-  "image": null,
-  "id": "P214120808b",
-  "type": "true_false",
-  "options": null,
-  "question": "One two uses of animals to people. is goats give us milk. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -29448,9 +29308,9 @@
   "answer": "They give us milk.",
   "options": [
    "Goats breathe and move.",
-   "Goats give us milk.",
    "They give us milk.",
-   "They give us honey."
+   "They give us stones.",
+   "They give us air."
   ]
  },
  {
@@ -29465,7 +29325,7 @@
   "id": "P214120809b",
   "type": "true_false",
   "options": null,
-  "question": "Give another use of animals to people? They give us milk. True or False?",
+  "question": "Animals give us milk. True or False?",
   "answer": "True"
  },
  {
@@ -29500,8 +29360,8 @@
   "id": "P214030806b",
   "type": "true_false",
   "options": null,
-  "question": "What do we call a trained person who gives first aid? bathing daily. True or False?",
-  "answer": "False"
+  "question": "A trained person who gives first aid is called a first aider. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -29535,7 +29395,7 @@
   "id": "P214080803b",
   "type": "true_false",
   "options": null,
-  "question": "Name two sharp objects that can cause accidents at school? razorblade. True or False?",
+  "question": "A razorblade is a sharp object that can cause accidents at school. True or False?",
   "answer": "True"
  },
  {
@@ -29570,7 +29430,7 @@
   "id": "P214080804b",
   "type": "true_false",
   "options": null,
-  "question": "Name another sharp object that can cause accidents at school? plaster. True or False?",
+  "question": "Plaster is a sharp object that can cause accidents at school. True or False?",
   "answer": "False"
  },
  {
@@ -29745,7 +29605,7 @@
   "id": "P214130807b",
   "type": "true_false",
   "options": null,
-  "question": "What is wind? Moving air. True or False?",
+  "question": "Wind is moving air. True or False?",
   "answer": "True"
  },
  {
@@ -29833,9 +29693,9 @@
   "answer": "rabbit",
   "options": [
    "rabbit",
-   "wings",
-   "eggs",
-   "gills"
+   "cat",
+   "dog",
+   "hen"
   ]
  },
  {
@@ -29850,8 +29710,8 @@
   "id": "P214120811b",
   "type": "true_false",
   "options": null,
-  "question": "The animal whose young one is a kit and whose home is a hutch. is wings. True or False?",
-  "answer": "False"
+  "question": "The animal whose young one is a kit and whose home is a hutch is a rabbit. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -29879,13 +29739,13 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "A fish lives in water.",
-  "hint": "Fish swim in it.",
+  "explanation": "Birds build nests to lay eggs and raise their young.",
+  "hint": "Birds lay eggs there.",
   "image": null,
   "id": "P214120812b",
   "type": "true_false",
   "options": null,
-  "question": "The home of a fish. is water. True or False?",
+  "question": "The home of a bird is a nest. True or False?",
   "answer": "True"
  },
  {
@@ -29914,14 +29774,14 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "easy",
-  "explanation": "Food is a basic need because we must eat to live.",
+  "explanation": "Shelter is a basic need because it protects us from weather.",
   "hint": "We eat it.",
   "image": null,
   "id": "P214020808b",
   "type": "true_false",
   "options": null,
-  "question": "One two basic needs of people. is shelter. True or False?",
-  "answer": "False"
+  "question": "One of the basic needs of people is shelter. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -29955,7 +29815,7 @@
   "id": "P214020809b",
   "type": "true_false",
   "options": null,
-  "question": "Write another basic need of people? shelter. True or False?",
+  "question": "Shelter is a basic need of people. True or False?",
   "answer": "True"
  },
  {
@@ -30185,7 +30045,7 @@
    "slithering",
    "fish",
    "thorax",
-   "duck"
+   "lion"
   ]
  },
  {
@@ -30200,7 +30060,7 @@
   "id": "P214120901b",
   "type": "true_false",
   "options": null,
-  "question": "The animal that lives in water. is slithering. True or False?",
+  "question": "The animal that lives in water is slithering. True or False?",
   "answer": "False"
  },
  {
@@ -30235,7 +30095,7 @@
   "id": "P214120902b",
   "type": "true_false",
   "options": null,
-  "question": "We keep hens at home because to get eggs. True or False?",
+  "question": "We keep hens at home to get eggs. True or False?",
   "answer": "True"
  },
  {
@@ -30270,7 +30130,7 @@
   "id": "P214030901b",
   "type": "true_false",
   "options": null,
-  "question": "One way of preventing mosquito bites at home. is they are used for hearing. True or False?",
+  "question": "One way of preventing mosquito bites at home is by ignoring them. True or False?",
   "answer": "False"
  },
  {
@@ -30305,7 +30165,7 @@
   "id": "P214030902b",
   "type": "true_false",
   "options": null,
-  "question": "We wash hands before eating food because to remove germs. True or False?",
+  "question": "We wash hands before eating food to remove germs. True or False?",
   "answer": "True"
  },
  {
@@ -30340,7 +30200,7 @@
   "id": "P214110901b",
   "type": "true_false",
   "options": null,
-  "question": "One way of caring for plants. is orange tree. True or False?",
+  "question": "One way of caring for plants is ignoring them. True or False?",
   "answer": "False"
  },
  {
@@ -30375,7 +30235,7 @@
   "id": "P214030903b",
   "type": "true_false",
   "options": null,
-  "question": "One item we use to clean our bodies. is soap. True or False?",
+  "question": "One item we use to clean our bodies is soap. True or False?",
   "answer": "True"
  },
  {
@@ -30410,7 +30270,7 @@
   "id": "P214140901b",
   "type": "true_false",
   "options": null,
-  "question": "One use of water to people. is boiling. True or False?",
+  "question": "One use of water to people is boiling. True or False?",
   "answer": "False"
  },
  {
@@ -30429,7 +30289,7 @@
   "options": [
    "bags",
    "clay",
-   "bricks",
+   "plastic cup",
    "pot"
   ]
  },
@@ -30445,7 +30305,7 @@
   "id": "P214060901b",
   "type": "true_false",
   "options": null,
-  "question": "One item made from clay soil. is pot. True or False?",
+  "question": "One item made from clay soil is pot. True or False?",
   "answer": "True"
  },
  {
@@ -30462,7 +30322,7 @@
   "type": "multiple_choice",
   "answer": "plants",
   "options": [
-   "animals",
+   "car",
    "broom",
    "sanitation",
    "plants"
@@ -30474,14 +30334,14 @@
   "term": "Term 2",
   "unit": "Our Environment",
   "difficulty": "easy",
-  "explanation": "Plants are living things found in our environment.",
+  "explanation": "Animals are living things found in our environment.",
   "hint": "They grow in the soil.",
   "image": null,
   "id": "P214050901b",
   "type": "true_false",
   "options": null,
   "question": "One component of our environment. is animals. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -30515,7 +30375,7 @@
   "id": "P214030904b",
   "type": "true_false",
   "options": null,
-  "question": "The use of ears to people. is they are used for hearing. True or False?",
+  "question": "The use of ears to people is they are used for hearing. True or False?",
   "answer": "True"
  },
  {
@@ -30537,21 +30397,6 @@
    "look smart and kill germs",
    "It is used for walking."
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Human Body and Health",
-  "difficulty": "easy",
-  "explanation": "Bathing removes dirt and germs from our bodies.",
-  "hint": "To remove dirt from the body.",
-  "image": null,
-  "id": "P214030905b",
-  "type": "true_false",
-  "options": null,
-  "question": "We bathe because not reading in dim light. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -30780,7 +30625,7 @@
    "garden",
    "mango",
    "eggs",
-   "milk"
+   "bread"
   ]
  },
  {
@@ -30955,7 +30800,7 @@
    "To get milk.",
    "look for water",
    "they have feathers",
-   "milk and meat"
+   "to get eggs"
   ]
  },
  {
@@ -30964,14 +30809,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Cows give us milk, which we drink.",
+  "explanation": "Cows are kept for milk and meat.",
   "hint": "They give something we drink.",
   "image": null,
   "id": "P214120907b",
   "type": "true_false",
   "options": null,
   "question": "We keep cows at home because milk and meat. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -31174,13 +31019,13 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "easy",
-  "explanation": "A kitchen is a room in the house where we cook food.",
+  "explanation": "A door is not a room; it is an entrance to a room.",
   "hint": "We cook in it.",
   "image": null,
   "id": "P214020903b",
   "type": "true_false",
   "options": null,
-  "question": "Name another room of a house? door. True or False?",
+  "question": "A door is a room in a house. True or False?",
   "answer": "False"
  },
  {
@@ -31237,21 +31082,6 @@
    "tasting food",
    "first aider"
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Human Body and Health",
-  "difficulty": "medium",
-  "explanation": "A person who gives first aid is called a first aider.",
-  "hint": "A person trained to help casualties.",
-  "image": null,
-  "id": "P214030908b",
-  "type": "true_false",
-  "options": null,
-  "question": "What name is given to a person who gives first aid? for seeing. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -31600,8 +31430,8 @@
   "id": "P214120911b",
   "type": "true_false",
   "options": null,
-  "question": "Which domestic animal lives in a sty? bite. True or False?",
-  "answer": "False"
+  "question": "A pig lives in a sty. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -31635,7 +31465,7 @@
   "id": "P214120912b",
   "type": "true_false",
   "options": null,
-  "question": "Write down one product got from a cow? milk. True or False?",
+  "question": "Milk is a product from a cow. True or False?",
   "answer": "True"
  },
  {
@@ -31653,9 +31483,9 @@
   "answer": "malaria",
   "options": [
    "malaria",
-   "HIV/AIDS",
    "eyes",
-   "bathing"
+   "bathing",
+   "sleeping"
   ]
  },
  {
@@ -31664,14 +31494,14 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "Malaria is a common disease spread by mosquitoes.",
+  "explanation": "HIV/AIDS is a common disease.",
   "hint": "It is spread by mosquitoes.",
   "image": null,
   "id": "P214030912b",
   "type": "true_false",
   "options": null,
-  "question": "One two common diseases of people. is HIV/AIDS. True or False?",
-  "answer": "False"
+  "question": "HIV/AIDS is a common disease. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -31705,7 +31535,7 @@
   "id": "P214030913b",
   "type": "true_false",
   "options": null,
-  "question": "Name another common disease of people? flu. True or False?",
+  "question": "Flu is a common disease. True or False?",
   "answer": "True"
  },
  {
@@ -31734,13 +31564,13 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "medium",
-  "explanation": "A housefly carries germs that cause diseases like cholera.",
+  "explanation": "Fry is a young fish, not an insect that spreads diseases.",
   "hint": "It sits on food.",
   "image": null,
   "id": "P214120913b",
   "type": "true_false",
   "options": null,
-  "question": "One two insects that spread diseases to people. is fry. True or False?",
+  "question": "Fry is an insect that spreads diseases. True or False?",
   "answer": "False"
  },
  {
@@ -31775,7 +31605,7 @@
   "id": "P214120914b",
   "type": "true_false",
   "options": null,
-  "question": "Write another insect that spreads diseases to people? mosquito. True or False?",
+  "question": "A mosquito spreads diseases to people. True or False?",
   "answer": "True"
  },
  {
@@ -31845,7 +31675,7 @@
   "id": "P214040903b",
   "type": "true_false",
   "options": null,
-  "question": "One two sources of food. is garden. True or False?",
+  "question": "A garden is a source of food. True or False?",
   "answer": "True"
  },
  {
@@ -31874,13 +31704,13 @@
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "explanation": "People buy food from the market.",
+  "explanation": "Vitamins are nutrients found in food, not a source of food.",
   "hint": "Food is bought there.",
   "image": null,
   "id": "P214040904b",
   "type": "true_false",
   "options": null,
-  "question": "Name another source of food? vitamins. True or False?",
+  "question": "Vitamins are a source of food. True or False?",
   "answer": "False"
  },
  {
@@ -31897,8 +31727,8 @@
   "type": "multiple_choice",
   "answer": "To get energy.",
   "options": [
-   "To stay healthy.",
    "To get energy.",
+   "To play games.",
    "It causes malnutrition.",
    "wash their hands"
   ]
@@ -31932,10 +31762,10 @@
   "type": "multiple_choice",
   "answer": "mopping them",
   "options": [
-   "washing it",
+   "mopping them",
    "putting rubbish",
    "soap",
-   "mopping them"
+   "sleeping"
   ]
  },
  {
@@ -31944,13 +31774,13 @@
   "term": "Term 1",
   "unit": "Our School and Neighbourhood",
   "difficulty": "easy",
-  "explanation": "Mopping cleans the latrine floor.",
+  "explanation": "Putting rubbish in the latrine does not keep it clean; it makes it dirty.",
   "hint": "Clean the floor with water.",
   "image": null,
   "id": "P214010901b",
   "type": "true_false",
   "options": null,
-  "question": "One two activities you can do to keep latrines clean. is putting rubbish. True or False?",
+  "question": "Putting rubbish in the latrine is an activity to keep it clean. True or False?",
   "answer": "False"
  },
  {
@@ -31969,8 +31799,8 @@
   "options": [
    "treats sick children",
    "sweeping around them",
-   "By sweeping it.",
-   "By washing it."
+   "cooking food",
+   "reading books"
   ]
  },
  {
@@ -31985,7 +31815,7 @@
   "id": "P214010902b",
   "type": "true_false",
   "options": null,
-  "question": "Write another activity you can do to keep latrines clean? sweeping around them. True or False?",
+  "question": "Sweeping around the latrine is an activity to keep it clean. True or False?",
   "answer": "True"
  },
  {
@@ -31998,7 +31828,7 @@
   "hint": "It is used for sweeping.",
   "image": null,
   "id": "P214010903a",
-  "question": "Name one thing we use to keep places clean: broom. ____",
+  "question": "Name one thing we use to keep places clean. ____",
   "type": "multiple_choice",
   "answer": "broom",
   "options": [
@@ -32020,7 +31850,7 @@
   "id": "P214010903b",
   "type": "true_false",
   "options": null,
-  "question": "One thing we use to keep places clean: broom. is dust. True or False?",
+  "question": "Dust is a thing we use to keep places clean. True or False?",
   "answer": "False"
  },
  {
@@ -32033,7 +31863,7 @@
   "hint": "We use it with water.",
   "image": null,
   "id": "P214010904a",
-  "question": "Name one thing we use to keep places clean: soap. ____",
+  "question": "Name one thing we use to keep places clean. ____",
   "type": "multiple_choice",
   "answer": "soap",
   "options": [
@@ -32055,7 +31885,7 @@
   "id": "P214010904b",
   "type": "true_false",
   "options": null,
-  "question": "One thing we use to keep places clean: soap. is soap. True or False?",
+  "question": "Soap is a thing we use to keep places clean. True or False?",
   "answer": "True"
  },
  {
@@ -32070,12 +31900,12 @@
   "id": "P214040906a",
   "question": "Mention any two ways of keeping food safe from germs. (i) ____",
   "type": "multiple_choice",
-  "answer": "Covering it.",
+  "answer": "covering food",
   "options": [
    "covering food",
    "get energy",
    "to grow",
-   "Covering it."
+   "leaving it open"
   ]
  },
  {
@@ -32090,7 +31920,7 @@
   "id": "P214040906b",
   "type": "true_false",
   "options": null,
-  "question": "One two ways of keeping food safe from germs. is to grow. True or False?",
+  "question": "Growing food is a way to keep it safe from germs. True or False?",
   "answer": "False"
  },
  {
@@ -32107,10 +31937,10 @@
   "type": "multiple_choice",
   "answer": "saucepan",
   "options": [
-   "water",
-   "bricks",
    "saucepan",
-   "shelter"
+   "bricks",
+   "shelter",
+   "book"
   ]
  },
  {
@@ -32125,7 +31955,7 @@
   "id": "P214020905b",
   "type": "true_false",
   "options": null,
-  "question": "One two things we use when cooking food. is saucepan. True or False?",
+  "question": "A saucepan is a thing we use when cooking food. True or False?",
   "answer": "True"
  },
  {
@@ -32160,7 +31990,7 @@
   "id": "P214020906b",
   "type": "true_false",
   "options": null,
-  "question": "Name another thing we use when cooking food? shelter. True or False?",
+  "question": "Shelter is a thing we use when cooking food. True or False?",
   "answer": "False"
  },
  {
@@ -32179,7 +32009,7 @@
   "options": [
    "nuclear family",
    "cooking pot",
-   "extended family",
+   "school",
    "cooking pots"
   ]
  },
@@ -32189,13 +32019,13 @@
   "term": "Term 1",
   "unit": "Our Home and Community",
   "difficulty": "medium",
-  "explanation": "A nuclear family has a father, a mother and their children.",
-  "hint": "Father, mother and children only.",
+  "explanation": "An extended family includes grandparents, uncles, aunts, and cousins living together.",
+  "hint": "It has many relatives.",
   "image": null,
   "id": "P214020907b",
   "type": "true_false",
   "options": null,
-  "question": "One type of family. is nuclear family. True or False?",
+  "question": "One type of family is extended family. True or False?",
   "answer": "True"
  },
  {
@@ -32215,7 +32045,7 @@
    "father",
    "pot",
    "food",
-   "grandmother"
+   "car"
   ]
  },
  {
@@ -32230,7 +32060,7 @@
   "id": "P214020908b",
   "type": "true_false",
   "options": null,
-  "question": "Give two members of a family? food. True or False?",
+  "question": "Food is a member of the family. True or False?",
   "answer": "False"
  },
  {
@@ -32247,10 +32077,10 @@
   "type": "multiple_choice",
   "answer": "mother",
   "options": [
-   "child",
+   "mother",
    "towel",
    "water",
-   "mother"
+   "car"
   ]
  },
  {
@@ -32265,7 +32095,7 @@
   "id": "P214020909b",
   "type": "true_false",
   "options": null,
-  "question": "Give another member of a family? mother. True or False?",
+  "question": "A mother is a member of the family. True or False?",
   "answer": "True"
  },
  {
@@ -32300,8 +32130,8 @@
   "id": "P214020910b",
   "type": "true_false",
   "options": null,
-  "question": "Who breast feeds babies in a family? plate. True or False?",
-  "answer": "False"
+  "question": "The mother breast feeds babies in a family. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -32405,7 +32235,7 @@
   "id": "P214080904b",
   "type": "true_false",
   "options": null,
-  "question": "One two ways of preventing road accidents. is crossing at the zebra crossing. True or False?",
+  "question": "One way of preventing road accidents is crossing at the zebra crossing. True or False?",
   "answer": "True"
  },
  {
@@ -32422,9 +32252,9 @@
   "type": "multiple_choice",
   "answer": "It grows.",
   "options": [
-   "It breathes.",
-   "white ants",
    "It grows.",
+   "white ants",
+   "It makes food.",
    "spread diseases"
   ]
  },
@@ -32434,14 +32264,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "A tree is living because it grows bigger with time.",
+  "explanation": "Trees breathe (respire) as part of their life processes.",
   "hint": "It becomes bigger.",
   "image": null,
   "id": "P214120915b",
   "type": "true_false",
   "options": null,
   "question": "Why is a tree grouped under living things? It breathes. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -32488,14 +32318,14 @@
   "hint": "We eat from them.",
   "image": null,
   "id": "P214110907a",
-  "question": "Name any two uses of trees to people. (i) ____",
+  "question": "Name one use of trees to people.",
   "type": "multiple_choice",
   "answer": "They give us fruits.",
   "options": [
-   "They give us firewood.",
-   "cleaning them after use",
    "They give us fruits.",
-   "They give us food."
+   "cleaning them after use",
+   "They give us stones.",
+   "They give us water."
   ]
  },
  {
@@ -32510,7 +32340,7 @@
   "id": "P214110907b",
   "type": "true_false",
   "options": null,
-  "question": "One two uses of trees to people. is cleaning them after use. True or False?",
+  "question": "One use of trees to people is cleaning them after use. True or False?",
   "answer": "False"
  },
  {
@@ -32529,8 +32359,8 @@
   "options": [
    "They give us firewood.",
    "They protect the feet.",
-   "They give us fruits.",
-   "They give us food."
+   "They give us stones.",
+   "They give us water."
   ]
  },
  {
@@ -32580,7 +32410,7 @@
   "id": "P214020911b",
   "type": "true_false",
   "options": null,
-  "question": "One two basic needs of people. is door. True or False?",
+  "question": "A door is a basic need of people. True or False?",
   "answer": "False"
  },
  {
@@ -32650,7 +32480,7 @@
   "id": "P214020913b",
   "type": "true_false",
   "options": null,
-  "question": "Give two ways people can get basic needs? extended family. True or False?",
+  "question": "Extended family is a way people can get basic needs. True or False?",
   "answer": "False"
  },
  {
@@ -32790,7 +32620,7 @@
   "id": "P214011003b",
   "type": "true_false",
   "options": null,
-  "question": "Name another item we use to clean the school compound? sweeping. True or False?",
+  "question": "Sweeping is an item we use to clean the school compound. True or False?",
   "answer": "False"
  },
  {
@@ -33000,7 +32830,7 @@
   "id": "P214011204b",
   "type": "true_false",
   "options": null,
-  "question": "A rag is used for uniform in the classroom. True or False?",
+  "question": "A rag is used as a uniform in the classroom. True or False?",
   "answer": "False"
  },
  {
@@ -33017,10 +32847,10 @@
   "type": "multiple_choice",
   "answer": "treats sick children",
   "options": [
-   "By washing it.",
-   "By sweeping it.",
+   "washes clothes",
+   "sweeps the floor",
    "treats sick children",
-   "sweeping around them"
+   "teaches classes"
   ]
  },
  {
@@ -33087,10 +32917,10 @@
   "type": "multiple_choice",
   "answer": "sweeping the house",
   "options": [
-   "By washing them.",
-   "Treating sick people.",
-   "By bathing them.",
-   "sweeping the house"
+   "sweeping the house",
+   "driving a car",
+   "paying bills",
+   "going to work"
   ]
  },
  {
@@ -33123,25 +32953,10 @@
   "answer": "washing plates",
   "options": [
    "washing plates",
-   "cleaning them",
-   "extended family",
-   "nuclear family"
+   "fetching water",
+   "sweeping the compound",
+   "helping with cooking"
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Our Home and Community",
-  "difficulty": "easy",
-  "explanation": "Children also help by washing plates after meals.",
-  "hint": "We do it after eating.",
-  "image": null,
-  "id": "P214021002b",
-  "type": "true_false",
-  "options": null,
-  "question": "Write another role of a child at home? cleaning them. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -33157,10 +32972,10 @@
   "type": "multiple_choice",
   "answer": "cooking food",
   "options": [
-   "greeting elders",
-   "By working.",
    "cooking food",
-   "cleaning them"
+   "driving a bus",
+   "building houses",
+   "flying a plane"
   ]
  },
  {
@@ -33192,10 +33007,10 @@
   "type": "multiple_choice",
   "answer": "washing clothes",
   "options": [
-   "By working.",
-   "cooking pot",
-   "washing plates",
-   "washing clothes"
+   "washing clothes",
+   "cleaning the house",
+   "caring for children",
+   "cooking food"
   ]
  },
  {
@@ -33210,7 +33025,7 @@
   "id": "P214021004b",
   "type": "true_false",
   "options": null,
-  "question": "Give another role of a mother at home? cooking pot. True or False?",
+  "question": "One role of a mother at home is a cooking pot. True or False?",
   "answer": "False"
  },
  {
@@ -33262,26 +33077,11 @@
   "type": "multiple_choice",
   "answer": "clothes",
   "options": [
-   "water",
    "clothes",
+   "toys",
    "uncle",
    "father"
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Our Home and Community",
-  "difficulty": "easy",
-  "explanation": "Clothes cover our bodies and keep us warm.",
-  "hint": "We wear them.",
-  "image": null,
-  "id": "P214021102b",
-  "type": "true_false",
-  "options": null,
-  "question": "Name another basic need of man? water. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -33315,7 +33115,7 @@
   "id": "P214021103b",
   "type": "true_false",
   "options": null,
-  "question": "Name a third basic need of man? shelter. True or False?",
+  "question": "Shelter is a basic need of man. True or False?",
   "answer": "True"
  },
  {
@@ -33649,7 +33449,7 @@
   "options": [
    "door",
    "clothes",
-   "plates",
+   "bed",
    "pot"
   ]
  },
@@ -33678,14 +33478,14 @@
   "hint": "It comes in a tube and we put it on a brush.",
   "image": "P214031001img.jpg",
   "id": "P214031001a",
-  "question": "Name one item used to clean our bodies: ____.",
+  "question": "Name one item used to clean our teeth: ____.",
   "type": "multiple_choice",
   "answer": "toothpaste",
   "options": [
    "cholera",
    "nose",
    "toothpaste",
-   "water"
+   "stone"
   ]
  },
  {
@@ -33694,7 +33494,7 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "We use toothpaste with a brush to clean our teeth.",
+  "explanation": "The nose is used for breathing and smelling, not for cleaning our bodies.",
   "hint": "It comes in a tube and we put it on a brush.",
   "image": "P214031001img.jpg",
   "id": "P214031001b",
@@ -33822,10 +33622,10 @@
   "type": "multiple_choice",
   "answer": "brushing our teeth",
   "options": [
-   "To prevent diseases.",
    "brushing our teeth",
-   "to remove germs",
-   "in the mouth"
+   "washing hands",
+   "eating healthy food",
+   "exercising regularly"
   ]
  },
  {
@@ -33840,8 +33640,8 @@
   "id": "P214031005b",
   "type": "true_false",
   "options": null,
-  "question": "Give another way of caring for our bodies? to remove germs. True or False?",
-  "answer": "False"
+  "question": "To remove germs is a way of caring for our bodies. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -33858,9 +33658,9 @@
   "answer": "sleeping under mosquito nets",
   "options": [
    "sleeping under mosquito nets",
-   "Keeping our homes clean.",
-   "To remove food remains.",
-   "protects us from diseases"
+   "using insect repellent",
+   "draining stagnant water",
+   "wearing long sleeves"
   ]
  },
  {
@@ -33892,10 +33692,10 @@
   "type": "multiple_choice",
   "answer": "look smart and kill germs",
   "options": [
-   "They are used for hearing.",
-   "for picking up small things",
    "look smart and kill germs",
-   "by keeping the home clean"
+   "remove dirt and stains",
+   "make clothes last longer",
+   "smell fresh"
   ]
  },
  {
@@ -33910,7 +33710,7 @@
   "id": "P214031007b",
   "type": "true_false",
   "options": null,
-  "question": "We wash our clothes to for picking up small things. True or False?",
+  "question": "We wash our clothes to pick up small things. True or False?",
   "answer": "False"
  },
  {
@@ -33927,10 +33727,10 @@
   "type": "multiple_choice",
   "answer": "bathing daily",
   "options": [
-   "Personal hygiene",
    "bathing daily",
-   "tasting food",
-   "slashing bushes"
+   "washing hands regularly",
+   "brushing teeth",
+   "wearing clean clothes"
   ]
  },
  {
@@ -33962,10 +33762,10 @@
   "type": "multiple_choice",
   "answer": "kill germs",
   "options": [
-   "for seeing",
-   "first aider",
-   "Personal hygiene",
-   "kill germs"
+   "kill germs",
+   "prevent diseases",
+   "keep hands clean",
+   "remove dirt"
   ]
  },
  {
@@ -33980,7 +33780,7 @@
   "id": "P214031102b",
   "type": "true_false",
   "options": null,
-  "question": "We wash hands after visiting the toilet to for seeing. True or False?",
+  "question": "We wash hands after visiting the toilet for seeing. True or False?",
   "answer": "False"
  },
  {
@@ -33998,9 +33798,9 @@
   "answer": "protects us from diseases",
   "options": [
    "protects us from diseases",
-   "By giving first aid.",
-   "To remove food remains.",
-   "sleeping under mosquito nets"
+   "prevents the spread of illness",
+   "builds immunity",
+   "keeps us healthy"
   ]
  },
  {
@@ -34032,10 +33832,10 @@
   "type": "multiple_choice",
   "answer": "prevent diseases",
   "options": [
-   "first aider",
-   "slashing bushes",
-   "bathing daily",
-   "prevent diseases"
+   "prevent diseases",
+   "stay healthy",
+   "avoid infections",
+   "feel fresh"
   ]
  },
  {
@@ -34044,7 +33844,7 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "A clean body has no germs, so we do not fall sick easily.",
+  "explanation": "Keeping our bodies clean does not help in slashing bushes; slashing bushes removes mosquito hiding places.",
   "hint": "Clean bodies do not catch diseases easily.",
   "image": null,
   "id": "P214031104b",
@@ -34105,7 +33905,7 @@
    "plaster",
    "eyes",
    "bandage",
-   "ears"
+   "leg"
   ]
  },
  {
@@ -34140,7 +33940,7 @@
    "toothbrush",
    "toothpaste",
    "nose",
-   "eye"
+   "hand"
   ]
  },
  {
@@ -34210,7 +34010,7 @@
    "mouth",
    "hand",
    "toothbrush",
-   "toothpaste"
+   "soap"
   ]
  },
  {
@@ -34569,13 +34369,13 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "We scrub toilets with soap and water to kill germs.",
-  "hint": "We wash with it.",
+  "explanation": "Bleach disinfects toilets and kills germs.",
+  "hint": "It kills germs.",
   "image": null,
   "id": "P214031308b",
   "type": "true_false",
   "options": null,
-  "question": "One material used to clean toilets is soap. True or False?",
+  "question": "One material used to clean toilets is bleach. True or False?",
   "answer": "True"
  },
  {
@@ -34610,7 +34410,7 @@
   "id": "P214031309b",
   "type": "true_false",
   "options": null,
-  "question": "Name another material used to clean toilets? nose. True or False?",
+  "question": "One material used to clean toilets is nose. True or False?",
   "answer": "False"
  },
  {
@@ -34744,7 +34544,7 @@
   "term": "Term 1",
   "unit": "Human Body and Health",
   "difficulty": "easy",
-  "explanation": "Children get a vaccine to protect them from measles.",
+  "explanation": "Hands are not a disease; immunisable diseases include measles, polio, etc.",
   "hint": "It gives a rash on the skin.",
   "image": null,
   "id": "P214031404b",
@@ -35050,7 +34850,7 @@
    "smoking",
    "plate",
    "banana",
-   "beans"
+   "soap"
   ]
  },
  {
@@ -35100,7 +34900,7 @@
   "id": "P214041202b",
   "type": "true_false",
   "options": null,
-  "question": "Before eating food, people to get energy. True or False?",
+  "question": "Before eating food, people wash hands to get energy. True or False?",
   "answer": "False"
  },
  {
@@ -35129,13 +34929,13 @@
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "explanation": "People grow food crops like cassava and beans in the garden.",
-  "hint": "Crops grow there.",
+  "explanation": "People buy food like fruits, vegetables, and meat at the market.",
+  "hint": "You can buy fresh food there.",
   "image": null,
   "id": "P214041203b",
   "type": "true_false",
   "options": null,
-  "question": "One place where people get food is garden. True or False?",
+  "question": "One place where people get food is the market. True or False?",
   "answer": "True"
  },
  {
@@ -35164,14 +34964,14 @@
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "explanation": "A mango is a sweet fruit that grows on a mango tree.",
-  "hint": "It is sweet and yellow.",
+  "explanation": "Mango is a sweet, juicy fruit that grows on a mango tree.",
+  "hint": "It is yellow and sweet.",
   "image": "P214041301img.jpg",
   "id": "P214041301b",
   "type": "true_false",
   "options": null,
-  "question": "One fruit is spoon. True or False?",
-  "answer": "False"
+  "question": "One fruit is mango. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -35224,7 +35024,7 @@
   "options": [
    "Washing hands.",
    "get energy",
-   "to grow",
+   "to play",
    "covering food"
   ]
  },
@@ -35240,7 +35040,7 @@
   "id": "P214041303b",
   "type": "true_false",
   "options": null,
-  "question": "People eat food to covering food. True or False?",
+  "question": "People eat food to cover food. True or False?",
   "answer": "False"
  },
  {
@@ -35363,7 +35163,7 @@
   "answer": "to get energy",
   "options": [
    "It causes malnutrition.",
-   "To stay healthy.",
+   "to get sick",
    "to get energy",
    "wash their hands"
   ]
@@ -35374,14 +35174,14 @@
   "term": "Term 1",
   "unit": "Food and Nutrition",
   "difficulty": "easy",
-  "explanation": "Food gives our bodies the energy to work and play.",
+  "explanation": "Eating food provides nutrients that keep us healthy.",
   "hint": "It makes us strong.",
   "image": null,
   "id": "P214041403b",
   "type": "true_false",
   "options": null,
   "question": "One reason why people eat food is to stay healthy. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -35468,9 +35268,9 @@
   "answer": "plants",
   "options": [
    "plants",
-   "animals",
    "broom",
-   "toilet"
+   "toilet",
+   "stone"
   ]
  },
  {
@@ -35505,7 +35305,7 @@
    "animals",
    "sanitation",
    "broom",
-   "plants"
+   "stone"
   ]
  },
  {
@@ -35520,7 +35320,7 @@
   "id": "P214051004b",
   "type": "true_false",
   "options": null,
-  "question": "Name another living thing in the environment? sanitation. True or False?",
+  "question": "Sanitation is a living thing in the environment. True or False?",
   "answer": "False"
  },
  {
@@ -35695,7 +35495,7 @@
   "id": "P214061002b",
   "type": "true_false",
   "options": null,
-  "question": "Name another thing we make from local material shown in the picture? hat. True or False?",
+  "question": "Another thing we make from local material shown in the picture is a hat. True or False?",
   "answer": "True"
  },
  {
@@ -35765,7 +35565,7 @@
   "id": "P214061102b",
   "type": "true_false",
   "options": null,
-  "question": "Name another item used to make playing materials? clay. True or False?",
+  "question": "Another item used to make playing materials is clay. True or False?",
   "answer": "True"
  },
  {
@@ -35818,7 +35618,7 @@
   "answer": "bricks",
   "options": [
    "bricks",
-   "pot",
+   "cup",
    "shoes",
    "hat"
   ]
@@ -35854,8 +35654,8 @@
   "options": [
    "cups",
    "pots",
-   "clay",
-   "pot"
+   "baskets",
+   "hats"
   ]
  },
  {
@@ -35870,7 +35670,7 @@
   "id": "P214061203b",
   "type": "true_false",
   "options": null,
-  "question": "Name another item made from soil? clay. True or False?",
+  "question": "Clay is an item made from soil. True or False?",
   "answer": "False"
  },
  {
@@ -36010,7 +35810,7 @@
   "id": "P214081002b",
   "type": "true_false",
   "options": null,
-  "question": "We give first aid to people who get accidents to It is safe. True or False?",
+  "question": "We give first aid to people who get accidents because it is safe. True or False?",
   "answer": "False"
  },
  {
@@ -36045,7 +35845,7 @@
   "id": "P214081003b",
   "type": "true_false",
   "options": null,
-  "question": "Give another reason why we give first aid? reduce pain. True or False?",
+  "question": "Another reason why we give first aid is to reduce pain. True or False?",
   "answer": "True"
  },
  {
@@ -36093,11 +35893,11 @@
   "hint": "We stick it on a small cut.",
   "image": null,
   "id": "P214081005a",
-  "question": "Name one item used to give first aid: ____. (b i)",
+  "question": "Name one item used to give first aid: ____.",
   "type": "multiple_choice",
   "answer": "plaster",
   "options": [
-   "bandage",
+   "book",
    "razorblade",
    "water",
    "plaster"
@@ -36109,13 +35909,13 @@
   "term": "Term 2",
   "unit": "Accidents and Safety",
   "difficulty": "easy",
-  "explanation": "A plaster covers a small cut to stop bleeding and keep germs out.",
-  "hint": "We stick it on a small cut.",
+  "explanation": "Antiseptic cream helps prevent infection on cuts and scrapes.",
+  "hint": "It kills germs.",
   "image": null,
   "id": "P214081005b",
   "type": "true_false",
   "options": null,
-  "question": "One item used to give first aid is plaster. True or False?",
+  "question": "One item used to give first aid is antiseptic cream. True or False?",
   "answer": "True"
  },
  {
@@ -36589,7 +36389,7 @@
   "options": [
    "cut",
    "knife",
-   "bandage",
+   "book",
    "plaster"
   ]
  },
@@ -36710,7 +36510,7 @@
   "id": "P214111003b",
   "type": "true_false",
   "options": null,
-  "question": "Write another fruit tree found in the environment? cassava. True or False?",
+  "question": "One fruit tree found in the environment is cassava. True or False?",
   "answer": "False"
  },
  {
@@ -36834,7 +36634,7 @@
   "options": [
    "trowel",
    "panga",
-   "mango",
+   "cassava",
    "pineapple"
   ]
  },
@@ -36850,7 +36650,7 @@
   "id": "P214111102b",
   "type": "true_false",
   "options": null,
-  "question": "Give another plant that gives us juice? panga. True or False?",
+  "question": "Panga is a plant that gives us juice. True or False?",
   "answer": "False"
  },
  {
@@ -37079,8 +36879,8 @@
   "options": [
    "cassava",
    "orange",
-   "pineapple",
-   "mango"
+   "panga",
+   "weeding"
   ]
  },
  {
@@ -37095,7 +36895,7 @@
   "id": "P214111304b",
   "type": "true_false",
   "options": null,
-  "question": "Write another plant that gives us fruits? orange. True or False?",
+  "question": "Orange is a plant that gives us fruits. True or False?",
   "answer": "True"
  },
  {
@@ -37201,7 +37001,7 @@
   "type": "true_false",
   "options": null,
   "question": "A hoe is useful to a farmer for flower. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -37270,7 +37070,7 @@
   "id": "P214111405b",
   "type": "true_false",
   "options": null,
-  "question": "Give another example of a plant that gives us food? roots. True or False?",
+  "question": "Roots are an example of a plant that gives us food. True or False?",
   "answer": "False"
  },
  {
@@ -37334,14 +37134,14 @@
   "term": "Term 1",
   "unit": "Plants",
   "difficulty": "easy",
-  "explanation": "Big plants and trees give shade on hot days.",
+  "explanation": "Plants provide us with food such as fruits, vegetables, and grains.",
   "hint": "We sit under them when hot.",
   "image": null,
   "id": "P214111407b",
   "type": "true_false",
   "options": null,
-  "question": "Give another use of plants? Plants give us food. True or False?",
-  "answer": "False"
+  "question": "Another use of plants is that they give us food. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -37550,8 +37350,8 @@
   "id": "P214121004b",
   "type": "true_false",
   "options": null,
-  "question": "The home of a pig is a six. True or False?",
-  "answer": "False"
+  "question": "The home of a pig is a sty. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -37605,7 +37405,7 @@
    "milk",
    "antenna",
    "cow",
-   "beef"
+   "wool"
   ]
  },
  {
@@ -37614,14 +37414,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Cows are milked every day and the milk is drunk or sold.",
+  "explanation": "Cows provide beef as meat for people to eat.",
   "hint": "It is white and we drink it.",
   "image": null,
   "id": "P214121006b",
   "type": "true_false",
   "options": null,
   "question": "One product people get from cows is beef. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -37673,7 +37473,7 @@
   "answer": "food",
   "options": [
    "calf",
-   "water",
+   "toy",
    "food",
    "thorax"
   ]
@@ -37920,7 +37720,7 @@
    "Bees give us honey.",
    "giving them clean water",
    "They move and breathe.",
-   "By housing them well."
+   "By ignoring them."
   ]
  },
  {
@@ -38244,13 +38044,13 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Some snakes are dangerous because their bite has poison.",
+  "explanation": "Monkeys are not usually considered dangerous animals; they are primates that may bite if provoked but are not classified as dangerous like snakes.",
   "hint": "It slithers and some bite.",
   "image": null,
   "id": "P214121106b",
   "type": "true_false",
   "options": null,
-  "question": "Write another dangerous animal? monkey. True or False?",
+  "question": "A monkey is a dangerous animal. True or False?",
   "answer": "False"
  },
  {
@@ -38303,9 +38103,9 @@
   "answer": "they feed",
   "options": [
    "white ants",
-   "It breathes.",
+   "a rock",
    "they feed",
-   "They move."
+   "a table"
   ]
  },
  {
@@ -38314,14 +38114,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Living things take in food to grow.",
+  "explanation": "Moving and feeding are two different characteristics of living things.",
   "hint": "They eat food.",
   "image": null,
   "id": "P214121108b",
   "type": "true_false",
   "options": null,
-  "question": "Give another characteristic of living things? They move. True or False?",
-  "answer": "False"
+  "question": "Is 'They move' a different characteristic of living things from 'They feed'? True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -38479,7 +38279,7 @@
   "options": [
    "chair",
    "cow",
-   "goat",
+   "lion",
    "kid"
   ]
  },
@@ -38594,7 +38394,7 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "A cow is a living thing because it moves, feeds and grows.",
+  "explanation": "Wings are a body part, not a living thing; living things move, feed, and grow.",
   "hint": "It gives us milk.",
   "image": "P214121201img.jpg",
   "id": "P214121201b",
@@ -38874,13 +38674,13 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "An insect's body has three parts: head, thorax and abdomen.",
-  "hint": "It is at the front.",
+  "explanation": "Insects do not have a trunk; they have a head, thorax, abdomen, legs, wings, and antennae.",
+  "hint": "A trunk is found on elephants.",
   "image": "P214121305img.jpg",
   "id": "P214121305b",
   "type": "true_false",
   "options": null,
-  "question": "One part of the insect shown in the picture is cow. True or False?",
+  "question": "One part of the insect shown in the picture is a trunk. True or False?",
   "answer": "False"
  },
  {
@@ -38909,13 +38709,13 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Wings help the insect fly from place to place.",
-  "hint": "They help it fly.",
+  "explanation": "All insects have three pairs of legs, making six legs in total.",
+  "hint": "Count the legs on an insect.",
   "image": "P214121306img.jpg",
   "id": "P214121306b",
   "type": "true_false",
   "options": null,
-  "question": "Name another part of the insect shown in the picture? wings. True or False?",
+  "question": "Insects have six legs. True or False?",
   "answer": "True"
  },
  {
@@ -38937,21 +38737,6 @@
    "legs",
    "kennel"
   ]
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Animals and Insects",
-  "difficulty": "easy",
-  "explanation": "Insects have six legs for walking.",
-  "hint": "It walks with them.",
-  "image": "P214121307img.jpg",
-  "id": "P214121307b",
-  "type": "true_false",
-  "options": null,
-  "question": "Name a third part of the insect shown in the picture? wings. True or False?",
-  "answer": "False"
  },
  {
   "subject": "Science",
@@ -39049,14 +38834,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "The skin of cows is dried and made into shoes, bags and belts.",
-  "hint": "We wear them on our feet.",
+  "explanation": "Shirts are usually made from cloth, not animal hides.",
+  "hint": "We wear shirts made of fabric.",
   "image": null,
   "id": "P214121310b",
   "type": "true_false",
   "options": null,
-  "question": "One item made from hides and skins is shoes. True or False?",
-  "answer": "True"
+  "question": "One item made from hides and skins is shirts. True or False?",
+  "answer": "False"
  },
  {
   "subject": "Science",
@@ -39293,21 +39078,6 @@
   "grade": "P2",
   "term": "Term 1",
   "unit": "Animals and Insects",
-  "difficulty": "medium",
-  "explanation": "Fish and frogs are aquatic because water is their home.",
-  "hint": "Water is their home.",
-  "image": null,
-  "id": "P214121404b",
-  "type": "true_false",
-  "options": null,
-  "question": "Aquatic animals are animals that Cats kill rats. True or False?",
-  "answer": "False"
- },
- {
-  "subject": "Science",
-  "grade": "P2",
-  "term": "Term 1",
-  "unit": "Animals and Insects",
   "difficulty": "easy",
   "explanation": "A bird picks and eats food with its hard beak.",
   "hint": "It is its hard mouth.",
@@ -39422,10 +39192,10 @@
   "type": "multiple_choice",
   "answer": "look for food",
   "options": [
-   "look for water",
-   "milk and meat",
-   "To get eggs.",
-   "look for food"
+   "look for food",
+   "sleep",
+   "play",
+   "sing"
   ]
  },
  {
@@ -39434,14 +39204,14 @@
   "term": "Term 1",
   "unit": "Animals and Insects",
   "difficulty": "easy",
-  "explanation": "Animals travel to find grass and food to eat.",
+  "explanation": "Animals move to find water as well as food.",
   "hint": "They search for something to eat.",
   "image": null,
   "id": "P214121408b",
   "type": "true_false",
   "options": null,
   "question": "Animals move from one place to another to look for water. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -39667,10 +39437,10 @@
   "type": "multiple_choice",
   "answer": "dries our clothes",
   "options": [
-   "Using an umbrella.",
-   "Wearing a hat.",
-   "It causes drought.",
-   "dries our clothes"
+   "dries our clothes",
+   "makes kites fly",
+   "cools us down",
+   "blows away dust"
   ]
  },
  {
@@ -39721,7 +39491,7 @@
   "type": "true_false",
   "options": null,
   "question": "wind weather helps people to play with a kite. True or False?",
-  "answer": "False"
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -39784,13 +39554,13 @@
   "term": "Term 2",
   "unit": "Weather",
   "difficulty": "easy",
-  "explanation": "Heavy rain can wash away crops and break houses.",
+  "explanation": "The sun is not a danger of too much rainfall; heavy rain causes floods and crop damage.",
   "hint": "It spoils crops in the garden.",
   "image": null,
   "id": "P214131006b",
   "type": "true_false",
   "options": null,
-  "question": "Give another danger of too much rainfall? the sun. True or False?",
+  "question": "The sun is a danger of too much rainfall. True or False?",
   "answer": "False"
  },
  {
@@ -39854,13 +39624,13 @@
   "term": "Term 2",
   "unit": "Weather",
   "difficulty": "easy",
-  "explanation": "In the dry season there is sunshine and little rain.",
+  "explanation": "Windy weather is not a season; seasons are dry and rainy.",
   "hint": "There is sunshine and no rain.",
   "image": null,
   "id": "P214131102b",
   "type": "true_false",
   "options": null,
-  "question": "Write another season of the year? windy weather. True or False?",
+  "question": "Windy weather is a season of the year. True or False?",
   "answer": "False"
  },
  {
@@ -39915,7 +39685,7 @@
    "rainy",
    "rain",
    "light",
-   "sunshine"
+   "wind"
   ]
  },
  {
@@ -39984,7 +39754,7 @@
   "options": [
    "drought",
    "umbrella",
-   "sunshine",
+   "cloudy",
    "sunny"
   ]
  },
@@ -39994,13 +39764,13 @@
   "term": "Term 2",
   "unit": "Weather",
   "difficulty": "easy",
-  "explanation": "When the sun shines brightly, the weather is sunny.",
+  "explanation": "The picture shows sunny weather, so drought is not shown.",
   "hint": "The sun shines brightly.",
   "image": "P214131303img.jpg",
   "id": "P214131303b",
   "type": "true_false",
   "options": null,
-  "question": "Name another type of weather shown in the picture? drought. True or False?",
+  "question": "Is drought a type of weather shown in the picture? True or False?",
   "answer": "False"
  },
  {
@@ -40122,8 +39892,8 @@
   "type": "multiple_choice",
   "answer": "drinking",
   "options": [
-   "washing",
    "drinking",
+   "sleeping",
    "jerrycan",
    "rivers"
   ]
@@ -40134,14 +39904,14 @@
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "explanation": "People drink water every day to stay alive and healthy.",
-  "hint": "We take it into our bodies every day.",
+  "explanation": "People drink water every day to stay hydrated and healthy.",
+  "hint": "We need it every day.",
   "image": null,
   "id": "P214141001b",
   "type": "true_false",
   "options": null,
-  "question": "One use of water to people is washing. True or False?",
-  "answer": "False"
+  "question": "One use of water to people is drinking. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -40157,10 +39927,10 @@
   "type": "multiple_choice",
   "answer": "a well",
   "options": [
-   "rain",
-   "To kill germs.",
    "a well",
-   "borehole"
+   "soap",
+   "basket",
+   "fire"
   ]
  },
  {
@@ -40204,14 +39974,14 @@
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "explanation": "People drink water to live.",
-  "hint": "We take it into our bodies.",
+  "explanation": "We use water to cook food such as boiling rice or making soup.",
+  "hint": "Food is cooked with water.",
   "image": null,
   "id": "P214141201b",
   "type": "true_false",
   "options": null,
-  "question": "One use of water to people is rivers. True or False?",
-  "answer": "False"
+  "question": "One use of water to people is cooking. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",
@@ -40229,7 +39999,7 @@
   "options": [
    "rivers",
    "cooking",
-   "drinking",
+   "sleeping",
    "rain"
   ]
  },
@@ -40262,7 +40032,7 @@
   "type": "multiple_choice",
   "answer": "drinking",
   "options": [
-   "cooking",
+   "swimming",
    "boiling",
    "drinking",
    "borehole"
@@ -40274,14 +40044,14 @@
   "term": "Term 2",
   "unit": "Water",
   "difficulty": "easy",
-  "explanation": "We must drink water every day to stay alive.",
-  "hint": "We take it into our bodies.",
+  "explanation": "Water is used to boil or cook food such as rice and vegetables.",
+  "hint": "We put food in hot water.",
   "image": null,
   "id": "P214141301b",
   "type": "true_false",
   "options": null,
-  "question": "One use of water to people is boiling. True or False?",
-  "answer": "False"
+  "question": "Water is used for cooking food. True or False?",
+  "answer": "True"
  },
  {
   "subject": "Science",

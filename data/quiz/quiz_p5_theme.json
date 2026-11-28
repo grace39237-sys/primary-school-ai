@@ -1952,8 +1952,8 @@
   "options": [
    "Luganda",
    "region",
-   "English",
-   "district"
+   "district",
+   "country"
   ],
   "explanation": "The word is 'Luganda': Many people speak Luganda.",
   "hint": "It starts with 'L'.",

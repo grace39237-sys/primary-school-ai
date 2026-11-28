@@ -1361,7 +1361,7 @@
  },
  {
   "id": "TH6215008",
-  "question": "**___** panels change sunlight into electricity.",
+  "question": "___ panels change sunlight into electricity.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -1401,7 +1401,7 @@
  },
  {
   "id": "TH6215010",
-  "question": "The village **___** bans cutting trees in the **forest**.",
+  "question": "The village ___ bans cutting trees in the forest.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -1481,7 +1481,7 @@
  },
  {
   "id": "TH6215014",
-  "question": "Katonga **___** protects wetland animals.",
+  "question": "Katonga ___ protects wetland animals.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -1541,7 +1541,7 @@
  },
  {
   "id": "TH6215017",
-  "question": "Plastic **___** blocks drains and pollutes lakes.",
+  "question": "Plastic ___ blocks drains and pollutes lakes.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -1600,7 +1600,7 @@
   "image": null
  },
  {
-  "id": "TH6270000",
+  "id": "TH6270000b",
   "question": "What does 'midwife' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1620,7 +1620,7 @@
   "image": null
  },
  {
-  "id": "TH6270001",
+  "id": "TH6270001b",
   "question": "Which word means 'person who prepares and sells meat'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1640,7 +1640,7 @@
   "image": null
  },
  {
-  "id": "TH6270002",
+  "id": "TH6270002b",
   "question": "What does 'electrician' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1660,7 +1660,7 @@
   "image": null
  },
  {
-  "id": "TH6270003",
+  "id": "TH6270003b",
   "question": "Biology is my favourite ___ because I like living things.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1680,7 +1680,7 @@
   "image": null
  },
  {
-  "id": "TH6270004",
+  "id": "TH6270004b",
   "question": "The ___ keeps cows and goats for milk.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1700,7 +1700,7 @@
   "image": null
  },
  {
-  "id": "TH6270005",
+  "id": "TH6270005b",
   "question": "What does 'fish farmer' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1720,7 +1720,7 @@
   "image": null
  },
  {
-  "id": "TH6270006",
+  "id": "TH6270006b",
   "question": "Selling matooke gives the farmer ___ for school fees.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1740,7 +1740,7 @@
   "image": null
  },
  {
-  "id": "TH6270007",
+  "id": "TH6270007b",
   "question": "The ___ feeds tilapia in the pond every morning.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1760,7 +1760,7 @@
   "image": null
  },
  {
-  "id": "TH6270008",
+  "id": "TH6270008b",
   "question": "The ___ checks the beehives near the mango tree.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1780,7 +1780,7 @@
   "image": null
  },
  {
-  "id": "TH6270009",
+  "id": "TH6270009b",
   "question": "Which word means 'person who tests body fluids to find disease'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1800,7 +1800,7 @@
   "image": null
  },
  {
-  "id": "TH6270010",
+  "id": "TH6270010b",
   "question": "Which word means 'person who raises fish in ponds'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1820,7 +1820,7 @@
   "image": null
  },
  {
-  "id": "TH6270011",
+  "id": "TH6270011b",
   "question": "Which word means 'topic studied in school like science or maths'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1840,7 +1840,7 @@
   "image": null
  },
  {
-  "id": "TH6270012",
+  "id": "TH6270012b",
   "question": "The ___ operates the maize mill at the trading centre.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1860,7 +1860,7 @@
   "image": null
  },
  {
-  "id": "TH6270013",
+  "id": "TH6270013b",
   "question": "The fruit ___ makes mango juice for sale.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1880,7 +1880,7 @@
   "image": null
  },
  {
-  "id": "TH6270014",
+  "id": "TH6270014b",
   "question": "Which word means 'health worker who helps mothers give birth'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1900,7 +1900,7 @@
   "image": null
  },
  {
-  "id": "TH6270015",
+  "id": "TH6270015b",
   "question": "What does 'crop farmer' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1920,7 +1920,7 @@
   "image": null
  },
  {
-  "id": "TH6270016",
+  "id": "TH6270016b",
   "question": "What does 'salary' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1940,7 +1940,7 @@
   "image": null
  },
  {
-  "id": "TH6270017",
+  "id": "TH6270017b",
   "question": "What does 'nurse' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1960,7 +1960,7 @@
   "image": null
  },
  {
-  "id": "TH6270018",
+  "id": "TH6270018b",
   "question": "Which word means 'person who raises animals for food or sale'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1980,7 +1980,7 @@
   "image": null
  },
  {
-  "id": "TH6270019",
+  "id": "TH6270019b",
   "question": "What does 'mason' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2841,7 +2841,7 @@
  },
  {
   "id": "TH6330002",
-  "question": "We put kitchen scraps in the **___**.",
+  "question": "We put kitchen scraps in the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -2855,13 +2855,13 @@
    "germs",
    "fermentation"
   ],
-  "explanation": "The word is 'compost pit': We put kitchen scraps in the **compost pit**.",
+  "explanation": "The word is 'compost pit': We put kitchen scraps in the compost pit.",
   "hint": "It starts with 'C'.",
   "image": null
  },
  {
   "id": "TH6330003",
-  "question": "Grandmother adds **___** to the garden.",
+  "question": "Grandmother adds ___ to the garden.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -2875,7 +2875,7 @@
    "fermentation",
    "filtering"
   ],
-  "explanation": "The word is 'compost': Grandmother adds **compost** to the garden.",
+  "explanation": "The word is 'compost': Grandmother adds compost to the garden.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -3041,7 +3041,7 @@
  },
  {
   "id": "TH6330012",
-  "question": "Proper pipes stop **___** from polluting the river.",
+  "question": "Proper pipes stop ___ from polluting the river.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -3055,7 +3055,7 @@
    "mixture",
    "storage"
   ],
-  "explanation": "The word is 'sewage': Proper pipes stop **sewage** from polluting the river.",
+  "explanation": "The word is 'sewage': Proper pipes stop sewage from polluting the river.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -4001,7 +4001,7 @@
  },
  {
   "id": "TH6385000",
-  "question": "Amina uses the **___** every morning.",
+  "question": "Amina uses the ___ every morning.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4015,7 +4015,7 @@
    "latrine",
    "kitchen"
   ],
-  "explanation": "The word is 'bathroom': Amina uses the **bathroom** every morning.",
+  "explanation": "The word is 'bathroom': Amina uses the bathroom every morning.",
   "hint": "It starts with 'B'.",
   "image": null
  },
@@ -4061,7 +4061,7 @@
  },
  {
   "id": "TH6385003",
-  "question": "**___** paper and dry leaves in the **rubbish pit** reduces volume.",
+  "question": "___ paper and dry leaves in the rubbish pit reduces volume.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4075,7 +4075,7 @@
    "superstructure",
    "ecosan"
   ],
-  "explanation": "The word is 'burning': **Burning** paper and dry leaves in the **rubbish pit** reduces volume.",
+  "explanation": "The word is 'burning': Burning paper and dry leaves in the rubbish pit reduces volume.",
   "hint": "It starts with 'B'.",
   "image": null
  },
@@ -4101,7 +4101,7 @@
  },
  {
   "id": "TH6385005",
-  "question": "We **___** over the drop hole in a **pit latrine**.",
+  "question": "We ___ over the drop hole in a pit latrine.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4115,7 +4115,7 @@
    "contamination",
    "cholera"
   ],
-  "explanation": "The word is 'squat': We **squat** over the drop hole in a **pit latrine**.",
+  "explanation": "The word is 'squat': We squat over the drop hole in a pit latrine.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -4161,7 +4161,7 @@
  },
  {
   "id": "TH6385008",
-  "question": "The **___** of our **latrine** is made of bricks and iron sheets.",
+  "question": "The ___ of our latrine is made of bricks and iron sheets.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4175,13 +4175,13 @@
    "compound",
    "typhoid"
   ],
-  "explanation": "The word is 'superstructure': The **superstructure** of our **latrine** is made of bricks and iron sheets.",
+  "explanation": "The word is 'superstructure': The superstructure of our latrine is made of bricks and iron sheets.",
   "hint": "It starts with 'S'.",
   "image": null
  },
  {
   "id": "TH6385009",
-  "question": "We practise **___** for small amounts of waste.",
+  "question": "We practise ___ for small amounts of waste.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4195,13 +4195,13 @@
    "squat",
    "faecal-oral"
   ],
-  "explanation": "The word is 'burying': We practise **burying** for small amounts of waste.",
+  "explanation": "The word is 'burying': We practise burying for small amounts of waste.",
   "hint": "It starts with 'B'.",
   "image": null
  },
  {
   "id": "TH6385010",
-  "question": "The town **___** system needs regular maintenance.",
+  "question": "The town ___ system needs regular maintenance.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4215,7 +4215,7 @@
    "scabies",
    "leach pit"
   ],
-  "explanation": "The word is 'sewage': The town **sewage** system needs regular maintenance.",
+  "explanation": "The word is 'sewage': The town sewage system needs regular maintenance.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -4321,7 +4321,7 @@
  },
  {
   "id": "TH6385016",
-  "question": "**___** makes you very weak and dehydrated.",
+  "question": "___ makes you very weak and dehydrated.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4335,13 +4335,13 @@
    "kitchen",
    "compound"
   ],
-  "explanation": "The word is 'dysentery': **Dysentery** makes you very weak and dehydrated.",
+  "explanation": "The word is 'dysentery': Dysentery makes you very weak and dehydrated.",
   "hint": "It starts with 'D'.",
   "image": null
  },
  {
   "id": "TH6385017",
-  "question": "The **___** must be free from rubbish.",
+  "question": "The ___ must be free from rubbish.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4355,7 +4355,7 @@
    "vent pipe",
    "utensil"
   ],
-  "explanation": "The word is 'kitchen': The **kitchen** must be free from rubbish.",
+  "explanation": "The word is 'kitchen': The kitchen must be free from rubbish.",
   "hint": "It starts with 'K'.",
   "image": null
  },
@@ -4821,7 +4821,7 @@
  },
  {
   "id": "TH6359001",
-  "question": "The **___** bans selling alcohol to children.",
+  "question": "The ___ bans selling alcohol to children.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -4835,7 +4835,7 @@
    "cirrhosis",
    "addiction"
   ],
-  "explanation": "The word is 'law': The **law** bans selling alcohol to children.",
+  "explanation": "The word is 'law': The law bans selling alcohol to children.",
   "hint": "It starts with 'L'.",
   "image": null
  },
@@ -5621,7 +5621,7 @@
  },
  {
   "id": "TH6301001",
-  "question": "The **___** lifts during **inhalation**.",
+  "question": "The ___ lifts during inhalation.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -5635,7 +5635,7 @@
    "trachea",
    "bronchitis"
   ],
-  "explanation": "The word is 'rib cage': The **rib cage** lifts during **inhalation**.",
+  "explanation": "The word is 'rib cage': The rib cage lifts during inhalation.",
   "hint": "It starts with 'R'.",
   "image": null
  },
@@ -6401,7 +6401,7 @@
  },
  {
   "id": "TH6374000",
-  "question": "The **___** gives the beat at the village dance.",
+  "question": "The ___ gives the beat at the village dance.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P6",
@@ -6415,7 +6415,7 @@
    "percussion",
    "tube fiddle"
   ],
-  "explanation": "The word is 'drum': The **drum** gives the beat at the village dance.",
+  "explanation": "The word is 'drum': The drum gives the beat at the village dance.",
   "hint": "It starts with 'D'.",
   "image": null
  },

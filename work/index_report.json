@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-11-25T08:57:20.091Z",
-  "totalChunks": 67151,
-  "quiz": 44114,
+  "builtAt": "2026-11-28T06:30:52.908Z",
+  "totalChunks": 66233,
+  "quiz": 43196,
   "quizNoExplanation": 0,
   "classWords": 1677,
   "lessons": 1012,
@@ -10,9 +10,9 @@
   "dl": 6300,
   "dlFailed": 0,
   "limitedRun": false,
-  "seconds": 1903.1,
+  "seconds": 2904.5,
   "byKind": {
-    "quiz": 44114,
+    "quiz": 43196,
     "word": 1677,
     "lesson": 1012,
     "lesson-qa": 7030,
@@ -20,11 +20,11 @@
     "dl": 6300
   },
   "bySubject": {
-    "English": 11332,
-    "Math": 9038,
-    "Science": 24113,
-    "Social": 9951,
-    "Theme": 6000,
+    "English": 11062,
+    "Math": 9027,
+    "Science": 24008,
+    "Social": 9421,
+    "Theme": 5998,
     "Vocabulary": 1677,
     "Mathematics": 1260,
     "Literacy I": 540,
@@ -35,12 +35,12 @@
     "Christian Religious Education": 720
   },
   "byGrade": {
-    "P1": 6678,
-    "P2": 8892,
-    "P3": 10206,
-    "P4": 8879,
-    "P5": 9282,
-    "P6": 10081,
-    "P7": 13133
+    "P1": 6568,
+    "P2": 8790,
+    "P3": 10042,
+    "P4": 8785,
+    "P5": 9086,
+    "P6": 9857,
+    "P7": 13105
   }
 }

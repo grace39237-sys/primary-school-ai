@@ -11,9 +11,9 @@
   "answer": "playground",
   "options": [
    "playground",
-   "askari",
-   "friend",
-   "pupil"
+   "field",
+   "park",
+   "yard"
   ],
   "explanation": "open area for play — that is 'playground'.",
   "hint": "It starts with 'P'.",
@@ -1752,7 +1752,7 @@
   "options": [
    "cold",
    "day",
-   "hot",
+   "wind",
    "wet"
   ],
   "explanation": "The word is 'cold': The air feels **cold**.",
@@ -1781,7 +1781,7 @@
  },
  {
   "id": "TH1229009",
-  "question": "The ground is **___**.",
+  "question": "The ground is ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -1791,11 +1791,11 @@
   "answer": "wet",
   "options": [
    "wet",
-   "hot",
+   "rock",
    "tree",
    "umbrella"
   ],
-  "explanation": "The word is 'wet': The ground is **wet**.",
+  "explanation": "The word is 'wet': The ground is wet.",
   "hint": "It starts with 'W'.",
   "image": null
  },
@@ -2081,7 +2081,7 @@
  },
  {
   "id": "TH1210004",
-  "question": "She does not want to ___.",
+  "question": "She does not want to ___ anyone.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -4681,7 +4681,7 @@
  },
  {
   "id": "TH1379014",
-  "question": "We are **___** **together**.",
+  "question": "We are ___ together.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -4695,7 +4695,7 @@
    "guard",
    "police"
   ],
-  "explanation": "The word is 'happy': We are **happy** **together**.",
+  "explanation": "The word is 'happy': We are happy together.",
   "hint": "It starts with 'H'.",
   "image": null
  },

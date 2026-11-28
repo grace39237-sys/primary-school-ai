@@ -381,7 +381,7 @@
  },
  {
   "id": "TH7108019",
-  "question": "She will ___ for the trip.",
+  "question": "She will ___ money for the trip.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -395,7 +395,7 @@
    "early",
    "prepare"
   ],
-  "explanation": "The word is 'save': She will save for the trip.",
+  "explanation": "The word is 'save': She will save money for the trip.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2021,7 +2021,7 @@
  },
  {
   "id": "TH7311001",
-  "question": "The **___** blew off the roof of the classroom.",
+  "question": "The ___ blew off the roof of the classroom.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2035,7 +2035,7 @@
    "as well as",
    "had to"
   ],
-  "explanation": "The word is 'storms': The **storms** blew off the roof of the classroom.",
+  "explanation": "The word is 'storms': The storms blew off the roof of the classroom.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2061,7 +2061,7 @@
  },
  {
   "id": "TH7311003",
-  "question": "Grandmother puts cow **___** in her garden.",
+  "question": "Grandmother puts cow ___ in her garden.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2075,13 +2075,13 @@
    "waste basket",
    "source"
   ],
-  "explanation": "The word is 'manure': Grandmother puts cow **manure** in her garden.",
+  "explanation": "The word is 'manure': Grandmother puts cow manure in her garden.",
   "hint": "It starts with 'M'.",
   "image": null
  },
  {
   "id": "TH7311004",
-  "question": "Throw the paper in the **___**.",
+  "question": "Throw the paper in the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2095,7 +2095,7 @@
    "raw materials",
    "habitat"
   ],
-  "explanation": "The word is 'waste basket': Throw the paper in the **waste basket**.",
+  "explanation": "The word is 'waste basket': Throw the paper in the waste basket.",
   "hint": "It starts with 'W'.",
   "image": null
  },
@@ -2181,7 +2181,7 @@
  },
  {
   "id": "TH7311009",
-  "question": "The park **___** has antelopes, monkeys and birds.",
+  "question": "The park ___ has antelopes, monkeys and birds.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2195,7 +2195,7 @@
    "mulching",
    "overgrazing"
   ],
-  "explanation": "The word is 'fauna': The park **fauna** has antelopes, monkeys and birds.",
+  "explanation": "The word is 'fauna': The park fauna has antelopes, monkeys and birds.",
   "hint": "It starts with 'F'.",
   "image": null
  },

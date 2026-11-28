@@ -401,7 +401,7 @@
  },
  {
   "id": "TH3105000",
-  "question": "The market is ___ of the school.",
+  "question": "According to the map, the market is ___ of the school.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -521,7 +521,7 @@
  },
  {
   "id": "TH3105006",
-  "question": "The school faces ___.",
+  "question": "According to the map, the school faces ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1241,7 +1241,7 @@
  },
  {
   "id": "TH3190002",
-  "question": "The mango **___** gives shade.",
+  "question": "The mango ___ gives shade.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1255,7 +1255,7 @@
    "human activities",
    "natural"
   ],
-  "explanation": "The word is 'tree': The mango **tree** gives shade.",
+  "explanation": "The word is 'tree': The mango tree gives shade.",
   "hint": "It starts with 'T'.",
   "image": null
  },
@@ -1281,7 +1281,7 @@
  },
  {
   "id": "TH3190004",
-  "question": "Maize is a **___**.",
+  "question": "Maize is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1295,13 +1295,13 @@
    "change",
    "observation"
   ],
-  "explanation": "The word is 'plant': Maize is a **plant**.",
+  "explanation": "The word is 'plant': Maize is a plant.",
   "hint": "It starts with 'P'.",
   "image": null
  },
  {
   "id": "TH3190005",
-  "question": "A **___** compound has no **rubbish**.",
+  "question": "A ___ compound has no rubbish.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1315,7 +1315,7 @@
    "natural",
    "human"
   ],
-  "explanation": "The word is 'clean': A **clean** compound has no **rubbish**.",
+  "explanation": "The word is 'clean': A clean compound has no rubbish.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -1341,7 +1341,7 @@
  },
  {
   "id": "TH3190007",
-  "question": "We **___** the spring by planting grass.",
+  "question": "We ___ the spring by planting grass.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1355,13 +1355,13 @@
    "event",
    "tree"
   ],
-  "explanation": "The word is 'protect': We **protect** the spring by planting grass.",
+  "explanation": "The word is 'protect': We protect the spring by planting grass.",
   "hint": "It starts with 'P'.",
   "image": null
  },
  {
   "id": "TH3190008",
-  "question": "Cutting trees is the **___** of soil loss.",
+  "question": "Cutting trees is the ___ of soil loss.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1375,7 +1375,7 @@
    "plant",
    "tree"
   ],
-  "explanation": "The word is 'cause': Cutting trees is the **cause** of soil loss.",
+  "explanation": "The word is 'cause': Cutting trees is the cause of soil loss.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -1401,7 +1401,7 @@
  },
  {
   "id": "TH3190010",
-  "question": "The storm was a big **___**.",
+  "question": "The storm was a big ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1415,7 +1415,7 @@
    "protect",
    "plant"
   ],
-  "explanation": "The word is 'event': The storm was a big **event**.",
+  "explanation": "The word is 'event': The storm was a big event.",
   "hint": "It starts with 'E'.",
   "image": null
  },
@@ -1461,7 +1461,7 @@
  },
  {
   "id": "TH3190013",
-  "question": "Rain brings **___** to the garden.",
+  "question": "Rain brings ___ to the garden.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1475,7 +1475,7 @@
    "safe",
    "event"
   ],
-  "explanation": "The word is 'change': Rain brings **change** to the garden.",
+  "explanation": "The word is 'change': Rain brings change to the garden.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -1501,7 +1501,7 @@
  },
  {
   "id": "TH3190015",
-  "question": "A goat is an **___**.",
+  "question": "A goat is an ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1515,7 +1515,7 @@
    "protect",
    "clean"
   ],
-  "explanation": "The word is 'animal': A goat is an **animal**.",
+  "explanation": "The word is 'animal': A goat is an animal.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -4000,7 +4000,7 @@
   "image": null
  },
  {
-  "id": "TH3314000",
+  "id": "TH3314000b",
   "question": "Read ___ on soap boxes.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4020,7 +4020,7 @@
   "image": null
  },
  {
-  "id": "TH3314001",
+  "id": "TH3314001b",
   "question": "Which word means 'fever disease from mosquitoes'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4040,7 +4040,7 @@
   "image": null
  },
  {
-  "id": "TH3314002",
+  "id": "TH3314002b",
   "question": "Which word means 'putting food in the mouth'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4060,7 +4060,7 @@
   "image": null
  },
  {
-  "id": "TH3314003",
+  "id": "TH3314003b",
   "question": "What does 'wash' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4080,7 +4080,7 @@
   "image": null
  },
  {
-  "id": "TH3314004",
+  "id": "TH3314004b",
   "question": "Morning ___ include bathing and brushing.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4100,7 +4100,7 @@
   "image": null
  },
  {
-  "id": "TH3314005",
+  "id": "TH3314005b",
   "question": "Children need eight hours of ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4120,7 +4120,7 @@
   "image": null
  },
  {
-  "id": "TH3314006",
+  "id": "TH3314006b",
   "question": "Mosquitoes are ___ for malaria.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4140,7 +4140,7 @@
   "image": null
  },
  {
-  "id": "TH3314007",
+  "id": "TH3314007b",
   "question": "Which word means 'free from dirt'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4160,7 +4160,7 @@
   "image": null
  },
  {
-  "id": "TH3314008",
+  "id": "TH3314008b",
   "question": "___ comes after HIV if not treated.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4180,7 +4180,7 @@
   "image": null
  },
  {
-  "id": "TH3314009",
+  "id": "TH3314009b",
   "question": "What does 'prevention' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4200,7 +4200,7 @@
   "image": null
  },
  {
-  "id": "TH3314010",
+  "id": "TH3314010b",
   "question": "What does 'ablutions' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4220,7 +4220,7 @@
   "image": null
  },
  {
-  "id": "TH3314011",
+  "id": "TH3314011b",
   "question": "Which word means 'daily cleaning acts'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4240,7 +4240,7 @@
   "image": null
  },
  {
-  "id": "TH3314012",
+  "id": "TH3314012b",
   "question": "Keep your clothes ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4260,7 +4260,7 @@
   "image": null
  },
  {
-  "id": "TH3314013",
+  "id": "TH3314013b",
   "question": "What does 'diseases' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4280,7 +4280,7 @@
   "image": null
  },
  {
-  "id": "TH3314014",
+  "id": "TH3314014b",
   "question": "Which word means 'rest with eyes closed'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4300,7 +4300,7 @@
   "image": null
  },
  {
-  "id": "TH3314015",
+  "id": "TH3314015b",
   "question": "What does 'routine' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4320,7 +4320,7 @@
   "image": null
  },
  {
-  "id": "TH3314016",
+  "id": "TH3314016b",
   "question": "What does 'aids' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4340,7 +4340,7 @@
   "image": null
  },
  {
-  "id": "TH3314017",
+  "id": "TH3314017b",
   "question": "What does 'clean' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4360,7 +4360,7 @@
   "image": null
  },
  {
-  "id": "TH3314018",
+  "id": "TH3314018b",
   "question": "___ spreads through blood, not food.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4380,7 +4380,7 @@
   "image": null
  },
  {
-  "id": "TH3314019",
+  "id": "TH3314019b",
   "question": "Which word means 'stopping something before it happens'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4821,7 +4821,7 @@
  },
  {
   "id": "TH3375001",
-  "question": "**___** power comes from the **sun**.",
+  "question": "___ power comes from the sun.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4835,7 +4835,7 @@
    "saving",
    "heat"
   ],
-  "explanation": "The word is 'solar': **Solar** power comes from the **sun**.",
+  "explanation": "The word is 'solar': Solar power comes from the sun.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -4921,7 +4921,7 @@
  },
  {
   "id": "TH3375006",
-  "question": "We feel **___** from the cooking fire.",
+  "question": "We feel ___ from the cooking fire.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4935,7 +4935,7 @@
    "power",
    "sun"
   ],
-  "explanation": "The word is 'heat': We feel **heat** from the cooking fire.",
+  "explanation": "The word is 'heat': We feel heat from the cooking fire.",
   "hint": "It starts with 'H'.",
   "image": null
  },

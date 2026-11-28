@@ -441,7 +441,7 @@
  },
  {
   "id": "TH3125002",
-  "question": "The **___** grows fast for timber.",
+  "question": "The ___ grows fast for timber.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -455,13 +455,13 @@
    "crop",
    "mango"
   ],
-  "explanation": "The word is 'eucalyptus': The **eucalyptus** grows fast for timber.",
+  "explanation": "The word is 'eucalyptus': The eucalyptus grows fast for timber.",
   "hint": "It starts with 'E'.",
   "image": null
  },
  {
   "id": "TH3125003",
-  "question": "The **___** has green grass after rain.",
+  "question": "The ___ has green grass after rain.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -475,13 +475,13 @@
    "snake",
    "hill"
   ],
-  "explanation": "The word is 'valley': The **valley** has green grass after rain.",
+  "explanation": "The word is 'valley': The valley has green grass after rain.",
   "hint": "It starts with 'V'.",
   "image": null
  },
  {
   "id": "TH3125004",
-  "question": "The **___** croaks near the pond.",
+  "question": "The ___ croaks near the pond.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -495,13 +495,13 @@
    "snake",
    "lizard"
   ],
-  "explanation": "The word is 'frog': The **frog** croaks near the pond.",
+  "explanation": "The word is 'frog': The frog croaks near the pond.",
   "hint": "It starts with 'F'.",
   "image": null
  },
  {
   "id": "TH3125005",
-  "question": "The **___** monkey eats mangoes.",
+  "question": "The ___ monkey eats mangoes.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -515,13 +515,13 @@
    "crop",
    "lizard"
   ],
-  "explanation": "The word is 'wild': The **wild** monkey eats mangoes.",
+  "explanation": "The word is 'wild': The wild monkey eats mangoes.",
   "hint": "It starts with 'W'.",
   "image": null
  },
  {
   "id": "TH3125006",
-  "question": "The **___** gives us palm wine.",
+  "question": "The ___ gives us palm wine.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -535,7 +535,7 @@
    "swamp",
    "mango"
   ],
-  "explanation": "The word is 'palm': The **palm** gives us palm wine.",
+  "explanation": "The word is 'palm': The palm gives us palm wine.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -561,7 +561,7 @@
  },
  {
   "id": "TH3125008",
-  "question": "We climb the **___** to see the view.",
+  "question": "We climb the ___ to see the view.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -575,13 +575,13 @@
    "lizard",
    "snake"
   ],
-  "explanation": "The word is 'hill': We climb the **hill** to see the view.",
+  "explanation": "The word is 'hill': We climb the hill to see the view.",
   "hint": "It starts with 'H'.",
   "image": null
  },
  {
   "id": "TH3125009",
-  "question": "A **___** sings in the mango tree.",
+  "question": "A ___ sings in the mango tree.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -595,7 +595,7 @@
    "river",
    "valley"
   ],
-  "explanation": "The word is 'bird': A **bird** sings in the mango tree.",
+  "explanation": "The word is 'bird': A bird sings in the mango tree.",
   "hint": "It starts with 'B'.",
   "image": null
  },
@@ -740,7 +740,7 @@
   "image": null
  },
  {
-  "id": "TH3125017",
+  "id": "TH3125017b",
   "question": "The **___** gives us water for home.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1581,7 +1581,7 @@
  },
  {
   "id": "TH3159019",
-  "question": "The **___** from the kitchen makes eyes sting.",
+  "question": "The ___ from the kitchen makes eyes sting.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -1595,7 +1595,7 @@
    "litter",
    "recycle"
   ],
-  "explanation": "The word is 'smoke': The **smoke** from the kitchen makes eyes sting.",
+  "explanation": "The word is 'smoke': The smoke from the kitchen makes eyes sting.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -1751,7 +1751,7 @@
   "answer": "water that falls from clouds",
   "options": [
    "water that falls from clouds",
-   "water falling from clouds",
+   "amount of rain measured",
    "moving air",
    "moving from one place to another"
   ],
@@ -1772,7 +1772,7 @@
   "options": [
    "water falling from clouds",
    "white or grey mass in the sky",
-   "water that falls from clouds",
+   "water collected in a gauge",
    "moving from one place to another"
   ],
   "explanation": "'rain' means water falling from clouds.",
@@ -1901,7 +1901,7 @@
  },
  {
   "id": "TH3245015",
-  "question": "Which word means 'time with little rain'?",
+  "question": "Which word means 'the season with little rain'?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -2061,7 +2061,7 @@
  },
  {
   "id": "TH3240003",
-  "question": "Plants use ___ to make food.",
+  "question": "Plants use ___ (a gas) to make food.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4821,7 +4821,7 @@
  },
  {
   "id": "TH3334001",
-  "question": "We **___** **firewood** by using a good **stove**.",
+  "question": "We ___ firewood by using a good stove.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4835,13 +4835,13 @@
    "stove",
    "waste"
   ],
-  "explanation": "The word is 'save': We **save** **firewood** by using a good **stove**.",
+  "explanation": "The word is 'save': We save firewood by using a good stove.",
   "hint": "It starts with 'S'.",
   "image": null
  },
  {
   "id": "TH3334002",
-  "question": "**___** energy comes from the **sun**.",
+  "question": "___ energy comes from the sun.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4855,7 +4855,7 @@
    "save",
    "electricity"
   ],
-  "explanation": "The word is 'solar': **Solar** energy comes from the **sun**.",
+  "explanation": "The word is 'solar': Solar energy comes from the sun.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -4881,7 +4881,7 @@
  },
  {
   "id": "TH3334004",
-  "question": "**___** the light when you leave.",
+  "question": "___ the light when you leave.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4895,13 +4895,13 @@
    "heat",
    "dry"
   ],
-  "explanation": "The word is 'switch off': **Switch off** the light when you leave.",
+  "explanation": "The word is 'switch off': Switch off the light when you leave.",
   "hint": "It starts with 'S'.",
   "image": null
  },
  {
   "id": "TH3334005",
-  "question": "The **sun** gives **___** to warm water.",
+  "question": "The sun gives ___ to warm water.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4915,7 +4915,7 @@
    "solar",
    "switch off"
   ],
-  "explanation": "The word is 'heat': The **sun** gives **heat** to warm water.",
+  "explanation": "The word is 'heat': The sun gives heat to warm water.",
   "hint": "It starts with 'H'.",
   "image": null
  },
@@ -5021,7 +5021,7 @@
  },
  {
   "id": "TH3334011",
-  "question": "A good **___** keeps **heat** inside.",
+  "question": "A good ___ keeps heat inside.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -5035,7 +5035,7 @@
    "save",
    "electricity"
   ],
-  "explanation": "The word is 'stove': A good **stove** keeps **heat** inside.",
+  "explanation": "The word is 'stove': A good stove keeps heat inside.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -5061,7 +5061,7 @@
  },
  {
   "id": "TH3334013",
-  "question": "We use **___** for the TV.",
+  "question": "We use ___ for the TV.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -5075,7 +5075,7 @@
    "save",
    "biogas"
   ],
-  "explanation": "The word is 'electricity': We use **electricity** for the TV.",
+  "explanation": "The word is 'electricity': We use electricity for the TV.",
   "hint": "It starts with 'E'.",
   "image": null
  },
@@ -5181,7 +5181,7 @@
  },
  {
   "id": "TH3334019",
-  "question": "The river is a **___** of water.",
+  "question": "The river is a ___ of water.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -5195,7 +5195,7 @@
    "panel",
    "heat"
   ],
-  "explanation": "The word is 'source': The river is a **source** of water.",
+  "explanation": "The word is 'source': The river is a source of water.",
   "hint": "It starts with 'S'.",
   "image": null
  }

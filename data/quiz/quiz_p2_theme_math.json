@@ -171,7 +171,7 @@
   "answer": "sum",
   "options": [
    "sum",
-   "total",
+   "difference",
    "ones",
    "square"
   ],
@@ -400,7 +400,7 @@
   "image": null
  },
  {
-  "id": "TH2132000",
+  "id": "TH2132000b",
   "question": "Which word means 'single units'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -420,7 +420,7 @@
   "image": null
  },
  {
-  "id": "TH2132001",
+  "id": "TH2132001b",
   "question": "What does 'second' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -441,7 +441,7 @@
  },
  {
   "id": "TH2132002",
-  "question": "The last runner was ___.",
+  "question": "In a race with ten runners, the last runner was ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -460,7 +460,7 @@
   "image": null
  },
  {
-  "id": "TH2132003",
+  "id": "TH2132003b",
   "question": "145 is ___ 132.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -480,7 +480,7 @@
   "image": null
  },
  {
-  "id": "TH2132004",
+  "id": "TH2132004b",
   "question": "Which word means 'bigger than'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -500,7 +500,7 @@
   "image": null
  },
  {
-  "id": "TH2132005",
+  "id": "TH2132005b",
   "question": "What does 'greater than' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -520,7 +520,7 @@
   "image": null
  },
  {
-  "id": "TH2132006",
+  "id": "TH2132006b",
   "question": "___ the numbers: 12, 5, 20.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -540,7 +540,7 @@
   "image": null
  },
  {
-  "id": "TH2132007",
+  "id": "TH2132007b",
   "question": "Which word means 'number one in order'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -560,7 +560,7 @@
   "image": null
  },
  {
-  "id": "TH2132008",
+  "id": "TH2132008b",
   "question": "100 is ___ to 100.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -580,7 +580,7 @@
   "image": null
  },
  {
-  "id": "TH2132009",
+  "id": "TH2132009b",
   "question": "What does 'compare' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -600,7 +600,7 @@
   "image": null
  },
  {
-  "id": "TH2132010",
+  "id": "TH2132010b",
   "question": "We write 9 ___ 4 as 9 - 4.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -620,7 +620,7 @@
   "image": null
  },
  {
-  "id": "TH2132011",
+  "id": "TH2132011b",
   "question": "What does 'equal' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -640,7 +640,7 @@
   "image": null
  },
  {
-  "id": "TH2132012",
+  "id": "TH2132012b",
   "question": "Kato came ___ after Amina.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -660,7 +660,7 @@
   "image": null
  },
  {
-  "id": "TH2132013",
+  "id": "TH2132013b",
   "question": "What does 'minus' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -680,7 +680,7 @@
   "image": null
  },
  {
-  "id": "TH2132014",
+  "id": "TH2132014b",
   "question": "Which word means 'number five in order'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -700,7 +700,7 @@
   "image": null
  },
  {
-  "id": "TH2132015",
+  "id": "TH2132015b",
   "question": "The ___ of 10 and 6 is 4.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -720,7 +720,7 @@
   "image": null
  },
  {
-  "id": "TH2132016",
+  "id": "TH2132016b",
   "question": "Which word means 'check which is bigger or smaller'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -740,7 +740,7 @@
   "image": null
  },
  {
-  "id": "TH2132017",
+  "id": "TH2132017b",
   "question": "What does 'first' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -760,7 +760,7 @@
   "image": null
  },
  {
-  "id": "TH2132018",
+  "id": "TH2132018b",
   "question": "What does 'tens' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -780,7 +780,7 @@
   "image": null
  },
  {
-  "id": "TH2132019",
+  "id": "TH2132019b",
   "question": "Which word means 'number two in order'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1221,7 +1221,7 @@
  },
  {
   "id": "TH2170001",
-  "question": "We **___** **matooke** at the market.",
+  "question": "We ___ matooke at the market.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1235,7 +1235,7 @@
    "coin",
    "measure"
   ],
-  "explanation": "The word is 'buy': We **buy** **matooke** at the market.",
+  "explanation": "The word is 'buy': We buy matooke at the market.",
   "hint": "It starts with 'B'.",
   "image": null
  },
@@ -1261,7 +1261,7 @@
  },
  {
   "id": "TH2170003",
-  "question": "The **___** is 300 **shillings**.",
+  "question": "The ___ is 300 shillings.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1275,13 +1275,13 @@
    "measure",
    "capacity"
   ],
-  "explanation": "The word is 'cost': The **cost** is 300 **shillings**.",
+  "explanation": "The word is 'cost': The cost is 300 shillings.",
   "hint": "It starts with 'C'.",
   "image": null
  },
  {
   "id": "TH2170004",
-  "question": "The **___** of this jug is one **litre**.",
+  "question": "The ___ of this jug is one litre.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1295,7 +1295,7 @@
    "money",
    "coin"
   ],
-  "explanation": "The word is 'capacity': The **capacity** of this jug is one **litre**.",
+  "explanation": "The word is 'capacity': The capacity of this jug is one litre.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -2000,7 +2000,7 @@
   "image": null
  },
  {
-  "id": "TH2278000",
+  "id": "TH2278000b",
   "question": "What does 'cuboid' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2020,7 +2020,7 @@
   "image": null
  },
  {
-  "id": "TH2278001",
+  "id": "TH2278001b",
   "question": "A dice is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2040,7 +2040,7 @@
   "image": null
  },
  {
-  "id": "TH2278002",
+  "id": "TH2278002b",
   "question": "The pattern will ___ after blue.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2060,7 +2060,7 @@
   "image": null
  },
  {
-  "id": "TH2278003",
+  "id": "TH2278003b",
   "question": "What does 'length' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2080,7 +2080,7 @@
   "image": null
  },
  {
-  "id": "TH2278004",
+  "id": "TH2278004b",
   "question": "Which word means 'a solid with 6 rectangular faces'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2100,7 +2100,7 @@
   "image": null
  },
  {
-  "id": "TH2278005",
+  "id": "TH2278005b",
   "question": "What does 'cube' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2120,7 +2120,7 @@
   "image": null
  },
  {
-  "id": "TH2278006",
+  "id": "TH2278006b",
   "question": "Which word means 'how long something is'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2140,7 +2140,7 @@
   "image": null
  },
  {
-  "id": "TH2278007",
+  "id": "TH2278007b",
   "question": "What does 'long' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2160,7 +2160,7 @@
   "image": null
  },
  {
-  "id": "TH2278008",
+  "id": "TH2278008b",
   "question": "A matchbox is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2180,7 +2180,7 @@
   "image": null
  },
  {
-  "id": "TH2278009",
+  "id": "TH2278009b",
   "question": "What does 'rule' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2200,7 +2200,7 @@
   "image": null
  },
  {
-  "id": "TH2278010",
+  "id": "TH2278010b",
   "question": "Which word means 'a flat side of a solid'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2220,7 +2220,7 @@
   "image": null
  },
  {
-  "id": "TH2278011",
+  "id": "TH2278011b",
   "question": "Which word means 'having great length'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2240,7 +2240,7 @@
   "image": null
  },
  {
-  "id": "TH2278012",
+  "id": "TH2278012b",
   "question": "What does 'ruler' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2260,7 +2260,7 @@
   "image": null
  },
  {
-  "id": "TH2278013",
+  "id": "TH2278013b",
   "question": "The ___ bead is red.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2280,7 +2280,7 @@
   "image": null
  },
  {
-  "id": "TH2278014",
+  "id": "TH2278014b",
   "question": "What does 'face' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2300,7 +2300,7 @@
   "image": null
  },
  {
-  "id": "TH2278015",
+  "id": "TH2278015b",
   "question": "What does 'next' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2320,7 +2320,7 @@
   "image": null
  },
  {
-  "id": "TH2278016",
+  "id": "TH2278016b",
   "question": "What does 'sequence' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2340,7 +2340,7 @@
   "image": null
  },
  {
-  "id": "TH2278017",
+  "id": "TH2278017b",
   "question": "A tin can is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2360,7 +2360,7 @@
   "image": null
  },
  {
-  "id": "TH2278018",
+  "id": "TH2278018b",
   "question": "The rope is very ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2380,7 +2380,7 @@
   "image": null
  },
  {
-  "id": "TH2278019",
+  "id": "TH2278019b",
   "question": "Which word means 'to find the size of something'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2661,7 +2661,7 @@
  },
  {
   "id": "TH2257013",
-  "question": "We eat lunch at ___ 1.",
+  "question": "We eat lunch at 1:30. We eat lunch at ___ 1.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -2815,7 +2815,7 @@
    "The total when things are added.",
    "What remains after taking away."
   ],
-  "explanation": "'after' means Coming later than another number..",
+  "explanation": "'after' means Coming later than another number.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -2835,7 +2835,7 @@
    "Coming later than another number.",
    "Coming earlier than another number."
   ],
-  "explanation": "'sum' means The result of adding numbers..",
+  "explanation": "'sum' means The result of adding numbers.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2875,7 +2875,7 @@
    "The result of adding numbers.",
    "The way numbers go from small to big."
   ],
-  "explanation": "'take away' means To remove a number from another..",
+  "explanation": "'take away' means To remove a number from another.",
   "hint": "It starts with 'T'.",
   "image": null
  },
@@ -4421,7 +4421,7 @@
  },
  {
   "id": "TH2337001",
-  "question": "Bananas are the ___.",
+  "question": "In a fruit basket, there are 10 apples, 8 oranges, and 5 bananas. Bananas are the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",

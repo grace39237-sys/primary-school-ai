@@ -801,7 +801,7 @@
  },
  {
   "id": "TH4184000",
-  "question": "We **___** the cost of sugar and soap.",
+  "question": "We ___ the cost of sugar and soap.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -815,7 +815,7 @@
    "product",
    "group"
   ],
-  "explanation": "The word is 'add': We **add** the cost of sugar and soap.",
+  "explanation": "The word is 'add': We add the cost of sugar and soap.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -861,7 +861,7 @@
  },
  {
   "id": "TH4184003",
-  "question": "We **___** 12 ones as 1 ten and 2 ones.",
+  "question": "We ___ 12 ones as 1 ten and 2 ones.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -875,7 +875,7 @@
    "divide",
    "total"
   ],
-  "explanation": "The word is 'regroup': We **regroup** 12 ones as 1 ten and 2 ones.",
+  "explanation": "The word is 'regroup': We regroup 12 ones as 1 ten and 2 ones.",
   "hint": "It starts with 'R'.",
   "image": null
  },
@@ -961,7 +961,7 @@
  },
  {
   "id": "TH4184008",
-  "question": "25 **___** is 2,500.",
+  "question": "25 ___ is 2,500.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -975,7 +975,7 @@
    "group",
    "carry"
   ],
-  "explanation": "The word is 'by 100': 25 **by 100** is 2,500.",
+  "explanation": "The word is 'by 100': 25 by 100 is 2,500.",
   "hint": "It starts with 'B'.",
   "image": null
  },
@@ -1001,7 +1001,7 @@
  },
  {
   "id": "TH4184010",
-  "question": "25 **___** is 250.",
+  "question": "25 ___ is 250.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -1015,7 +1015,7 @@
    "by 100",
    "remain"
   ],
-  "explanation": "The word is 'by 10': 25 **by 10** is 250.",
+  "explanation": "The word is 'by 10': 25 by 10 is 250.",
   "hint": "It starts with 'B'.",
   "image": null
  },
@@ -1121,7 +1121,7 @@
  },
  {
   "id": "TH4184016",
-  "question": "The **___** between 500 and 300 is 200.",
+  "question": "The ___ between 500 and 300 is 200.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -1135,13 +1135,13 @@
    "times",
    "multiply"
   ],
-  "explanation": "The word is 'difference': The **difference** between 500 and 300 is 200.",
+  "explanation": "The word is 'difference': The difference between 500 and 300 is 200.",
   "hint": "It starts with 'D'.",
   "image": null
  },
  {
   "id": "TH4184017",
-  "question": "We **___** 5 by 3 to get 15.",
+  "question": "We ___ 5 by 3 to get 15.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -1155,7 +1155,7 @@
    "sum",
    "regroup"
   ],
-  "explanation": "The word is 'multiply': We **multiply** 5 by 3 to get 15.",
+  "explanation": "The word is 'multiply': We multiply 5 by 3 to get 15.",
   "hint": "It starts with 'M'.",
   "image": null
  },
@@ -1181,7 +1181,7 @@
  },
  {
   "id": "TH4184019",
-  "question": "We **___** the cost from the money given.",
+  "question": "We ___ the cost from the money given.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -1195,7 +1195,7 @@
    "carry",
    "total"
   ],
-  "explanation": "The word is 'subtract': We **subtract** the cost from the money given.",
+  "explanation": "The word is 'subtract': We subtract the cost from the money given.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2395,12 +2395,12 @@
    "To put numbers together to find the total.",
    "A rotation. A quarter turn makes a right angle."
   ],
-  "explanation": "'perimeter' means The distance all the way around a shape..",
+  "explanation": "'perimeter' means The distance all the way around a shape.",
   "hint": "It starts with 'P'.",
   "image": null
  },
  {
-  "id": "TH4247000",
+  "id": "TH4247000b",
   "question": "What does 'cube' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2420,7 +2420,7 @@
   "image": null
  },
  {
-  "id": "TH4247001",
+  "id": "TH4247001b",
   "question": "Which word means 'a solid with six equal square faces'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2440,7 +2440,7 @@
   "image": null
  },
  {
-  "id": "TH4247002",
+  "id": "TH4247002b",
   "question": "A cube ___ has six squares.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2460,7 +2460,7 @@
   "image": null
  },
  {
-  "id": "TH4247003",
+  "id": "TH4247003b",
   "question": "Which word means 'to bend a flat net along edges to make a solid'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2480,7 +2480,7 @@
   "image": null
  },
  {
-  "id": "TH4247004",
+  "id": "TH4247004b",
   "question": "A matchbox is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2500,7 +2500,7 @@
   "image": null
  },
  {
-  "id": "TH4247005",
+  "id": "TH4247005b",
   "question": "What does 'vertices' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2520,7 +2520,7 @@
   "image": null
  },
  {
-  "id": "TH4247006",
+  "id": "TH4247006b",
   "question": "Which word means 'a corner where edges meet'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2540,7 +2540,7 @@
   "image": null
  },
  {
-  "id": "TH4247007",
+  "id": "TH4247007b",
   "question": "What does 'cone' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2560,7 +2560,7 @@
   "image": null
  },
  {
-  "id": "TH4247008",
+  "id": "TH4247008b",
   "question": "What does 'net' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2580,7 +2580,7 @@
   "image": null
  },
  {
-  "id": "TH4247009",
+  "id": "TH4247009b",
   "question": "Which word means 'a flat pattern that can be folded into a solid'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2600,7 +2600,7 @@
   "image": null
  },
  {
-  "id": "TH4247010",
+  "id": "TH4247010b",
   "question": "A party hat is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2620,7 +2620,7 @@
   "image": null
  },
  {
-  "id": "TH4247011",
+  "id": "TH4247011b",
   "question": "Which word means 'a flat surface of a solid'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2640,7 +2640,7 @@
   "image": null
  },
  {
-  "id": "TH4247012",
+  "id": "TH4247012b",
   "question": "A football is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2660,7 +2660,7 @@
   "image": null
  },
  {
-  "id": "TH4247013",
+  "id": "TH4247013b",
   "question": "What does 'sphere' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2680,7 +2680,7 @@
   "image": null
  },
  {
-  "id": "TH4247014",
+  "id": "TH4247014b",
   "question": "Which word means 'more than one vertex'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2700,7 +2700,7 @@
   "image": null
  },
  {
-  "id": "TH4247015",
+  "id": "TH4247015b",
   "question": "Which word means 'a solid with two circular faces and a curved surface'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2720,7 +2720,7 @@
   "image": null
  },
  {
-  "id": "TH4247016",
+  "id": "TH4247016b",
   "question": "What does 'cuboid' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2740,7 +2740,7 @@
   "image": null
  },
  {
-  "id": "TH4247017",
+  "id": "TH4247017b",
   "question": "Which word means 'a line where two faces meet'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2760,7 +2760,7 @@
   "image": null
  },
  {
-  "id": "TH4247018",
+  "id": "TH4247018b",
   "question": "What does 'solid' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2780,7 +2780,7 @@
   "image": null
  },
  {
-  "id": "TH4247019",
+  "id": "TH4247019b",
   "question": "A jerrycan is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3561,7 +3561,7 @@
  },
  {
   "id": "TH4334018",
-  "question": "A **___** of 1,000 shillings is red.",
+  "question": "A ___ of 1,000 shillings is red.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -3575,7 +3575,7 @@
    "customer",
    "problem"
   ],
-  "explanation": "The word is 'note': A **note** of 1,000 shillings is red.",
+  "explanation": "The word is 'note': A note of 1,000 shillings is red.",
   "hint": "It starts with 'N'.",
   "image": null
  },
@@ -3748,14 +3748,14 @@
   "term": "Term 3",
   "unit": "Time",
   "difficulty": "easy",
-  "answer": "weeks",
+  "answer": "week",
   "options": [
-   "weeks",
+   "week",
    "minutes",
    "month",
    "year"
   ],
-  "explanation": "7 days make one week — that is 'weeks'.",
+  "explanation": "7 days make one week — that is 'week'.",
   "hint": "It starts with 'W'.",
   "image": null
  },
@@ -4268,14 +4268,14 @@
   "term": "Term 3",
   "unit": "Length, Mass, Capacity",
   "difficulty": "medium",
-  "answer": "gram",
+  "answer": "grams",
   "options": [
-   "gram",
+   "grams",
    "kilogram",
    "capacity",
    "kilometre"
   ],
-  "explanation": "The word is 'gram': A tea spoon of sugar is about five gram.",
+  "explanation": "The word is 'grams': A tea spoon of sugar is about five grams.",
   "hint": "It starts with 'G'.",
   "image": null
  },
@@ -4288,14 +4288,14 @@
   "term": "Term 3",
   "unit": "Length, Mass, Capacity",
   "difficulty": "medium",
-  "answer": "litre",
+  "answer": "litres",
   "options": [
-   "litre",
+   "litres",
    "mass",
    "weigh",
    "gram"
   ],
-  "explanation": "The word is 'litre': We buy two litre of milk.",
+  "explanation": "The word is 'litres': We buy two litres of milk.",
   "hint": "It starts with 'L'.",
   "image": null
  },

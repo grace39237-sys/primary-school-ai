@@ -3461,7 +3461,7 @@
  },
  {
   "id": "TH7273013",
-  "question": "The corner of a book is ___.",
+  "question": "The edges of a book are ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -3475,7 +3475,7 @@
    "compass",
    "corresponding"
   ],
-  "explanation": "The word is 'perpendicular': The corner of a book is perpendicular.",
+  "explanation": "The word is 'perpendicular': The edges of a book are perpendicular.",
   "hint": "It starts with 'P'.",
   "image": null
  },

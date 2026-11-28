@@ -641,7 +641,7 @@
  },
  {
   "id": "TH3128012",
-  "question": "2,500 is the ___.",
+  "question": "The hundred closest to a number is called the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -811,7 +811,7 @@
   "answer": "price",
   "options": [
    "price",
-   "cost",
+   "value",
    "bank",
    "buy"
   ],
@@ -1533,7 +1533,7 @@
    "kilogram",
    "metre",
    "millilitre",
-   "gram"
+   "litre"
   ],
   "explanation": "a unit of mass — that is 'kilogram'.",
   "hint": "It starts with 'K'.",
@@ -2481,7 +2481,7 @@
  },
  {
   "id": "TH3246004",
-  "question": "A ___ of the paper.",
+  "question": "Which word means 'one of three equal parts'?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -2741,7 +2741,7 @@
  },
  {
   "id": "TH3246017",
-  "question": "We ___ the mangoes among friends.",
+  "question": "We ___ the mangoes into equal groups.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3241,7 +3241,7 @@
  },
  {
   "id": "TH3379002",
-  "question": "One **___** is 2/7.",
+  "question": "One ___ is 2/7.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3255,7 +3255,7 @@
    "altogether",
    "subtract"
   ],
-  "explanation": "The word is 'fraction': One **fraction** is 2/7.",
+  "explanation": "The word is 'fraction': One fraction is 2/7.",
   "hint": "It starts with 'F'.",
   "image": null
  },
@@ -3321,7 +3321,7 @@
  },
  {
   "id": "TH3379006",
-  "question": "Find the **___** by subtracting.",
+  "question": "Find the ___ by subtracting.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3335,7 +3335,7 @@
    "equal",
    "problem"
   ],
-  "explanation": "The word is 'difference': Find the **difference** by subtracting.",
+  "explanation": "The word is 'difference': Find the difference by subtracting.",
   "hint": "It starts with 'D'.",
   "image": null
  },
@@ -3461,7 +3461,7 @@
  },
  {
   "id": "TH3379013",
-  "question": "We choose the **___**.",
+  "question": "In a math sum, we choose the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3475,7 +3475,7 @@
    "equivalent",
    "problem"
   ],
-  "explanation": "The word is 'operation': We choose the **operation**.",
+  "explanation": "The word is 'operation': In a math sum, we choose the operation.",
   "hint": "It starts with 'O'.",
   "image": null
  },
@@ -3861,7 +3861,7 @@
  },
  {
   "id": "TH3345013",
-  "question": "**___** all the sides to find the perimeter.",
+  "question": "___ all the sides to find the perimeter.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3875,7 +3875,7 @@
    "shape",
    "square"
   ],
-  "explanation": "The word is 'add': **Add** all the sides to find the perimeter.",
+  "explanation": "The word is 'add': Add all the sides to find the perimeter.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -3901,7 +3901,7 @@
  },
  {
   "id": "TH3345015",
-  "question": "The tile is a **___**.",
+  "question": "The tile is a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3915,7 +3915,7 @@
    "same",
    "distance"
   ],
-  "explanation": "The word is 'square': The tile is a **square**.",
+  "explanation": "The word is 'square': The tile is a square.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -3981,7 +3981,7 @@
  },
  {
   "id": "TH3345019",
-  "question": "A **___** is 90 degrees.",
+  "question": "A ___ is 90 degrees.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3995,7 +3995,7 @@
    "same",
    "distance"
   ],
-  "explanation": "The word is 'right angle': A **right angle** is 90 degrees.",
+  "explanation": "The word is 'right angle': A right angle is 90 degrees.",
   "hint": "It starts with 'R'.",
   "image": null
  },
@@ -4121,7 +4121,7 @@
  },
  {
   "id": "TH3322006",
-  "question": "The **___** hand moves slowly.",
+  "question": "The ___ hand moves slowly.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4135,13 +4135,13 @@
    "kilogram",
    "table"
   ],
-  "explanation": "The word is 'hour': The **hour** hand moves slowly.",
+  "explanation": "The word is 'hour': The hour hand moves slowly.",
   "hint": "It starts with 'H'.",
   "image": null
  },
  {
   "id": "TH3322007",
-  "question": "The baby weighs 4 **___**.",
+  "question": "The baby weighs 4 ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4155,13 +4155,13 @@
    "table",
    "most"
   ],
-  "explanation": "The word is 'kilogram': The baby weighs 4 **kilogram**.",
+  "explanation": "The word is 'kilogram': The baby weighs 4 kilogram.",
   "hint": "It starts with 'K'.",
   "image": null
  },
  {
   "id": "TH3322008",
-  "question": "The **___** is 5 millilitre.",
+  "question": "The ___ is 5 millilitre.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4175,7 +4175,7 @@
    "hour",
    "measure"
   ],
-  "explanation": "The word is 'dose': The **dose** is 5 millilitre.",
+  "explanation": "The word is 'dose': The dose is 5 millilitre.",
   "hint": "It starts with 'D'.",
   "image": null
  },
@@ -4201,7 +4201,7 @@
  },
  {
   "id": "TH3322010",
-  "question": "Look at the **___** on the wall.",
+  "question": "Look at the ___ on the wall.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4215,13 +4215,13 @@
    "millilitre",
    "scale"
   ],
-  "explanation": "The word is 'clock': Look at the **clock** on the wall.",
+  "explanation": "The word is 'clock': Look at the clock on the wall.",
   "hint": "It starts with 'C'.",
   "image": null
  },
  {
   "id": "TH3322011",
-  "question": "The **___** hand moves fast.",
+  "question": "The ___ hand moves fast.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4235,7 +4235,7 @@
    "dose",
    "hour"
   ],
-  "explanation": "The word is 'minute': The **minute** hand moves fast.",
+  "explanation": "The word is 'minute': The minute hand moves fast.",
   "hint": "It starts with 'M'.",
   "image": null
  },
@@ -4281,7 +4281,7 @@
  },
  {
   "id": "TH3322014",
-  "question": "The syringe holds 5 **___**.",
+  "question": "The syringe holds 5 ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4295,7 +4295,7 @@
    "table",
    "past"
   ],
-  "explanation": "The word is 'millilitre': The syringe holds 5 **millilitre**.",
+  "explanation": "The word is \"millilitre\": The syringe holds 5 millilitres.",
   "hint": "It starts with 'M'.",
   "image": null
  },
@@ -4381,7 +4381,7 @@
  },
  {
   "id": "TH3322019",
-  "question": "It is 20 **___** 3.",
+  "question": "It is 20 ___ 3.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -4395,7 +4395,7 @@
    "record",
    "dose"
   ],
-  "explanation": "The word is 'past': It is 20 **past** 3.",
+  "explanation": "The word is \"past\": It is 20 past 3.",
   "hint": "It starts with 'P'.",
   "image": null
  },

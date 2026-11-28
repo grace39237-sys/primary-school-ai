@@ -21,7 +21,7 @@
  },
  {
   "id": "TH2147001",
-  "question": "A **___** lands on a flower.",
+  "question": "A ___ lands on a flower.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -35,13 +35,13 @@
    "non-living",
    "wood"
   ],
-  "explanation": "The word is 'butterfly': A **butterfly** lands on a flower.",
+  "explanation": "The word is 'butterfly': A butterfly lands on a flower.",
   "hint": "It starts with 'B'.",
   "image": null
  },
  {
   "id": "TH2147002",
-  "question": "A cat is **___** because it eats and runs.",
+  "question": "A cat is ___ because it eats and runs.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -55,7 +55,7 @@
    "healthy",
    "clean"
   ],
-  "explanation": "The word is 'living': A cat is **living** because it eats and runs.",
+  "explanation": "The word is 'living': A cat is living because it eats and runs.",
   "hint": "It starts with 'L'.",
   "image": null
  },
@@ -921,7 +921,7 @@
  },
  {
   "id": "TH2172006",
-  "question": "Peter washes his **___** with water.",
+  "question": "Peter washes his ___ with water.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -935,7 +935,7 @@
    "cough",
    "towel"
   ],
-  "explanation": "The word is 'hair': Peter washes his **hair** with water.",
+  "explanation": "The word is 'hair': Peter washes his hair with water.",
   "hint": "It starts with 'H'.",
   "image": null
  },
@@ -1001,7 +1001,7 @@
  },
  {
   "id": "TH2172010",
-  "question": "Nalongo feels hot; she has a **___**.",
+  "question": "Nalongo feels hot; she has a ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1015,7 +1015,7 @@
    "ear",
    "nose"
   ],
-  "explanation": "The word is 'fever': Nalongo feels hot; she has a **fever**.",
+  "explanation": "The word is 'fever': Nalongo feels hot; she has a fever.",
   "hint": "It starts with 'F'.",
   "image": null
  },
@@ -1061,7 +1061,7 @@
  },
  {
   "id": "TH2172013",
-  "question": "Nalongo smells soup with her **___**.",
+  "question": "Nalongo smells soup with her ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1075,13 +1075,13 @@
    "eye",
    "germs"
   ],
-  "explanation": "The word is 'nose': Nalongo smells soup with her **nose**.",
+  "explanation": "The word is 'nose': Nalongo smells soup with her nose.",
   "hint": "It starts with 'N'.",
   "image": null
  },
  {
   "id": "TH2172014",
-  "question": "Amina uses **___** to wash hands.",
+  "question": "Amina uses ___ to wash hands.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1095,7 +1095,7 @@
    "ear",
    "hair"
   ],
-  "explanation": "The word is 'soap': Amina uses **soap** to wash hands.",
+  "explanation": "The word is 'soap': Amina uses soap to wash hands.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -1121,7 +1121,7 @@
  },
  {
   "id": "TH2172016",
-  "question": "Peter tastes mango with his **___**.",
+  "question": "Peter tastes mango with his ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1135,7 +1135,7 @@
    "cough",
    "sense"
   ],
-  "explanation": "The word is 'tongue': Peter tastes mango with his **tongue**.",
+  "explanation": "The word is 'tongue': Peter tastes mango with his tongue.",
   "hint": "It starts with 'T'.",
   "image": null
  },
@@ -1791,7 +1791,7 @@
   "answer": "burn",
   "options": [
    "burn",
-   "litter",
+   "wind",
    "plant",
    "rain"
   ],
@@ -1892,7 +1892,7 @@
   "options": [
    "plant",
    "wind",
-   "tree",
+   "sun",
    "burn"
   ],
   "explanation": "The word is 'plant': The plant grows tall.",
@@ -2801,7 +2801,7 @@
  },
  {
   "id": "TH2203000",
-  "question": "Tell an **___** if someone is hurt.",
+  "question": "Tell an ___ if someone is hurt.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -2815,7 +2815,7 @@
    "run",
    "fall"
   ],
-  "explanation": "The word is 'adult': Tell an **adult** if someone is hurt.",
+  "explanation": "The word is 'adult': Tell an adult if someone is hurt.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -2861,7 +2861,7 @@
  },
  {
   "id": "TH2203003",
-  "question": "Teacher Nankya knows **___**.",
+  "question": "Teacher Nankya knows ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -2875,7 +2875,7 @@
    "road",
    "injury"
   ],
-  "explanation": "The word is 'first aid': Teacher Nankya knows **first aid**.",
+  "explanation": "The word is 'first aid': Teacher Nankya knows first aid.",
   "hint": "It starts with 'F'.",
   "image": null
  },
@@ -2901,7 +2901,7 @@
  },
  {
   "id": "TH2203005",
-  "question": "The children run on the **___** at break time.",
+  "question": "The children run on the ___ at break time.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -2915,7 +2915,7 @@
    "wash",
    "burn"
   ],
-  "explanation": "The word is 'playground': The children run on the **playground** at break time.",
+  "explanation": "The word is 'playground': The children run on the playground at break time.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -3101,7 +3101,7 @@
  },
  {
   "id": "TH2203015",
-  "question": "Kato had a **___** on the wet floor.",
+  "question": "Kato had a ___ on the wet floor.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -3115,13 +3115,13 @@
    "medicine",
    "bleeding"
   ],
-  "explanation": "The word is 'fall': Kato had a **fall** on the wet floor.",
+  "explanation": "The word is 'fall': Kato had a fall on the wet floor.",
   "hint": "It starts with 'F'.",
   "image": null
  },
  {
   "id": "TH2203016",
-  "question": "Peter likes to **___** with his friends.",
+  "question": "Peter likes to ___ with his friends.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -3135,13 +3135,13 @@
    "medicine",
    "adult"
   ],
-  "explanation": "The word is 'run': Peter likes to **run** with his friends.",
+  "explanation": "The word is 'run': Peter likes to run with his friends.",
   "hint": "It starts with 'R'.",
   "image": null
  },
  {
   "id": "TH2203017",
-  "question": "The **___** in the kitchen cooks our food.",
+  "question": "The ___ in the kitchen cooks our food.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -3155,7 +3155,7 @@
    "playground",
    "burn"
   ],
-  "explanation": "The word is 'fire': The **fire** in the kitchen cooks our food.",
+  "explanation": "The word is 'fire': The fire in the kitchen cooks our food.",
   "hint": "It starts with 'F'.",
   "image": null
  },
@@ -3200,7 +3200,7 @@
   "image": null
  },
  {
-  "id": "TH2311000",
+  "id": "TH2311000b",
   "question": "Which word means 'person who watches a gate'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3220,7 +3220,7 @@
   "image": null
  },
  {
-  "id": "TH2311001",
+  "id": "TH2311001b",
   "question": "Which word means 'mother or father'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3240,7 +3240,7 @@
   "image": null
  },
  {
-  "id": "TH2311002",
+  "id": "TH2311002b",
   "question": "What does 'report' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3260,7 +3260,7 @@
   "image": null
  },
  {
-  "id": "TH2311003",
+  "id": "TH2311003b",
   "question": "What does 'protect' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3281,7 +3281,7 @@
  },
  {
   "id": "TH2311004",
-  "question": "The **___** talks to the **police**.",
+  "question": "The ___ talks to the police.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -3295,12 +3295,12 @@
    "police",
    "report"
   ],
-  "explanation": "The word is 'leader': The **leader** talks to the **police**.",
+  "explanation": "The word is 'leader': The leader talks to the police.",
   "hint": "It starts with 'L'.",
   "image": null
  },
  {
-  "id": "TH2311005",
+  "id": "TH2311005b",
   "question": "Which word means 'tell an adult about danger'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3320,7 +3320,7 @@
   "image": null
  },
  {
-  "id": "TH2311006",
+  "id": "TH2311006b",
   "question": "What does 'river' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3351,16 +3351,16 @@
   "answer": "protect",
   "options": [
    "protect",
-   "guard",
    "river",
-   "forest"
+   "forest",
+   "dangerous"
   ],
   "explanation": "keep safe from harm — that is 'protect'.",
   "hint": "It starts with 'P'.",
   "image": null
  },
  {
-  "id": "TH2311008",
+  "id": "TH2311008b",
   "question": "Which word means 'free from danger'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3380,7 +3380,7 @@
   "image": null
  },
  {
-  "id": "TH2311009",
+  "id": "TH2311009b",
   "question": "The **___** officer directed traffic.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3400,7 +3400,7 @@
   "image": null
  },
  {
-  "id": "TH2311010",
+  "id": "TH2311010b",
   "question": "Which word means 'person who defends the country'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3420,7 +3420,7 @@
   "image": null
  },
  {
-  "id": "TH2311011",
+  "id": "TH2311011b",
   "question": "The **___** stands at the barracks.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3440,7 +3440,7 @@
   "image": null
  },
  {
-  "id": "TH2311012",
+  "id": "TH2311012b",
   "question": "Which word means 'a person you do not know'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3460,7 +3460,7 @@
   "image": null
  },
  {
-  "id": "TH2311013",
+  "id": "TH2311013b",
   "question": "What does 'parent' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3481,7 +3481,7 @@
  },
  {
   "id": "TH2311014",
-  "question": "They **___** us every day.",
+  "question": "They ___ us every day.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -3491,16 +3491,16 @@
   "answer": "protect",
   "options": [
    "protect",
-   "guard",
+   "dangerous",
    "river",
    "forest"
   ],
-  "explanation": "The word is 'protect': They **protect** us every day.",
+  "explanation": "The word is 'protect': They protect us every day.",
   "hint": "It starts with 'P'.",
   "image": null
  },
  {
-  "id": "TH2311015",
+  "id": "TH2311015b",
   "question": "What does 'gift' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3520,7 +3520,7 @@
   "image": null
  },
  {
-  "id": "TH2311016",
+  "id": "TH2311016b",
   "question": "What does 'road' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3540,7 +3540,7 @@
   "image": null
  },
  {
-  "id": "TH2311017",
+  "id": "TH2311017b",
   "question": "The **___** has a strong current.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3560,7 +3560,7 @@
   "image": null
  },
  {
-  "id": "TH2311018",
+  "id": "TH2311018b",
   "question": "Amina will **___** the **stranger** to her **parent**.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3580,7 +3580,7 @@
   "image": null
  },
  {
-  "id": "TH2311019",
+  "id": "TH2311019b",
   "question": "Which word means 'person who guides the community'?",
   "type": "multiple_choice",
   "subject": "Theme",

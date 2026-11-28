@@ -341,7 +341,7 @@
  },
  {
   "id": "TH4176017",
-  "question": "The **___** grows into a **fruit** after fertilisation.",
+  "question": "The ___ grows into a fruit after fertilisation.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -355,7 +355,7 @@
    "sunlight",
    "photosynthesis"
   ],
-  "explanation": "The word is 'ovary': The **ovary** grows into a **fruit** after fertilisation.",
+  "explanation": "The word is 'ovary': The ovary grows into a fruit after fertilisation.",
   "hint": "It starts with 'O'.",
   "image": null
  },
@@ -2020,7 +2020,7 @@
   "image": null
  },
  {
-  "id": "TH4285001",
+  "id": "TH4285001b",
   "question": "Which word means 'hard layer under enamel'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2140,7 +2140,7 @@
   "image": null
  },
  {
-  "id": "TH4285007",
+  "id": "TH4285007b",
   "question": "What does 'dentine' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2400,7 +2400,7 @@
   "image": null
  },
  {
-  "id": "TH4285000",
+  "id": "TH4285000b",
   "question": "Which word means 'a ventilated improved pit latrine with a pipe'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2421,7 +2421,7 @@
  },
  {
   "id": "TH4285001",
-  "question": "Our home has a ___.",
+  "question": "Our home has a ___ for disposing of human waste.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -2440,7 +2440,7 @@
   "image": null
  },
  {
-  "id": "TH4285002",
+  "id": "TH4285002b",
   "question": "Clear the ___ so water flows.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2460,7 +2460,7 @@
   "image": null
  },
  {
-  "id": "TH4285003",
+  "id": "TH4285003b",
   "question": "What does 'compound' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2480,7 +2480,7 @@
   "image": null
  },
  {
-  "id": "TH4285004",
+  "id": "TH4285004b",
   "question": "___ attracts flies if left open.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2500,7 +2500,7 @@
   "image": null
  },
  {
-  "id": "TH4285005",
+  "id": "TH4285005b",
   "question": "What does 'drainage' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2520,7 +2520,7 @@
   "image": null
  },
  {
-  "id": "TH4285006",
+  "id": "TH4285006b",
   "question": "What does 'cover' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2541,7 +2541,7 @@
  },
  {
   "id": "TH4285007",
-  "question": "The school has a ___.",
+  "question": "The school has a ___ (a ventilated improved pit latrine with a pipe).",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -2560,7 +2560,7 @@
   "image": null
  },
  {
-  "id": "TH4285008",
+  "id": "TH4285008b",
   "question": "What does 'smell' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2580,7 +2580,7 @@
   "image": null
  },
  {
-  "id": "TH4285009",
+  "id": "TH4285009b",
   "question": "What does 'germs' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2600,7 +2600,7 @@
   "image": null
  },
  {
-  "id": "TH4285010",
+  "id": "TH4285010b",
   "question": "Which word means 'a simple toilet with a hole in the ground'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2620,7 +2620,7 @@
   "image": null
  },
  {
-  "id": "TH4285011",
+  "id": "TH4285011b",
   "question": "Which word means 'insects that carry germs from waste'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2640,7 +2640,7 @@
   "image": null
  },
  {
-  "id": "TH4285012",
+  "id": "TH4285012b",
   "question": "Which word means 'bad odour from waste'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2660,7 +2660,7 @@
   "image": null
  },
  {
-  "id": "TH4285013",
+  "id": "TH4285013b",
   "question": "Which word means 'keeping our surroundings clean to stop disease'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2680,7 +2680,7 @@
   "image": null
  },
  {
-  "id": "TH4285014",
+  "id": "TH4285014b",
   "question": "Which word means 'when dirt or germs get into water or food'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2700,7 +2700,7 @@
   "image": null
  },
  {
-  "id": "TH4285015",
+  "id": "TH4285015b",
   "question": "What does 'pit latrine' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2720,7 +2720,7 @@
   "image": null
  },
  {
-  "id": "TH4285016",
+  "id": "TH4285016b",
   "question": "What does 'dysentery' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2740,7 +2740,7 @@
   "image": null
  },
  {
-  "id": "TH4285017",
+  "id": "TH4285017b",
   "question": "What does 'sanitation' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2760,7 +2760,7 @@
   "image": null
  },
  {
-  "id": "TH4285018",
+  "id": "TH4285018b",
   "question": "Good ___ prevents cholera.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -2780,7 +2780,7 @@
   "image": null
  },
  {
-  "id": "TH4285019",
+  "id": "TH4285019b",
   "question": "Which word means 'a severe diarrhoea disease from dirty water'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3200,7 +3200,7 @@
   "image": null
  },
  {
-  "id": "TH4398000",
+  "id": "TH4398000b",
   "question": "Which word means 'little room needed'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3220,7 +3220,7 @@
   "image": null
  },
  {
-  "id": "TH4398001",
+  "id": "TH4398001b",
   "question": "Which word means 'special rabbit food'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3240,7 +3240,7 @@
   "image": null
  },
  {
-  "id": "TH4398002",
+  "id": "TH4398002b",
   "question": "Which word means 'the part of the head for hearing'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3260,7 +3260,7 @@
   "image": null
  },
  {
-  "id": "TH4398003",
+  "id": "TH4398003b",
   "question": "Which word means 'clean liquid to drink'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3280,7 +3280,7 @@
   "image": null
  },
  {
-  "id": "TH4398004",
+  "id": "TH4398004b",
   "question": "What does 'pellets' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3300,7 +3300,7 @@
   "image": null
  },
  {
-  "id": "TH4398005",
+  "id": "TH4398005b",
   "question": "What does 'quick' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3320,7 +3320,7 @@
   "image": null
  },
  {
-  "id": "TH4398006",
+  "id": "TH4398006b",
   "question": "What does 'californian' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3340,7 +3340,7 @@
   "image": null
  },
  {
-  "id": "TH4398007",
+  "id": "TH4398007b",
   "question": "___ causes diarrhoea.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3360,7 +3360,7 @@
   "image": null
  },
  {
-  "id": "TH4398008",
+  "id": "TH4398008b",
   "question": "Keep the hutch ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3380,7 +3380,7 @@
   "image": null
  },
  {
-  "id": "TH4398009",
+  "id": "TH4398009b",
   "question": "What does 'coccidiosis' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3400,7 +3400,7 @@
   "image": null
  },
  {
-  "id": "TH4398010",
+  "id": "TH4398010b",
   "question": "Which word means 'an animal doctor'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3420,7 +3420,7 @@
   "image": null
  },
  {
-  "id": "TH4398011",
+  "id": "TH4398011b",
   "question": "What does 'hutch' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3440,7 +3440,7 @@
   "image": null
  },
  {
-  "id": "TH4398012",
+  "id": "TH4398012b",
   "question": "Which word means 'a rabbit cold with runny nose'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3460,7 +3460,7 @@
   "image": null
  },
  {
-  "id": "TH4398013",
+  "id": "TH4398013b",
   "question": "Which word means 'animal flesh used as food'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3480,7 +3480,7 @@
   "image": null
  },
  {
-  "id": "TH4398014",
+  "id": "TH4398014b",
   "question": "Which word means 'fast, in a short time'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3500,7 +3500,7 @@
   "image": null
  },
  {
-  "id": "TH4398015",
+  "id": "TH4398015b",
   "question": "Rabbits bring ___ to the family.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3520,7 +3520,7 @@
   "image": null
  },
  {
-  "id": "TH4398016",
+  "id": "TH4398016b",
   "question": "Rabbits need fresh ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3540,7 +3540,7 @@
   "image": null
  },
  {
-  "id": "TH4398017",
+  "id": "TH4398017b",
   "question": "Which word means 'a house for rabbits'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3560,7 +3560,7 @@
   "image": null
  },
  {
-  "id": "TH4398018",
+  "id": "TH4398018b",
   "question": "What does 'clean' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -3580,7 +3580,7 @@
   "image": null
  },
  {
-  "id": "TH4398019",
+  "id": "TH4398019b",
   "question": "What does 'new zealand' mean?",
   "type": "multiple_choice",
   "subject": "Theme",

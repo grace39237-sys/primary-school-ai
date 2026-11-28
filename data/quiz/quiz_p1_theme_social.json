@@ -400,7 +400,7 @@
   "image": null
  },
  {
-  "id": "TH1132000",
+  "id": "TH1132000b",
   "question": "What does 'roof' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -420,7 +420,7 @@
   "image": null
  },
  {
-  "id": "TH1132001",
+  "id": "TH1132001b",
   "question": "What does 'grandmother' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -440,7 +440,7 @@
   "image": null
  },
  {
-  "id": "TH1132002",
+  "id": "TH1132002b",
   "question": "Which word means 'small grass house'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -460,7 +460,7 @@
   "image": null
  },
  {
-  "id": "TH1132003",
+  "id": "TH1132003b",
   "question": "What does 'brother' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -480,7 +480,7 @@
   "image": null
  },
  {
-  "id": "TH1132004",
+  "id": "TH1132004b",
   "question": "Which word means 'very young child'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -500,7 +500,7 @@
   "image": null
  },
  {
-  "id": "TH1132005",
+  "id": "TH1132005b",
   "question": "What does 'dig' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -520,7 +520,7 @@
   "image": null
  },
  {
-  "id": "TH1132006",
+  "id": "TH1132006b",
   "question": "What does 'house' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -540,7 +540,7 @@
   "image": null
  },
  {
-  "id": "TH1132007",
+  "id": "TH1132007b",
   "question": "Which word means 'female sibling'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -560,7 +560,7 @@
   "image": null
  },
  {
-  "id": "TH1132008",
+  "id": "TH1132008b",
   "question": "Which word means 'clean clothes with water'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -580,7 +580,7 @@
   "image": null
  },
  {
-  "id": "TH1132009",
+  "id": "TH1132009b",
   "question": "What does 'cook' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -600,7 +600,7 @@
   "image": null
  },
  {
-  "id": "TH1132010",
+  "id": "TH1132010b",
   "question": "Which word means 'get water from borehole'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -620,7 +620,7 @@
   "image": null
  },
  {
-  "id": "TH1132011",
+  "id": "TH1132011b",
   "question": "Which word means 'turn soil for planting'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -640,7 +640,7 @@
   "image": null
  },
  {
-  "id": "TH1132012",
+  "id": "TH1132012b",
   "question": "What does 'baby' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -660,7 +660,7 @@
   "image": null
  },
  {
-  "id": "TH1132013",
+  "id": "TH1132013b",
   "question": "What does 'fetch water' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -680,7 +680,7 @@
   "image": null
  },
  {
-  "id": "TH1132014",
+  "id": "TH1132014b",
   "question": "Which word means 'give assistance'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -700,7 +700,7 @@
   "image": null
  },
  {
-  "id": "TH1132015",
+  "id": "TH1132015b",
   "question": "Which word means 'open space around house'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -720,7 +720,7 @@
   "image": null
  },
  {
-  "id": "TH1132016",
+  "id": "TH1132016b",
   "question": "Which word means 'building for living'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -740,27 +740,7 @@
   "image": null
  },
  {
-  "id": "TH1132017",
-  "question": "___ reads a book.",
-  "type": "multiple_choice",
-  "subject": "Theme",
-  "grade": "P1",
-  "term": "Term 1",
-  "unit": "Our Home",
-  "difficulty": "medium",
-  "answer": "father",
-  "options": [
-   "father",
-   "brother",
-   "mother",
-   "dig"
-  ],
-  "explanation": "The word is 'father': Father reads a book.",
-  "hint": "It starts with 'F'.",
-  "image": null
- },
- {
-  "id": "TH1132018",
+  "id": "TH1132018b",
   "question": "What does 'window' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -780,7 +760,7 @@
   "image": null
  },
  {
-  "id": "TH1132019",
+  "id": "TH1132019b",
   "question": "What does 'care' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -800,7 +780,7 @@
   "image": null
  },
  {
-  "id": "TH1167000",
+  "id": "TH1167000b",
   "question": "Which word means 'place for Muslim prayer'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -820,7 +800,7 @@
   "image": null
  },
  {
-  "id": "TH1167001",
+  "id": "TH1167001b",
   "question": "Which word means 'person who guides others'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -840,7 +820,7 @@
   "image": null
  },
  {
-  "id": "TH1167002",
+  "id": "TH1167002b",
   "question": "Which word means 'person who drives a vehicle'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -860,7 +840,7 @@
   "image": null
  },
  {
-  "id": "TH1167003",
+  "id": "TH1167003b",
   "question": "Which word means 'person who sews clothes'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -880,7 +860,7 @@
   "image": null
  },
  {
-  "id": "TH1167004",
+  "id": "TH1167004b",
   "question": "The ___ leads the mass.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -900,7 +880,7 @@
   "image": null
  },
  {
-  "id": "TH1167005",
+  "id": "TH1167005b",
   "question": "Which word means 'person who grows crops'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -920,7 +900,7 @@
   "image": null
  },
  {
-  "id": "TH1167006",
+  "id": "TH1167006b",
   "question": "Which word means 'small place to buy things'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -940,7 +920,7 @@
   "image": null
  },
  {
-  "id": "TH1167007",
+  "id": "TH1167007b",
   "question": "Which word means 'traditional leader of a clan'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -960,7 +940,7 @@
   "image": null
  },
  {
-  "id": "TH1167008",
+  "id": "TH1167008b",
   "question": "Which word means 'person who builds houses'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -980,7 +960,7 @@
   "image": null
  },
  {
-  "id": "TH1167009",
+  "id": "TH1167009b",
   "question": "They sing at the ___ on Sunday.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1000,7 +980,7 @@
   "image": null
  },
  {
-  "id": "TH1167010",
+  "id": "TH1167010b",
   "question": "What does 'school' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1020,7 +1000,7 @@
   "image": null
  },
  {
-  "id": "TH1167011",
+  "id": "TH1167011b",
   "question": "Which word means 'person who sells in a shop'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1040,7 +1020,7 @@
   "image": null
  },
  {
-  "id": "TH1167012",
+  "id": "TH1167012b",
   "question": "What does 'chief' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1060,7 +1040,7 @@
   "image": null
  },
  {
-  "id": "TH1167013",
+  "id": "TH1167013b",
   "question": "What does 'farmer' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1080,7 +1060,7 @@
   "image": null
  },
  {
-  "id": "TH1167014",
+  "id": "TH1167014b",
   "question": "What does 'church' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1100,7 +1080,7 @@
   "image": null
  },
  {
-  "id": "TH1167015",
+  "id": "TH1167015b",
   "question": "What does 'nurse' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1120,7 +1100,7 @@
   "image": null
  },
  {
-  "id": "TH1167016",
+  "id": "TH1167016b",
   "question": "Which word means 'place for Christian prayer'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1140,7 +1120,7 @@
   "image": null
  },
  {
-  "id": "TH1167017",
+  "id": "TH1167017b",
   "question": "What does 'police post' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1160,7 +1140,7 @@
   "image": null
  },
  {
-  "id": "TH1167018",
+  "id": "TH1167018b",
   "question": "A good ___ listens to people.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1180,7 +1160,7 @@
   "image": null
  },
  {
-  "id": "TH1167019",
+  "id": "TH1167019b",
   "question": "Which word means 'Christian religious leader'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1200,7 +1180,7 @@
   "image": null
  },
  {
-  "id": "TH1155000",
+  "id": "TH1155000c",
   "question": "She sees with her ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1220,7 +1200,7 @@
   "image": null
  },
  {
-  "id": "TH1155001",
+  "id": "TH1155001c",
   "question": "___ your teeth.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1240,7 +1220,7 @@
   "image": null
  },
  {
-  "id": "TH1155002",
+  "id": "TH1155002c",
   "question": "Which word means 'hear with them'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1260,7 +1240,7 @@
   "image": null
  },
  {
-  "id": "TH1155003",
+  "id": "TH1155003c",
   "question": "What does 'clean' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1280,7 +1260,7 @@
   "image": null
  },
  {
-  "id": "TH1155004",
+  "id": "TH1155004c",
   "question": "The ___ checks temperature.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1300,7 +1280,7 @@
   "image": null
  },
  {
-  "id": "TH1155005",
+  "id": "TH1155005c",
   "question": "Which word means 'not dirty'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1320,7 +1300,7 @@
   "image": null
  },
  {
-  "id": "TH1155006",
+  "id": "TH1155006c",
   "question": "Which word means 'shot to prevent disease'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1340,7 +1320,7 @@
   "image": null
  },
  {
-  "id": "TH1155007",
+  "id": "TH1155007c",
   "question": "Which word means 'wash whole body'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1360,7 +1340,7 @@
   "image": null
  },
  {
-  "id": "TH1155008",
+  "id": "TH1155008c",
   "question": "Use the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1380,7 +1360,7 @@
   "image": null
  },
  {
-  "id": "TH1155009",
+  "id": "TH1155009c",
   "question": "Take ___ as told.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1400,7 +1380,7 @@
   "image": null
  },
  {
-  "id": "TH1155010",
+  "id": "TH1155010c",
   "question": "What does 'head' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1420,7 +1400,7 @@
   "image": null
  },
  {
-  "id": "TH1155011",
+  "id": "TH1155011c",
   "question": "Which word means 'hold things'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1440,7 +1420,7 @@
   "image": null
  },
  {
-  "id": "TH1155012",
+  "id": "TH1155012c",
   "question": "What does 'ears' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1460,7 +1440,7 @@
   "image": null
  },
  {
-  "id": "TH1155013",
+  "id": "TH1155013c",
   "question": "What does 'nurse' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1480,7 +1460,7 @@
   "image": null
  },
  {
-  "id": "TH1155014",
+  "id": "TH1155014c",
   "question": "The ___ listens to chest.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1500,7 +1480,7 @@
   "image": null
  },
  {
-  "id": "TH1155015",
+  "id": "TH1155015c",
   "question": "She smells with her ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1520,7 +1500,7 @@
   "image": null
  },
  {
-  "id": "TH1155016",
+  "id": "TH1155016c",
   "question": "What does 'hands' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1540,7 +1520,7 @@
   "image": null
  },
  {
-  "id": "TH1155017",
+  "id": "TH1155017c",
   "question": "Which word means 'not well'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1560,7 +1540,7 @@
   "image": null
  },
  {
-  "id": "TH1155018",
+  "id": "TH1155018c",
   "question": "Which word means 'helps sick people'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1580,7 +1560,7 @@
   "image": null
  },
  {
-  "id": "TH1155019",
+  "id": "TH1155019c",
   "question": "What does 'legs' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1701,7 +1681,7 @@
  },
  {
   "id": "TH1258005",
-  "question": "The **___** works in the **garden**.",
+  "question": "The ___ works in the garden.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -1715,7 +1695,7 @@
    "garden",
    "dig"
   ],
-  "explanation": "The word is 'farmer': The **farmer** works in the **garden**.",
+  "explanation": "The word is 'farmer': The farmer works in the garden.",
   "hint": "It starts with 'F'.",
   "image": null
  },
@@ -1761,7 +1741,7 @@
  },
  {
   "id": "TH1258008",
-  "question": "Rainy **___** comes twice a year.",
+  "question": "Rainy ___ comes twice a year.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -1775,7 +1755,7 @@
    "dig",
    "gumboots"
   ],
-  "explanation": "The word is 'season': Rainy **season** comes twice a year.",
+  "explanation": "The word is 'season': Rainy season comes twice a year.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -1861,7 +1841,7 @@
  },
  {
   "id": "TH1258013",
-  "question": "The morning air is **___**.",
+  "question": "The morning air is ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -1875,7 +1855,7 @@
    "coat",
    "sun"
   ],
-  "explanation": "The word is 'cold': The morning air is **cold**.",
+  "explanation": "The word is 'cold': The morning air is cold.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -1901,7 +1881,7 @@
  },
  {
   "id": "TH1258015",
-  "question": "The **___** shines on the mango tree.",
+  "question": "The ___ shines on the mango tree.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -1915,7 +1895,7 @@
    "storm",
    "rain"
   ],
-  "explanation": "The word is 'sun': The **sun** shines on the mango tree.",
+  "explanation": "The word is 'sun': The sun shines on the mango tree.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -1941,7 +1921,7 @@
  },
  {
   "id": "TH1258017",
-  "question": "After rain, the **farmer** will **___** maize.",
+  "question": "After rain, the farmer will ___ maize.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -1955,7 +1935,7 @@
    "dig",
    "dry"
   ],
-  "explanation": "The word is 'plant': After rain, the **farmer** will **plant** maize.",
+  "explanation": "The word is 'plant': After rain, the farmer will plant maize.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -1981,7 +1961,7 @@
  },
  {
   "id": "TH1258019",
-  "question": "Mother gives Amina a **___** for **cold** days.",
+  "question": "Mother gives Amina a ___ for cold days.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -1995,7 +1975,7 @@
    "dig",
    "shoes"
   ],
-  "explanation": "The word is 'coat': Mother gives Amina a **coat** for **cold** days.",
+  "explanation": "The word is 'coat': Mother gives Amina a coat for cold days.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -2481,7 +2461,7 @@
  },
  {
   "id": "TH1295004",
-  "question": "We **___** the water.",
+  "question": "We ___ the water.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2495,7 +2475,7 @@
    "slash",
    "peace"
   ],
-  "explanation": "The word is 'share': We **share** the water.",
+  "explanation": "The word is 'share': We share the water.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2621,7 +2601,7 @@
  },
  {
   "id": "TH1295011",
-  "question": "**___** makes us happy.",
+  "question": "___ makes us happy.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2635,13 +2615,13 @@
    "help",
    "visitor"
   ],
-  "explanation": "The word is 'peace': **Peace** makes us happy.",
+  "explanation": "The word is 'peace': Peace makes us happy.",
   "hint": "It starts with 'P'.",
   "image": null
  },
  {
   "id": "TH1295012",
-  "question": "I say **___** when I push.",
+  "question": "I say ___ when I push.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2655,7 +2635,7 @@
    "share",
    "family"
   ],
-  "explanation": "The word is 'sorry': I say **sorry** when I push.",
+  "explanation": "The word is 'sorry': I say sorry when I push.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2681,7 +2661,7 @@
  },
  {
   "id": "TH1295014",
-  "question": "We **___** to the elder.",
+  "question": "We ___ to the elder.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2695,7 +2675,7 @@
    "forgive",
    "sweep"
   ],
-  "explanation": "The word is 'listen': We **listen** to the elder.",
+  "explanation": "The word is 'listen': We listen to the elder.",
   "hint": "It starts with 'L'.",
   "image": null
  },
@@ -2741,7 +2721,7 @@
  },
  {
   "id": "TH1295017",
-  "question": "We **___** the garden.",
+  "question": "We ___ the garden.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2755,7 +2735,7 @@
    "greet",
    "respect"
   ],
-  "explanation": "The word is 'dig': We **dig** the garden.",
+  "explanation": "The word is 'dig': We dig the garden.",
   "hint": "It starts with 'D'.",
   "image": null
  },
@@ -2781,7 +2761,7 @@
  },
  {
   "id": "TH1295019",
-  "question": "We **___** the compound.",
+  "question": "We ___ the compound.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2795,7 +2775,7 @@
    "help",
    "greet"
   ],
-  "explanation": "The word is 'sweep': We **sweep** the compound.",
+  "explanation": "The word is 'sweep': We sweep the compound.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -3793,7 +3773,7 @@
    "doll",
    "tailor",
    "sticks",
-   "toy"
+   "ball"
   ],
   "explanation": "The word is 'doll': Kato plays with a doll.",
   "hint": "It starts with 'D'.",
@@ -3971,9 +3951,9 @@
   "answer": "basket",
   "options": [
    "basket",
-   "bag",
    "paper",
-   "clay"
+   "clay",
+   "hat"
   ],
   "explanation": "The word is 'basket': Kato carries a basket.",
   "hint": "It starts with 'B'.",
@@ -4241,7 +4221,7 @@
  },
  {
   "id": "TH1348012",
-  "question": "The ___ is green.",
+  "question": "The ___ is a high land that goes up.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -4255,7 +4235,7 @@
    "bird",
    "road"
   ],
-  "explanation": "The word is 'hill': The hill is green.",
+  "explanation": "The word is 'hill': The hill is a high land that goes up.",
   "hint": "It starts with 'H'.",
   "image": null
  },
@@ -4411,7 +4391,7 @@
   "answer": "guard",
   "options": [
    "guard",
-   "police officer",
+   "teacher",
    "harmony",
    "respect"
   ],

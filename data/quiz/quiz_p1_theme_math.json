@@ -401,7 +401,7 @@
  },
  {
   "id": "TH1132000",
-  "question": "Which word means 'more big than another'?",
+  "question": "Which word means 'bigger than another'?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2001,7 +2001,7 @@
  },
  {
   "id": "TH1221000",
-  "question": "We **___** 6 from 15.",
+  "question": "We ___ 6 from 15.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2011,11 +2011,11 @@
   "answer": "subtract",
   "options": [
    "subtract",
-   "fifth",
-   "second",
-   "first"
+   "add",
+   "multiply",
+   "divide"
   ],
-  "explanation": "The word is 'subtract': We **subtract** 6 from 15.",
+  "explanation": "The word is 'subtract': We subtract 6 from 15.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2061,7 +2061,7 @@
  },
  {
   "id": "TH1221003",
-  "question": "Kato is **___**.",
+  "question": "Kato is ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2075,7 +2075,7 @@
    "add",
    "difference"
   ],
-  "explanation": "The word is 'second': Kato is **second**.",
+  "explanation": "The word is 'second': Kato is second.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -2101,7 +2101,7 @@
  },
  {
   "id": "TH1221005",
-  "question": "Amina is **___** in line.",
+  "question": "Amina is ___ in line.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2161,7 +2161,7 @@
  },
  {
   "id": "TH1221008",
-  "question": "Count **___**.",
+  "question": "Count ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2181,7 +2181,7 @@
  },
  {
   "id": "TH1221009",
-  "question": "The **___** is 7.",
+  "question": "The ___ is 7.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -2261,7 +2261,7 @@
  },
  {
   "id": "TH1221013",
-  "question": "We **___** 5 and 7.",
+  "question": "We ___ 5 and 7.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -3321,7 +3321,7 @@
  },
  {
   "id": "TH1339006",
-  "question": "Which word means 'the number five, five times'?",
+  "question": "Which word is the plural of five?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -3335,7 +3335,7 @@
    "time",
    "afternoon"
   ],
-  "explanation": "the number five, five times — that is 'fives'.",
+  "explanation": "The plural of five is fives.",
   "hint": "It starts with 'F'.",
   "image": null
  },
@@ -3721,7 +3721,7 @@
  },
  {
   "id": "TH1378006",
-  "question": "Two **___** make twenty.",
+  "question": "Two ___ make twenty.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -3841,7 +3841,7 @@
  },
  {
   "id": "TH1378012",
-  "question": "Write the **___** 27.",
+  "question": "Write the ___ 27.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -3855,7 +3855,7 @@
    "repeat",
    "pattern"
   ],
-  "explanation": "The word is 'number': Write the **number** 27.",
+  "explanation": "The word is 'number': Write the number 27.",
   "hint": "It starts with 'N'.",
   "image": null
  },
@@ -3941,7 +3941,7 @@
  },
  {
   "id": "TH1378017",
-  "question": "The colours **___**.",
+  "question": "The colours ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P1",
@@ -3955,7 +3955,7 @@
    "ones",
    "tens"
   ],
-  "explanation": "The word is 'repeat': The colours **repeat**.",
+  "explanation": "The word is 'repeat': The colours repeat.",
   "hint": "It starts with 'R'.",
   "image": null
  },
@@ -4000,7 +4000,7 @@
   "image": null
  },
  {
-  "id": "TH1378000",
+  "id": "TH1378000b",
   "question": "What does 'span' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4020,7 +4020,7 @@
   "image": null
  },
  {
-  "id": "TH1378001",
+  "id": "TH1378001b",
   "question": "What does 'sum' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4040,7 +4040,7 @@
   "image": null
  },
  {
-  "id": "TH1378002",
+  "id": "TH1378002b",
   "question": "Which word means 'a set of things together'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4060,7 +4060,7 @@
   "image": null
  },
  {
-  "id": "TH1378003",
+  "id": "TH1378003b",
   "question": "Which word means 'how long something is'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4080,7 +4080,7 @@
   "image": null
  },
  {
-  "id": "TH1378004",
+  "id": "TH1378004b",
   "question": "Which word means 'distance from thumb to little finger'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4100,7 +4100,7 @@
   "image": null
  },
  {
-  "id": "TH1378005",
+  "id": "TH1378005b",
   "question": "What does 'long' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4120,7 +4120,7 @@
   "image": null
  },
  {
-  "id": "TH1378006",
+  "id": "TH1378006b",
   "question": "Which word means 'put things into groups'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4140,7 +4140,7 @@
   "image": null
  },
  {
-  "id": "TH1378007",
+  "id": "TH1378007b",
   "question": "Which word means 'having much length'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4160,7 +4160,7 @@
   "image": null
  },
  {
-  "id": "TH1378008",
+  "id": "TH1378008b",
   "question": "What does 'same' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4180,7 +4180,7 @@
   "image": null
  },
  {
-  "id": "TH1378009",
+  "id": "TH1378009b",
   "question": "Which word means 'find how long or big'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4200,7 +4200,7 @@
   "image": null
  },
  {
-  "id": "TH1378010",
+  "id": "TH1378010b",
   "question": "Amina will ___ the leaves.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4220,7 +4220,7 @@
   "image": null
  },
  {
-  "id": "TH1378011",
+  "id": "TH1378011b",
   "question": "What does 'more' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4240,7 +4240,7 @@
   "image": null
  },
  {
-  "id": "TH1378012",
+  "id": "TH1378012b",
   "question": "The path is very ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4260,7 +4260,7 @@
   "image": null
  },
  {
-  "id": "TH1378013",
+  "id": "TH1378013b",
   "question": "We have 8 seeds ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4280,7 +4280,7 @@
   "image": null
  },
  {
-  "id": "TH1378014",
+  "id": "TH1378014b",
   "question": "The rope has a long ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4300,7 +4300,7 @@
   "image": null
  },
  {
-  "id": "TH1378015",
+  "id": "TH1378015b",
   "question": "My hand ___ is wide.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4320,7 +4320,7 @@
   "image": null
  },
  {
-  "id": "TH1378016",
+  "id": "TH1378016b",
   "question": "What does 'size' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4340,7 +4340,7 @@
   "image": null
  },
  {
-  "id": "TH1378017",
+  "id": "TH1378017b",
   "question": "Which word means 'added to what is there'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4360,7 +4360,7 @@
   "image": null
  },
  {
-  "id": "TH1378018",
+  "id": "TH1378018b",
   "question": "Which word means 'the answer when you add'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4380,7 +4380,7 @@
   "image": null
  },
  {
-  "id": "TH1378019",
+  "id": "TH1378019b",
   "question": "Which word means 'alike in some way'?",
   "type": "multiple_choice",
   "subject": "Theme",

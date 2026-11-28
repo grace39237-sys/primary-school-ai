@@ -492,7 +492,7 @@
   "options": [
    "shop",
    "nurse",
-   "market",
+   "school",
    "house"
   ],
   "explanation": "a place to buy things — that is 'shop'.",
@@ -1240,7 +1240,7 @@
   "image": null
  },
  {
-  "id": "TH2132002",
+  "id": "TH2132002b",
   "question": "Meat makes muscles ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1321,7 +1321,7 @@
  },
  {
   "id": "TH2132006",
-  "question": "___ is good for you.",
+  "question": "Which word means a sweet plant food that is good for you?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1661,7 +1661,7 @@
  },
  {
   "id": "TH2207003",
-  "question": "Pick up the **___**.",
+  "question": "Pick up the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -1675,7 +1675,7 @@
    "sheep",
    "bird"
   ],
-  "explanation": "The word is 'rubbish': Pick up the **rubbish**.",
+  "explanation": "The word is 'rubbish': Pick up the rubbish.",
   "hint": "It starts with 'R'.",
   "image": null
  },
@@ -3032,7 +3032,7 @@
   "options": [
    "free from harm",
    "a wound from a sharp thing",
-   "being free from danger",
+   "a sharp tool",
    "a cloth to cover a wound"
   ],
   "explanation": "'safe' means free from harm.",
@@ -4080,7 +4080,7 @@
   "image": null
  },
  {
-  "id": "TH2311004",
+  "id": "TH2311004b",
   "question": "What does 'mass' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4140,7 +4140,7 @@
   "image": null
  },
  {
-  "id": "TH2311007",
+  "id": "TH2311007b",
   "question": "Which word means 'Uganda's money unit'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4280,7 +4280,7 @@
   "image": null
  },
  {
-  "id": "TH2311014",
+  "id": "TH2311014b",
   "question": "Which word means 'has a lot of weight'?",
   "type": "multiple_choice",
   "subject": "Theme",

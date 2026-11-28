@@ -400,7 +400,7 @@
   "image": null
  },
  {
-  "id": "TH3125000",
+  "id": "TH3125000b",
   "question": "What does 'swamp' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -420,7 +420,7 @@
   "image": null
  },
  {
-  "id": "TH3125001",
+  "id": "TH3125001b",
   "question": "What does 'south' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -440,7 +440,7 @@
   "image": null
  },
  {
-  "id": "TH3125002",
+  "id": "TH3125002b",
   "question": "What does 'road' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -460,7 +460,7 @@
   "image": null
  },
  {
-  "id": "TH3125003",
+  "id": "TH3125003b",
   "question": "What does 'valley' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -480,7 +480,7 @@
   "image": null
  },
  {
-  "id": "TH3125004",
+  "id": "TH3125004b",
   "question": "What does 'east' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -500,7 +500,7 @@
   "image": null
  },
  {
-  "id": "TH3125005",
+  "id": "TH3125005b",
   "question": "The murram ___ connects the village to town.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -520,7 +520,7 @@
   "image": null
  },
  {
-  "id": "TH3125006",
+  "id": "TH3125006b",
   "question": "The river marks the ___ between two parishes.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -540,7 +540,7 @@
   "image": null
  },
  {
-  "id": "TH3125007",
+  "id": "TH3125007b",
   "question": "Which word means 'fresh water that flows in a channel'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -560,7 +560,7 @@
   "image": null
  },
  {
-  "id": "TH3125008",
+  "id": "TH3125008b",
   "question": "The road goes down into the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -580,7 +580,7 @@
   "image": null
  },
  {
-  "id": "TH3125009",
+  "id": "TH3125009b",
   "question": "Our ___ has ten houses and a shop.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -600,7 +600,7 @@
   "image": null
  },
  {
-  "id": "TH3125010",
+  "id": "TH3125010b",
   "question": "What does 'district' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -620,7 +620,7 @@
   "image": null
  },
  {
-  "id": "TH3125011",
+  "id": "TH3125011b",
   "question": "Which word means 'the way you go to reach a place'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -640,7 +640,7 @@
   "image": null
  },
  {
-  "id": "TH3125012",
+  "id": "TH3125012b",
   "question": "Which word means 'a drawing that shows places from above'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -660,7 +660,7 @@
   "image": null
  },
  {
-  "id": "TH3125013",
+  "id": "TH3125013b",
   "question": "What does 'lake' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -680,7 +680,7 @@
   "image": null
  },
  {
-  "id": "TH3125014",
+  "id": "TH3125014b",
   "question": "What does 'direction' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -700,7 +700,7 @@
   "image": null
  },
  {
-  "id": "TH3125015",
+  "id": "TH3125015b",
   "question": "The ___ floods in the rain season.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -720,7 +720,7 @@
   "image": null
  },
  {
-  "id": "TH3125016",
+  "id": "TH3125016b",
   "question": "Which word means 'a small place where families live near each other'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -741,7 +741,7 @@
  },
  {
   "id": "TH3125017",
-  "question": "The market is ___ of the borehole.",
+  "question": "On the map of our sub-county, the market is ___ of the borehole.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -760,7 +760,7 @@
   "image": null
  },
  {
-  "id": "TH3125018",
+  "id": "TH3125018b",
   "question": "Amina walks to her ___ school.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -780,7 +780,7 @@
   "image": null
  },
  {
-  "id": "TH3125019",
+  "id": "TH3125019b",
   "question": "Which word means 'a big area made of many sub-counties'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1551,7 +1551,7 @@
   "answer": "waste",
   "options": [
    "waste",
-   "rubbish",
+   "bottles",
    "building",
    "air"
   ],
@@ -1573,7 +1573,7 @@
    "protect",
    "air",
    "people",
-   "conserve"
+   "ignore"
   ],
   "explanation": "The word is 'protect': We protect trees by not cutting them.",
   "hint": "It starts with 'P'.",
@@ -1591,7 +1591,7 @@
   "answer": "plants",
   "options": [
    "plants",
-   "plant",
+   "animals",
    "pollution",
    "fishing"
   ],
@@ -2061,7 +2061,7 @@
  },
  {
   "id": "TH3272003",
-  "question": "Worms live in the **___**.",
+  "question": "Worms live in the ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -2075,7 +2075,7 @@
    "shelter",
    "sunlight"
   ],
-  "explanation": "The word is 'soil': Worms live in the **soil**.",
+  "explanation": "The word is 'soil': Worms live in the soil.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -3481,7 +3481,7 @@
  },
  {
   "id": "TH3355014",
-  "question": "Grandmother gives good **___**.",
+  "question": "Grandmother gives good ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P3",
@@ -3495,7 +3495,7 @@
    "respect",
    "share"
   ],
-  "explanation": "The word is 'care': Grandmother gives good **care**.",
+  "explanation": "The word is 'care': Grandmother gives good care.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -4400,7 +4400,7 @@
   "image": null
  },
  {
-  "id": "TH3335000",
+  "id": "TH3335000b",
   "question": "We sleep on a **___** on the floor.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4420,7 +4420,7 @@
   "image": null
  },
  {
-  "id": "TH3335001",
+  "id": "TH3335001b",
   "question": "What does 'panga' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4440,7 +4440,7 @@
   "image": null
  },
  {
-  "id": "TH3335002",
+  "id": "TH3335002b",
   "question": "What does 'radio' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4460,7 +4460,7 @@
   "image": null
  },
  {
-  "id": "TH3335003",
+  "id": "TH3335003b",
   "question": "We use a **___** to clean the house.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4480,7 +4480,7 @@
   "image": null
  },
  {
-  "id": "TH3335004",
+  "id": "TH3335004b",
   "question": "Which word means 'machine that plays news and music'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4500,7 +4500,7 @@
   "image": null
  },
  {
-  "id": "TH3335005",
+  "id": "TH3335005b",
   "question": "What does 'hoe' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4520,7 +4520,7 @@
   "image": null
  },
  {
-  "id": "TH3335006",
+  "id": "TH3335006b",
   "question": "We use a **___** to clear the path.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4540,7 +4540,7 @@
   "image": null
  },
  {
-  "id": "TH3335007",
+  "id": "TH3335007b",
   "question": "What does 'natural' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4560,7 +4560,7 @@
   "image": null
  },
  {
-  "id": "TH3335008",
+  "id": "TH3335008b",
   "question": "What does 'plastic' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4580,7 +4580,7 @@
   "image": null
  },
  {
-  "id": "TH3335009",
+  "id": "TH3335009b",
   "question": "Which word means 'tool with a metal blade for digging soil'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4600,7 +4600,7 @@
   "image": null
  },
  {
-  "id": "TH3335010",
+  "id": "TH3335010b",
   "question": "Which word means 'big knife for cutting grass and branches'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4620,7 +4620,7 @@
   "image": null
  },
  {
-  "id": "TH3335011",
+  "id": "TH3335011b",
   "question": "Which word means 'hard material from tree trunks and branches'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4640,7 +4640,7 @@
   "image": null
  },
  {
-  "id": "TH3335012",
+  "id": "TH3335012b",
   "question": "What does 'phone' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4660,7 +4660,7 @@
   "image": null
  },
  {
-  "id": "TH3335013",
+  "id": "TH3335013b",
   "question": "Which word means 'green plants that grow on the ground'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4680,7 +4680,7 @@
   "image": null
  },
  {
-  "id": "TH3335014",
+  "id": "TH3335014b",
   "question": "Father uses a **___** in the garden.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4700,7 +4700,7 @@
   "image": null
  },
  {
-  "id": "TH3335015",
+  "id": "TH3335015b",
   "question": "Wood is a ___ material.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4720,7 +4720,7 @@
   "image": null
  },
  {
-  "id": "TH3335016",
+  "id": "TH3335016b",
   "question": "The **pot** has a rough **___**.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4740,7 +4740,7 @@
   "image": null
  },
  {
-  "id": "TH3335017",
+  "id": "TH3335017b",
   "question": "What does 'broom' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4760,7 +4760,7 @@
   "image": null
  },
  {
-  "id": "TH3335018",
+  "id": "TH3335018b",
   "question": "What does 'grass' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -4780,7 +4780,7 @@
   "image": null
  },
  {
-  "id": "TH3335019",
+  "id": "TH3335019b",
   "question": "Which word means 'strong, shiny material dug from the ground'?",
   "type": "multiple_choice",
   "subject": "Theme",

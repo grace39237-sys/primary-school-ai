@@ -2521,7 +2521,7 @@
  },
  {
   "id": "TH5265006",
-  "question": "___ live in soil and water.",
+  "question": "___ are tiny single-celled organisms that live in soil and water.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -2535,7 +2535,7 @@
    "bread",
    "fungi"
   ],
-  "explanation": "The word is 'bacteria': Bacteria live in soil and water.",
+  "explanation": "The word is 'bacteria': Bacteria are tiny single-celled organisms that live in soil and water.",
   "hint": "It starts with 'B'.",
   "image": null
  },
@@ -4841,7 +4841,7 @@
  },
  {
   "id": "TH5375002",
-  "question": "Good **___** like washing hands and covering food stops **houseflies**.",
+  "question": "Good ___ like washing hands and covering food stops houseflies.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -4855,13 +4855,13 @@
    "bush clearing",
    "drainage"
   ],
-  "explanation": "The word is 'hygiene': Good **hygiene** like washing hands and covering food stops **houseflies**.",
+  "explanation": "The word is 'hygiene': Good hygiene like washing hands and covering food stops houseflies.",
   "hint": "It starts with 'H'.",
   "image": null
  },
  {
   "id": "TH5375003",
-  "question": "Keep the **___** covered to stop **houseflies**.",
+  "question": "Keep the ___ covered to stop houseflies.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -4875,13 +4875,13 @@
    "insecticide",
    "drainage"
   ],
-  "explanation": "The word is 'latrine': Keep the **latrine** covered to stop **houseflies**.",
+  "explanation": "The word is 'latrine': Keep the latrine covered to stop houseflies.",
   "hint": "It starts with 'L'.",
   "image": null
  },
  {
   "id": "TH5375004",
-  "question": "Good **___** stops **mosquitoes** breeding.",
+  "question": "Good ___ stops mosquitoes breeding.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -4895,7 +4895,7 @@
    "vector",
    "bed bug"
   ],
-  "explanation": "The word is 'drainage': Good **drainage** stops **mosquitoes** breeding.",
+  "explanation": "The word is 'drainage': Good drainage stops mosquitoes breeding.",
   "hint": "It starts with 'D'.",
   "image": null
  },
@@ -5101,7 +5101,7 @@
  },
  {
   "id": "TH5375015",
-  "question": "**___** removes hiding places for **tsetse flies**.",
+  "question": "___ removes hiding places for tsetse flies.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -5115,13 +5115,13 @@
    "net",
    "black fly"
   ],
-  "explanation": "The word is 'bush clearing': **Bush clearing** removes hiding places for **tsetse flies**.",
+  "explanation": "The word is 'bush clearing': Bush clearing removes hiding places for tsetse flies.",
   "hint": "It starts with 'B'.",
   "image": null
  },
  {
   "id": "TH5375016",
-  "question": "**___** kills adult **mosquitoes** and **houseflies**.",
+  "question": "___ kills adult mosquitoes and houseflies.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -5135,7 +5135,7 @@
    "insecticide",
    "cholera"
   ],
-  "explanation": "The word is 'fumigation': **Fumigation** kills adult **mosquitoes** and **houseflies**.",
+  "explanation": "The word is 'fumigation': Fumigation kills adult mosquitoes and houseflies.",
   "hint": "It starts with 'F'.",
   "image": null
  },
@@ -5221,7 +5221,7 @@
  },
  {
   "id": "TH5336001",
-  "question": "After the injection, Amina has **___**.",
+  "question": "After the injection, Amina has ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -5235,13 +5235,13 @@
    "booster",
    "schedule"
   ],
-  "explanation": "The word is 'immunity': After the injection, Amina has **immunity**.",
+  "explanation": "The word is 'immunity': After the injection, Amina has immunity.",
   "hint": "It starts with 'I'.",
   "image": null
  },
  {
   "id": "TH5336002",
-  "question": "The **___** **vaccine** is in DPT.",
+  "question": "The ___ vaccine is in DPT.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P5",
@@ -5255,7 +5255,7 @@
    "OPV",
    "vaccine"
   ],
-  "explanation": "The word is 'whooping cough': The **whooping cough** **vaccine** is in DPT.",
+  "explanation": "The word is 'whooping cough': The whooping cough vaccine is in DPT.",
   "hint": "It starts with 'W'.",
   "image": null
  },

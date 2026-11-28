@@ -1692,8 +1692,8 @@
   "options": [
    "bird",
    "stone",
-   "hen",
-   "plant"
+   "plant",
+   "sun"
   ],
   "explanation": "an animal with feathers and wings — that is 'bird'.",
   "hint": "It starts with 'B'.",
@@ -3081,7 +3081,7 @@
  },
  {
   "id": "TH2223014",
-  "question": "___ helps heal.",
+  "question": "Which is a drug that helps heal?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",
@@ -3241,7 +3241,7 @@
  },
  {
   "id": "TH2362002",
-  "question": "The ___ gives wise advice.",
+  "question": "The ___ gives wise advice in the community.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P2",

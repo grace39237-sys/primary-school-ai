@@ -1,0 +1,238 @@
+{
+  "builtAt": "2026-11-28T06:31:54.065Z",
+  "indexChunks": 66233,
+  "rows": [
+    {
+      "id": "C1",
+      "kind": "curriculum",
+      "q": "What is a noun?",
+      "best": 0.77,
+      "bestKind": "quiz",
+      "bestId": "P311010001",
+      "bestText": "A noun is a naming word. It names a person, place, animal or thing."
+    },
+    {
+      "id": "C2",
+      "kind": "curriculum",
+      "q": "What parts are on the head of an insect?",
+      "best": 0.697,
+      "bestKind": "quiz",
+      "bestId": "P214120107a",
+      "bestText": "Part D is the head of the insect."
+    },
+    {
+      "id": "C3",
+      "kind": "curriculum",
+      "q": "How do we keep our bodies clean?",
+      "best": 0.757,
+      "bestKind": "quiz",
+      "bestId": "P714700106",
+      "bestText": "Bathing and washing hands with soap clean the body. Dirty clothes, unbrushed teeth and sha"
+    },
+    {
+      "id": "C4",
+      "kind": "curriculum",
+      "q": "Which word is the adjective in this sentence: Maurice has a beautiful dress?",
+      "best": 0.891,
+      "bestKind": "quiz",
+      "bestId": "P311160007",
+      "bestText": "Beautiful describes the dress, so it is the adjective."
+    },
+    {
+      "id": "C5",
+      "kind": "curriculum",
+      "q": "Okello is 10 years old and 100 cm tall. Akena is 8 years old and 110 cm tall. Who is taller?",
+      "best": 0.924,
+      "bestKind": "quiz",
+      "bestId": "P432150003a",
+      "bestText": "Akena is 110 cm tall and Okello is 100 cm tall, so Akena is taller."
+    },
+    {
+      "id": "C6",
+      "kind": "curriculum",
+      "q": "How are hospitals important in our communities?",
+      "best": 0.78,
+      "bestKind": "quiz",
+      "bestId": "P514040065b",
+      "bestText": "Hospitals give treatment to the sick in the community."
+    },
+    {
+      "id": "C7",
+      "kind": "curriculum",
+      "q": "Why is central Tanzania not good for cattle keeping?",
+      "best": 0.786,
+      "bestKind": "quiz",
+      "bestId": "P623010002",
+      "bestText": "Tsetse flies bite cattle and spread diseases, so cattle cannot thrive there."
+    },
+    {
+      "id": "C8",
+      "kind": "curriculum",
+      "q": "Which river flows into Lake Victoria?",
+      "best": 0.796,
+      "bestKind": "lesson-qa",
+      "bestId": "LQ-P5-Social-The Rift Valley, Lakes and Rivers",
+      "bestText": "Lake Albert"
+    },
+    {
+      "id": "C9",
+      "kind": "curriculum",
+      "q": "The area of a square is 144 square centimetres. Find the length of each side.",
+      "best": 0.869,
+      "bestKind": "quiz",
+      "bestId": "P612040016a",
+      "bestText": "The square root of 144 is 12, so each side is 12 cm."
+    },
+    {
+      "id": "C10",
+      "kind": "curriculum",
+      "q": "How is a splint useful to a person with a fractured lower leg?",
+      "best": 0.823,
+      "bestKind": "quiz",
+      "bestId": "P714040076",
+      "bestText": "A splint holds the broken leg still so the bones do not move."
+    },
+    {
+      "id": "C11",
+      "kind": "curriculum",
+      "q": "A and B shared money in the ratio 3 to 4. If A got 12,000 shillings, how much money was shared?",
+      "best": 0.857,
+      "bestKind": "quiz",
+      "bestId": "P722050025",
+      "bestText": "One part = 4,000; total = 7 × 4,000 = 28,000."
+    },
+    {
+      "id": "C12",
+      "kind": "curriculum",
+      "q": "Name two hills in Kampala.",
+      "best": 0.846,
+      "bestKind": "quiz",
+      "bestId": "P413020023aa",
+      "bestText": "Kampala is built on hills like Kololo and Nakasero."
+    },
+    {
+      "id": "R1",
+      "kind": "refusal",
+      "q": "How do I fix a car engine that will not start?",
+      "best": 0.535,
+      "bestKind": "lesson-text",
+      "bestId": "LT-P5-English-Repairing and Maintaining Vehicles-5-2",
+      "bestText": "Starting the engine could cause a fire. You mustn't do that. Tell the **mechanic**."
+    },
+    {
+      "id": "R2",
+      "kind": "refusal",
+      "q": "Who won the election in Uganda last month?",
+      "best": 0.65,
+      "bestKind": "quiz",
+      "bestId": "P523050100b",
+      "bestText": "The Uganda People's Congress won the general elections of 1962 (in alliance with KY)."
+    },
+    {
+      "id": "R3",
+      "kind": "refusal",
+      "q": "What is quantum entanglement?",
+      "best": 0.31,
+      "bestKind": "quiz",
+      "bestId": "P232150004a",
+      "bestText": "The shape is a rectangle."
+    },
+    {
+      "id": "R4",
+      "kind": "refusal",
+      "q": "How much money do I need to build a house in Kampala?",
+      "best": 0.572,
+      "bestKind": "lesson-qa",
+      "bestId": "LQ-P5-English-Getting Ready to Travel",
+      "bestText": "The fare is 20,000 shillings."
+    }
+  ],
+  "minCurriculum": 0.697,
+  "maxRefusal": 0.65,
+  "suggested": 0.67,
+  "baseline": {
+    "minCurriculum": 0.696,
+    "maxRefusal": 0.638
+  },
+  "verdict": "retrieval NOT worse — OK to ship on retrieval grounds",
+  "spots": [
+    {
+      "id": "S1",
+      "q": "What should I teach today in P3 English Term 1?",
+      "desc": "a P3 English Term 1 DL plan chunk",
+      "ok": false,
+      "top": [
+        {
+          "kind": "dl",
+          "grade": "P2",
+          "score": 0.513,
+          "id": "DL-P2-T3-News-W12D03"
+        },
+        {
+          "kind": "lesson-qa",
+          "grade": "P1",
+          "score": 0.504,
+          "id": "LQ-P1-Science-People Who Keep Us Safe"
+        },
+        {
+          "kind": "lesson-qa",
+          "grade": "P2",
+          "score": 0.494,
+          "id": "LQ-P2-Social-People Who Serve Us"
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "q": "What is photosynthesis?",
+      "desc": "a chunk whose text mentions photosynthesis",
+      "ok": true,
+      "top": [
+        {
+          "kind": "lesson-qa",
+          "grade": "P4",
+          "score": 0.753,
+          "id": "LQ-P4-Science-How Plants Feed"
+        },
+        {
+          "kind": "quiz",
+          "grade": "P5",
+          "score": 0.718,
+          "id": "P514010058a"
+        },
+        {
+          "kind": "quiz",
+          "grade": "P4",
+          "score": 0.712,
+          "id": "P414010047"
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "q": "What activities can I do to teach about our community in P1?",
+      "desc": "a P1 DL plan chunk",
+      "ok": false,
+      "top": [
+        {
+          "kind": "quiz",
+          "grade": "P2",
+          "score": 0.569,
+          "id": "P213020041aa"
+        },
+        {
+          "kind": "quiz",
+          "grade": "P2",
+          "score": 0.564,
+          "id": "P213020041"
+        },
+        {
+          "kind": "dl",
+          "grade": "P4",
+          "score": 0.559,
+          "id": "DL-P4-T3-SocialStudies-W12D05"
+        }
+      ]
+    }
+  ]
+}

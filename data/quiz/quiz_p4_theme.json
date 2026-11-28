@@ -321,7 +321,7 @@
  },
  {
   "id": "TH4124016",
-  "question": "The soil is ___.",
+  "question": "What color is the soil?",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -381,7 +381,7 @@
  },
  {
   "id": "TH4124019",
-  "question": "The rock is ___.",
+  "question": "The rock feels ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -401,7 +401,7 @@
  },
  {
   "id": "TH4162000",
-  "question": "The latrine is ___ the kitchen.",
+  "question": "Based on the picture, the latrine is ___ the kitchen.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P4",
@@ -660,7 +660,7 @@
   "image": null
  },
  {
-  "id": "TH4162013",
+  "id": "TH4162013b",
   "question": "The hospital is ___ from our home.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -720,7 +720,7 @@
   "image": null
  },
  {
-  "id": "TH4162016",
+  "id": "TH4162016b",
   "question": "Which word means 'in the centre'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -740,7 +740,7 @@
   "image": null
  },
  {
-  "id": "TH4162017",
+  "id": "TH4162017b",
   "question": "___ left at the big tree.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -800,7 +800,7 @@
   "image": null
  },
  {
-  "id": "TH4162000",
+  "id": "TH4162000b",
   "question": "Which word means 'sweet plant foods'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -820,7 +820,7 @@
   "image": null
  },
  {
-  "id": "TH4162001",
+  "id": "TH4162001b",
   "question": "What does 'angry' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -840,7 +840,7 @@
   "image": null
  },
  {
-  "id": "TH4162002",
+  "id": "TH4162002b",
   "question": "What does 'foods' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -860,7 +860,7 @@
   "image": null
  },
  {
-  "id": "TH4162003",
+  "id": "TH4162003b",
   "question": "Which word means 'feeling mad'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -880,7 +880,7 @@
   "image": null
  },
  {
-  "id": "TH4162004",
+  "id": "TH4162004b",
   "question": "Which word means 'liquids we drink'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -900,7 +900,7 @@
   "image": null
  },
  {
-  "id": "TH4162005",
+  "id": "TH4162005b",
   "question": "What does 'lazy' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -920,7 +920,7 @@
   "image": null
  },
  {
-  "id": "TH4162006",
+  "id": "TH4162006b",
   "question": "What does 'happy' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -940,7 +940,7 @@
   "image": null
  },
  {
-  "id": "TH4162007",
+  "id": "TH4162007b",
   "question": "What does 'ill' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -960,7 +960,7 @@
   "image": null
  },
  {
-  "id": "TH4162008",
+  "id": "TH4162008b",
   "question": "What does 'drinks' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -980,7 +980,7 @@
   "image": null
  },
  {
-  "id": "TH4162009",
+  "id": "TH4162009b",
   "question": "Which word means 'preparing food'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1000,7 +1000,7 @@
   "image": null
  },
  {
-  "id": "TH4162010",
+  "id": "TH4162010b",
   "question": "I feel ___.",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1020,7 +1020,7 @@
   "image": null
  },
  {
-  "id": "TH4162011",
+  "id": "TH4162011b",
   "question": "What does 'worried' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1040,7 +1040,7 @@
   "image": null
  },
  {
-  "id": "TH4162012",
+  "id": "TH4162012b",
   "question": "Which word means 'feeling anxious'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1071,8 +1071,8 @@
   "answer": "playing",
   "options": [
    "playing",
-   "fruits",
-   "foods",
+   "sleeping",
+   "crying",
    "hungry"
   ],
   "explanation": "The word is 'playing': Children like playing.",
@@ -1080,7 +1080,7 @@
   "image": null
  },
  {
-  "id": "TH4162014",
+  "id": "TH4162014b",
   "question": "What does 'dancing' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1100,7 +1100,7 @@
   "image": null
  },
  {
-  "id": "TH4162015",
+  "id": "TH4162015b",
   "question": "Which word means 'sweet fizzy drink'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1133,7 +1133,7 @@
    "enjoy",
    "scared",
    "dancing",
-   "prefer"
+   "sleeping"
   ],
   "explanation": "The word is 'enjoy': I enjoy reading.",
   "hint": "It starts with 'E'.",
@@ -1152,7 +1152,7 @@
   "options": [
    "hungry",
    "enjoy",
-   "sad",
+   "book",
    "tea"
   ],
   "explanation": "The word is 'hungry': They are hungry.",
@@ -1160,7 +1160,7 @@
   "image": null
  },
  {
-  "id": "TH4162018",
+  "id": "TH4162018b",
   "question": "Which word means 'not well, sick'?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1180,7 +1180,7 @@
   "image": null
  },
  {
-  "id": "TH4162019",
+  "id": "TH4162019b",
   "question": "What does 'reading' mean?",
   "type": "multiple_choice",
   "subject": "Theme",
@@ -1273,7 +1273,7 @@
    "excuse",
    "welcome",
    "lend",
-   "pardon"
+   "hello"
   ],
   "explanation": "The word is 'excuse': Excuse me, may I pass?",
   "hint": "It starts with 'E'.",

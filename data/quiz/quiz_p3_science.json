@@ -946,7 +946,7 @@
  },
  {
   "id": "P314010059",
-  "question": "Another effect of natural changes is ____.",
+  "question": "An effect of natural changes is ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -1636,7 +1636,7 @@
  },
  {
   "id": "P314020005",
-  "question": "The object above is dangerous to children because it can ____ them.",
+  "question": "A broken bottle is dangerous to children because it can ____ them.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -2206,7 +2206,7 @@
  },
  {
   "id": "P314020041",
-  "question": "Stage N of the life cycle is the ____.",
+  "question": "The final stage of the mosquito life cycle is the ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -2221,7 +2221,7 @@
  },
  {
   "id": "P314020042",
-  "question": "Stage Q of the life cycle is the ____.",
+  "question": "The stage that hatches from the egg in an insect's life cycle is the ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -2368,10 +2368,10 @@
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "rainfall",
+  "answer": "sunshine",
   "options": null,
-  "explanation": "Rainfall and sunshine are elements of weather.",
-  "hint": "It falls from clouds.",
+  "explanation": "Sunshine, rainfall, wind, and temperature are the main elements of weather.",
+  "hint": "It comes from the sun.",
   "image": null
  },
  {
@@ -2391,7 +2391,7 @@
  },
  {
   "id": "P314020053",
-  "question": "Part S of the flowering plant is the ____.",
+  "question": "The part of a flowering plant that holds it upright is the ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -2516,7 +2516,7 @@
  },
  {
   "id": "P314020061",
-  "question": "Which property of air is shown in the diagram below?",
+  "question": "What property of air keeps a cardboard in place when a glass of water is turned upside down?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -3161,7 +3161,7 @@
  },
  {
   "id": "P314030005",
-  "question": "What food value do we get when we eat the animal below?",
+  "question": "What food value do we get when we eat fish?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -3271,7 +3271,7 @@
  },
  {
   "id": "P314030012",
-  "question": "The garden tool below is useful to a farmer for ____ crops.",
+  "question": "A sickle is useful to a farmer for ____ crops.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -3446,7 +3446,7 @@
  },
  {
   "id": "P314030023",
-  "question": "Part B of the bird is the ____.",
+  "question": "The part of a bird that picks food is the ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -4308,10 +4308,10 @@
   "term": "Term 1",
   "unit": "Environment",
   "difficulty": "easy",
-  "answer": "drought",
+  "answer": "flood",
   "options": null,
-  "explanation": "Drought dries the land and kills crops.",
-  "hint": "No rain for a long time.",
+  "explanation": "Floods occur when there is too much rain, causing rivers to overflow and change the landscape.",
+  "hint": "Too much rain causes it.",
   "image": null
  },
  {
@@ -4646,7 +4646,7 @@
  },
  {
   "id": "P314040007",
-  "question": "The animal below moves from one place to another by ____.",
+  "question": "The snake moves from one place to another by ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -4851,22 +4851,22 @@
  },
  {
   "id": "P314040020",
-  "question": "People keep hens at home to get ____.",
+  "question": "People keep cows at home to get ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 2",
   "unit": "Animals",
   "difficulty": "easy",
-  "answer": "eggs",
+  "answer": "milk",
   "options": null,
-  "explanation": "Hens lay eggs for us to eat.",
-  "hint": "Hens lay them.",
+  "explanation": "Cows give us milk to drink and use in cooking.",
+  "hint": "We drink it.",
   "image": null
  },
  {
   "id": "P314040021",
-  "question": "The tool below is useful in a home for ____.",
+  "question": "A broom is useful in a home for ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -5426,7 +5426,7 @@
  },
  {
   "id": "P314040056",
-  "question": "Which disease is the child in the picture suffering from?",
+  "question": "A child has red eyes, a running nose, and a skin rash. Which disease is the child suffering from?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -6105,7 +6105,7 @@
   "difficulty": "easy",
   "answer": "banana fibres",
   "options": null,
-  "explanation": "The ball is woven from banana fibres.",
+  "explanation": "The tool is woven from banana fibres.",
   "hint": "It comes from banana plants.",
   "image": "P314050004img.jpg"
  },
@@ -6576,7 +6576,7 @@
  },
  {
   "id": "P314050034",
-  "question": "Animals move from one place to another to look for ____.",
+  "question": "Animals travel to find ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -6585,8 +6585,8 @@
   "difficulty": "easy",
   "answer": "food",
   "options": null,
-  "explanation": "Animals move to find food, water and shelter.",
-  "hint": "They look for something to eat.",
+  "explanation": "Animals move to locate food, water, and shelter.",
+  "hint": "They need something to eat.",
   "image": null
  },
  {
@@ -6776,7 +6776,7 @@
  },
  {
   "id": "P314050047",
-  "question": "One importance of mulching a garden is that it keeps ____ in the soil.",
+  "question": "Mulch helps the soil retain ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -6785,8 +6785,8 @@
   "difficulty": "easy",
   "answer": "water",
   "options": null,
-  "explanation": "Mulch stops water from drying up.",
-  "hint": "The soil stays wet.",
+  "explanation": "Mulch reduces evaporation, keeping moisture in the soil.",
+  "hint": "The soil stays moist.",
   "image": null
  },
  {
@@ -6798,9 +6798,9 @@
   "term": "Term 2",
   "unit": "Plants",
   "difficulty": "medium",
-  "answer": "manure",
+  "answer": "nutrients",
   "options": null,
-  "explanation": "Mulch rots and makes the soil fertile.",
+  "explanation": "Mulch rots and adds nutrients to the soil.",
   "hint": "It makes soil rich.",
   "image": null
  },
@@ -7043,10 +7043,10 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "medium",
-  "answer": "kwashiorkor",
+  "answer": "marasmus",
   "options": null,
-  "explanation": "Kwashiorkor comes from poor feeding.",
-  "hint": "The belly swells.",
+  "explanation": "Marasmus is a severe form of malnutrition causing extreme weight loss and weakness.",
+  "hint": "The body becomes very thin.",
   "image": null
  },
  {
@@ -7386,7 +7386,7 @@
  },
  {
   "id": "P314050087",
-  "question": "We give first aid to ____ life.",
+  "question": "The purpose of first aid is to ____ a person's life.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -7395,7 +7395,7 @@
   "difficulty": "easy",
   "answer": "save",
   "options": null,
-  "explanation": "First aid saves injured people.",
+  "explanation": "First aid helps keep an injured person alive.",
   "hint": "It keeps them alive.",
   "image": null
  },
@@ -7423,10 +7423,10 @@
   "term": "Term 1",
   "unit": "Environment",
   "difficulty": "easy",
-  "answer": "telling time",
+  "answer": "measuring height",
   "options": null,
-  "explanation": "People tell time using shadows.",
-  "hint": "It shows the hour.",
+  "explanation": "By comparing the length of a shadow to the object's height, people can measure tall objects.",
+  "hint": "Compare shadow lengths.",
   "image": null
  },
  {
@@ -8994,7 +8994,7 @@
  },
  {
   "id": "P314060092",
-  "question": "A first aid box can be found in a ____.",
+  "question": "A first aid box can be found in a ____ where pupils learn.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -9064,7 +9064,7 @@
  },
  {
   "id": "P314070001",
-  "question": "A ____ is one animal kept at home.",
+  "question": "An example of an animal kept at home is a ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -9188,7 +9188,7 @@
  },
  {
   "id": "P314070009",
-  "question": "One component of soil is ____.",
+  "question": "Decayed plant and animal matter in soil is called ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -9196,8 +9196,8 @@
   "unit": "Soil",
   "difficulty": "easy",
   "answer": "humus",
-  "explanation": "Humus, water, air and mineral salts are components of soil.",
-  "hint": "It comes from rotten plants.",
+  "explanation": "Humus is the dark organic part of soil.",
+  "hint": "It makes soil fertile.",
   "image": null
  },
  {
@@ -9292,16 +9292,16 @@
  },
  {
   "id": "P314070016",
-  "question": "One way of controlling soil erosion is ____.",
+  "question": "To prevent soil from being washed away, we can ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Soil",
   "difficulty": "easy",
-  "answer": "planting trees",
-  "explanation": "Trees hold the soil with their roots so it is not washed away.",
-  "hint": "Their roots hold the soil.",
+  "answer": "plant trees",
+  "explanation": "Tree roots hold the soil together.",
+  "hint": "Roots keep soil in place.",
   "image": null
  },
  {
@@ -10351,7 +10351,7 @@
  },
  {
   "id": "P314070086",
-  "question": "One element of weather is ____.",
+  "question": "Bright light from the sun is called ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -10359,8 +10359,8 @@
   "unit": "Weather",
   "difficulty": "easy",
   "answer": "sunshine",
-  "explanation": "Sunshine is one of the elements of weather.",
-  "hint": "It comes from the sun.",
+  "explanation": "Sunshine is an element of weather.",
+  "hint": "It makes the day bright.",
   "image": null
  },
  {
@@ -10777,7 +10777,7 @@
  },
  {
   "id": "P314080021",
-  "question": "One effect of accidents to people is ____.",
+  "question": "When an accident happens, a person may suffer a ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -10785,8 +10785,8 @@
   "unit": "Accidents",
   "difficulty": "easy",
   "answer": "injury",
-  "explanation": "Accidents cause injuries like cuts, burns and broken bones.",
-  "hint": "People get hurt.",
+  "explanation": "Accidents can cause injuries such as cuts or bruises.",
+  "hint": "The body gets hurt.",
   "image": null
  },
  {
@@ -12591,16 +12591,16 @@
  },
  {
   "id": "P314090049",
-  "question": "Wind is ____.",
+  "question": "Moving air is called ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "moving air",
-  "explanation": "Wind is air that is moving from one place to another.",
-  "hint": "It is moving air.",
+  "answer": "wind",
+  "explanation": "Wind is the name for moving air.",
+  "hint": "It starts with w.",
   "image": null
  },
  {
@@ -13190,7 +13190,7 @@
  },
  {
   "id": "P314090091",
-  "question": "One reason we give first aid is to ____.",
+  "question": "A key reason for giving first aid is to ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -13198,13 +13198,13 @@
   "unit": "First aid",
   "difficulty": "easy",
   "answer": "save life",
-  "explanation": "First aid saves the life of an injured person.",
-  "hint": "It saves life.",
+  "explanation": "First aid can prevent death.",
+  "hint": "It preserves life.",
   "image": null
  },
  {
   "id": "P314090092",
-  "question": "Another reason we give first aid is to ____.",
+  "question": "First aid also helps to ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -13212,7 +13212,7 @@
   "unit": "First aid",
   "difficulty": "easy",
   "answer": "reduce pain",
-  "explanation": "First aid reduces the pain of the injured person.",
+  "explanation": "It lessens the suffering of the injured.",
   "hint": "It makes pain less.",
   "image": null
  },
@@ -13363,9 +13363,9 @@
   "term": "Term 1",
   "unit": "Environment",
   "difficulty": "medium",
-  "answer": "termites destroy the crops",
-  "explanation": "Termites from anthills eat and destroy crops grown near them.",
-  "hint": "Termites eat crops.",
+  "answer": "ants destroy the crops",
+  "explanation": "Ants from anthills eat and destroy crops grown near them.",
+  "hint": "Ants eat crops.",
   "image": null
  },
  {
@@ -13871,9 +13871,9 @@
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "wind",
-  "explanation": "Wind is moving air and is an element of weather.",
-  "hint": "It is moving air.",
+  "answer": "rain",
+  "explanation": "Rain is water falling from clouds and is an element of weather.",
+  "hint": "It makes the ground wet.",
   "image": null
  },
  {
@@ -13996,7 +13996,7 @@
  },
  {
   "id": "P314100046",
-  "question": "One component of air is ____.",
+  "question": "The gas we breathe in from the air is ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -14004,13 +14004,13 @@
   "unit": "Air",
   "difficulty": "easy",
   "answer": "oxygen",
-  "explanation": "Oxygen is the part of air we breathe in.",
-  "hint": "We breathe it in.",
+  "explanation": "Oxygen is essential for respiration.",
+  "hint": "We need it to live.",
   "image": null
  },
  {
   "id": "P314100047",
-  "question": "Another component of air is ____.",
+  "question": "Plants take in ____ from the air to make food.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -14018,13 +14018,13 @@
   "unit": "Air",
   "difficulty": "easy",
   "answer": "carbon dioxide",
-  "explanation": "Carbon dioxide is the part of air that plants use to make food.",
+  "explanation": "Carbon dioxide is used by plants during photosynthesis.",
   "hint": "Plants use it.",
   "image": null
  },
  {
   "id": "P314100048",
-  "question": "One property of air is that air ____.",
+  "question": "One property of air is that it ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -14032,7 +14032,7 @@
   "unit": "Air",
   "difficulty": "easy",
   "answer": "has weight",
-  "explanation": "Air has weight, as shown by the balloon test.",
+  "explanation": "Air has weight, shown by a balloon experiment.",
   "hint": "The balloon test.",
   "image": null
  },
@@ -14282,7 +14282,7 @@
  },
  {
   "id": "P314100066",
-  "question": "We eat food to ____.",
+  "question": "The purpose of eating food is to ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -14290,7 +14290,7 @@
   "unit": "Food",
   "difficulty": "easy",
   "answer": "get energy",
-  "explanation": "Food gives our bodies energy to work and play.",
+  "explanation": "Food provides the energy our bodies need.",
   "hint": "It gives strength.",
   "image": null
  },
@@ -16078,7 +16078,7 @@
  },
  {
   "id": "P314120002",
-  "question": "The main natural source of water is ____.",
+  "question": "The primary natural source of water on Earth is ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -16086,8 +16086,8 @@
   "unit": "Water",
   "difficulty": "easy",
   "answer": "rain",
-  "explanation": "Rain is the main natural source of water on earth.",
-  "hint": "It falls from the clouds.",
+  "explanation": "Rainfall fills rivers, lakes, and groundwater.",
+  "hint": "It falls from clouds.",
   "image": null
  },
  {
@@ -16166,7 +16166,7 @@
  },
  {
   "id": "P314120007",
-  "question": "Animals move from one place to another to look for ____.",
+  "question": "When animals migrate, they are searching for ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -16174,7 +16174,7 @@
   "unit": "Animals",
   "difficulty": "easy",
   "answer": "food",
-  "explanation": "Animals move to look for food, water and shelter.",
+  "explanation": "Food is a primary reason for animal movement.",
   "hint": "They look for something to eat.",
   "image": null
  },
@@ -16440,16 +16440,16 @@
  },
  {
   "id": "P314120024",
-  "question": "Wind is ____.",
+  "question": "The movement of air is known as ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "moving air",
-  "explanation": "Wind is air that is moving from one place to another.",
-  "hint": "It is air that moves.",
+  "answer": "wind",
+  "explanation": "Wind is the movement of air.",
+  "hint": "Think of breezy days.",
   "image": null
  },
  {
@@ -16690,16 +16690,16 @@
  },
  {
   "id": "P314120040",
-  "question": "A bird uses its ____ for eating.",
+  "question": "A bird uses its ____ for flying.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 2",
   "unit": "Animals",
   "difficulty": "easy",
-  "answer": "beak",
-  "explanation": "A bird picks food with its beak.",
-  "hint": "It is the bird's mouth.",
+  "answer": "wings",
+  "explanation": "Birds flap their wings to fly in the air.",
+  "hint": "They flap them.",
   "image": null
  },
  {
@@ -16751,7 +16751,7 @@
  },
  {
   "id": "P314120044",
-  "question": "____ is got from domestic animals.",
+  "question": "____ is obtained from domestic animals.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -17196,7 +17196,7 @@
   "term": "Term 3",
   "unit": "Accidents",
   "difficulty": "easy",
-  "answer": "has got an accident",
+  "answer": "is hurt in an accident",
   "explanation": "A casualty is someone hurt in an accident.",
   "hint": "Someone hurt in an accident.",
   "image": null
@@ -17451,7 +17451,7 @@
  },
  {
   "id": "P314130011",
-  "question": "A ____ is a fruit.",
+  "question": "A ____ is a fruit that grows on trees.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -17547,7 +17547,7 @@
  },
  {
   "id": "P314130017",
-  "question": "An ____ is a member of an extended family.",
+  "question": "The brother of your father is your ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -17561,7 +17561,7 @@
  },
  {
   "id": "P314130018",
-  "question": "____ is used for building.",
+  "question": "A common building material made from clay is ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -17683,7 +17683,7 @@
  },
  {
   "id": "P314130025",
-  "question": "____ gives us energy.",
+  "question": "A 'Go food' that gives us energy is ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -17731,7 +17731,7 @@
  },
  {
   "id": "P314130028",
-  "question": "A ____ in our classroom is a non-living thing.",
+  "question": "An example of a non-living thing in our classroom is ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -17752,23 +17752,9 @@
   "term": "Term 2",
   "unit": "Plants",
   "difficulty": "easy",
-  "answer": "Maize",
-  "explanation": "Maize is a plant that grows in the garden.",
-  "hint": "We get posho flour from it.",
-  "image": null
- },
- {
-  "id": "P314130030",
-  "question": "Which type of accident is caused by [question text incomplete in source]",
-  "type": "fill_blank",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 3",
-  "unit": "Accidents",
-  "difficulty": "medium",
-  "answer": "[question text was truncated in the source document]",
-  "explanation": "This question was incomplete in the source booklet, so it cannot be answered.",
-  "hint": "The source text for this question was cut off.",
+  "answer": "Cassava",
+  "explanation": "Cassava is a plant that grows tubers used for food.",
+  "hint": "We make flour from its roots.",
   "image": null
  },
  {
@@ -18379,16 +18365,16 @@
  },
  {
   "id": "P314130069",
-  "question": "Wind is ____.",
+  "question": "Air that moves is called ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "moving air",
-  "explanation": "Wind is air moving from one place to another.",
-  "hint": "It is air that moves.",
+  "answer": "wind",
+  "explanation": "Moving air is called wind.",
+  "hint": "It blows.",
   "image": null
  },
  {
@@ -18523,7 +18509,7 @@
  },
  {
   "id": "P314140007",
-  "question": "The two balloons show that air ____.",
+  "question": "The inflated balloon demonstrates that air ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -18531,8 +18517,8 @@
   "unit": "Air",
   "difficulty": "medium",
   "answer": "occupies space",
-  "explanation": "The blown-up balloon is bigger because air takes up space inside it.",
-  "hint": "Air fills up the balloon.",
+  "explanation": "The balloon expands because air takes up space inside it.",
+  "hint": "Air fills the balloon and makes it bigger.",
   "image": "P314140007img.jpg",
   "options": [
    "occupies space",
@@ -18557,16 +18543,16 @@
  },
  {
   "id": "P314140009",
-  "question": "Air is ____.",
+  "question": "Air is made up of ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Air",
   "difficulty": "easy",
-  "answer": "a mixture of gases",
-  "explanation": "Air is made of gases like oxygen and nitrogen.",
-  "hint": "It is made of gases we cannot see.",
+  "answer": "different gases",
+  "explanation": "Air consists of gases such as oxygen, nitrogen, and carbon dioxide.",
+  "hint": "We cannot see these gases.",
   "image": null
  },
  {
@@ -18639,16 +18625,16 @@
  },
  {
   "id": "P314140014",
-  "question": "We keep our classroom clean by ____.",
+  "question": "We keep our classroom tidy by ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "sweeping it",
-  "explanation": "Sweeping the classroom removes dirt.",
-  "hint": "Use a broom in the classroom.",
+  "answer": "mopping the floor",
+  "explanation": "Mopping removes dust and spills from the floor.",
+  "hint": "Use a mop and water.",
   "image": null
  },
  {
@@ -18803,16 +18789,16 @@
  },
  {
   "id": "P314140024",
-  "question": "We make water safe for drinking by ____.",
+  "question": "One way to make water safe for drinking is to ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "boiling it",
-  "explanation": "Boiling kills germs in water.",
-  "hint": "Heat the water to kill germs.",
+  "answer": "filter it",
+  "explanation": "Filtering removes dirt and germs from water.",
+  "hint": "Pass water through a clean cloth or filter.",
   "image": null
  },
  {
@@ -18967,7 +18953,7 @@
  },
  {
   "id": "P314140034",
-  "question": "Animals move from one place to another to look for ____.",
+  "question": "Animals change location mainly to get ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -18975,8 +18961,8 @@
   "unit": "Animals",
   "difficulty": "easy",
   "answer": "food",
-  "explanation": "Animals move to look for food, water and shelter.",
-  "hint": "They look for something to eat.",
+  "explanation": "Food is a primary reason for animal movement.",
+  "hint": "They need to eat.",
   "image": null
  },
  {
@@ -19043,14 +19029,14 @@
  },
  {
   "id": "P314140039",
-  "question": "A father ____ at home.",
+  "question": "A father ____ food for the family.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Family",
   "difficulty": "easy",
-  "answer": "provides food for the family",
+  "answer": "provides",
   "explanation": "A father provides food and cares for the family.",
   "hint": "He brings food home.",
   "image": null
@@ -19084,9 +19070,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "what we eat",
-  "explanation": "Food is what we eat to stay alive and healthy.",
-  "hint": "It is what we eat every day.",
+  "answer": "something we eat for energy",
+  "explanation": "Food gives our bodies energy to work and play.",
+  "hint": "We eat it every day.",
   "image": null
  },
  {
@@ -19193,14 +19179,14 @@
  },
  {
   "id": "P314140048",
-  "question": "We care for animals by ____.",
+  "question": "We care for animals by ____ them well.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 2",
   "unit": "Animals",
   "difficulty": "easy",
-  "answer": "feeding them well",
+  "answer": "feeding",
   "explanation": "Feeding animals well keeps them healthy.",
   "hint": "Give them enough food.",
   "image": null
@@ -19235,7 +19221,7 @@
  },
  {
   "id": "P314140051",
-  "question": "A ____ lives in trees.",
+  "question": "Which animal is known for living in trees? ____",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -19243,13 +19229,13 @@
   "unit": "Animals",
   "difficulty": "easy",
   "answer": "monkey",
-  "explanation": "Monkeys live and play in trees.",
-  "hint": "It jumps from branch to branch.",
+  "explanation": "Monkeys spend most of their time in trees.",
+  "hint": "It swings from branches.",
   "image": null
  },
  {
   "id": "P314140052",
-  "question": "A ____ tree gives us fruits.",
+  "question": "The ____ tree produces sweet yellow fruits.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -19257,13 +19243,13 @@
   "unit": "Plants",
   "difficulty": "easy",
   "answer": "mango",
-  "explanation": "A mango tree gives us sweet mangoes.",
-  "hint": "It gives us a sweet yellow fruit.",
+  "explanation": "Mango trees bear mangoes.",
+  "hint": "Its fruit is juicy and yellow.",
   "image": null
  },
  {
   "id": "P314140053",
-  "question": "Two main body parts of an insect are the ____ and ____.",
+  "question": "The first two main body parts of an insect (from front to back) are the ____ and ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
@@ -19345,30 +19331,30 @@
  },
  {
   "id": "P314140058",
-  "question": "A fish moves by ____.",
+  "question": "A frog moves by ____.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 2",
   "unit": "Animals",
   "difficulty": "easy",
-  "answer": "swimming",
-  "explanation": "A fish swims using its fins and tail.",
-  "hint": "It moves in water.",
+  "answer": "jumping",
+  "explanation": "Frogs use their strong hind legs to jump.",
+  "hint": "It hops.",
   "image": null
  },
  {
   "id": "P314140059",
-  "question": "____ and ____ are sources of water.",
+  "question": "____ are sources of water.",
   "type": "fill_blank",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "Rivers and lakes",
-  "explanation": "Rivers and lakes are sources of water.",
-  "hint": "They are big bodies of water.",
+  "answer": "Rivers, lakes, wells, and rain",
+  "explanation": "Rivers, lakes, wells, and rain are natural sources of water for people.",
+  "hint": "They provide water for drinking and farming.",
   "image": null
  },
  {
@@ -19380,9 +19366,9 @@
   "term": "Term 1",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "drinking and cooking",
-  "explanation": "At home we use water for drinking, cooking, washing and bathing.",
-  "hint": "We drink it and cook with it.",
+  "answer": "washing and bathing",
+  "explanation": "We use water to wash clothes and to bathe ourselves.",
+  "hint": "Think of cleaning activities.",
   "image": null
  },
  {
@@ -19677,7 +19663,7 @@
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "A toilet is the right place to pass urine and stool.",
   "hint": "What do we do in a toilet?",
@@ -20150,14 +20136,14 @@
  },
  {
   "id": "P314010023b",
-  "question": "One way of avoiding mosquito bites in the bedroom is sleeping under a treat sick people.",
+  "question": "One way of avoiding mosquito bites in the bedroom is sleeping under a treated mosquito net.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "Health",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "A treated mosquito net stops mosquitoes from biting us at night.",
   "hint": "It hangs over the bed at night.",
@@ -20680,7 +20666,7 @@
  },
  {
   "id": "P314010045a",
-  "question": "One thing I can do to promote personal hygiene is ____ daily.",
+  "question": "One thing I can do to keep my body clean daily is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -20692,7 +20678,7 @@
    "broom",
    "clean",
    "bathing",
-   "brushing"
+   "sleeping"
   ],
   "explanation": "Bathing every day keeps our bodies clean.",
   "hint": "We do it with water and soap.",
@@ -20707,9 +20693,9 @@
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Bathing every day keeps our bodies clean.",
+  "explanation": "Brushing teeth daily promotes oral hygiene.",
   "hint": "We do it with water and soap.",
   "image": null
  },
@@ -21220,7 +21206,7 @@
   "answer": "water",
   "options": [
    "absorbs",
-   "air",
+   "sunlight",
    "aphid",
    "water"
   ],
@@ -21241,7 +21227,7 @@
   "options": [
    "aphid",
    "absorbs",
-   "air",
+   "sunlight",
    "warmth"
   ],
   "explanation": "Seeds also need warmth and air to germinate.",
@@ -21257,7 +21243,7 @@
   "term": "Term 2",
   "unit": "Plants",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Seeds also need warmth and air to germinate.",
   "hint": "Seeds need some heat.",
@@ -21430,14 +21416,14 @@
  },
  {
   "id": "P314010075b",
-  "question": "Rubbish can also be properly disposed of in a body odour.",
+  "question": "Rubbish can also be properly disposed of in a rubbish pit.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Rubbish pits keep the compound clean.",
   "hint": "It is a hole dug for rubbish.",
@@ -21526,8 +21512,8 @@
   "options": [
    "father",
    "parents",
-   "children",
-   "bedroom"
+   "bedroom",
+   "kitchen"
   ],
   "explanation": "A family has parents and children.",
   "hint": "The father and mother.",
@@ -21735,7 +21721,7 @@
   "answer": "head",
   "options": [
    "adult",
-   "abdomen",
+   "antenna",
    "head",
    "bee"
   ],
@@ -22280,7 +22266,7 @@
   "answer": "passing urine and stool",
   "options": [
    "passing urine and stool",
-   "getting rid of waste",
+   "storing food",
    "can cause skin diseases",
    "toilet paper and water"
   ],
@@ -22297,7 +22283,7 @@
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Latrines are the right place to pass urine and stool.",
   "hint": "It keeps human waste in one place.",
@@ -22489,10 +22475,10 @@
   "difficulty": "easy",
   "answer": "make food",
   "options": [
-   "banana plants",
-   "dry leaves",
-   "dry grass",
-   "make food"
+   "make food",
+   "store water",
+   "provide shade",
+   "absorb sunlight"
   ],
   "explanation": "Leaves make food for the plant during photosynthesis.",
   "hint": "Leaves cook food for the plant.",
@@ -22524,10 +22510,10 @@
   "difficulty": "easy",
   "answer": "kill",
   "options": [
-   "bite",
-   "bird",
    "kill",
-   "beak"
+   "hug",
+   "feed",
+   "teach"
   ],
   "explanation": "Wild animals like lions can attack and kill people.",
   "hint": "They can end a person's life.",
@@ -22559,10 +22545,10 @@
   "difficulty": "easy",
   "answer": "dry",
   "options": [
-   "broom",
+   "wet",
    "dry",
-   "brushing",
-   "bathing"
+   "clean",
+   "dirty"
   ],
   "explanation": "Gumboots stop water from touching our feet.",
   "hint": "Water does not reach the feet.",
@@ -22579,10 +22565,10 @@
   "difficulty": "easy",
   "answer": "flying",
   "options": [
-   "bite",
+   "crawling",
    "flying",
-   "bird",
-   "beak"
+   "hopping",
+   "swimming"
   ],
   "explanation": "Bats have wings and fly at night.",
   "hint": "It moves in the air.",
@@ -22599,10 +22585,10 @@
   "difficulty": "easy",
   "answer": "destroy",
   "options": [
-   "clouds",
-   "burn",
-   "air",
-   "destroy"
+   "damage",
+   "destroy",
+   "flatten",
+   "ruin"
   ],
   "explanation": "Strong wind blows off roofs and destroys houses.",
   "hint": "It breaks houses.",
@@ -22670,9 +22656,9 @@
   "answer": "cutting down trees",
   "options": [
    "cutting down trees",
-   "a lot of humus",
+   "planting trees",
    "adding manure",
-   "Pots and bricks"
+   "building terraces"
   ],
   "explanation": "Cutting down trees leaves soil open to rain and wind.",
   "hint": "Removing trees from the land.",
@@ -22705,9 +22691,9 @@
   "answer": "save",
   "options": [
    "save",
-   "bandage",
-   "accidents",
-   "accident"
+   "protect",
+   "preserve",
+   "rescue"
   ],
   "explanation": "First aid saves the life of an injured person.",
   "hint": "It keeps them alive.",
@@ -22794,10 +22780,10 @@
   "difficulty": "easy",
   "answer": "water",
   "options": [
-   "beak",
-   "bite",
-   "bird",
-   "water"
+   "water",
+   "desert",
+   "tree tops",
+   "caves"
   ],
   "explanation": "Frogs live in water and in wet swampy places.",
   "hint": "It swims in it.",
@@ -22829,10 +22815,10 @@
   "difficulty": "easy",
   "answer": "sunglasses",
   "options": [
-   "eye",
-   "deaf",
+   "hats",
    "sunglasses",
-   "ear"
+   "caps",
+   "goggles"
   ],
   "explanation": "Sunglasses protect our eyes from strong sunshine.",
   "hint": "They cover the eyes.",
@@ -22919,10 +22905,10 @@
   "difficulty": "easy",
   "answer": "cutting",
   "options": [
-   "axe",
+   "digging",
    "cutting",
-   "balls",
-   "ball"
+   "cooking",
+   "washing"
   ],
   "explanation": "A panga cuts firewood, grass and sticks.",
   "hint": "It cuts things.",
@@ -22974,10 +22960,10 @@
   "difficulty": "easy",
   "answer": "covering",
   "options": [
-   "carbohydrates",
+   "washing",
    "covering",
-   "Cassava",
-   "beans"
+   "cooking",
+   "eating"
   ],
   "explanation": "Covering food stops flies and dust from touching it.",
   "hint": "Put a cover over it.",
@@ -23000,7 +22986,7 @@
  },
  {
   "id": "P314020038a",
-  "question": "People keep birds at home to get ____.",
+  "question": "People keep hens at home mainly to get ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -23009,10 +22995,10 @@
   "difficulty": "easy",
   "answer": "eggs",
   "options": [
-   "beak",
-   "bite",
-   "bird",
-   "eggs"
+   "eggs",
+   "milk",
+   "wool",
+   "honey"
   ],
   "explanation": "Hens give us eggs and meat.",
   "hint": "Hens lay them.",
@@ -23044,10 +23030,10 @@
   "difficulty": "easy",
   "answer": "guiding",
   "options": [
-   "father",
+   "feeding",
    "guiding",
-   "bedroom",
-   "children"
+   "carrying",
+   "teaching"
   ],
   "explanation": "We help blind people by guiding them along the way.",
   "hint": "Hold his hand and lead him.",
@@ -23105,7 +23091,7 @@
  },
  {
   "id": "P314020041a",
-  "question": "Stage N of the life cycle is the ____.",
+  "question": "The final stage of the mosquito life cycle is the ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -23125,7 +23111,7 @@
  },
  {
   "id": "P314020041b",
-  "question": "Stage N of the life cycle is the adult.",
+  "question": "The adult is the final stage of the mosquito life cycle.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -23140,7 +23126,7 @@
  },
  {
   "id": "P314020042a",
-  "question": "Stage Q of the life cycle is the ____.",
+  "question": "The stage after egg in the mosquito life cycle is the ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -23160,7 +23146,7 @@
  },
  {
   "id": "P314020042b",
-  "question": "Stage Q of the life cycle is the abdomen.",
+  "question": "The abdomen is a stage in the mosquito life cycle.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -23185,7 +23171,7 @@
   "answer": "housefly",
   "options": [
    "abdomen",
-   "bee",
+   "grasshopper",
    "housefly",
    "adult"
   ],
@@ -23219,7 +23205,7 @@
   "difficulty": "medium",
   "answer": "butterfly",
   "options": [
-   "bee",
+   "grasshopper",
    "abdomen",
    "butterfly",
    "adult"
@@ -23309,10 +23295,10 @@
   "difficulty": "easy",
   "answer": "obeying traffic rules",
   "options": [
-   "Burns and cuts",
-   "Burns and falls",
-   "is not planned",
-   "obeying traffic rules"
+   "obeying traffic rules",
+   "speeding",
+   "ignoring traffic signs",
+   "driving at night"
   ],
   "explanation": "Obeying traffic rules makes roads safer.",
   "hint": "Follow the road signs.",
@@ -23320,7 +23306,7 @@
  },
  {
   "id": "P314020048a",
-  "question": "Road accidents can also be controlled by ____.",
+  "question": "One way to control road accidents is by ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -23329,10 +23315,10 @@
   "difficulty": "easy",
   "answer": "repairing bad roads",
   "options": [
-   "Burns and falls",
-   "is not planned",
-   "Burns and cuts",
-   "repairing bad roads"
+   "repairing bad roads",
+   "ignoring traffic signs",
+   "speeding",
+   "not wearing seatbelts"
   ],
   "explanation": "Good roads reduce accidents.",
   "hint": "Fix the broken roads.",
@@ -23349,10 +23335,10 @@
   "difficulty": "medium",
   "answer": "condition of the air",
   "options": [
-   "destroy crops and houses",
-   "heats water to evaporate",
    "condition of the air",
-   "burn our skin"
+   "climate",
+   "season",
+   "temperature"
   ],
   "explanation": "Weather tells us if a day is rainy, sunny or windy.",
   "hint": "Is it sunny or rainy today?",
@@ -23360,7 +23346,7 @@
  },
  {
   "id": "P314020049b",
-  "question": "Weather is the destroy crops and houses of a place at a particular time.",
+  "question": "Weather is the destruction of crops and houses at a particular time.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -23454,10 +23440,10 @@
   "difficulty": "easy",
   "answer": "stem",
   "options": [
-   "aphid",
-   "air",
-   "absorbs",
-   "stem"
+   "root",
+   "stem",
+   "leaf",
+   "flower"
   ],
   "explanation": "The stem holds the plant upright.",
   "hint": "It holds the leaves and flower.",
@@ -23489,10 +23475,10 @@
   "difficulty": "easy",
   "answer": "absorbs",
   "options": [
-   "Beans",
-   "aphid",
    "absorbs",
-   "air"
+   "releases",
+   "stores",
+   "filters"
   ],
   "explanation": "Roots suck water and mineral salts from the soil.",
   "hint": "Roots take in water.",
@@ -23509,10 +23495,10 @@
   "difficulty": "easy",
   "answer": "make food",
   "options": [
-   "dry grass",
    "make food",
-   "dry leaves",
-   "banana plants"
+   "absorb water",
+   "support the plant",
+   "store food"
   ],
   "explanation": "Leaves make food for the plant in sunshine.",
   "hint": "Leaves cook food.",
@@ -23545,9 +23531,9 @@
   "answer": "nectar",
   "options": [
    "nectar",
-   "aphid",
-   "air",
-   "absorbs"
+   "pollen",
+   "water",
+   "sap"
   ],
   "explanation": "Bees collect sweet nectar from flowers to make honey.",
   "hint": "It is sweet juice in flowers.",
@@ -23801,7 +23787,7 @@
   "options": [
    "water",
    "absorbs",
-   "air",
+   "soil",
    "aphid"
   ],
   "explanation": "Seeds need water, air and warmth to germinate.",
@@ -24322,7 +24308,7 @@
    "brushing",
    "washing",
    "bathing",
-   "broom"
+   "scrubbing"
   ],
   "explanation": "Washing our legs keeps them clean.",
   "hint": "Use water and soap.",
@@ -24337,9 +24323,9 @@
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Washing our legs keeps them clean.",
+  "explanation": "Bathing our legs daily keeps them clean.",
   "hint": "Use water and soap.",
   "image": null
  },
@@ -24426,8 +24412,8 @@
   "options": [
    "drinking",
    "evaporation",
-   "cooking",
-   "condensation"
+   "condensation",
+   "breathing"
   ],
   "explanation": "We drink water to live.",
   "hint": "We take it into our mouths.",
@@ -24461,8 +24447,8 @@
   "options": [
    "evaporation",
    "cooking",
-   "drinking",
-   "condensation"
+   "condensation",
+   "breathing"
   ],
   "explanation": "We cook our food with water.",
   "hint": "We boil food in it.",
@@ -25167,7 +25153,7 @@
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "The toilet is the right place for human waste.",
   "hint": "What do we do in a toilet?",
@@ -25327,9 +25313,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "We buy food from the market.",
+  "explanation": "Beans are a source of food that people can eat.",
   "hint": "People buy and sell things there.",
   "image": null
  },
@@ -25460,16 +25446,16 @@
  },
  {
   "id": "P314030029b",
-  "question": "One element of weather is air.",
+  "question": "One element of weather is wind.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Wind, rain and sunshine are elements of weather.",
+  "explanation": "Wind is moving air and is an element of weather.",
   "hint": "It moves the trees.",
   "image": null
  },
@@ -25690,14 +25676,14 @@
  },
  {
   "id": "P314030038b",
-  "question": "It is advisable to sleep under a treated mosquito net to avoid health centre.",
+  "question": "It is advisable to sleep under a treated mosquito net to avoid malaria.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "Health",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Mosquito nets stop mosquitoes from biting us.",
   "hint": "Mosquitoes bite at night.",
@@ -25760,7 +25746,7 @@
  },
  {
   "id": "P314030041a",
-  "question": "One component of soil is ____.",
+  "question": "One organic component of soil is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -25780,7 +25766,7 @@
  },
  {
   "id": "P314030042a",
-  "question": "Another component of soil is ____.",
+  "question": "A gaseous component of soil is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -25940,7 +25926,7 @@
  },
  {
   "id": "P314030048a",
-  "question": "One way of controlling malaria at home is ____.",
+  "question": "The most effective way to control malaria at home is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -25967,9 +25953,9 @@
   "term": "Term 3",
   "unit": "Health",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Mosquito nets stop mosquito bites.",
+  "explanation": "Clearing bushes reduces mosquito breeding sites.",
   "hint": "Hang it over the bed.",
   "image": null
  },
@@ -26090,7 +26076,7 @@
   "answer": "disposing of",
   "options": [
    "bathing daily",
-   "collecting rubbish",
+   "collecting water",
    "disposing of",
    "body odour"
   ],
@@ -26100,14 +26086,14 @@
  },
  {
   "id": "P314030053b",
-  "question": "We also keep our homes clean by bathing daily rubbish properly.",
+  "question": "We also keep our homes clean by disposing of rubbish properly.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Proper rubbish disposal keeps homes clean.",
   "hint": "Put it in the dustbin.",
@@ -26124,7 +26110,7 @@
   "difficulty": "easy",
   "answer": "skin diseases",
   "options": [
-   "body odour",
+   "broken bones",
    "skin diseases",
    "collecting rubbish",
    "bathing daily"
@@ -26447,9 +26433,9 @@
   "term": "Term 2",
   "unit": "Plants",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Plants give us fruits, vegetables and grains.",
+  "explanation": "Plants give us oxygen (air) which we breathe.",
   "hint": "We eat them.",
   "image": null
  },
@@ -26517,14 +26503,14 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "medium",
-  "answer": "food values",
+  "answer": "nutrients",
   "options": [
-   "breast milk",
+   "food groups",
    "food values",
-   "balanced diet",
-   "boiling it"
+   "nutrients",
+   "vitamins"
   ],
-  "explanation": "A balanced diet has carbohydrates, proteins, vitamins and fats.",
+  "explanation": "A balanced diet contains all essential nutrients.",
   "hint": "All the important food types.",
   "image": null
  },
@@ -26607,9 +26593,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Proteins help our bodies to grow.",
+  "explanation": "Carbohydrates are a food value that gives energy.",
   "hint": "They build the body.",
   "image": null
  },
@@ -26650,22 +26636,22 @@
  },
  {
   "id": "P314030073a",
-  "question": "AIDS is spread through ____.",
+  "question": "Which of the following is a way HIV can be transmitted?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "Health",
   "difficulty": "medium",
-  "answer": "sharing sharp objects",
+  "answer": "Sharing needles",
   "options": [
-   "treated mosquito nets",
-   "treat sick people",
-   "sharing sharp objects",
-   "treated mosquito net"
+   "Sharing needles",
+   "Mosquito bites",
+   "Shaking hands",
+   "Sharing food"
   ],
-  "explanation": "AIDS spreads through infected blood and unprotected sex.",
-  "hint": "Do not share razor blades.",
+  "explanation": "HIV spreads through infected blood, such as sharing needles.",
+  "hint": "Avoid sharing sharp objects.",
   "image": null
  },
  {
@@ -26769,7 +26755,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Medicine helps AIDS patients to live longer.",
+  "explanation": "Caring for AIDS patients involves medical treatment and support, not giving them an ambulance.",
   "hint": "It makes them feel better.",
   "image": null
  },
@@ -26830,16 +26816,16 @@
  },
  {
   "id": "P314030078b",
-  "question": "Another natural cause of changes is beautiful.",
+  "question": "Drought is a natural cause of changes in the environment.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Environment",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Drought dries the land and kills crops.",
+  "explanation": "Lack of rain for a long time dries the land and affects plants and animals.",
   "hint": "No rain for a long time.",
   "image": null
  },
@@ -27037,7 +27023,7 @@
    "drinking",
    "condensation",
    "evaporation",
-   "cooking"
+   "sleeping"
   ],
   "explanation": "We drink water every day.",
   "hint": "We take it into our mouths.",
@@ -27072,7 +27058,7 @@
    "cooking",
    "evaporation",
    "condensation",
-   "drinking"
+   "sleeping"
   ],
   "explanation": "We cook food with water.",
   "hint": "We boil food in it.",
@@ -27080,14 +27066,14 @@
  },
  {
   "id": "P314030087b",
-  "question": "Another use of water at home is for drinking.",
+  "question": "Another use of water at home is for cooking.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "We cook food with water.",
   "hint": "We boil food in it.",
@@ -27104,10 +27090,10 @@
   "difficulty": "easy",
   "answer": "washing",
   "options": [
-   "drinking",
-   "cooking",
    "washing",
-   "condensation"
+   "condensation",
+   "sleeping",
+   "reading"
   ],
   "explanation": "We wash clothes and plates with water.",
   "hint": "It cleans things.",
@@ -27184,21 +27170,6 @@
    "aphid",
    "air"
   ],
-  "explanation": "Weeds cannot grow under mulch.",
-  "hint": "Unwanted plants.",
-  "image": null
- },
- {
-  "id": "P314030091b",
-  "question": "Mulching also stops the growth of absorbs.",
-  "type": "true_false",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 2",
-  "unit": "Plants",
-  "difficulty": "easy",
-  "answer": "False",
-  "options": null,
   "explanation": "Weeds cannot grow under mulch.",
   "hint": "Unwanted plants.",
   "image": null
@@ -27860,25 +27831,10 @@
   "answer": "eyes",
   "options": [
    "eyes",
-   "ear",
-   "deaf",
-   "eye"
+   "ears",
+   "skin",
+   "hair"
   ],
-  "explanation": "Strong sunshine damages our eyes.",
-  "hint": "We see with them.",
-  "image": null
- },
- {
-  "id": "P314040026b",
-  "question": "Looking at the sun directly is dangerous because it can damage our deaf.",
-  "type": "true_false",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 3",
-  "unit": "Human body",
-  "difficulty": "easy",
-  "answer": "False",
-  "options": null,
   "explanation": "Strong sunshine damages our eyes.",
   "hint": "We see with them.",
   "image": null
@@ -27940,7 +27896,7 @@
  },
  {
   "id": "P314040028b",
-  "question": "Female anopheles mosquitoes are dangerous to people because they spread ambulance.",
+  "question": "Female anopheles mosquitoes are dangerous to people because they spread AIDS.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -28010,7 +27966,7 @@
  },
  {
   "id": "P314040030b",
-  "question": "Strong wind is dangerous in the environment because it can air trees.",
+  "question": "Strong wind is dangerous in the environment because it can plant trees.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -28091,7 +28047,7 @@
   "options": [
    "axe",
    "ball",
-   "balls",
+   "shovel",
    "rake"
   ],
   "explanation": "Rakes collect rubbish and keep areas clean.",
@@ -28125,9 +28081,9 @@
   "answer": "cleaning",
   "options": [
    "cleaning",
-   "axe",
-   "balls",
-   "ball"
+   "sharpening",
+   "oiling",
+   "repairing"
   ],
   "explanation": "Cleaning tools after use makes them last longer.",
   "hint": "Remove the soil from them.",
@@ -28220,7 +28176,7 @@
  },
  {
   "id": "P314040039a",
-  "question": "Playing along the road is dangerous because children can be ____.",
+  "question": "The most common danger for children playing on the road is being ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -28230,9 +28186,9 @@
   "answer": "knocked by cars",
   "options": [
    "knocked by cars",
-   "Burns and cuts",
-   "is not planned",
-   "Burns and falls"
+   "falling into a well",
+   "bitten by a snake",
+   "stung by a bee"
   ],
   "explanation": "Cars can knock children playing on the road.",
   "hint": "Cars move fast on roads.",
@@ -28249,10 +28205,10 @@
   "difficulty": "medium",
   "answer": "mixture",
   "options": [
-   "breathe",
-   "breathing",
    "mixture",
-   "drying"
+   "combination",
+   "blend",
+   "collection"
   ],
   "explanation": "Air is made of oxygen, carbon dioxide, nitrogen and other gases.",
   "hint": "Many gases together.",
@@ -28270,9 +28226,9 @@
   "answer": "oxygen",
   "options": [
    "oxygen",
-   "breathe",
-   "breathing",
-   "drying"
+   "nitrogen",
+   "carbon dioxide",
+   "water vapour"
   ],
   "explanation": "Oxygen is the part of air we breathe in.",
   "hint": "We breathe it in.",
@@ -28289,10 +28245,10 @@
   "difficulty": "easy",
   "answer": "carbon dioxide",
   "options": [
-   "drying clothes",
-   "make food",
    "carbon dioxide",
-   "has weight"
+   "nitrogen",
+   "water vapour",
+   "argon"
   ],
   "explanation": "Plants use carbon dioxide to make food.",
   "hint": "Plants take it in.",
@@ -28370,7 +28326,7 @@
  },
  {
   "id": "P314040047a",
-  "question": "Another danger of too much rain is ____.",
+  "question": "One danger of too much rain is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -28380,9 +28336,9 @@
   "answer": "destroying crops",
   "options": [
    "destroying crops",
-   "bring rain",
-   "causing blindness",
-   "break them"
+   "improving soil fertility",
+   "reducing pests",
+   "increasing sunlight"
   ],
   "explanation": "Heavy rain destroys crops in the garden.",
   "hint": "Crops get spoilt.",
@@ -28414,10 +28370,10 @@
   "difficulty": "easy",
   "answer": "skin diseases",
   "options": [
+   "skin diseases",
    "collecting rubbish",
    "bathing daily",
-   "skin diseases",
-   "body odour"
+   "getting worms"
   ],
   "explanation": "A dirty body gets skin diseases.",
   "hint": "The skin gets sick.",
@@ -28440,7 +28396,7 @@
  },
  {
   "id": "P314040051a",
-  "question": "We care for our hair by ____ it.",
+  "question": "One way to care for our hair is by ____ it.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -28449,10 +28405,10 @@
   "difficulty": "easy",
   "answer": "combing",
   "options": [
-   "broom",
-   "bathing",
    "combing",
-   "brushing"
+   "breaking",
+   "tearing",
+   "burning"
   ],
   "explanation": "Combing keeps hair neat and clean.",
   "hint": "Use a comb on it.",
@@ -28485,9 +28441,9 @@
   "answer": "cow",
   "options": [
    "cow",
-   "bite",
-   "beak",
-   "bird"
+   "goat",
+   "sheep",
+   "pig"
   ],
   "explanation": "We eat beef from cows.",
   "hint": "It gives us milk too.",
@@ -28519,10 +28475,10 @@
   "difficulty": "easy",
   "answer": "goat",
   "options": [
-   "beak",
    "goat",
-   "bite",
-   "bird"
+   "sheep",
+   "pig",
+   "chicken"
   ],
   "explanation": "We eat goat meat.",
   "hint": "It says maa.",
@@ -28766,7 +28722,7 @@
   "options": [
    "warmth",
    "aphid",
-   "air",
+   "soil",
    "absorbs"
   ],
   "explanation": "Seeds need warmth, air and water to germinate.",
@@ -28980,9 +28936,9 @@
   "answer": "flu",
   "options": [
    "AIDS",
-   "ambulance",
+   "cough",
    "flu",
-   "bed"
+   "diarrhoea"
   ],
   "explanation": "Flu spreads easily at home.",
   "hint": "It gives cough and a blocked nose.",
@@ -29014,8 +28970,8 @@
   "difficulty": "easy",
   "answer": "diarrhoea",
   "options": [
-   "ambulance",
-   "bed",
+   "cough",
+   "typhoid",
    "AIDS",
    "diarrhoea"
   ],
@@ -29052,7 +29008,7 @@
    "sleeping under treated mosquito nets",
    "giving them love and comfort",
    "protect them from killer diseases",
-   "clearing bushes around the home"
+   "eating healthy food"
   ],
   "explanation": "Mosquito nets stop mosquito bites.",
   "hint": "Hang it over the bed.",
@@ -29067,9 +29023,9 @@
   "term": "Term 3",
   "unit": "Health",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Mosquito nets stop mosquito bites.",
+  "explanation": "Clearing bushes around the home reduces mosquito breeding sites, preventing malaria.",
   "hint": "Hang it over the bed.",
   "image": null
  },
@@ -29085,7 +29041,7 @@
   "answer": "sunshine",
   "options": [
    "sunshine",
-   "clouds",
+   "soil",
    "air",
    "burn"
   ],
@@ -29279,7 +29235,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Sharp objects cut children.",
+  "explanation": "Cold water is not a hazard; hot water can cause burns.",
   "hint": "Knives and razor blades.",
   "image": null
  },
@@ -29636,8 +29592,8 @@
   "options": [
    "AIDS",
    "malaria",
-   "ambulance",
-   "bed"
+   "cholera",
+   "typhoid"
   ],
   "explanation": "Mosquito nets stop malaria.",
   "hint": "Mosquitoes spread it.",
@@ -29870,7 +29826,7 @@
  },
  {
   "id": "P314050004a",
-  "question": "The tool below is made from ____.",
+  "question": "The ball below is made from ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -29990,7 +29946,7 @@
   "answer": "bathing",
   "options": [
    "clean",
-   "brushing",
+   "sleeping",
    "broom",
    "bathing"
   ],
@@ -30007,9 +29963,9 @@
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Bathing every day keeps the body clean.",
+  "explanation": "Brushing teeth daily promotes oral hygiene.",
   "hint": "Use water and soap.",
   "image": null
  },
@@ -30224,21 +30180,6 @@
    "beautiful",
    "carrying"
   ],
-  "explanation": "Trees, houses and people block light and make shadows.",
-  "hint": "It is tall and green.",
-  "image": null
- },
- {
-  "id": "P314050020b",
-  "question": "A beautiful can make a shadow.",
-  "type": "true_false",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 1",
-  "unit": "Environment",
-  "difficulty": "easy",
-  "answer": "False",
-  "options": null,
   "explanation": "Trees, houses and people block light and make shadows.",
   "hint": "It is tall and green.",
   "image": null
@@ -30709,10 +30650,10 @@
   "difficulty": "easy",
   "answer": "building houses",
   "options": [
-   "planting crops",
    "building houses",
    "heavy rainfall",
-   "kill pests"
+   "kill pests",
+   "earthquake"
   ],
   "explanation": "People change the environment by building.",
   "hint": "People make them to live in.",
@@ -30727,9 +30668,9 @@
   "term": "Term 1",
   "unit": "Environment",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "People change the environment by building.",
+  "explanation": "Planting crops changes the environment.",
   "hint": "People make them to live in.",
   "image": null
  },
@@ -30860,7 +30801,7 @@
  },
  {
   "id": "P314050040a",
-  "question": "Part X of the house is the ____.",
+  "question": "The part of the house that lets in light and air is the ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -30880,7 +30821,7 @@
  },
  {
   "id": "P314050040b",
-  "question": "Part X of the house is the ball.",
+  "question": "The part of the house that lets in light and air is the roof.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -30994,10 +30935,10 @@
   "difficulty": "easy",
   "answer": "dry grass",
   "options": [
+   "dry grass",
    "get sunlight",
    "banana plants",
-   "dry grass",
-   "dry leaves"
+   "water"
   ],
   "explanation": "Dry grass is spread on soil as mulch.",
   "hint": "It is dry and covers the soil.",
@@ -31029,7 +30970,7 @@
   "difficulty": "easy",
   "answer": "dry leaves",
   "options": [
-   "dry grass",
+   "stones",
    "get sunlight",
    "banana plants",
    "dry leaves"
@@ -31047,9 +30988,9 @@
   "term": "Term 2",
   "unit": "Plants",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Dry leaves make good mulch.",
+  "explanation": "Dry grass is a valid mulch material.",
   "hint": "They fall from trees.",
   "image": null
  },
@@ -31294,7 +31235,7 @@
   "difficulty": "easy",
   "answer": "monkey",
   "options": [
-   "bird",
+   "fish",
    "beak",
    "bite",
    "monkey"
@@ -31997,9 +31938,9 @@
   "term": "Term 2",
   "unit": "Animals",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Wild animals like lions can kill people.",
+  "explanation": "Many wild animals can bite people.",
   "hint": "They are dangerous.",
   "image": null
  },
@@ -32095,7 +32036,7 @@
  },
  {
   "id": "P314050082b",
-  "question": "Part B in the water cycle is the sun.",
+  "question": "In the water cycle diagram, Part B is the sun.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -32255,7 +32196,7 @@
  },
  {
   "id": "P314050087b",
-  "question": "We give first aid to save life.",
+  "question": "First aid is given to help an injured person before a doctor arrives.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -32264,8 +32205,8 @@
   "difficulty": "easy",
   "answer": "True",
   "options": null,
-  "explanation": "First aid saves injured people.",
-  "hint": "It keeps them alive.",
+  "explanation": "First aid provides immediate care to save life and reduce harm.",
+  "hint": "It keeps them alive until help comes.",
   "image": null
  },
  {
@@ -32280,9 +32221,9 @@
   "answer": "light",
   "options": [
    "light",
-   "beautiful",
-   "Bricks",
-   "carrying"
+   "heat",
+   "sound",
+   "air"
   ],
   "explanation": "When light is blocked, a shadow forms behind the object.",
   "hint": "The sun gives it.",
@@ -32305,7 +32246,7 @@
  },
  {
   "id": "P314050089a",
-  "question": "One use of shadows to people is ____.",
+  "question": "A traditional use of shadows is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -32314,10 +32255,10 @@
   "difficulty": "easy",
   "answer": "telling time",
   "options": [
-   "heavy rainfall",
-   "building houses",
-   "kill pests",
-   "telling time"
+   "telling time",
+   "providing light",
+   "cooking food",
+   "building houses"
   ],
   "explanation": "People tell time using shadows.",
   "hint": "It shows the hour.",
@@ -32325,7 +32266,7 @@
  },
  {
   "id": "P314050089b",
-  "question": "One use of shadows to people is telling time.",
+  "question": "Shadows can be used to find direction.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -32334,8 +32275,8 @@
   "difficulty": "easy",
   "answer": "True",
   "options": null,
-  "explanation": "People tell time using shadows.",
-  "hint": "It shows the hour.",
+  "explanation": "The position of a shadow changes with the sun and can show north-south.",
+  "hint": "Morning shadows point west.",
   "image": null
  },
  {
@@ -32349,10 +32290,10 @@
   "difficulty": "easy",
   "answer": "shade",
   "options": [
-   "carrying",
-   "Bricks",
    "shade",
-   "beautiful"
+   "coolness",
+   "protection from sun",
+   "shelter"
   ],
   "explanation": "We rest in the shade of shadows when it is hot.",
   "hint": "It is cool under a tree.",
@@ -32385,9 +32326,9 @@
   "answer": "doctor",
   "options": [
    "doctor",
-   "AIDS",
-   "bed",
-   "ambulance"
+   "nurse",
+   "teacher",
+   "parent"
   ],
   "explanation": "Doctors treat sick children.",
   "hint": "He works in a hospital.",
@@ -32420,9 +32361,9 @@
   "answer": "make food",
   "options": [
    "make food",
-   "banana plants",
-   "dry grass",
-   "dry leaves"
+   "absorb sunlight",
+   "release oxygen",
+   "store water"
   ],
   "explanation": "Banana leaves make food for the plant.",
   "hint": "Leaves cook food.",
@@ -32445,7 +32386,7 @@
  },
  {
   "id": "P314050096a",
-  "question": "One use of part X to people is ____ food.",
+  "question": "One use of banana leaves to people is ____ food.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -32465,7 +32406,7 @@
  },
  {
   "id": "P314050096b",
-  "question": "One use of part X to people is wrapping food.",
+  "question": "One use of banana leaves to people is wrapping food.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -32809,7 +32750,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "An ostrich lives in the wild and is not kept by people at home.",
+  "explanation": "A beak is a part of a bird, not a bird itself.",
   "hint": "It is a very big bird that cannot fly.",
   "image": null
  },
@@ -32930,7 +32871,7 @@
   "answer": "Rainfall",
   "options": [
    "air",
-   "clouds",
+   "soil",
    "Rainfall",
    "burn"
   ],
@@ -33162,7 +33103,7 @@
    "Cassava",
    "proteins",
    "beans",
-   "carbohydrates"
+   "meat"
   ],
   "explanation": "Proteins, carbohydrates, vitamins and other classes make up a balanced diet.",
   "hint": "Beans and meat have it.",
@@ -33177,7 +33118,7 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Proteins, carbohydrates, vitamins and other classes make up a balanced diet.",
   "hint": "Beans and meat have it.",
@@ -33406,8 +33347,8 @@
   "options": [
    "axe",
    "ball",
-   "balls",
-   "mortar"
+   "mortar",
+   "pestle"
   ],
   "explanation": "The diagram shows a mortar and pestle used for pounding food.",
   "hint": "You pound food inside it.",
@@ -33439,10 +33380,10 @@
   "difficulty": "easy",
   "answer": "pounding",
   "options": [
-   "balls",
    "pounding",
-   "ball",
-   "axe"
+   "grinding",
+   "crushing",
+   "mixing"
   ],
   "explanation": "People use the mortar and pestle to pound food into flour or paste.",
   "hint": "You hit food inside it.",
@@ -33459,10 +33400,10 @@
   "difficulty": "easy",
   "answer": "millet flour",
   "options": [
-   "breast milk",
-   "boiling it",
-   "balanced diet",
-   "millet flour"
+   "millet flour",
+   "groundnut paste",
+   "cassava flour",
+   "maize flour"
   ],
   "explanation": "Millet grains are pounded in a mortar to make millet flour.",
   "hint": "It is made from millet grains.",
@@ -33495,9 +33436,9 @@
   "answer": "groundnut paste",
   "options": [
    "groundnut paste",
-   "boiling it",
-   "balanced diet",
-   "breast milk"
+   "millet flour",
+   "cassava flour",
+   "maize flour"
   ],
   "explanation": "Groundnuts are pounded in a mortar to make groundnut paste.",
   "hint": "It is made from groundnuts.",
@@ -33610,7 +33551,7 @@
  },
  {
   "id": "P314060058b",
-  "question": "One tool needed for fishing is a collecting rubbish.",
+  "question": "One tool needed for fishing is a rubbish collector.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -34287,7 +34228,7 @@
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Sunshine gives light and heat, and it dries clothes and harvested crops.",
   "hint": "It dries things.",
@@ -34665,7 +34606,7 @@
  },
  {
   "id": "P314070001a",
-  "question": "A ____ is one animal kept at home.",
+  "question": "A ____ is a domestic animal commonly kept at home for security.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -34845,7 +34786,7 @@
  },
  {
   "id": "P314070009a",
-  "question": "One component of soil is ____.",
+  "question": "One organic component of soil is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -34880,7 +34821,7 @@
  },
  {
   "id": "P314070010a",
-  "question": "One thing a plant needs to grow well is ____.",
+  "question": "One thing a plant needs to grow well that it gets from the soil is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -35001,7 +34942,7 @@
   "options": [
    "nose",
    "ear",
-   "deaf",
+   "tongue",
    "eye"
   ],
   "explanation": "The nose is the sense organ for smelling.",
@@ -35045,7 +34986,7 @@
  },
  {
   "id": "P314070016b",
-  "question": "One way of controlling soil erosion is planting trees.",
+  "question": "Planting grass helps to control soil erosion.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -35054,8 +34995,8 @@
   "difficulty": "easy",
   "answer": "True",
   "options": null,
-  "explanation": "Trees hold the soil with their roots so it is not washed away.",
-  "hint": "Their roots hold the soil.",
+  "explanation": "Grass roots hold the soil together, preventing it from being washed or blown away.",
+  "hint": "Roots hold the soil.",
   "image": null
  },
  {
@@ -35106,7 +35047,7 @@
   "options": [
    "give us energy",
    "keeping it covered",
-   "build the body",
+   "make us sleep",
    "weak and sick"
   ],
   "explanation": "Food gives the body energy to work and play.",
@@ -35139,10 +35080,10 @@
   "difficulty": "medium",
   "answer": "Sand",
   "options": [
-   "Bricks",
+   "Clay",
    "Sand",
-   "cement",
-   "air"
+   "Loam",
+   "Silt"
   ],
   "explanation": "Sand has the biggest particles; clay has the smallest particles.",
   "hint": "It feels rough.",
@@ -35209,8 +35150,8 @@
   "difficulty": "easy",
   "answer": "termite",
   "options": [
-   "abdomen",
-   "adult",
+   "butterfly",
+   "mosquito",
    "termite",
    "bee"
   ],
@@ -35317,7 +35258,7 @@
    "slasher",
    "axe",
    "ball",
-   "balls"
+   "hoe"
   ],
   "explanation": "A slasher is used for cutting grass and clearing bushes.",
   "hint": "It cuts grass.",
@@ -35527,7 +35468,7 @@
    "basket",
    "rags",
    "drum",
-   "clay"
+   "stone"
   ],
   "explanation": "Old pieces of cloth (rags) can be tied together to make balls.",
   "hint": "Old pieces of cloth.",
@@ -35979,10 +35920,10 @@
   "difficulty": "medium",
   "answer": "loam",
   "options": [
-   "Bricks",
-   "cement",
-   "air",
-   "loam"
+   "sand",
+   "clay",
+   "loam",
+   "gravel"
   ],
   "explanation": "Loam soil is a mixture of sand, clay and humus, and it is the best for growing crops.",
   "hint": "It is the best for crops.",
@@ -36015,9 +35956,9 @@
   "answer": "A",
   "options": [
    "A",
-   "Bricks",
-   "cement",
-   "air"
+   "B",
+   "C",
+   "D"
   ],
   "explanation": "Sand soil has big particles with large spaces, so water passes through it easily.",
   "hint": "It has big particles.",
@@ -36052,7 +35993,7 @@
    "ear",
    "leg",
    "eye",
-   "deaf"
+   "nose"
   ],
   "explanation": "The diagram shows a human leg.",
   "hint": "We walk with it.",
@@ -36075,7 +36016,7 @@
  },
  {
   "id": "P314070057a",
-  "question": "The leg is useful to people for ____.",
+  "question": "The primary function of the leg is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -36085,11 +36026,11 @@
   "answer": "walking",
   "options": [
    "walking",
-   "ear",
-   "eye",
-   "deaf"
+   "running",
+   "jumping",
+   "standing"
   ],
-  "explanation": "Our legs help us to walk and run from place to place.",
+  "explanation": "The primary function of the leg is walking.",
   "hint": "We move with them.",
   "image": "P314070057img.jpg"
  },
@@ -36117,12 +36058,12 @@
   "term": "Term 3",
   "unit": "Human body",
   "difficulty": "easy",
-  "answer": "keeping them clean",
+  "answer": "washing them daily",
   "options": [
-   "treats sick pupils",
-   "Health workers",
-   "Measles and polio",
-   "keeping them clean"
+   "washing them daily",
+   "ignoring injuries",
+   "not wearing shoes",
+   "avoiding exercise"
   ],
   "explanation": "Washing our legs daily keeps them clean and healthy.",
   "hint": "Wash them daily.",
@@ -36130,7 +36071,7 @@
  },
  {
   "id": "P314070059a",
-  "question": "One thing used in cleaning the leg is ____.",
+  "question": "The cleaning agent used with water to clean the leg is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -36140,11 +36081,11 @@
   "answer": "soap",
   "options": [
    "soap",
-   "bathing",
-   "broom",
-   "brushing"
+   "towel",
+   "sponge",
+   "brush"
   ],
-  "explanation": "Soap and water are used to clean our bodies.",
+  "explanation": "Soap is a cleaning agent used with water to clean our bodies.",
   "hint": "It makes lather.",
   "image": "P314070059img.jpg"
  },
@@ -36174,10 +36115,10 @@
   "difficulty": "medium",
   "answer": "eggs",
   "options": [
-   "adult",
    "eggs",
-   "bee",
-   "abdomen"
+   "nymph",
+   "adult",
+   "larva"
   ],
   "explanation": "In the diagram, X shows the eggs of the cockroach.",
   "hint": "The life cycle starts here.",
@@ -36209,10 +36150,10 @@
   "difficulty": "medium",
   "answer": "adult",
   "options": [
-   "abdomen",
-   "breathing",
+   "egg",
+   "nymph",
    "adult",
-   "bee"
+   "pupa"
   ],
   "explanation": "In the diagram, Y shows the adult cockroach.",
   "hint": "It is fully grown.",
@@ -36235,7 +36176,7 @@
  },
  {
   "id": "P314070062a",
-  "question": "One disease spread by cockroaches is ____.",
+  "question": "A disease commonly spread by cockroaches is ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -36244,10 +36185,10 @@
   "difficulty": "medium",
   "answer": "cholera",
   "options": [
-   "bed",
-   "AIDS",
    "cholera",
-   "ambulance"
+   "malaria",
+   "HIV/AIDS",
+   "tuberculosis"
   ],
   "explanation": "Cockroaches carry germs that spread diseases like cholera and dysentery.",
   "hint": "It comes from dirty water.",
@@ -36279,10 +36220,10 @@
   "difficulty": "medium",
   "answer": "dysentery",
   "options": [
-   "bed",
-   "ambulance",
    "dysentery",
-   "AIDS"
+   "malaria",
+   "HIV/AIDS",
+   "tuberculosis"
   ],
   "explanation": "Cockroaches spread germs that cause dysentery.",
   "hint": "It affects the stomach.",
@@ -36305,7 +36246,7 @@
  },
  {
   "id": "P314070064a",
-  "question": "One place where you can be taken when you are sick is the ____.",
+  "question": "The largest medical facility where sick people are taken is the ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -36314,10 +36255,10 @@
   "difficulty": "easy",
   "answer": "hospital",
   "options": [
-   "bed",
    "hospital",
-   "AIDS",
-   "ambulance"
+   "clinic",
+   "health center",
+   "dispensary"
   ],
   "explanation": "Sick people are taken to a hospital for treatment.",
   "hint": "Doctors work there.",
@@ -36510,7 +36451,7 @@
   "answer": "lion",
   "options": [
    "lion",
-   "bird",
+   "cat",
    "bite",
    "beak"
   ],
@@ -36544,10 +36485,10 @@
   "difficulty": "easy",
   "answer": "elephant",
   "options": [
-   "bird",
+   "elephant",
    "beak",
    "bite",
-   "elephant"
+   "chair"
   ],
   "explanation": "An elephant is a very big wild animal.",
   "hint": "It is very big.",
@@ -36940,17 +36881,17 @@
  },
  {
   "id": "P314070086b",
-  "question": "One element of weather is air.",
+  "question": "One element of weather is temperature.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Sunshine is one of the elements of weather.",
-  "hint": "It comes from the sun.",
+  "explanation": "Temperature tells how hot or cold the air is.",
+  "hint": "We measure it with a thermometer.",
   "image": null
  },
  {
@@ -37069,10 +37010,10 @@
   "difficulty": "easy",
   "answer": "beans",
   "options": [
-   "Cassava",
-   "covering",
    "beans",
-   "carbohydrates"
+   "stone",
+   "soap",
+   "paper"
   ],
   "explanation": "Beans are eaten with posho at home.",
   "hint": "It is rich in proteins.",
@@ -37087,9 +37028,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Beans are eaten with posho at home.",
+  "explanation": "Cassava is a staple food eaten at home in Uganda.",
   "hint": "It is rich in proteins.",
   "image": null
  },
@@ -37104,10 +37045,10 @@
   "difficulty": "easy",
   "answer": "give energy",
   "options": [
-   "boiling it",
-   "breast milk",
-   "balanced diet",
-   "give energy"
+   "give energy",
+   "make you fly",
+   "turn blue",
+   "grow wings"
   ],
   "explanation": "Food gives our bodies energy to work and play.",
   "hint": "It gives strength.",
@@ -37139,10 +37080,10 @@
   "difficulty": "easy",
   "answer": "help the body grow",
   "options": [
-   "cook food for pupils",
-   "diseases and poor growth",
-   "stay healthy and strong",
-   "help the body grow"
+   "help the body grow",
+   "make you fly",
+   "turn blue",
+   "grow wings"
   ],
   "explanation": "Food helps our bodies to grow big and strong.",
   "hint": "Children grow with it.",
@@ -37175,9 +37116,9 @@
   "answer": "cow",
   "options": [
    "cow",
-   "bite",
-   "beak",
-   "bird"
+   "chicken",
+   "pig",
+   "duck"
   ],
   "explanation": "A cow is a domestic animal with horns kept at home.",
   "hint": "It gives us milk.",
@@ -37230,9 +37171,9 @@
   "answer": "protecting itself",
   "options": [
    "protecting itself",
-   "pollinate flowers",
-   "six legs",
-   "bee, mosquito"
+   "collecting nectar",
+   "flying",
+   "making honey"
   ],
   "explanation": "A bee stings its enemies to protect itself.",
   "hint": "It is its weapon.",
@@ -37249,10 +37190,10 @@
   "difficulty": "easy",
   "answer": "bird",
   "options": [
-   "breathes",
-   "beak",
-   "bite",
-   "bird"
+   "bird",
+   "squirrel",
+   "bee",
+   "ant"
   ],
   "explanation": "Birds build nests to live in and to lay their eggs.",
   "hint": "It flies.",
@@ -37320,8 +37261,8 @@
   "answer": "tongue",
   "options": [
    "tongue",
+   "nose",
    "ear",
-   "deaf",
    "eye"
   ],
   "explanation": "We taste food with our tongue.",
@@ -37392,7 +37333,7 @@
    "keeping rubbish",
    "bathing daily",
    "body odour",
-   "collecting rubbish"
+   "storing food"
   ],
   "explanation": "A dust bin holds rubbish and keeps the home clean.",
   "hint": "Rubbish goes inside.",
@@ -37692,7 +37633,7 @@
    "washing them with clean water",
    "taking them to the nurse",
    "Measles and polio",
-   "keeping them clean"
+   "rubbing them with dirty hands"
   ],
   "explanation": "Clean water keeps our eyes healthy.",
   "hint": "Use clean water.",
@@ -37976,7 +37917,7 @@
   "options": [
    "build the body",
    "weak and sick",
-   "give us energy",
+   "make us tall",
    "keeping it covered"
   ],
   "explanation": "Proteins in food build our bodies and make us strong.",
@@ -38290,14 +38231,14 @@
  },
  {
   "id": "P314080049b",
-  "question": "First aid is the help given to a person a sick or injured person.",
+  "question": "First aid is the help given to a sick or injured person.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "First aid",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "First aid is the first quick help given to a sick or injured person.",
   "hint": "It comes first.",
@@ -38830,7 +38771,7 @@
  },
  {
   "id": "P314080066a",
-  "question": "One object made out of local materials is a ____.",
+  "question": "One object woven from banana fibres is a ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -38857,15 +38798,15 @@
   "term": "Term 2",
   "unit": "Materials",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Mats are woven from local materials like banana fibres.",
+  "explanation": "Baskets are woven from local plant materials.",
   "hint": "You sit on it.",
   "image": null
  },
  {
   "id": "P314080067a",
-  "question": "Another object made out of local materials is a ____.",
+  "question": "Another object woven from local plant materials is a ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -39075,7 +39016,7 @@
  },
  {
   "id": "P314080075a",
-  "question": "One common insect is the ____.",
+  "question": "One common insect found in homes is the ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -39110,7 +39051,7 @@
  },
  {
   "id": "P314080076a",
-  "question": "Another common insect is the ____.",
+  "question": "Another common insect that spreads malaria is the ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -39199,21 +39140,6 @@
   "image": null
  },
  {
-  "id": "P314080078b",
-  "question": "Another use of insects to people is that they bee, mosquito.",
-  "type": "true_false",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 2",
-  "unit": "Insects",
-  "difficulty": "medium",
-  "answer": "False",
-  "options": null,
-  "explanation": "Insects carry pollen from flower to flower, helping plants make seeds.",
-  "hint": "It helps plants make seeds.",
-  "image": null
- },
- {
   "id": "P314080079a",
   "question": "We eat food to ____.",
   "type": "multiple_choice",
@@ -39295,9 +39221,9 @@
   "answer": "proteins",
   "options": [
    "proteins",
-   "carbohydrates",
    "beans",
-   "Cassava"
+   "Cassava",
+   "maize"
   ],
   "explanation": "Proteins, carbohydrates and vitamins are classes of food.",
   "hint": "Beans have it.",
@@ -39714,10 +39640,10 @@
   "difficulty": "easy",
   "answer": "rope",
   "options": [
-   "basket",
    "clay",
    "rope",
-   "drum"
+   "drum",
+   "paper"
   ],
   "explanation": "Sisal fibres are used to make ropes and mats.",
   "hint": "You tie things with it.",
@@ -40231,7 +40157,7 @@
   "options": [
    "can cause skin diseases",
    "getting rid of human waste",
-   "passing urine and stool",
+   "washing clothes",
    "makes clothes neat and kills germs"
   ],
   "explanation": "A toilet keeps our waste in one safe place and stops diseases.",
@@ -40247,7 +40173,7 @@
   "term": "Term 3",
   "unit": "Hygiene",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "A toilet keeps our waste in one safe place and stops diseases.",
   "hint": "Waste goes in it.",
@@ -40300,7 +40226,7 @@
   "answer": "the garden",
   "options": [
    "the garden",
-   "breast milk",
+   "the sun",
    "balanced diet",
    "boiling it"
   ],
@@ -40461,7 +40387,7 @@
   "options": [
    "Measles and polio",
    "washing them with clean water",
-   "keeping them clean",
+   "rubbing them with dirty hands",
    "taking them to the nurse"
   ],
   "explanation": "Clean water keeps our eyes healthy.",
@@ -40495,7 +40421,7 @@
   "answer": "sleeping under a mosquito net",
   "options": [
    "sleeping under a mosquito net",
-   "clearing bushes around the home",
+   "eating more fruits",
    "protect them from killer diseases",
    "giving them love and comfort"
   ],
@@ -40530,7 +40456,7 @@
   "answer": "covering it",
   "options": [
    "covering it",
-   "boiling it",
+   "leaving it open",
    "breast milk",
    "balanced diet"
   ],
@@ -40547,9 +40473,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Covering food keeps germs and flies away.",
+  "explanation": "Boiling food kills germs and makes it safe to eat.",
   "hint": "Cover it.",
   "image": null
  },
@@ -40895,7 +40821,7 @@
  },
  {
   "id": "P314090047b",
-  "question": "One property of air is that air has weight.",
+  "question": "Air takes up space.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -40904,8 +40830,8 @@
   "difficulty": "easy",
   "answer": "True",
   "options": null,
-  "explanation": "Air has weight, as shown by the balloon test.",
-  "hint": "The balloon test.",
+  "explanation": "Air occupies space, which can be shown by inflating a balloon.",
+  "hint": "What happens when you blow up a balloon?",
   "image": null
  },
  {
@@ -40937,9 +40863,9 @@
   "term": "Term 1",
   "unit": "Air",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Air takes up space wherever it is.",
+  "explanation": "Air has weight and exerts pressure.",
   "hint": "It fills space.",
   "image": null
  },
@@ -40965,17 +40891,17 @@
  },
  {
   "id": "P314090049b",
-  "question": "Wind is moving air.",
+  "question": "Wind is still air.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "True",
+  "answer": "False",
   "options": null,
-  "explanation": "Wind is air that is moving from one place to another.",
-  "hint": "It is moving air.",
+  "explanation": "Wind is moving air, not still air.",
+  "hint": "Wind moves.",
   "image": null
  },
  {
@@ -40992,7 +40918,7 @@
    "rainfall",
    "air",
    "burn",
-   "clouds"
+   "soil"
   ],
   "explanation": "Rainfall is an element of weather.",
   "hint": "It falls from clouds.",
@@ -41025,7 +40951,7 @@
   "answer": "sunshine",
   "options": [
    "air",
-   "clouds",
+   "soil",
    "burn",
    "sunshine"
   ],
@@ -41222,7 +41148,7 @@
    "keeping it covered",
    "weak and sick",
    "give us energy",
-   "build the body"
+   "make us sleep"
   ],
   "explanation": "Food gives our bodies energy to work and play.",
   "hint": "It gives strength.",
@@ -41237,9 +41163,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Food gives our bodies energy to work and play.",
+  "explanation": "Food provides nutrients that build and repair the body.",
   "hint": "It gives strength.",
   "image": null
  },
@@ -41694,10 +41620,10 @@
   "difficulty": "easy",
   "answer": "mother",
   "options": [
-   "children",
+   "mother",
    "bedroom",
-   "father",
-   "mother"
+   "car",
+   "tree"
   ],
   "explanation": "The mother is a member of the family.",
   "hint": "She cooks food.",
@@ -42009,7 +41935,7 @@
   "difficulty": "easy",
   "answer": "levelling soil",
   "options": [
-   "collecting rubbish",
+   "planting seeds",
    "cutting food",
    "levelling soil",
    "banana fibres"
@@ -42027,7 +41953,7 @@
   "term": "Term 2",
   "unit": "Tools",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "A rake is used to level soil and gather rubbish in the garden.",
   "hint": "It levels the soil.",
@@ -42359,7 +42285,7 @@
   "difficulty": "easy",
   "answer": "bandage",
   "options": [
-   "gloves",
+   "pencil",
    "bandage",
    "cleaning wounds",
    "school"
@@ -42557,7 +42483,7 @@
    "toilet paper and water",
    "getting rid of waste",
    "can cause skin diseases",
-   "passing urine and stool"
+   "washing hands"
   ],
   "explanation": "Toilets keep the school clean and free from germs.",
   "hint": "Waste goes in it.",
@@ -42967,7 +42893,7 @@
   "term": "Term 1",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "In the kitchen we use water for cooking food and washing utensils.",
   "hint": "We cook with it.",
@@ -43054,10 +42980,10 @@
   "difficulty": "easy",
   "answer": "wet",
   "options": [
-   "burn",
-   "clouds",
+   "dry",
+   "hot",
    "wet",
-   "air"
+   "cold"
   ],
   "explanation": "Seeds need water to grow, so we plant them in the wet season.",
   "hint": "It rains.",
@@ -43089,10 +43015,10 @@
   "difficulty": "easy",
   "answer": "rice",
   "options": [
-   "absorbs",
-   "air",
+   "maize",
    "rice",
-   "aphid"
+   "cassava",
+   "beans"
   ],
   "explanation": "Rice grows well in swampy areas with a lot of water.",
   "hint": "It is a cereal.",
@@ -43124,10 +43050,10 @@
   "difficulty": "medium",
   "answer": "complete life cycle",
   "options": [
-   "head and thorax",
-   "fail to breathe",
    "complete life cycle",
-   "Mosquitoes and houseflies"
+   "sleep cycle",
+   "wash cycle",
+   "spin cycle"
   ],
   "explanation": "In a complete life cycle, the insect passes through egg, larva, pupa and adult stages.",
   "hint": "Egg, larva, pupa, adult.",
@@ -43159,10 +43085,10 @@
   "difficulty": "easy",
   "answer": "measuring rainfall",
   "options": [
-   "bring rain",
-   "causing blindness",
-   "break them",
-   "measuring rainfall"
+   "measuring temperature",
+   "measuring wind speed",
+   "measuring rainfall",
+   "predicting weather"
   ],
   "explanation": "A rain gauge measures the amount of rainfall.",
   "hint": "It measures rain.",
@@ -43194,10 +43120,10 @@
   "difficulty": "easy",
   "answer": "broom",
   "options": [
-   "brushing",
    "broom",
-   "bathing",
-   "clean"
+   "spoon",
+   "book",
+   "shoe"
   ],
   "explanation": "Brooms sweep dirt and keep the environment clean.",
   "hint": "It sweeps.",
@@ -43230,9 +43156,9 @@
   "answer": "wind",
   "options": [
    "wind",
-   "air",
-   "burn",
-   "clouds"
+   "desk",
+   "pen",
+   "chair"
   ],
   "explanation": "Wind is moving air and is an element of weather.",
   "hint": "It is moving air.",
@@ -43240,17 +43166,17 @@
  },
  {
   "id": "P314100037b",
-  "question": "One element of weather is air.",
+  "question": "One element of weather is rainfall.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Wind is moving air and is an element of weather.",
-  "hint": "It is moving air.",
+  "explanation": "Rainfall is a form of precipitation, an element of weather.",
+  "hint": "It falls from clouds.",
   "image": null
  },
  {
@@ -43264,10 +43190,10 @@
   "difficulty": "easy",
   "answer": "sleeping under a mosquito net",
   "options": [
-   "protect them from killer diseases",
-   "giving them love and comfort",
-   "clearing bushes around the home",
-   "sleeping under a mosquito net"
+   "sleeping under a mosquito net",
+   "eating apples",
+   "reading books",
+   "jumping rope"
   ],
   "explanation": "Mosquito nets stop mosquitoes from biting us at night.",
   "hint": "It keeps mosquitoes away.",
@@ -43299,10 +43225,10 @@
   "difficulty": "easy",
   "answer": "before eating food",
   "options": [
-   "bathing every day",
-   "getting skin diseases",
-   "brushing their teeth",
-   "before eating food"
+   "before eating food",
+   "while sleeping",
+   "while running",
+   "while singing"
   ],
   "explanation": "We wash our hands before eating so germs do not get into our food.",
   "hint": "Before you eat.",
@@ -43330,7 +43256,7 @@
  },
  {
   "id": "P314100040b",
-  "question": "One example of a fruit is a beans.",
+  "question": "One example of a fruit is beans.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -43354,10 +43280,10 @@
   "difficulty": "easy",
   "answer": "fridge",
   "options": [
-   "beans",
+   "oven",
    "fridge",
-   "Cassava",
-   "carbohydrates"
+   "cupboard",
+   "basket"
   ],
   "explanation": "A fridge keeps food cold so it stays fresh for a long time.",
   "hint": "It keeps food cold.",
@@ -43784,9 +43710,9 @@
   "difficulty": "easy",
   "answer": "is not planned",
   "options": [
-   "Knives and fire",
-   "Burns and cuts",
-   "Burns and falls",
+   "is planned",
+   "is expected",
+   "is intentional",
    "is not planned"
   ],
   "explanation": "Accidents happen suddenly and nobody plans them.",
@@ -43889,10 +43815,10 @@
   "difficulty": "easy",
   "answer": "taking them to a hospital",
   "options": [
-   "a sick or injured person",
    "taking them to a hospital",
-   "keeps first aid items together",
-   "has got an accident"
+   "ignoring them",
+   "laughing at them",
+   "running away"
   ],
   "explanation": "Take the injured friend to hospital for treatment.",
   "hint": "Take them for treatment.",
@@ -43990,7 +43916,7 @@
  },
  {
   "id": "P314100063b",
-  "question": "The danger of a crocodile to people is that it forests and national parks.",
+  "question": "The danger of a crocodile to people is that it provides leather shoes and bags.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -43999,7 +43925,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "A crocodile is dangerous because it can bite and kill people.",
+  "explanation": "Providing leather shoes and bags is a use of crocodiles, not a danger. The danger is that crocodiles can bite and kill people.",
   "hint": "It is dangerous.",
   "image": "P314100063img.jpg"
  },
@@ -44014,10 +43940,10 @@
   "difficulty": "medium",
   "answer": "leather shoes and bags",
   "options": [
-   "forests and national parks",
-   "are kept by people",
    "leather shoes and bags",
-   "bites and kills people"
+   "plastic toys",
+   "paper cups",
+   "wooden chairs"
   ],
   "explanation": "Crocodile skin is used to make leather shoes and bags.",
   "hint": "Leather things.",
@@ -44069,10 +43995,10 @@
   "difficulty": "easy",
   "answer": "get energy",
   "options": [
-   "breast milk",
    "get energy",
-   "boiling it",
-   "balanced diet"
+   "fly",
+   "turn invisible",
+   "breathe fire"
   ],
   "explanation": "Food gives our bodies energy to work and play.",
   "hint": "It gives strength.",
@@ -44330,7 +44256,7 @@
  },
  {
   "id": "P314100078b",
-  "question": "Wind is useful to a farmer for bring rain.",
+  "question": "Wind is useful to a farmer for bringing rain.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -44339,7 +44265,7 @@
   "difficulty": "medium",
   "answer": "False",
   "options": null,
-  "explanation": "Wind blows away the light chaff when farmers winnow seeds.",
+  "explanation": "Wind does not bring rain; rain comes from clouds. Wind helps farmers winnow seeds but does not cause rain.",
   "hint": "It helps in winnowing.",
   "image": null
  },
@@ -44389,10 +44315,10 @@
   "difficulty": "easy",
   "answer": "destroys crops",
   "options": [
-   "bring rain",
+   "brings rain",
    "destroys crops",
-   "break them",
-   "causing blindness"
+   "breaks them",
+   "causes blindness"
   ],
   "explanation": "Heavy rain destroys crops in the gardens.",
   "hint": "Crops are destroyed.",
@@ -44499,10 +44425,10 @@
   "difficulty": "easy",
   "answer": "frying pan",
   "options": [
-   "collecting rubbish",
-   "cutting food",
    "frying pan",
-   "banana fibres"
+   "plate",
+   "cup",
+   "fork"
   ],
   "explanation": "A frying pan is used for frying food.",
   "hint": "We fry in it.",
@@ -44510,7 +44436,7 @@
  },
  {
   "id": "P314100086b",
-  "question": "Another item used in the kitchen to cook food is a collecting rubbish.",
+  "question": "Collecting rubbish is an item used in the kitchen to cook food.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -44534,10 +44460,10 @@
   "difficulty": "easy",
   "answer": "washing them after use",
   "options": [
-   "can cause skin diseases",
+   "drying them after washing",
+   "storing them properly",
    "washing them after use",
-   "getting rid of waste",
-   "passing urine and stool"
+   "cleaning them regularly"
   ],
   "explanation": "Washing kitchen items after use keeps them clean.",
   "hint": "Wash them.",
@@ -44569,10 +44495,10 @@
   "difficulty": "easy",
   "answer": "earthworm",
   "options": [
-   "air",
-   "Bricks",
-   "cement",
-   "earthworm"
+   "ant",
+   "beetle",
+   "earthworm",
+   "millipede"
   ],
   "explanation": "An earthworm lives in the soil.",
   "hint": "It is long and soft.",
@@ -44580,7 +44506,7 @@
  },
  {
   "id": "P314100089b",
-  "question": "The soil animal shown in the diagram is an air.",
+  "question": "The soil animal shown in the diagram is air.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -44605,7 +44531,7 @@
   "answer": "humus",
   "options": [
    "Bricks",
-   "air",
+   "stones",
    "humus",
    "cement"
   ],
@@ -44677,7 +44603,7 @@
    "bed",
    "malaria",
    "ambulance",
-   "AIDS"
+   "cough"
   ],
   "explanation": "Malaria is a common disease spread by mosquitoes.",
   "hint": "Mosquitoes spread it.",
@@ -44709,7 +44635,7 @@
   "difficulty": "easy",
   "answer": "flu",
   "options": [
-   "AIDS",
+   "headache",
    "ambulance",
    "flu",
    "bed"
@@ -44744,7 +44670,7 @@
   "difficulty": "easy",
   "answer": "sleeping under mosquito nets",
   "options": [
-   "keeping our environment clean",
+   "eating vegetables",
    "giving them good food",
    "sleeping under mosquito nets",
    "not sharing sharp objects"
@@ -44780,7 +44706,7 @@
   "answer": "clearing bushes around the home",
   "options": [
    "clearing bushes around the home",
-   "sleeping under a mosquito net",
+   "drinking clean water",
    "giving them love and comfort",
    "protect them from killer diseases"
   ],
@@ -44869,10 +44795,10 @@
   "difficulty": "easy",
   "answer": "cross the road safely",
   "options": [
-   "has got an accident",
-   "bandages and cotton wool",
    "cross the road safely",
-   "Knives and broken bottles"
+   "play on the road",
+   "drive cars",
+   "ride bicycles"
   ],
   "explanation": "A zebra crossing is a safe place marked on the road for people to cross.",
   "hint": "It is a safe place on the road marked with white stripes.",
@@ -44880,7 +44806,7 @@
  },
  {
   "id": "P314110004b",
-  "question": "A zebra crossing helps pedestrians to bandages and cotton wool.",
+  "question": "A zebra crossing helps pedestrians to drive cars.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -44904,10 +44830,10 @@
   "difficulty": "easy",
   "answer": "ropes",
   "options": [
-   "aphid",
-   "absorbs",
    "ropes",
-   "air"
+   "mats",
+   "baskets",
+   "hats"
   ],
   "explanation": "Banana fibres are strong and can be twisted into ropes.",
   "hint": "We twist banana fibres to make something we use for tying.",
@@ -44974,10 +44900,10 @@
   "difficulty": "easy",
   "answer": "sweep it",
   "options": [
-   "collecting rubbish",
    "sweep it",
-   "body odour",
-   "bathing daily"
+   "collect rubbish",
+   "wash clothes",
+   "dust furniture"
   ],
   "explanation": "Sweeping the bedroom removes dirt and keeps it clean.",
   "hint": "Use a broom in the bedroom.",
@@ -45009,10 +44935,10 @@
   "difficulty": "medium",
   "answer": "balanced diet",
   "options": [
-   "cooking food",
-   "breast milk",
-   "boiling it",
-   "balanced diet"
+   "balanced diet",
+   "healthy meal",
+   "nutritious food",
+   "proper diet"
   ],
   "explanation": "A balanced diet has all food values in the right amounts to keep us healthy.",
   "hint": "It is a meal with every food value in the right amount.",
@@ -45044,10 +44970,10 @@
   "difficulty": "easy",
   "answer": "boiling it",
   "options": [
-   "balanced diet",
-   "cooking food",
    "boiling it",
-   "breast milk"
+   "pasteurizing it",
+   "refrigerating it",
+   "storing it properly"
   ],
   "explanation": "Boiling milk kills germs so it does not go bad quickly.",
   "hint": "Heat the milk to kill germs.",
@@ -45079,10 +45005,10 @@
   "difficulty": "medium",
   "answer": "HIV/AIDS",
   "options": [
-   "eye",
-   "deaf",
    "HIV/AIDS",
-   "ear"
+   "malaria",
+   "measles",
+   "polio"
   ],
   "explanation": "HIV/AIDS has no cure, so we must protect ourselves from it.",
   "hint": "It is a dangerous disease spread through blood.",
@@ -45135,9 +45061,9 @@
   "answer": "weeding the garden",
   "options": [
    "weeding the garden",
-   "Ropes and mats",
-   "Beans and maize",
-   "dry plant materials"
+   "watering the plants",
+   "applying fertilizer",
+   "removing pests"
   ],
   "explanation": "Weeding removes unwanted plants so crops can grow well.",
   "hint": "Remove the unwanted plants from the garden.",
@@ -45180,7 +45106,7 @@
  },
  {
   "id": "P314110020b",
-  "question": "Nimbus clouds are useful to farmers because they causing blindness.",
+  "question": "Nimbus clouds are useful to farmers because they cause blindness.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -45460,16 +45386,16 @@
  },
  {
   "id": "P314110034b",
-  "question": "Trees are useful in a school compound because they give beautiful.",
+  "question": "Trees are useful in a school compound because they give beauty.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Environment",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Trees give shade where pupils can rest on hot days.",
+  "explanation": "Trees make the school compound beautiful.",
   "hint": "We sit under them on hot days.",
   "image": null
  },
@@ -45610,7 +45536,7 @@
   "answer": "fruits",
   "options": [
    "aphid",
-   "air",
+   "rocks",
    "fruits",
    "absorbs"
   ],
@@ -45627,7 +45553,7 @@
   "term": "Term 2",
   "unit": "Plants",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Trees give us fruits, shade, firewood and clean air.",
   "hint": "We eat them when they are ripe.",
@@ -45655,7 +45581,7 @@
  },
  {
   "id": "P314110041b",
-  "question": "Rivers and lakes and Rivers and lakes are sources of water.",
+  "question": "Rivers and lakes are sources of water.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -45690,14 +45616,14 @@
  },
  {
   "id": "P314110042b",
-  "question": "Water is useful to people for boiling it and boiling it.",
+  "question": "Water is useful to people for boiling it.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "People use water for drinking, cooking, washing and bathing.",
   "hint": "We drink it and cook with it.",
@@ -45725,7 +45651,7 @@
  },
  {
   "id": "P314110043b",
-  "question": "Measles and polio and Measles and polio are immunizable diseases.",
+  "question": "Measles and polio are immunizable diseases.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -45784,7 +45710,7 @@
   "difficulty": "easy",
   "answer": "Dry grass",
   "options": [
-   "dry leaves",
+   "stones",
    "banana plants",
    "get sunlight",
    "Dry grass"
@@ -45919,21 +45845,6 @@
   "image": null
  },
  {
-  "id": "P314110058b",
-  "question": "is not planned and is not planned are common accidents at home.",
-  "type": "true_false",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 3",
-  "unit": "Accidents",
-  "difficulty": "easy",
-  "answer": "False",
-  "options": null,
-  "explanation": "Burns and cuts happen often at home.",
-  "hint": "Fire causes one, sharp objects cause the other.",
-  "image": null
- },
- {
   "id": "P314110059a",
   "question": "One cause of accidents at school is ____.",
   "type": "multiple_choice",
@@ -46025,7 +45936,7 @@
  },
  {
   "id": "P314110062b",
-  "question": "Domestic animals are useful to people because they give us milk and meat and milk and meat.",
+  "question": "Domestic animals are useful to people because they give us milk and meat.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -46169,21 +46080,6 @@
   "image": null
  },
  {
-  "id": "P314110075b",
-  "question": "A pollinate flowers is a useful insect and a pollinate flowers is a harmful insect.",
-  "type": "true_false",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 2",
-  "unit": "Insects",
-  "difficulty": "easy",
-  "answer": "False",
-  "options": null,
-  "explanation": "Bees give us honey so they are useful; mosquitoes spread malaria so they are harmful.",
-  "hint": "One gives us honey, the other spreads malaria.",
-  "image": null
- },
- {
   "id": "P314110076a",
   "question": "Birds are useful to people because they give us ____ and ____.",
   "type": "multiple_choice",
@@ -46205,7 +46101,7 @@
  },
  {
   "id": "P314110076b",
-  "question": "Birds are useful to people because they give us meat and eggs and meat and eggs.",
+  "question": "Birds are useful to people because they give us meat and eggs.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -46330,7 +46226,7 @@
  },
  {
   "id": "P314120007a",
-  "question": "Animals move from one place to another to look for ____.",
+  "question": "Animals travel from place to place mainly to find ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -46339,28 +46235,28 @@
   "difficulty": "easy",
   "answer": "food",
   "options": [
-   "bird",
+   "water",
    "food",
-   "beak",
-   "bite"
+   "shelter",
+   "toys"
   ],
-  "explanation": "Animals move to look for food, water and shelter.",
+  "explanation": "Animals move to search for food, water, and shelter.",
   "hint": "They look for something to eat.",
   "image": null
  },
  {
   "id": "P314120007b",
-  "question": "Animals move from one place to another to look for beak.",
+  "question": "Animals move from place to place to look for shelter.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 2",
   "unit": "Animals",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Animals move to look for food, water and shelter.",
-  "hint": "They look for something to eat.",
+  "explanation": "Animals migrate to find safe places to live.",
+  "hint": "They need a safe home.",
   "image": null
  },
  {
@@ -46420,14 +46316,14 @@
  },
  {
   "id": "P314120009b",
-  "question": "clouds clouds give us rain.",
+  "question": "Nimbus clouds give us rain.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
   "explanation": "Nimbus clouds are dark clouds that bring rain.",
   "hint": "They are dark rain clouds.",
@@ -46609,7 +46505,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Malaria is a common disease spread by mosquitoes.",
+  "explanation": "Deafness is a condition, not a disease.",
   "hint": "Mosquitoes spread it.",
   "image": null
  },
@@ -46662,7 +46558,7 @@
    "lion",
    "bite",
    "beak",
-   "bird"
+   "dog"
   ],
   "explanation": "A lion lives in the wild and is not kept at home.",
   "hint": "It is the king of the jungle.",
@@ -46679,7 +46575,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "A lion lives in the wild and is not kept at home.",
+  "explanation": "A beak is a part of a bird, not a wild animal.",
   "hint": "It is the king of the jungle.",
   "image": null
  },
@@ -46705,17 +46601,17 @@
  },
  {
   "id": "P314120024b",
-  "question": "Wind is moving air.",
+  "question": "Wind is a type of cloud.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Weather",
   "difficulty": "easy",
-  "answer": "True",
+  "answer": "False",
   "options": null,
-  "explanation": "Wind is air that is moving from one place to another.",
-  "hint": "It is air that moves.",
+  "explanation": "Wind is moving air, not a cloud.",
+  "hint": "Clouds are made of water vapor.",
   "image": null
  },
  {
@@ -46839,7 +46735,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "A donkey can carry people and heavy loads.",
+  "explanation": "A beak is a bird's mouth and is not used for transport.",
   "hint": "It carries heavy loads on its back.",
   "image": null
  },
@@ -46907,9 +46803,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Posho is a common food eaten at school.",
+  "explanation": "Beans are commonly eaten at school, often served with posho.",
   "hint": "It is made from maize flour.",
   "image": null
  },
@@ -46929,7 +46825,7 @@
    "before eating food",
    "keep them clean"
   ],
-  "explanation": "Short nails do not keep dirt and germs.",
+  "explanation": "Short nails do not harbor dirt and germs.",
   "hint": "So that dirt does not hide under them.",
   "image": null
  },
@@ -47145,7 +47041,7 @@
  },
  {
   "id": "P314120042b",
-  "question": "Domestic animals are useful because they give us milk and meat and milk and meat.",
+  "question": "Domestic animals are useful because they give us milk and meat.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -47235,7 +47131,7 @@
  },
  {
   "id": "P314120046b",
-  "question": "Burns and falls and Burns and falls are common accidents.",
+  "question": "Burns and falls are common accidents.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -47332,7 +47228,7 @@
    "Pots",
    "cement",
    "air",
-   "Bricks"
+   "wood"
   ],
   "explanation": "Clay soil is shaped into pots and bricks.",
   "hint": "We cook food in them.",
@@ -47540,7 +47436,7 @@
  },
  {
   "id": "P314120066b",
-  "question": "Rainfall is measured using a break them.",
+  "question": "Rainfall is measured using a thermometer.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -47610,7 +47506,7 @@
  },
  {
   "id": "P314120069b",
-  "question": "A casualty is a person who bandages and cotton wool.",
+  "question": "A casualty is a person who applies bandages and cotton wool.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -47645,7 +47541,7 @@
  },
  {
   "id": "P314120070b",
-  "question": "A first aid box has bandages and cotton wool and bandages and cotton wool.",
+  "question": "A first aid box has bandages and cotton wool.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -47705,9 +47601,9 @@
   "answer": "nitrogen and carbon dioxide",
   "options": [
    "nitrogen and carbon dioxide",
-   "sucking drinks through a straw",
-   "strong wind destroying houses",
-   "a mixture of gases"
+   "hydrogen and helium",
+   "argon and neon",
+   "methane and ozone"
   ],
   "explanation": "Air is made of nitrogen, oxygen, carbon dioxide and other gases.",
   "hint": "Nitrogen is the biggest part of air.",
@@ -47715,7 +47611,7 @@
  },
  {
   "id": "P314120074b",
-  "question": "Apart from oxygen, air has nitrogen and carbon dioxide and nitrogen and carbon dioxide.",
+  "question": "Apart from oxygen, air has nitrogen and carbon dioxide.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -47739,10 +47635,10 @@
   "difficulty": "medium",
   "answer": "occupies space",
   "options": [
-   "drying clothes",
    "occupies space",
-   "has weight",
-   "carbon dioxide"
+   "drying clothes",
+   "carbon dioxide",
+   "has no weight"
   ],
   "explanation": "Air takes up space, as we see when we blow up a balloon.",
   "hint": "It fills up a balloon.",
@@ -47757,9 +47653,9 @@
   "term": "Term 1",
   "unit": "Air",
   "difficulty": "medium",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Air takes up space, as we see when we blow up a balloon.",
+  "explanation": "Air has weight, which can be shown by weighing a balloon before and after inflation.",
   "hint": "It fills up a balloon.",
   "image": null
  },
@@ -47774,10 +47670,10 @@
   "difficulty": "easy",
   "answer": "sweeping it",
   "options": [
-   "body odour",
    "sweeping it",
+   "body odour",
    "bathing daily",
-   "collecting rubbish"
+   "making noise"
   ],
   "explanation": "Sweeping the classroom removes dirt and keeps it clean.",
   "hint": "Use a broom in the classroom.",
@@ -47800,7 +47696,7 @@
  },
  {
   "id": "P314130003a",
-  "question": "At home we eat ____.",
+  "question": "Which of these is a staple food made from maize flour?",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -47827,9 +47723,9 @@
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Posho is a common food eaten at home.",
+  "explanation": "Beans are a common food eaten at home.",
   "hint": "It is made from maize flour.",
   "image": null
  },
@@ -47910,16 +47806,16 @@
  },
  {
   "id": "P314130007b",
-  "question": "A charcoal stove is useful for boiling it.",
+  "question": "A charcoal stove is useful for boiling water.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Food",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "A charcoal stove burns charcoal to cook food at home.",
+  "explanation": "A charcoal stove can be used for boiling water or cooking food.",
   "hint": "We cook food on it.",
   "image": null
  },
@@ -48120,7 +48016,7 @@
  },
  {
   "id": "P314130017b",
-  "question": "An bedroom is a member of an extended family.",
+  "question": "A bedroom is a member of an extended family.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48155,7 +48051,7 @@
  },
  {
   "id": "P314130018b",
-  "question": "Bricks is used for building.",
+  "question": "Bricks are used for building.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48190,7 +48086,7 @@
  },
  {
   "id": "P314130021b",
-  "question": "The nurse at school measles and polio.",
+  "question": "The nurse at school treats measles and polio.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48252,7 +48148,7 @@
    "Cassava",
    "covering",
    "beans",
-   "carbohydrates"
+   "vitamins"
   ],
   "explanation": "Cassava is a Go food that gives our bodies energy.",
   "hint": "It is a root we eat for strength.",
@@ -48260,7 +48156,7 @@
  },
  {
   "id": "P314130025b",
-  "question": "beans gives us energy.",
+  "question": "Beans give us energy.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48337,15 +48233,15 @@
   "term": "Term 2",
   "unit": "Plants",
   "difficulty": "easy",
-  "answer": "Maize",
+  "answer": "Cassava",
   "options": [
-   "Maize",
-   "absorbs",
-   "air",
-   "aphid"
+   "Cassava",
+   "runs",
+   "water",
+   "bird"
   ],
-  "explanation": "Maize is a plant that grows in the garden.",
-  "hint": "We get posho flour from it.",
+  "explanation": "Cassava is a root crop grown in gardens.",
+  "hint": "We make flour from its tubers.",
   "image": null
  },
  {
@@ -48359,7 +48255,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Maize is a plant that grows in the garden.",
+  "explanation": "Air is not a plant; it is a mixture of gases. Maize is a plant that grows in the garden.",
   "hint": "We get posho flour from it.",
   "image": null
  },
@@ -48429,7 +48325,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "A bedroom is a room in a house where people sleep.",
+  "explanation": "Children are people, not a room. A bedroom is a room in a house where people sleep.",
   "hint": "We sleep in it.",
   "image": null
  },
@@ -48639,7 +48535,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Beans are planted and grown in the garden.",
+  "explanation": "Air is not grown; it is a mixture of gases. Beans are planted and grown in the garden.",
   "hint": "We cook them as sauce.",
   "image": null
  },
@@ -48740,7 +48636,7 @@
  },
  {
   "id": "P314130047b",
-  "question": "bandages and cotton wool and bandages and cotton wool are dangerous objects.",
+  "question": "Bandages and cotton wool are dangerous objects.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48775,7 +48671,7 @@
  },
  {
   "id": "P314130049b",
-  "question": "Measles and polio and Measles and polio are diseases.",
+  "question": "Measles and polio are diseases.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48830,7 +48726,7 @@
  },
  {
   "id": "P314130051b",
-  "question": "A seedling is a banana plants.",
+  "question": "A seedling is a banana plant.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48865,7 +48761,7 @@
  },
  {
   "id": "P314130052b",
-  "question": "Beans and maize and Beans and maize are seeds grown in the garden.",
+  "question": "Beans and maize are seeds grown in the garden.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -48979,7 +48875,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Earthworms live in the topsoil and make it loose.",
+  "explanation": "Air is not a living thing; it is a gas found in soil pores.",
   "hint": "It is a small worm in the soil.",
   "image": "P314130057img.jpg"
  },
@@ -49005,7 +48901,7 @@
  },
  {
   "id": "P314130059b",
-  "question": "Pots and bricks and Pots and bricks are made from clay soil.",
+  "question": "Pots and bricks are made from clay soil.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49049,7 +48945,7 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Bricks are made from clay soil and used for building.",
+  "explanation": "Air is a gas and not made from clay soil.",
   "hint": "Houses are built with them.",
   "image": null
  },
@@ -49075,7 +48971,7 @@
  },
  {
   "id": "P314130062b",
-  "question": "We get milk and beef and milk and beef from cows.",
+  "question": "We get milk and beef from cows.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49110,7 +49006,7 @@
  },
  {
   "id": "P314130064b",
-  "question": "At home, water is used for boiling it and boiling it.",
+  "question": "At home, water is used for boiling.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49180,7 +49076,7 @@
  },
  {
   "id": "P314130069b",
-  "question": "Wind is bring rain.",
+  "question": "Wind brings rain.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49250,16 +49146,16 @@
  },
  {
   "id": "P314140002b",
-  "question": "accidents is a common accident at home.",
+  "question": "Accidents are common at home.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 3",
   "unit": "Accidents",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "Burns happen often at home from fire and hot things.",
+  "explanation": "Accidents such as burns happen often at home.",
   "hint": "Fire causes it.",
   "image": null
  },
@@ -49285,7 +49181,7 @@
  },
  {
   "id": "P314140003b",
-  "question": "People plant short grass in their compounds to make the compound beautiful.",
+  "question": "People plant flowers in their compounds to make them look attractive.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49294,8 +49190,8 @@
   "difficulty": "easy",
   "answer": "True",
   "options": null,
-  "explanation": "Short grass makes the compound look beautiful and clean.",
-  "hint": "To make the home look nice.",
+  "explanation": "Flowers add beauty and colour to a compound.",
+  "hint": "They are colourful.",
   "image": null
  },
  {
@@ -49340,7 +49236,7 @@
  },
  {
   "id": "P314140006b",
-  "question": "We keep our bodies clean by brushing their teeth.",
+  "question": "We keep our bodies clean by brushing our teeth.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49410,7 +49306,7 @@
  },
  {
   "id": "P314140009b",
-  "question": "Air is nitrogen and carbon dioxide.",
+  "question": "Air is mostly oxygen.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49419,8 +49315,8 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "Air is made of gases like oxygen and nitrogen.",
-  "hint": "It is made of gases we cannot see.",
+  "explanation": "Air is about 78% nitrogen and 21% oxygen.",
+  "hint": "Which gas makes up the largest part of air?",
   "image": null
  },
  {
@@ -49472,7 +49368,7 @@
    "bathing daily",
    "body odour",
    "sweeping it",
-   "collecting rubbish"
+   "washing clothes"
   ],
   "explanation": "Sweeping the classroom removes dirt.",
   "hint": "Use a broom in the classroom.",
@@ -49539,7 +49435,7 @@
   "difficulty": "easy",
   "answer": "water",
   "options": [
-   "air",
+   "stone",
    "aphid",
    "absorbs",
    "water"
@@ -49710,7 +49606,7 @@
  },
  {
   "id": "P314140026b",
-  "question": "beak are made from animal skins.",
+  "question": "Beaks are made from animal skins.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49780,7 +49676,7 @@
  },
  {
   "id": "P314140028b",
-  "question": "air soil is best for pottery.",
+  "question": "air is best for pottery.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49840,9 +49736,9 @@
   "answer": "Plants",
   "options": [
    "carbohydrates",
-   "Cassava",
+   "proteins",
    "Plants",
-   "beans"
+   "vitamins"
   ],
   "explanation": "Plants give us food like maize, beans and fruits.",
   "hint": "They grow in the garden.",
@@ -49885,7 +49781,7 @@
  },
  {
   "id": "P314140034b",
-  "question": "Animals move from one place to another to look for food.",
+  "question": "Animals migrate to find better grazing land.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -49894,8 +49790,8 @@
   "difficulty": "easy",
   "answer": "True",
   "options": null,
-  "explanation": "Animals move to look for food, water and shelter.",
-  "hint": "They look for something to eat.",
+  "explanation": "Many animals move seasonally to areas with more grass.",
+  "hint": "They follow the rain.",
   "image": null
  },
  {
@@ -50160,7 +50056,7 @@
  },
  {
   "id": "P314140050b",
-  "question": "Trees are useful to people because they give us beans and maize and beans and maize.",
+  "question": "Trees are useful to people because they give us beans and maize.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -50186,7 +50082,7 @@
   "options": [
    "beak",
    "bite",
-   "bird",
+   "fish",
    "monkey"
   ],
   "explanation": "Monkeys live and play in trees.",
@@ -50195,7 +50091,7 @@
  },
  {
   "id": "P314140051b",
-  "question": "A monkey lives in trees.",
+  "question": "A squirrel lives in trees.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -50204,8 +50100,8 @@
   "difficulty": "easy",
   "answer": "True",
   "options": null,
-  "explanation": "Monkeys live and play in trees.",
-  "hint": "It jumps from branch to branch.",
+  "explanation": "Squirrels build nests in tree branches.",
+  "hint": "It climbs and jumps among branches.",
   "image": null
  },
  {
@@ -50230,7 +50126,7 @@
  },
  {
   "id": "P314140052b",
-  "question": "An air tree gives us fruits.",
+  "question": "A pine tree gives us mangoes.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -50239,13 +50135,13 @@
   "difficulty": "easy",
   "answer": "False",
   "options": null,
-  "explanation": "A mango tree gives us sweet mangoes.",
-  "hint": "It gives us a sweet yellow fruit.",
+  "explanation": "Pine trees produce cones, not mangoes. Mangoes come from mango trees.",
+  "hint": "Think about which tree bears mangoes.",
   "image": null
  },
  {
   "id": "P314140053a",
-  "question": "Two main body parts of an insect are the ____ and ____.",
+  "question": "Two of the main body parts of an insect are the ____ and ____.",
   "type": "multiple_choice",
   "subject": "Science",
   "grade": "P3",
@@ -50265,7 +50161,7 @@
  },
  {
   "id": "P314140053b",
-  "question": "Two main body parts of an insect are the head and thorax and head and thorax.",
+  "question": "Two main body parts of an insect are the head and thorax.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -50410,17 +50306,17 @@
  },
  {
   "id": "P314140060b",
-  "question": "At home, water is used for boiling it and boiling it.",
+  "question": "At home, water is used for washing clothes.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 1",
   "unit": "Water",
   "difficulty": "easy",
-  "answer": "False",
+  "answer": "True",
   "options": null,
-  "explanation": "At home we use water for drinking, cooking, washing and bathing.",
-  "hint": "We drink it and cook with it.",
+  "explanation": "Water is used for many household tasks including washing clothes.",
+  "hint": "Think of chores that need water.",
   "image": null
  },
  {
@@ -50445,7 +50341,7 @@
  },
  {
   "id": "P314140062b",
-  "question": "We use toilet paper and water and toilet paper and water to clean ourselves in a pit latrine.",
+  "question": "We use toilet paper and water to clean ourselves in a pit latrine.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -50479,21 +50375,6 @@
   "image": null
  },
  {
-  "id": "P314140064b",
-  "question": "Wild animals live in bites and kills people and bites and kills people.",
-  "type": "true_false",
-  "subject": "Science",
-  "grade": "P3",
-  "term": "Term 2",
-  "unit": "Animals",
-  "difficulty": "easy",
-  "answer": "False",
-  "options": null,
-  "explanation": "Wild animals live in forests and national parks.",
-  "hint": "They live in the bush.",
-  "image": null
- },
- {
   "id": "P314140065a",
   "question": "Wild animals are useful to people because they ____.",
   "type": "multiple_choice",
@@ -50515,17 +50396,17 @@
  },
  {
   "id": "P314140065b",
-  "question": "Wild animals are useful to people because they attract tourists.",
+  "question": "Wild animals are useful because they provide milk for people.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
   "term": "Term 2",
   "unit": "Animals",
   "difficulty": "medium",
-  "answer": "True",
+  "answer": "False",
   "options": null,
-  "explanation": "Tourists come to see wild animals and bring money.",
-  "hint": "Visitors come to see them.",
+  "explanation": "Wild animals are not domesticated for milk; only domestic animals like cows give milk.",
+  "hint": "Which animals give us milk?",
   "image": null
  },
  {
@@ -50605,7 +50486,7 @@
  },
  {
   "id": "P314140069b",
-  "question": "A desk and book and a desk and book in our classroom are non-living things.",
+  "question": "A desk and a book in our classroom are non-living things.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",
@@ -50640,7 +50521,7 @@
  },
  {
   "id": "P314140071b",
-  "question": "Burns and cuts and Burns and cuts are dangerous things that cause accidents.",
+  "question": "Burns and cuts are dangerous things that cause accidents.",
   "type": "true_false",
   "subject": "Science",
   "grade": "P3",

@@ -41,7 +41,7 @@
  },
  {
   "id": "TH7104002",
-  "question": "Musa pressed the **___** in the groin to slow leg bleeding.",
+  "question": "Musa pressed the ___ in the groin to slow leg bleeding.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -55,7 +55,7 @@
    "first aid",
    "swelling"
   ],
-  "explanation": "The word is 'pressure point': Musa pressed the **pressure point** in the groin to slow leg bleeding.",
+  "explanation": "The word is 'pressure point': Musa pressed the pressure point in the groin to slow leg bleeding.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -81,7 +81,7 @@
  },
  {
   "id": "TH7104004",
-  "question": "Ice reduces **___** after a **sprain**.",
+  "question": "Ice reduces ___ after a sprain.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -95,7 +95,7 @@
    "wash",
    "first aid kit"
   ],
-  "explanation": "The word is 'swelling': Ice reduces **swelling** after a **sprain**.",
+  "explanation": "The word is 'swelling': Ice reduces swelling after a sprain.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -121,7 +121,7 @@
  },
  {
   "id": "TH7104006",
-  "question": "Peter watched the chest to see if **___** was normal.",
+  "question": "Peter watched the chest to see if ___ was normal.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -135,13 +135,13 @@
    "tourniquet",
    "immobilise"
   ],
-  "explanation": "The word is 'breathing': Peter watched the chest to see if **breathing** was normal.",
+  "explanation": "The word is 'breathing': Peter watched the chest to see if breathing was normal.",
   "hint": "It starts with 'B'.",
   "image": null
  },
  {
   "id": "TH7104007",
-  "question": "Nalongo checked the **___** to make sure nothing blocked it.",
+  "question": "Nalongo checked the ___ to make sure nothing blocked it.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -155,7 +155,7 @@
    "fracture",
    "snake venom"
   ],
-  "explanation": "The word is 'airway': Nalongo checked the **airway** to make sure nothing blocked it.",
+  "explanation": "The word is 'airway': Nalongo checked the airway to make sure nothing blocked it.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -181,7 +181,7 @@
  },
  {
   "id": "TH7104009",
-  "question": "Teacher Nankya made a **___** from a leso for Peter's arm.",
+  "question": "Teacher Nankya made a ___ from a leso for Peter's arm.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -195,7 +195,7 @@
    "wash",
    "swelling"
   ],
-  "explanation": "The word is 'sling': Teacher Nankya made a **sling** from a leso for Peter's arm.",
+  "explanation": "The word is 'sling': Teacher Nankya made a sling from a leso for Peter's arm.",
   "hint": "It starts with 'S'.",
   "image": null
  },
@@ -221,7 +221,7 @@
  },
  {
   "id": "TH7104011",
-  "question": "A dog bite must be washed and the victim given **___** vaccine fast.",
+  "question": "A dog bite must be washed and the victim given ___ vaccine fast.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -235,13 +235,13 @@
    "antivenom",
    "pressure point"
   ],
-  "explanation": "The word is 'rabies': A dog bite must be washed and the victim given **rabies** vaccine fast.",
+  "explanation": "The word is 'rabies': A dog bite must be washed and the victim given rabies vaccine fast.",
   "hint": "It starts with 'R'.",
   "image": null
  },
  {
   "id": "TH7104012",
-  "question": "Deep cuts from rusty tools risk **___** — check immunisation.",
+  "question": "Deep cuts from rusty tools risk ___ — check immunisation.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -255,7 +255,7 @@
    "tourniquet",
    "infection"
   ],
-  "explanation": "The word is 'tetanus': Deep cuts from rusty tools risk **tetanus** — check immunisation.",
+  "explanation": "The word is 'tetanus': Deep cuts from rusty tools risk tetanus — check immunisation.",
   "hint": "It starts with 'T'.",
   "image": null
  },
@@ -681,7 +681,7 @@
  },
  {
   "id": "TH7130014",
-  "question": "We do **___** on milk from the cow.",
+  "question": "We do ___ on milk from the cow.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -695,7 +695,7 @@
    "stability",
    "leavening"
   ],
-  "explanation": "The word is 'pasteurisation': We do **pasteurisation** on milk from the cow.",
+  "explanation": "The word is 'pasteurisation': We do pasteurisation on milk from the cow.",
   "hint": "It starts with 'P'.",
   "image": null
  },
@@ -2821,7 +2821,7 @@
  },
  {
   "id": "TH7220001",
-  "question": "One dry **___** gives 1.5 volts.",
+  "question": "One dry ___ gives 1.5 volts.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2835,7 +2835,7 @@
    "repulsion",
    "circuit"
   ],
-  "explanation": "The word is 'cell': One dry **cell** gives 1.5 volts.",
+  "explanation": "The word is 'cell': One dry cell gives 1.5 volts.",
   "hint": "It starts with 'C'.",
   "image": null
  },
@@ -2861,7 +2861,7 @@
  },
  {
   "id": "TH7220003",
-  "question": "Uganda **___** voltage is 240 V a.c.",
+  "question": "Uganda ___ voltage is 240 V a.c.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2875,7 +2875,7 @@
    "short circuit",
    "voltmeter"
   ],
-  "explanation": "The word is 'mains': Uganda **mains** voltage is 240 V a.c.",
+  "explanation": "The word is 'mains': Uganda mains voltage is 240 V a.c.",
   "hint": "It starts with 'M'.",
   "image": null
  },
@@ -2961,7 +2961,7 @@
  },
  {
   "id": "TH7220008",
-  "question": "Connect the **___** in **series** to measure current.",
+  "question": "Connect the ___ in series to measure current.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -2975,7 +2975,7 @@
    "socket",
    "static"
   ],
-  "explanation": "The word is 'ammeter': Connect the **ammeter** in **series** to measure current.",
+  "explanation": "The word is 'ammeter': Connect the ammeter in series to measure current.",
   "hint": "It starts with 'A'.",
   "image": null
  },
@@ -3021,7 +3021,7 @@
  },
  {
   "id": "TH7220011",
-  "question": "Plastic coating on wires is an **___**.",
+  "question": "Plastic coating on wires is an ___.",
   "type": "multiple_choice",
   "subject": "Theme",
   "grade": "P7",
@@ -3035,7 +3035,7 @@
    "fuse",
    "short circuit"
   ],
-  "explanation": "The word is 'insulator': Plastic coating on wires is an **insulator**.",
+  "explanation": "The word is 'insulator': Plastic coating on wires is an insulator.",
   "hint": "It starts with 'I'.",
   "image": null
  },
